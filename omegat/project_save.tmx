@@ -20,6 +20,14 @@
         <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're safe now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
+        <seg>Ви тепер у безпеці.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
