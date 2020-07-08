@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Region Names</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191928Z" creationid="Дмитро Киричук" creationdate="20200708T191928Z">
+        <seg>#Region Names</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Darian</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191909Z" creationid="Дмитро Киричук" creationdate="20200708T191909Z">
+        <seg>Даріан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Elizabeth Skinner</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T190826Z" creationid="Дмитро Киричук" creationdate="20200708T190826Z">
