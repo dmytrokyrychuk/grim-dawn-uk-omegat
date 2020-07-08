@@ -1,0 +1,189 @@
+Riggs
+Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
+I will be.
+We'll see about that.
+Back so soon?
+
+And off I go again.
+Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
+I will be.
+We'll see about that.
+Impressive work back there, friend.{^n}{^n}I'll be keeping an...eye on you!
+I'd enjoy getting hunted by your..."associates".
+Oh? How perverse!{^n}{^n}I gotta say, watching them throw their lives away to bring you down would bring me some momentary amusement.{^n}{^n}It's a deal!
+Bring them on!
+They don't stand a chance.
+I've had enough of your associates. Send them away.
+I understand if they're too much for ya!{^n}{^n}Very well, I'll send them off. I've got other debts to claim...
+Thank you.
+I'm just giving them a break.
+Farewell.
+Do you have something for me?
+Here, the Iris.
+Splendid work, my friend. You and I are settled.{^n}{^n}In fact, I'll throw in one last prize for a job well done, no favors necessary.
+What do you plan to do with it?
+What does one do with an eye? Might see things you shouldn't.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
+I don't trust you.
+Yes, well, trust was never part of the bargain!
+Fine.
+Don't do anything foolish.
+You better.
+Don't do anything foolish.
+Good, we are done then.
+Thanks.
+Do you have something for me?
+What do I need to do again?
+Why, acquire the Iris of Eternal Night for me.{^n}{^n}Legends say it is sealed away within the Tomb of the Heretic, beyond the Valley of the Chosen in an oasis long forgotten.{^n}{^n}I've given you all you need. Don't make me wait for my prize!
+Why do you need this Iris?
+Hm, I don't think knowing anything was part of our deal.{^n}{^n}What I do with it is my business, friend.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
+I don't trust you.
+Yes, well, trust was never part of the bargain!{^n}{^n}Now off you go!
+Fine.
+Hm, alright.
+Alright.
+I'm still searching.
+Back already?{^n}{^n}Met any interesting people out there?{^n}{^n}Perhaps they've changed your mind?
+Alright, how do I settle my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+I'll seek out the Iris.
+I'm not working for you.
+
+Alright, how do I settle my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+I already have the Iris.
+Now why didn't you say so in the first place. You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
+
+Now will you get your goons off my back?
+Consider it done, my friend. Consider it done.
+Good, they were a nuisance.
+Thank you.
+Good, we are done then.
+Will you send your goons away?
+Hm, perhaps I could...if you get me what I need.
+
+
+No way.
+No, I'm good.
+I've got nothing to say to you.
+There you are, right on time!{^n}{^n}I always had you pegged as someone I'd want owing me a favor but...defeating a god? Granted, a famished tormented god, but a god nonetheless!{^n}{^n}I think you and I have some matters to discuss...matters of debt?
+What will it take to clear my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+I'll seek out the Iris.
+I'm not working for you.
+No debt is worth what you ask of me.
+Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is how you respond? Someone with a shorter temper might not take too kindly to that.{^n}{^n}Look, let me spell it out for you in terms you might understand.{^n}{^n}I've got people all over this land that owe me big. Any one of them would leap on a sword to be free of such a weight.{^n}{^n}What if I so happened to tell them to return with your head...you catch my meaning?
+I'll seek out the Iris.
+I'm not working for you.
+
+I've already opened the seal.
+Well look at that!{^n}{^n}Your job's already almost finished!{^n}{^n}Now off ya go then. Get me that iris!
+Alright, but after that we are even.
+I'm not working for you.
+What will it take to clear my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+I already have the Iris.
+You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
+
+My debt?
+Hm, well let me refresh your memory for ya.{^n}{^n}Remember when you came to me in need of equipment and I provided without questions asked, so long as you agreed you'd owe me a debt?{^n}{^n}Well, now's the time for your end of the bargain.
+Alright, how do I clear my debt?
+Alright, how do I clear my debt?
+
+We'll speak later.
+I don't owe you anything.
+Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is how you respond? Someone with a shorter temper might not take too kindly to that.{^n}{^n}But I know you'll come to your senses.
+Alright, how do I clear my debt?
+Alright, how do I clear my debt?
+You and I are finished.
+Look, let me spell it out for you in terms you might understand.{^n}{^n}I've got people all over this land that owe me big. Any one of them would leap on a sword to be free of such a weight.{^n}{^n}What if I so happened to tell them to return with your head...you catch my meaning?
+Bring them on. I'm not working for you.
+Alright, how do I clear my debt?
+Alright, how do I clear my debt?
+We'll speak later.
+We'll speak later.
+Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
+I will be.
+We'll see about that.
+Welcome back, my friend.
+Got anything new for me?
+Ya know, I think I do.{^n}{^n}You're really gonna be in my debt now.{^n}{^n}You ready to make another deal?{^n}
+Let's do it.
+That's what I like to hear.{^n}{^n}This is what I've got.{^n}{^n}Now remember I'm gonna be coming around to collect on this some day and I do hope you're ready to pay up.
+I will be.
+Yeah, we'll see.
+I don't think so.
+Maybe later.
+Sorry to bother you.
+Welcome back, my friend.
+Got anything new for me?
+Nothing you'd be interested in.{^n}{^n}Come back and see me again when ya got a little more...experience under your belt.{^n}{^n}I'm sure we can work something out then.
+I'll be back.
+That's just great.
+Back so soon?
+Got anything new for me?
+Hahah, you just can't get enough can you?{^n}{^n}Sadly, I don't have anything new for you just yet.{^n}{^n}Come back later and we'll see if we can work something out.
+I'll be back.
+And off I go again.
+Well look who it is. {^n}{^n}You having second thoughts?{^n}{^n}Ready to make a deal? {^n}
+Yes, I'm ready.
+That's what I like to hear.{^n}{^n}You remember how this works right? {^n}{^n}I give you the goods and then you owe me.
+Yup. 
+Well then, here you go.{^n}{^n}I'll tell ya what. If you come back sometime later I might even have something else for ya.{^n}{^n}At the right price of course.
+I'll be back.
+Of course.
+I've changed my mind.
+What kind of deal?
+Like I told you before. I trade goods for favors.{^n}{^n}I give you the goods and you're in my debt. At some point I come find you and you repay your debt by helping me.{^n}{^n}It's that simple.
+
+Nope, I'm not interested.
+No, I'm not.
+Certainly not with you.
+Well, I see you've made your decision.{^n}{^n}Choosing to pledge your loyalty to the Witch Gods.{^n}{^n}I hear they take that kind of thing very seriously around here.
+Which do you serve?
+What, me?{^n}{^n}I certainly don't serve any of them.{^n}{^n}I serve the god of making Riggs a wealthy man.
+Then what are you doing here?
+Well, I'm what you might call a supplier...a purveyor of particular goods, if you will.{^n}{^n}I have a special talent for finding high-end and difficult to acquire objects.{^n}{^n}Things this crew here can't seem to get enough of. Particularly since they set out on their little crusade here.{^n}{^n}Something about a long forgotten god and the end of the world or some such. Sounds like business as usual to me.{^n}{^n}A wise man once said: "where there's a fight there's a fortune to be made."
+Who said that?
+Me, ya fool.{^n}{^n}I just said that.{^n}{^n}It was a joke you see?
+So, you're a merchant?
+OK, I'm leaving now.
+Great, I don't have time for this.
+You're a merchant?
+Well, that's an over-simplification.{^n}{^n}You see those other trash peddlers down there? They've got it all wrong.{^n}{^n}Selling goods for iron bits is a child's game. A man isn't going to get rich playing games.{^n}{^n}No, my friend, I trade only the finest goods...for favors.{^n}{^n}Favors from very powerful people. Favors that I'll be cashing in when I see fit.
+So you just give them things?
+No...I don't think you're listening to what I'm saying here.{^n}{^n}I give them things in exchange for favors. They're in my debt. They owe me, you see?{^n}{^n}There's people all across this land that owe me. From emperors to dung sifters. The living, the dead, it makes no difference. {^n}{^n}They're in my debt and when I need it most, I'm going to come calling.{^n}{^n}That's wealth right there.
+How do you make them pay you?
+Ah, that's the genius of it right there.{^n}{^n}So many people across this land are in my debt, you never know who they might be or what they might be capable of.{^n}{^n}Say I make a deal with a wealthy merchant. Then later on when I come to collect my debt, he doesn't feel like paying.{^n}{^n}I pleasantly remind him that there's a lot of other folks looking to make good on their debts. And then leave him to think about who else might owe me and what they might be willing to do to pay up.{^n}{^n}That usually works. If it doesn't, I just get one of my other debtors to come and tune him up a bit.{^n}{^n}Sometimes you need to send a message to anyone else who might be thinking about defaulting on their debt.{^n}{^n}But, most folks are glad to pay up when it comes time. It's a relief of a sort.
+
+I don't want any part of this.
+Sounds like a racket to me.
+You have anything for me?
+See, now you're getting it.{^n}{^n}That's what I'm talking about, [[ms]he[fs]she] wants to make a deal.{^n}{^n}Let me think for a second...{^n}{^n}Yes, come to think of it I do have something for you.{^n}{^n}You know what this means of course? You're going to owe me and some day I'm going to come to collect.{^n}{^n}Do we have a deal?
+Yes, lets do this. 
+Well, here you go.{^n}{^n}I'll tell you what. If you come back sometime later I might even have something else for you.{^n}{^n}At the right price, of course.
+Of course.
+I'll be back.
+On second thought. I'm out.
+Well, that's a shame, my friend. {^n}{^n}You come back and see me if you change your mind.
+I will.
+I don't think so.
+Nope, no deal.
+Enjoy your wealth.
+Yup, I've heard enough.
+I need to go. We'll talk again later.
+Good luck with that.
+Well, thanks for the wisdom.
+I've heard enough.
+Good for you.
+That's great.
+I need to go.
+So I've heard.
+Decisions, decisions...{^n}{^n}Seems the Emissary has left you with a bit of a choice to make, friend.{^n}{^n}Which will it be?{^n}{^n}Bysmiel and her web of spies, Dreeg with his fancy visions, or maybe Solael with the ritual sacrifice?{^n}{^n}That last one sounds like a winner to me.
+
+Sorry, I can't chat right now.
+It's really none of your business.
+Hey there traveler.{^n}{^n}Come back and chat with me when you're done with the Emissary. {^n}{^n}Wouldn't want him coming after me for meddling in his business.
+I will.
+Talk to you later.
+Hey there traveler.{^n}{^n}Still getting your bearings, I see.{^n}{^n}Find me when you've figured out your way.
+Alright.
