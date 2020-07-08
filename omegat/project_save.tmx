@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
+        <seg>Дідькове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Elizabeth Skinner</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T190826Z" creationid="Дмитро Киричук" creationdate="20200708T190826Z">
