@@ -152,8 +152,8 @@
       <tuv lang="en">
         <seg>Host Multiplayer</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163136Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
-        <seg>Приєднатися до спільної гри</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
+        <seg>Зайти у спільну гру</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="en">
         <seg>Level Range</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163232Z" creationid="Дмитро Киричук" creationdate="20200709T163232Z">
-        <seg>Діапазон рівнів</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163526Z" creationid="Дмитро Киричук" creationdate="20200709T163232Z">
+        <seg>Рівні</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +214,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163546Z" creationid="Дмитро Киричук" creationdate="20200709T163546Z">
+        <seg>Мапа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Max. Players</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163221Z" creationid="Дмитро Киричук" creationdate="20200709T163221Z">
-        <seg>Ліміт гравців</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163520Z" creationid="Дмитро Киричук" creationdate="20200709T163221Z">
+        <seg>Гравців</seg>
       </tuv>
     </tu>
     <tu>
