@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connecting to Server...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164318Z" creationid="Дмитро Киричук" creationdate="20200709T164318Z">
+        <seg>Приєднання до сервера...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153531Z" creationid="Дмитро Киричук" creationdate="20200709T153531Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initializing...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164248Z" creationid="Дмитро Киричук" creationdate="20200709T164248Z">
+        <seg>Ініціалізація...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Internet</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163153Z" creationid="Дмитро Киричук" creationdate="20200709T163153Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163837Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
         <seg>{%t1} {%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164237Z" creationid="Дмитро Киричук" creationdate="20200709T164237Z">
+        <seg>Завантаження...</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +326,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Starting Game...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164306Z" creationid="Дмитро Киричук" creationdate="20200709T164306Z">
+        <seg>Запуск гри...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks for playing!{^n}{^n}Grim Dawn is currently available on Steam, or via our website at www.grimdawn.com</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153104Z" creationid="Дмитро Киричук" creationdate="20200709T153104Z">
         <seg>Дякуємо за гру!{^n}{^n}Grim Dawn доступна на Steam, або на нашому веб-сайті за адресою www.grimdawn.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Waiting for Server...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164327Z" creationid="Дмитро Киричук" creationdate="20200709T164327Z">
+        <seg>Очікування сервера...</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +362,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have reached the file limit on Steam's Cloud Storage for Grim Dawn, you must delete a character before you can create another.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164623Z" creationid="Дмитро Киричук" creationdate="20200709T164623Z">
+        <seg>Ти досягнув обмеження хмарного сховища Steam для Grim Dawn. Необхідно видалити одного персонажа перед створенням нового.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164434Z" creationid="Дмитро Киричук" creationdate="20200709T164434Z">
+        <seg>Ти мусиш увійти до GOG Galaxy, щоб грати Grim Dawn у багатокористувацькому режимі. Будь ласка, увійди до GOG Galaxy та запусти Grim Dawn через GOG!</seg>
       </tuv>
     </tu>
     <tu>
