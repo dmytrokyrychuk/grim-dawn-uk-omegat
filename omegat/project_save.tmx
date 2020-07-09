@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto Item Tooltips</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164748Z" creationid="Дмитро Киричук" creationdate="20200709T164748Z">
+        <seg>Автоматичні підказки предменів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153336Z" creationid="Дмитро Киричук" creationdate="20200709T153336Z">
@@ -134,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable Quicksell (Right Mouse)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164651Z" creationid="Дмитро Киричук" creationdate="20200709T164651Z">
+        <seg>Увімкнути швидкий продаж (ПКМ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable right click to sell when using the market window.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164856Z" creationid="Дмитро Киричук" creationdate="20200709T164856Z">
+        <seg>Дозволити продавати правою клавішею миші у вікні торгівлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
@@ -154,6 +178,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163205Z" creationid="Дмитро Киричук" creationdate="20200709T163205Z">
         <seg>Назва гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gameplay</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164634Z" creationid="Дмитро Киричук" creationdate="20200709T164634Z">
+        <seg>Ігровий процес</seg>
       </tuv>
     </tu>
     <tu>
