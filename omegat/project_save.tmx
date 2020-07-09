@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165012Z" creationid="Дмитро Киричук" creationdate="20200709T165012Z">
+        <seg>Показувати шкоду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display damage numbers when you hit enemies.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165054Z" creationid="Дмитро Киричук" creationdate="20200709T165054Z">
+        <seg>Показувати число шкоди, заподіяної ворогам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153537Z" creationid="Дмитро Киричук" creationdate="20200709T153537Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164651Z" creationid="Дмитро Киричук" creationdate="20200709T164651Z">
         <seg>Увімкнути швидкий продаж (ПКМ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable item pop-ups when mousing over equipment in the world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164958Z" creationid="Дмитро Киричук" creationdate="20200709T164958Z">
+        <seg>Дозволити показ спливаючих вікон при наведенні вказівника миші на предмети на землі.</seg>
       </tuv>
     </tu>
     <tu>
