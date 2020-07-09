@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Host Multiplayer</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163136Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
+        <seg>Приєднатися до спільної гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153325Z" creationid="Дмитро Киричук" creationdate="20200709T153325Z">
