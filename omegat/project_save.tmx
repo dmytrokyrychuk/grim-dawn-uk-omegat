@@ -14,10 +14,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153355Z" creationid="Дмитро Киричук" creationdate="20200709T153355Z">
+        <seg>Застосувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153336Z" creationid="Дмитро Киричук" creationdate="20200709T153336Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
+        <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Character</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153320Z" creationid="Дмитро Киричук" creationdate="20200709T153320Z">
+        <seg>Створити персонажа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153243Z" creationid="Дмитро Киричук" creationdate="20200709T153243Z">
+        <seg>Титри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Game</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153208Z" creationid="Дмитро Киричук" creationdate="20200709T153208Z">
+        <seg>Спеціальна гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Darian</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191909Z" creationid="Дмитро Киричук" creationdate="20200708T191909Z">
         <seg>Даріан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153459Z" creationid="Дмитро Киричук" creationdate="20200709T153459Z">
+        <seg>Відновити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Character</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153332Z" creationid="Дмитро Киричук" creationdate="20200709T153332Z">
+        <seg>Видалити персонажа</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +102,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
+        <seg>Вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Game Guide</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153253Z" creationid="Дмитро Киричук" creationdate="20200709T153253Z">
+        <seg>Гід по грі (англ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Заходь на www.grimdawn.com, щоб приєднатися до{^n}розробки Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153325Z" creationid="Дмитро Киричук" creationdate="20200709T153325Z">
+        <seg>Імпорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153223Z" creationid="Дмитро Киричук" creationdate="20200709T153223Z">
+        <seg>Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153228Z" creationid="Дмитро Киричук" creationdate="20200709T153228Z">
+        <seg>Опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Play Game</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153217Z" creationid="Дмитро Киричук" creationdate="20200709T153217Z">
+        <seg>Грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153346Z" creationid="Дмитро Киричук" creationdate="20200709T153346Z">
+        <seg>Почати гру</seg>
       </tuv>
     </tu>
     <tu>
