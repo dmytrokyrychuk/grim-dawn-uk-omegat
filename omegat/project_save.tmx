@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Game Name</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163205Z" creationid="Дмитро Киричук" creationdate="20200709T163205Z">
+        <seg>Назва гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Internet</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163153Z" creationid="Дмитро Киричук" creationdate="20200709T163153Z">
+        <seg>Інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Join Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
@@ -174,10 +190,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LAN</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163156Z" creationid="Дмитро Киричук" creationdate="20200709T163156Z">
+        <seg>LAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level Range</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163232Z" creationid="Дмитро Киричук" creationdate="20200709T163232Z">
+        <seg>Діапазон рівнів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level {%d0} {%t1}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153724Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
         <seg>{%d0} {%t1} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Max. Players</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163221Z" creationid="Дмитро Киричук" creationdate="20200709T163221Z">
+        <seg>Ліміт гравців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiplayer</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163149Z" creationid="Дмитро Киричук" creationdate="20200709T163149Z">
+        <seg>Спільна гра</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +242,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153228Z" creationid="Дмитро Киричук" creationdate="20200709T153228Z">
         <seg>Опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
+        <seg>Пароль</seg>
       </tuv>
     </tu>
     <tu>
