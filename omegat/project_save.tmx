@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Active Quests:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172749Z" creationid="Дмитро Киричук" creationdate="20200709T172749Z">
+        <seg>Активні завдання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153355Z" creationid="Дмитро Киричук" creationdate="20200709T153355Z">
@@ -78,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connecting to Server {%t0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172804Z" creationid="Дмитро Киричук" creationdate="20200709T172804Z">
+        <seg>Підключення до сервера {%t0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connecting to Server...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164318Z" creationid="Дмитро Киричук" creationdate="20200709T164318Z">
         <seg>Приєднання до сервера...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contacting Server...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172834Z" creationid="Дмитро Киричук" creationdate="20200709T172834Z">
+        <seg>Зв'язок із сервером ...</seg>
       </tuv>
     </tu>
     <tu>
