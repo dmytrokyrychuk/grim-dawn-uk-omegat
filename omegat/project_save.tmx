@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cloud Saving</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165356Z" creationid="Дмитро Киричук" creationdate="20200709T165356Z">
+        <seg>Хмарне зберігання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connecting to Server...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164318Z" creationid="Дмитро Киричук" creationdate="20200709T164318Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164856Z" creationid="Дмитро Киричук" creationdate="20200709T164856Z">
         <seg>Дозволити продавати правою клавішею миші у вікні торгівлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable storage of character save data in the Steam cloud.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165434Z" creationid="Дмитро Киричук" creationdate="20200709T165434Z">
+        <seg>Дозволити зберігати дані персонажів у хмарному сховищі Steam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +378,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153217Z" creationid="Дмитро Киричук" creationdate="20200709T153217Z">
         <seg>Грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Target Level</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165256Z" creationid="Дмитро Киричук" creationdate="20200709T165256Z">
+        <seg>Показувати рівень цілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show target levels along with health when targeting.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165338Z" creationid="Дмитро Киричук" creationdate="20200709T165338Z">
+        <seg>Показувати рівень цілі разом зі здоров'ям під час прицілювання.</seg>
       </tuv>
     </tu>
     <tu>
