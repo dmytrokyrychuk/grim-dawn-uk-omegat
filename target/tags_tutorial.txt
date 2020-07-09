@@ -101,7 +101,7 @@ tagTutorialTip26TextA=You can use the Chat Window to send messages to other play
 tagTutorialTip26SubtitleA=Linking Items
 tagTutorialTip26TextB=To link items in the chat, shift-click on the desired item with the chat open. A message will be automatically sent with a link to the item.
 
-tagTutorialTip27Title=Multiplayer
+tagTutorialTip27Title=Спільна гра
 tagTutorialTip27TextA=Joining a party with other players allows you to share experience and loot. You can access the Group Window by clicking the icon, or by pressing {^x}[%t0]{^-}. Parties are also important for PvP sessions.
 tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their portrait and choosing "Trade".
 tagTutorialTip27TextC=You can also chat with other players in the game by using the Chat Window, which can be opened by pressing {^x}[%t0]{^-}.

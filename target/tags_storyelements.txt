@@ -481,7 +481,7 @@ tagNotification_WarningSecret03=This place feels strange...
 
 #NPC Names
 
-tagNPC_JohnBourbon=Captain John Bourbon
+tagNPC_JohnBourbon=Капітан Джон Бурбон
 tagNPC_Kasparov=Kasparov
 tagNPC_Harmond=Harmond
 tagNPC_Barnabas=Barnabas

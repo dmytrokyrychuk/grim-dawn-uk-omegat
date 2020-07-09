@@ -22,27 +22,27 @@ tagMenuButton09=Добре
 tagMenuButton10=Створити
 tagMenuButton11=Завантажити
 tagMenuChar={%d0} ~ {%d1}
-tagCharLevelClass={%d0} {%t1} рівня
+tagCharLevelClass={%t1} {%d0} рівня
 
 # Temporary popup message for alpha multiplayer build warning
-tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+tagMenuMPWarning=Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.
 
 #
 # Play Menu
 #
 
-tagMenuGame01=Single Player
-tagMenuGame02=Join Multiplayer
-tagMenuGame03=Host Multiplayer
-tagMenuMultiplayer=Multiplayer
-tagMenuGame04=Internet
+tagMenuGame01=Один гравець
+tagMenuGame02=Створити спільну гру
+tagMenuGame03=Зайти у спільну гру
+tagMenuMultiplayer=Спільна гра
+tagMenuGame04=Інтернет
 tagMenuGame05=LAN
-tagMenuGame06=Game Name
-tagMenuGame07=Password
-tagMenuGame08=Max. Players
-tagMenuGame09=Level Range
+tagMenuGame06=Назва гри
+tagMenuGame07=Пароль
+tagMenuGame08=Гравців
+tagMenuGame09=Рівні
 tagMenuGame10=-
-tagMenuGame11=Map
+tagMenuGame11=Мапа
 tagMenuGame12=Difficulty
 tagMenuGame13=Enable Player vs. Player Combat
 tagMenuGame14=Leaderboard
@@ -102,37 +102,37 @@ tagSDifficultyButton01=Aspirant Difficulty
 tagSDifficultyButton02=Challenger Difficulty
 tagSDifficultyButton03=Gladiator Difficulty
 
-tagPlayOptionsAccept=Accept
+tagPlayOptionsAccept=Прийняти
 tagPlayOptionsCancel=Скасувати
-tagPlayGameModeCampaign=Main Campaign
+tagPlayGameModeCampaign=Головна кампанія
 tagPlayGameModeCustom=Спеціальна гра
 tagPlayGameModeSurvival=Crucible
 
-tagGameStateInit=Initializing...
-tagGameStateLoading=Loading...
-tagGameStateStarting=Starting Game...
-tagGameStateConnecting=Connecting to Server...
-tagGameStateData=Waiting for Server...
+tagGameStateInit=Ініціалізація...
+tagGameStateLoading=Завантаження...
+tagGameStateStarting=Запуск гри...
+tagGameStateConnecting=Приєднання до сервера...
+tagGameStateData=Очікування сервера...
 
-tagGogMustBeSignedIn=You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!
-tagSteamCloudLimit=You have reached the file limit on Steam's Cloud Storage for Grim Dawn, you must delete a character before you can create another.
+tagGogMustBeSignedIn=Ти мусиш увійти до GOG Galaxy, щоб грати Grim Dawn у багатокористувацькому режимі. Будь ласка, увійди до GOG Galaxy та запусти Grim Dawn через GOG!
+tagSteamCloudLimit=Ти досягнув обмеження хмарного сховища Steam для Grim Dawn. Необхідно видалити одного персонажа перед створенням нового.
 
 #
 # Options
 #
 
-tagGameplayTitle=Gameplay
+tagGameplayTitle=Гра
 tagGameplayOption01=
-tagGameplayOption02=Enable Quicksell (Right Mouse)
-tagGameplayOption03=Auto Item Tooltips
-tagGameplayOption04=Display Damage
+tagGameplayOption02=Швидкий продаж (ПКМ)
+tagGameplayOption03=Автоматичні підказки предменів
+tagGameplayOption04=Показувати шкоду
 tagGameplayOption05=Enable Optional Roll-Overs
-tagGameplayOption06=Show Target Level
-tagGameplayOption07=Cloud Saving
+tagGameplayOption06=Показувати рівень цілі
+tagGameplayOption07=Хмарне зберігання
 tagGameplayOption08=
-tagGameplayOption09=Language
-tagGameplayOption10=Network Adapter
-tagGameplayOption11=Lock Item Pickup
+tagGameplayOption09=Мова
+tagGameplayOption10=Мережевий адаптер
+tagGameplayOption11=Блок підйому предметів
 tagGameplayOption12=Always Show Loot
 tagGameplayOption13=Crit Shake
 tagGameplayOption14=Target Outline
@@ -156,15 +156,15 @@ tagGameplayOption30=Error Messages
 tagGameplayOption31=Gamepad Target Lock
 tagGameplayOption32=Auto Loot Materials
 tagGameplayDesc01=
-tagGameplayDesc02=Enable right click to sell when using the market window.
-tagGameplayDesc03=Enable item pop-ups when mousing over equipment in the world.
-tagGameplayDesc04=Display damage numbers when you hit enemies.
+tagGameplayDesc02=Дозволити продавати правою клавішею миші у вікні торгівлі.
+tagGameplayDesc03=Дозволити показ спливаючих вікон при наведенні вказівника миші на предмети на землі.
+tagGameplayDesc04=Показувати число шкоди, заподіяної ворогам.
 tagGameplayDesc05=Enable roll-over descriptions for in-game UI elements.
-tagGameplayDesc06=Show target levels along with health when targeting.
-tagGameplayDesc07=Enable storage of character save data in the Steam cloud.
+tagGameplayDesc06=Показувати рівень цілі разом зі здоров'ям під час прицілювання.
+tagGameplayDesc07=Дозволити зберігати дані персонажів у хмарному сховищі Steam.
 tagGameplayDesc08=
-tagGameplayDesc09=Change the game language.
-tagGameplayDesc10=Network adapter to use for hosting/joining multiplayer games.
+tagGameplayDesc09=Змінити мову гри.
+tagGameplayDesc10=Мережевий адаптер для створення чи приєднання до спільних ігор.
 tagGameplayDesc11=Prevent pickup of loot that doesn't meet your loot filtering level.
 tagGameplayDesc14=Display a glowing outline around your current target.
 tagGameplayDesc15=Force the map to always point north when the camera is rotated.
@@ -414,13 +414,13 @@ tagIPExternalPublic=Public IP visible to the Internet:
 tagIPInvalid=<Unable to obtain address>
 
 
-tagMultiplayer01=Game Name
+tagMultiplayer01=Назва гри
 tagMultiplayer02=Difficulty
 tagMultiplayer03=Type
 tagMultiplayer04=Players
 tagMultiplayer05=Ping
 tagMultiplayer06=Summary
-tagMultiplayer07=Game Name
+tagMultiplayer07=Назва гри
 tagMultiplayer09=Map Unavailable
 tagMultiplayer10=Hide Full Games
 tagMultiplayer11=Hide Locked Games
@@ -448,7 +448,7 @@ tagGDX1Game=Ashes of Malmouth
 tagGDX2Game=Forgotten Gods
 tagSurvivalGDX1=Crucible - Ashes of Malmouth
 tagSurvivalGDX2=Crucible - Forgotten Gods
-tagDefaultMap=Main Campaign
+tagDefaultMap=Головна кампанія
 tagSurvivalMap=Crucible
 tagSurvivalMapInProgress=Crucible - In Progress
 tagSurvivalArena_01=Crucible of the Dead
@@ -530,7 +530,7 @@ tagNamePlate02=Custom Game Setup
 tagNamePlate03=Options Menu
 tagNamePlate04=Титри
 tagNamePlate05=LAN
-tagNamePlate06=Internet
+tagNamePlate06=Інтернет
 tagPreviewError=This feature is disabled.
 tagLoading=Loading
 tagFrenchPatch=Grim Dawn will now update the original Grim Dawn dialog files to the French version.
@@ -555,7 +555,7 @@ tagLobbyLock=Password Locked
 tagLobbyDifficulty=Difficulty
 tagLobbyAutoparty=Auto-Party Enabled 
 tagLobbyInstancedLoot=Instanced Loot
-tagLobbyLanguage=Language 
+tagLobbyLanguage=Мова 
 tagLobbyPVP=PVP Enabled
 tagLobbyHardcore=Hardcore Enabled
 tagLobbyNormalDifficulty=Normal Difficulty
@@ -611,7 +611,7 @@ tagCharDetailsActiveQuests=Active Quests:
 
 tagDirectConnectMenuConnecting=Connecting to Server {%t0}
 tagDirectConnectMenuStatus1=Contacting Server...
-tagDirectConnectMenuStatus2=Connecting to Server...
+tagDirectConnectMenuStatus2=Приєднання до сервера...
 tagDirectConnectMenuStatus3=Connection complete, launching game.
 
 
