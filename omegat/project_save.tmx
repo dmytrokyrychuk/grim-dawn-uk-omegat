@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kill Zombies</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
+        <seg>Вбий зомбі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LAN</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163156Z" creationid="Дмитро Киричук" creationdate="20200709T163156Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173244Z" creationid="Дмитро Киричук" creationdate="20200709T173244Z">
         <seg>Репутаційний бонус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to Harmond</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180526Z" creationid="Дмитро Киричук" creationdate="20200709T180526Z">
+        <seg>Повернися до Гармонда</seg>
       </tuv>
     </tu>
     <tu>
