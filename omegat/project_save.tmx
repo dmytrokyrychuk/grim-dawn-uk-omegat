@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening a new rift will close your existing one.  Do you wish to proceed?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174351Z" creationid="Дмитро Киричук" creationdate="20200709T174351Z">
+        <seg>Відкривши новий розрив, ти зруйнуєш старий. Продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153228Z" creationid="Дмитро Киричук" creationdate="20200709T153228Z">
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173244Z" creationid="Дмитро Киричук" creationdate="20200709T173244Z">
         <seg>Репутаційний бонус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rewards:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174405Z" creationid="Дмитро Киричук" creationdate="20200709T174405Z">
+        <seg>Нагороди:</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,10 +870,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You cannot teleport to this Riftgate from here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174313Z" creationid="Дмитро Киричук" creationdate="20200709T174313Z">
+        <seg>Звідси не можна телепортуватися до цього розриву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot teleport to this Riftgate from the same Riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174246Z" creationid="Дмитро Киричук" creationdate="20200709T174143Z">
+        <seg>Не можна вийти у той самий розрив, через який заходиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot use this rift.  It was created by a player not in your group.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174132Z" creationid="Дмитро Киричук" creationdate="20200709T174132Z">
-        <seg>Ти не можеш пройти через цей розрив, бо його створив гравець з іншої групи.</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174149Z" creationid="Дмитро Киричук" creationdate="20200709T174132Z">
+        <seg>Не можна пройти через цей розрив, бо його створив гравець з іншої групи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +922,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
         <seg>Ви тепер у безпеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%d0} Iron</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174411Z" creationid="Дмитро Киричук" creationdate="20200709T174411Z">
+        <seg>{%d0} заліза</seg>
       </tuv>
     </tu>
     <tu>
