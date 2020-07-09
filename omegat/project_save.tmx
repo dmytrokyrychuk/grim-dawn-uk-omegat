@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Devotion Level</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173718Z" creationid="Дмитро Киричук" creationdate="20200709T173718Z">
+        <seg>Рівень відданості</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Difficulty Unlocked</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173126Z" creationid="Дмитро Киричук" creationdate="20200709T173126Z">
@@ -314,6 +322,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165434Z" creationid="Дмитро Киричук" creationdate="20200709T165434Z">
         <seg>Дозволити зберігати дані персонажів у хмарному сховищі Steam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enemy Boss Killed</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173644Z" creationid="Дмитро Киричук" creationdate="20200709T173644Z">
+        <seg>Вбито ворожого боса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enemy Hero Killed</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173630Z" creationid="Дмитро Киричук" creationdate="20200709T173630Z">
+        <seg>Вбито ворожого героя</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163153Z" creationid="Дмитро Киричук" creationdate="20200709T163153Z">
         <seg>Інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inventory Auto-Sort</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173439Z" creationid="Дмитро Киричук" creationdate="20200709T173439Z">
+        <seg>Автосортування вмісту</seg>
       </tuv>
     </tu>
     <tu>
