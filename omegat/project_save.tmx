@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You reached {^y}Level {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
+        <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You're safe now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
