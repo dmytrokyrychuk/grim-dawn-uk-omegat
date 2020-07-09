@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
+        <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Заходь на www.grimdawn.com, щоб приєднатися до{^n}розробки Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We weren't going to last much longer out there. We all knew it. Stephen just... snapped one day. If you hadn't arrived when you did... thank you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
