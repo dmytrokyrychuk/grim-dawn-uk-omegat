@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>Level {%d0} {%t1}</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153724Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
-        <seg>{%d0} {%t1} рівня</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163837Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
+        <seg>{%t1} {%d0} рівня</seg>
       </tuv>
     </tu>
     <tu>
