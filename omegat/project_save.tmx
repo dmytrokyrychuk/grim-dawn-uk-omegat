@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the game language.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165502Z" creationid="Дмитро Киричук" creationdate="20200709T165502Z">
+        <seg>Змінити мову гри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cloud Saving</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165356Z" creationid="Дмитро Киричук" creationdate="20200709T165356Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165450Z" creationid="Дмитро Киричук" creationdate="20200709T165450Z">
+        <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level Range</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163526Z" creationid="Дмитро Киричук" creationdate="20200709T163232Z">
@@ -314,6 +330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164237Z" creationid="Дмитро Киричук" creationdate="20200709T164237Z">
         <seg>Завантаження...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock Item Pickup</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165636Z" creationid="Дмитро Киричук" creationdate="20200709T165636Z">
+        <seg>Блок підйому предметів</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +370,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163149Z" creationid="Дмитро Киричук" creationdate="20200709T163149Z">
         <seg>Спільна гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Network Adapter</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165509Z" creationid="Дмитро Киричук" creationdate="20200709T165509Z">
+        <seg>Мережевий адаптер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Network adapter to use for hosting/joining multiplayer games.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165559Z" creationid="Дмитро Киричук" creationdate="20200709T165559Z">
+        <seg>Мережевий адаптер для створення чи приєднання до спільних ігор.</seg>
       </tuv>
     </tu>
     <tu>
