@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Destination</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174046Z" creationid="Дмитро Киричук" creationdate="20200709T174046Z">
+        <seg>Пункт призначення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Game Paused</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173859Z" creationid="Дмитро Киричук" creationdate="20200709T173859Z">
+        <seg>Гру зупинено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gameplay</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165925Z" creationid="Дмитро Киричук" creationdate="20200709T164634Z">
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153325Z" creationid="Дмитро Киричук" creationdate="20200709T153325Z">
         <seg>Імпорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incentives:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173824Z" creationid="Дмитро Киричук" creationdate="20200709T173824Z">
+        <seg>Стимули:</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Objectives:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173815Z" creationid="Дмитро Киричук" creationdate="20200709T173815Z">
+        <seg>Цілі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Offline</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172918Z" creationid="Дмитро Киричук" creationdate="20200709T172918Z">
@@ -634,6 +666,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Personal Rift</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174020Z" creationid="Дмитро Киричук" creationdate="20200709T174020Z">
+        <seg>Особистий розрив</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You cannot use this rift.  It was created by a player not in your group.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174132Z" creationid="Дмитро Киричук" creationdate="20200709T174132Z">
+        <seg>Ти не можеш пройти через цей розрив, бо його створив гравець з іншої групи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the file limit on Steam's Cloud Storage for Grim Dawn, you must delete a character before you can create another.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164623Z" creationid="Дмитро Киричук" creationdate="20200709T164623Z">
@@ -858,6 +906,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153654Z" creationid="Дмитро Киричук" creationdate="20200709T153654Z">
         <seg>{%d0} ~ {%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}That item cannot be placed there</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173924Z" creationid="Дмитро Киричук" creationdate="20200709T173924Z">
+        <seg>{^r}Цей предмет не можна тут розмістити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}That skill is not ready</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173909Z" creationid="Дмитро Киричук" creationdate="20200709T173909Z">
+        <seg>{^r}Ця навичка не готова</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
