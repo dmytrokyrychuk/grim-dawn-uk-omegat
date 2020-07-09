@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153531Z" creationid="Дмитро Киричук" creationdate="20200709T153531Z">
+        <seg>Створити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Character</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153320Z" creationid="Дмитро Киричук" creationdate="20200709T153320Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153537Z" creationid="Дмитро Киричук" creationdate="20200709T153537Z">
+        <seg>Завантажити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Elizabeth Skinner</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T190826Z" creationid="Дмитро Киричук" creationdate="20200708T190826Z">
@@ -142,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level {%d0} {%t1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153724Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
+        <seg>{%d0} {%t1} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153525Z" creationid="Дмитро Киричук" creationdate="20200709T153525Z">
+        <seg>Добре</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153228Z" creationid="Дмитро Киричук" creationdate="20200709T153228Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
         <seg>Ви тепер у безпеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%d0} ~ {%d1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153654Z" creationid="Дмитро Киричук" creationdate="20200709T153654Z">
+        <seg>{%d0} ~ {%d1}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
