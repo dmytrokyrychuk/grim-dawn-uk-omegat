@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XP: {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174448Z" creationid="Дмитро Киричук" creationdate="20200709T174448Z">
+        <seg>Досвід: {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173020Z" creationid="Дмитро Киричук" creationdate="20200709T173020Z">
@@ -926,10 +934,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{%d0} Experience</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174420Z" creationid="Дмитро Киричук" creationdate="20200709T174420Z">
+        <seg>{%d0} досвіду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%d0} Iron</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174411Z" creationid="Дмитро Киричук" creationdate="20200709T174411Z">
         <seg>{%d0} заліза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%d0} Level</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174427Z" creationid="Дмитро Киричук" creationdate="20200709T174427Z">
+        <seg>{%d0} рівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%d0} Levels</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174442Z" creationid="Дмитро Киричук" creationdate="20200709T174442Z">
+        <seg>{%d0} рівнів</seg>
       </tuv>
     </tu>
     <tu>
