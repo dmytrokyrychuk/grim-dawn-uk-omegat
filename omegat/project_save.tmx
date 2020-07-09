@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Harmond</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180321Z" creationid="Дмитро Киричук" creationdate="20200709T180321Z">
+        <seg>Гармонд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Host Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
         <seg>Створити спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kasparov</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180327Z" creationid="Дмитро Киричук" creationdate="20200709T180327Z">
+        <seg>Каспаров</seg>
       </tuv>
     </tu>
     <tu>
