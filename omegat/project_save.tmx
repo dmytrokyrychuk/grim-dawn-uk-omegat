@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Captain John Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170337Z" creationid="Дмитро Киричук" creationdate="20200709T170337Z">
+        <seg>Капітан Джон Бурбон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the game language.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165502Z" creationid="Дмитро Киричук" creationdate="20200709T165502Z">
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>John Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170355Z" creationid="Дмитро Киричук" creationdate="20200709T170355Z">
+        <seg>Джон Бурбон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Join Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153104Z" creationid="Дмитро Киричук" creationdate="20200709T153104Z">
         <seg>Дякуємо за гру!{^n}{^n}Grim Dawn доступна на Steam, або на нашому веб-сайті за адресою www.grimdawn.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Resistance</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170513Z" creationid="Дмитро Киричук" creationdate="20200709T170513Z">
+        <seg>Опір</seg>
       </tuv>
     </tu>
     <tu>
