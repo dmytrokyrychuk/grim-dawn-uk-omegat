@@ -1,6 +1,6 @@
-#Region Names
+﻿#Region Names
 
-tagMapDevilsCrossing01=Devil's Crossing
+tagMapDevilsCrossing01=Дідькове Перехрестя
 tagMapLowerCrossing01=Lower Crossing
 tagMapBurialHill=Burial Hill
 tagMapOldDump=The Old Dump
@@ -300,7 +300,7 @@ tagUGSecret02=Sanctum of the Immortal
 #Signs
 
 tagSign_BurialHill=Burial Hill
-tagSign_DevilsCrossing=Devil's Crossing
+tagSign_DevilsCrossing=Дідькове Перехрестя
 tagSign_Wightmire=Wightmire
 tagSign_Burrwitch=Burrwitch Village
 tagSign_Malmouth=Malmouth
@@ -331,7 +331,7 @@ tagGravestone_TyrantsHold01=In Memory of: Gogo the Chaotic Mellon, lost in the s
 #Points of Interest
 
 tagPOI001A=Entrance
-tagPOI001B=Exit
+tagPOI001B=Вихід
 tagPOI002A=Stairs Down
 tagPOI002B=Stairs Up
 tagPOI003A=Cave Entrance
@@ -519,7 +519,7 @@ tagNPC_Homestead_02=Darius Cronley
 tagNPC_Homestead_03=Avatar of Mogdrogen
 tagNPC_Homestead_04=Drew Larkin
 tagNPC_Homestead_05=Edmund "Shanks" Doyle
-tagNPC_Homestead_06=Elizabeth Skinner
+tagNPC_Homestead_06=Елізабет Скінер
 tagNPC_Homestead_07=Isaiah Reddan
 tagNPC_Homestead_08=Josephine Reddan
 tagNPC_Homestead_09=
@@ -610,7 +610,7 @@ tagNPC_Flavor_DevilsCrossing02=Jane
 tagNPC_Flavor_DevilsCrossing03=Alex
 tagNPC_Flavor_DevilsCrossing04=Gertrude
 tagNPC_Flavor_DevilsCrossing05=Marcus
-tagNPC_Flavor_DevilsCrossing06=Darian
+tagNPC_Flavor_DevilsCrossing06=Даріан
 tagNPC_Flavor_DevilsCrossing07=Harvey the Drifter
 tagNPC_Flavor_DevilsCrossing08=Faldis
 

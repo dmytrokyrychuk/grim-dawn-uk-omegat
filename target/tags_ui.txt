@@ -1,4 +1,4 @@
-#General
+﻿#General
 
 tagGameDifficultySetting01=Normal Difficulty
 tagGameDifficultySetting02=Elite Difficulty
@@ -135,7 +135,7 @@ tagFactionAlone=Alone
 tagFactionInvisible=Invisible
 tagFactionGenericMonster=Monsters
 tagFactionPlayer=Players
-tagFactionSurvivors=Devil's Crossing
+tagFactionSurvivors=Дідькове Перехрестя
 tagFactionSurvivorsInfo=Headquarters: Devil's Crossing {^n}{^n} Survivors...that is the word used most often to describe the hardy denizens of Devil's Crossing. The men and women who made it through the Grim Dawn to form a small community within the ruins of an abandoned prison. They have seen all too many friends and family lost to the "Taken", those found possessed by the Aetherials.{^n}{^n} Earning their trust will prove no easy task, but with supplies running low and a looming Aetherial threat on the horizon, they may just be willing to take a chance.
 tagFactionSurvivorsRewards1=N/A
 tagFactionSurvivorsRewards2=N/A
@@ -703,7 +703,7 @@ tagCharPointAvailable={^y}{%d0}{^w} Available Point
 tagCharPointsAvailable={^y}{%d0}{^w} Available Points
 tagCharLevel=Level {%d0}
 tagCharXP=XP : {%t0}
-tagCharLevelAndClass=Level {%d0} {%t1}
+tagCharLevelAndClass={%d0} {%t1} рівня
 
 tagCharRollLeftHand=Off-Hand:
 tagCharRollRightHand=Main Hand:
@@ -1304,8 +1304,8 @@ tagShrineDesecrated=Desecrated Shrine
 tagShrineRuined=Ruined Shrine
 tagShrineRestored=Restored Shrine
 tagShrineButton01=Offer
-tagShrineButton02=Start
-tagShrineButton03=Cancel
+tagShrineButton02=Почати гру
+tagShrineButton03=Скасувати
 tagShrineButtonInfo=Place this offering near the shrine
 tagShrineWarning=This shrine is ruined and needs to be restored. Are you sure you want to place this offering?
 tagShrineConfirmProxy=This shrine is corrupted and needs to be cleansed. Summon what is trapped within?
@@ -1401,7 +1401,7 @@ tagOptionsMenuOptions=Options Menu
 tagOptionsMenuGameSaved=Your game is Saved
 tagOptionsMenuExitMenuConfirm=Are you sure you want to exit to the main menu?
 tagOptionsMenuExitGameConfirm=Are you sure you want to quit to desktop?
-tagInfoTitle=Information
+tagInfoTitle=Інформація
 tagInfoButtonYes=Yes
 tagInfoButtonNo=No
 tagInfoButtonOk=OK
@@ -1756,7 +1756,7 @@ tagSkillConfig02=Config 2
 
 #Gamepad HUD
 tagGamePadSelect=Select
-tagGamePadBack=Back
+tagGamePadBack=Назад
 tagGamePadEquip=Equip Item
 tagGamePadDrop=Drop Item
 tagGamePadUseItem=Use Item
@@ -1768,7 +1768,7 @@ tagGamePadSwapConfig=Swap Configuration
 tagGamePadMove=Move
 tagGamePadZoomIn=Zoom In
 tagGamePadZoomOut=Zoom Out
-tagGamePadExit=Exit
+tagGamePadExit=Вихід
 tagGamePadRevert=Revert
 tagGamePadSplitStack=Split Stack
 tagGamePadNone=N/A
@@ -2294,7 +2294,7 @@ tagPushToTalk=Push To Talk
 tagUC_Button=Unlock Content
 tagUC_Message=Please type in your unlock code to unlock new content.
 tagUC_OK=OK
-tagUC_Cancel=Cancel
+tagUC_Cancel=Скасувати
 tagUC_Error=You have already unlocked that content once with this character. 
 
 tagHotSlotSwap=Toggle between primary and secondary quick slot bars.
@@ -2305,8 +2305,8 @@ tagDevotionUnassigned=No Skill
 
 #Stack Window
 
-tagStackOk=Ok
-tagStackCancel=Cancel
+tagStackOk=Добре
+tagStackCancel=Скасувати
 
 #Multiplayer
 
@@ -2359,7 +2359,7 @@ tagTradeError02={%t0} has denied your trade request.
 tagTradeError03={%t0} has requested a trade.
 tagTradeError04=You do not have enough room in your inventory to accept this trade.
 tagTradeButton01=Trade
-tagTradeButton02=Cancel
+tagTradeButton02=Скасувати
 tagTradeDistance=That player is too far away to trade with.
 tagChatGroup=Group
 tagChatAll=ALL
