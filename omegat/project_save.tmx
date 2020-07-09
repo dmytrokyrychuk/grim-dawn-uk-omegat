@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In Use)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173326Z" creationid="Дмитро Киричук" creationdate="20200709T173326Z">
+        <seg>(Використовувано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Selected)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173312Z" creationid="Дмитро Киричук" creationdate="20200709T173312Z">
+        <seg>(Вибрано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164041Z" creationid="Дмитро Киричук" creationdate="20200709T164041Z">
@@ -34,6 +50,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172749Z" creationid="Дмитро Киричук" creationdate="20200709T172749Z">
         <seg>Активні завдання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Affinities:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173308Z" creationid="Дмитро Киричук" creationdate="20200709T173308Z">
+        <seg>Прихильності:</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Complete Constellation Bonus:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173300Z" creationid="Дмитро Киричук" creationdate="20200709T173300Z">
+        <seg>Бонус за ціле сузір'я:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connecting to Server {%t0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172804Z" creationid="Дмитро Киричук" creationdate="20200709T172804Z">
@@ -158,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current Level : {%d0} / {%d1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173349Z" creationid="Дмитро Киричук" creationdate="20200709T173349Z">
+        <seg>Поточний рівень : {%d0} / {%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Game</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153208Z" creationid="Дмитро Киричук" creationdate="20200709T153208Z">
@@ -194,6 +234,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
         <seg>Дідькове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Difficulty Unlocked</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173126Z" creationid="Дмитро Киричук" creationdate="20200709T173126Z">
+        <seg>Важкість розблоковано</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +322,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
         <seg>Вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Experience : {^y}{%d0}{^w} / {^y}{%d1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173341Z" creationid="Дмитро Киричук" creationdate="20200709T173341Z">
+        <seg>Досвід : {^y}{%d0}{^w} / {^y}{%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Experience Recovered : {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173158Z" creationid="Дмитро Киричук" creationdate="20200709T173158Z">
+        <seg>Досвіду відновлено : {%d0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +622,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace Celestial Power?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173337Z" creationid="Дмитро Киричук" creationdate="20200709T173337Z">
+        <seg>Замінити небесну силу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reputation Bonus</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173244Z" creationid="Дмитро Киричук" creationdate="20200709T173244Z">
+        <seg>Репутаційний бонус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Target Level</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165256Z" creationid="Дмитро Киричук" creationdate="20200709T165256Z">
@@ -622,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173403Z" creationid="Дмитро Киричук" creationdate="20200709T173403Z">
+        <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Waiting for Server...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164327Z" creationid="Дмитро Киричук" creationdate="20200709T164327Z">
@@ -662,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may now access {^g}{%s0}{^w}!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173413Z" creationid="Дмитро Киричук" creationdate="20200709T173413Z">
+        <seg>Ти тепер маєш доступ до {^g}{%s0}{^w}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164434Z" creationid="Дмитро Киричук" creationdate="20200709T164434Z">
@@ -674,6 +770,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
         <seg>Ви тепер у безпеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%d0} XP Awarded</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173222Z" creationid="Дмитро Киричук" creationdate="20200709T173222Z">
+        <seg>{%d0} досвіду отримано</seg>
       </tuv>
     </tu>
     <tu>
