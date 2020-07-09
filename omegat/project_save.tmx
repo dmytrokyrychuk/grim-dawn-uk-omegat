@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Join Multiplayer</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
+        <seg>Створити спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level {%d0} {%t1}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153724Z" creationid="Дмитро Киричук" creationdate="20200709T153724Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Single Player</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163048Z" creationid="Дмитро Киричук" creationdate="20200709T163048Z">
+        <seg>Один гравець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153346Z" creationid="Дмитро Киричук" creationdate="20200709T153346Z">
@@ -216,8 +232,8 @@
       <tuv lang="en">
         <seg>Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T162600Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
-        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Please post problems to the Grim Dawn forum.</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
       </tuv>
     </tu>
     <tu>
