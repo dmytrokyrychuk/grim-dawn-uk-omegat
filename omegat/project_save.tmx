@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T162600Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Please post problems to the Grim Dawn forum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You're safe now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
