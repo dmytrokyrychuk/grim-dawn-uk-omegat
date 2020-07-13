@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alex</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Олеся" changedate="20200713T152557Z" creationid="Олеся" creationdate="20200713T152557Z">
+        <seg>Alex </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153355Z" creationid="Дмитро Киричук" creationdate="20200709T153355Z">
@@ -850,6 +858,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153104Z" creationid="Дмитро Киричук" creationdate="20200709T153104Z">
         <seg>Дякуємо за гру!{^n}{^n}Grim Dawn доступна на Steam, або на нашому веб-сайті за адресою www.grimdawn.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That I did.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Олеся" changedate="20200713T152751Z" creationid="Олеся" creationdate="20200713T152751Z">
+        <seg>Це я [[ms]зробив[fs]зробила].</seg>
       </tuv>
     </tu>
     <tu>
