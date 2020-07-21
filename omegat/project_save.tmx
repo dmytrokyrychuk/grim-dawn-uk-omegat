@@ -632,8 +632,8 @@
       <tuv lang="en">
         <seg>Magic</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181056Z" creationid="Дмитро Киричук" creationdate="20200721T181056Z">
-        <seg>Магічний</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181249Z" creationid="Дмитро Киричук" creationdate="20200721T181056Z">
+        <seg>[ms]Магічний [fs]Магічна [ns]Магічне [np]Магічні </seg>
       </tuv>
     </tu>
     <tu>
