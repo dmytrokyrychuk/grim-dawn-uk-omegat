@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level:   {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180526Z" creationid="Дмитро Киричук" creationdate="20200721T180526Z">
+        <seg>Рівень:   {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164237Z" creationid="Дмитро Киричук" creationdate="20200709T164237Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163149Z" creationid="Дмитро Киричук" creationdate="20200709T163149Z">
         <seg>Спільна гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180519Z" creationid="Дмитро Киричук" creationdate="20200721T180519Z">
+        <seg>Ім'я:</seg>
       </tuv>
     </tu>
     <tu>
