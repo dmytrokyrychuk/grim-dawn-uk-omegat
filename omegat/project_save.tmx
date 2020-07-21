@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>+{%d0} Iron</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180437Z" creationid="Дмитро Киричук" creationdate="20200721T180437Z">
+        <seg>+{%d0} заліза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A shady character who will store your gear and transport it between your characters.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
