@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to Game</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175520Z" creationid="Дмитро Киричук" creationdate="20200721T175520Z">
+        <seg>Повернутися до гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Harmond</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180526Z" creationid="Дмитро Киричук" creationdate="20200709T180526Z">
