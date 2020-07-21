@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Magic</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181056Z" creationid="Дмитро Киричук" creationdate="20200721T181056Z">
+        <seg>Магічний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164031Z" creationid="Дмитро Киричук" creationdate="20200709T164031Z">
