@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>+{%d0} Experience</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180603Z" creationid="Дмитро Киричук" creationdate="20200721T180603Z">
+        <seg>+{%d0} досвіду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>+{%d0} Iron</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180437Z" creationid="Дмитро Киричук" creationdate="20200721T180437Z">
@@ -1126,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{%.1g0} Damage Per Second</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180613Z" creationid="Дмитро Киричук" creationdate="20200721T180613Z">
+        <seg>{%.1g0} шкоди за секунду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%d0} Experience</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174420Z" creationid="Дмитро Киричук" creationdate="20200709T174420Z">
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153654Z" creationid="Дмитро Киричук" creationdate="20200709T153654Z">
         <seg>{%d0} ~ {%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%s0} Unlocked</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180546Z" creationid="Дмитро Киричук" creationdate="20200721T180546Z">
+        <seg>{%s0} розблоковано</seg>
       </tuv>
     </tu>
     <tu>
