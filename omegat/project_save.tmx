@@ -870,6 +870,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Required {%s0}: {%.0f1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180643Z" creationid="Дмитро Киричук" creationdate="20200721T180643Z">
+        <seg>Треба {%s0}: {%.0f1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Required {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% Reduction]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180655Z" creationid="Дмитро Киричук" creationdate="20200721T180655Z">
+        <seg>Треба {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% зменшення]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Game</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175520Z" creationid="Дмитро Киричук" creationdate="20200721T175520Z">
@@ -1142,10 +1158,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{%.0f0}% Absorption</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180716Z" creationid="Дмитро Киричук" creationdate="20200721T180716Z">
+        <seg>{%.0f0}% поглинання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%.1g0} Damage Per Second</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180613Z" creationid="Дмитро Киричук" creationdate="20200721T180613Z">
         <seg>{%.1g0} шкоди за секунду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.2f0} second Block Recovery</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180731Z" creationid="Дмитро Киричук" creationdate="20200721T180731Z">
+        <seg>{%.2f0} секунд на відновлення блоку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1234,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180546Z" creationid="Дмитро Киричук" creationdate="20200721T180546Z">
         <seg>{%s0} розблоковано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Required {%s0: %.0f1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180711Z" creationid="Дмитро Киричук" creationdate="20200721T180711Z">
+        <seg>{^r}Треба {%s0: %.0f1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Required {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% Reduction]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180702Z" creationid="Дмитро Киричук" creationdate="20200721T180702Z">
+        <seg>{^r}Треба {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% зменшення]</seg>
       </tuv>
     </tu>
     <tu>
