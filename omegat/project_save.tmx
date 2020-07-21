@@ -54,6 +54,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>+{%.0f0} {^E}Armor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141133Z" creationid="Дмитро Киричук" creationdate="20200712T141133Z">
+        <seg>+{%.0f0} {^E}броні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{%.0f0}-{%.0f1} {^E}Armor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141155Z" creationid="Дмитро Киричук" creationdate="20200712T141155Z">
+        <seg>+{%.0f0}-{%.0f1} {^E}броні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{%t0} {^E}Physical Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135812Z" creationid="Дмитро Киричук" creationdate="20200712T135812Z">
+        <seg>+{%t0} {^E}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A tinker capable of removing components from gear.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172020Z" creationid="Дмитро Киричук" creationdate="20200721T172020Z">
+        <seg>Експериментатор, здатний відокремлювати компоненти від предметів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164041Z" creationid="Дмитро Киричук" creationdate="20200709T164041Z">
@@ -96,8 +128,8 @@
       <tuv lang="en">
         <seg>Are you sure you want to exit to the main menu?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175821Z" creationid="Дмитро Киричук" creationdate="20200721T175821Z">
-        <seg>Ти точно хочеш перейти до головного меню?</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172603Z" creationid="Дмитро Киричук" creationdate="20200721T172603Z">
+        <seg>Ти точно хочеш вийти до головного меню?</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attacks per Second</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141100Z" creationid="Дмитро Киричук" creationdate="20200712T141100Z">
+        <seg>атак за секунду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attributes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T092450Z" creationid="Дмитро Киричук" creationdate="20200712T092450Z">
+        <seg>Атрибути</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto Item Tooltips</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164748Z" creationid="Дмитро Киричук" creationdate="20200709T164748Z">
         <seg>Автоматичні підказки предменів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto Loot Materials</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165534Z" creationid="Дмитро Киричук" creationdate="20200721T164221Z">
+        <seg>Автопідйом матеріалів</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block Recovery</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141424Z" creationid="Дмитро Киричук" creationdate="20200712T141424Z">
+        <seg>Відновлення блоку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
@@ -150,10 +214,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chance to Crit:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135445Z" creationid="Дмитро Киричук" creationdate="20200712T135445Z">
+        <seg>Шанс критичного удару:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chance to Hit:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135351Z" creationid="Дмитро Киричук" creationdate="20200712T135351Z">
+        <seg>Шанс поцілити:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chance to be Crit:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135546Z" creationid="Дмитро Киричук" creationdate="20200712T135546Z">
+        <seg>Шанс отримати критичний удар:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chance to be Hit:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135538Z" creationid="Дмитро Киричук" creationdate="20200712T135538Z">
+        <seg>Шанс отримати удар:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the game language.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165502Z" creationid="Дмитро Киричук" creationdate="20200709T165502Z">
         <seg>Змінити мову гри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133331Z" creationid="Дмитро Киричук" creationdate="20200712T133331Z">
+        <seg>Персонаж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check to automatically collect Components, Consumables and Crafting Materials when you step near them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165440Z" creationid="Дмитро Киричук" creationdate="20200721T164808Z">
+        <seg>Піднімати компоненти, одноразові предмети та виробничі інгредієнти при проходженні біля них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +282,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165356Z" creationid="Дмитро Киричук" creationdate="20200709T165356Z">
         <seg>Хмарне зберігання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combat Stats</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133319Z" creationid="Дмитро Киричук" creationdate="20200712T133319Z">
+        <seg>Бойові показники</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cost: {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133751Z" creationid="Дмитро Киричук" creationdate="20200712T133751Z">
+        <seg>Ціна: {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153531Z" creationid="Дмитро Киричук" creationdate="20200709T153531Z">
@@ -234,6 +362,30 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153243Z" creationid="Дмитро Киричук" creationdate="20200709T153243Z">
         <seg>Титри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cunning</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T092609Z" creationid="Дмитро Киричук" creationdate="20200712T092609Z">
+        <seg>Спритність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current Experience : {^y}{%d0}{^w}  ~  Experience to Next Level : {^y}{%d1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133709Z" creationid="Дмитро Киричук" creationdate="20200712T133709Z">
+        <seg>Поточний досвід : {^y}{%d0}{^w}  ~  Досвіду до наступного рівня : {^y}{%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current Experience : {^y}{%t0}{^w}  ~  Experience till Next Level : {^y}{%t1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133736Z" creationid="Дмитро Киричук" creationdate="20200712T133736Z">
+        <seg>Поточний досвід : {^y}{%t0}{^w}  ~  Досвіду до наступного рівня : {^y}{%t1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +426,38 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153459Z" creationid="Дмитро Киричук" creationdate="20200709T153459Z">
         <seg>Відновити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defense</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133420Z" creationid="Дмитро Киричук" creationdate="20200712T133420Z">
+        <seg>Захист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defensive Ability</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135508Z" creationid="Дмитро Киричук" creationdate="20200712T135508Z">
+        <seg>Захисна здатність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defensive Ability {^b}(?)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135501Z" creationid="Дмитро Киричук" creationdate="20200712T135501Z">
+        <seg>Захисна здатність {^b}(?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defensive Stats</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133346Z" creationid="Дмитро Киричук" creationdate="20200712T133346Z">
+        <seg>Захисні показники</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +514,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165054Z" creationid="Дмитро Киричук" creationdate="20200709T165054Z">
         <seg>Показувати число шкоди, заподіяної ворогам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you wish to proceed?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174351Z" creationid="Дмитро Киричук" creationdate="20200709T174351Z">
+        <seg>Продовжити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +598,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Energy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131230Z" creationid="Дмитро Киричук" creationdate="20200712T131230Z">
+        <seg>Енергія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Energy  {%d0} / {%d1} ({%d2} Reserved)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133633Z" creationid="Дмитро Киричук" creationdate="20200712T133633Z">
+        <seg>Енергія {%d0} / {%d1} ({%d2} Reserved)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Energy is a measure of your spirit's capacity to hold magical energies.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135051Z" creationid="Дмитро Киричук" creationdate="20200712T135051Z">
+        <seg>Енергія є мірою здатності твого духу втримувати магічні енергії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
@@ -434,6 +650,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173158Z" creationid="Дмитро Киричук" creationdate="20200709T173158Z">
         <seg>Досвіду відновлено : {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143656Z" creationid="Дмитро Киричук" creationdate="20200712T143656Z">
+        <seg>Добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +694,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gods know what your plans are, 'Taken', but I can't deny what you've done up at the Necropolis.{^n}{^n}If you had burnt in the pile with all the rest...well...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T144520Z" creationid="Дмитро Киричук" creationdate="20200712T144338Z">
+        <seg>Хто зна, що ти задумав, '[[ms]одержимий[fs]одержима]', та я не міг не звернути уваги на те, що ти зробив[[ms]зробив[fs]зробила] у Некрополісі.{^n}{^n}Якби ти [[ms]згорів[fs]згоріла] вкупі з усіма...тоді б...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Заходь на www.grimdawn.com, щоб приєднатися до{^n}розробки Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172109Z" creationid="Дмитро Киричук" creationdate="20200721T172109Z">
+        <seg>Група</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hangman Jarvis</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143638Z" creationid="Дмитро Киричук" creationdate="20200712T143638Z">
+        <seg>Кат Джарвіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,10 +734,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Health</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131214Z" creationid="Дмитро Киричук" creationdate="20200712T131214Z">
+        <seg>Здоров'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Health  {%d0} / {%d1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133648Z" creationid="Дмитро Киричук" creationdate="20200712T133648Z">
+        <seg>Здоров'я {%d0} / {%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Health is a measure of how much pain and damage you can withstand before you collapse or die.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141739Z" creationid="Дмитро Киричук" creationdate="20200712T134905Z">
+        <seg>Здоров'я є мірою болю і шкоди, що ти можеш витримати перед знесиленням чи смертю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Host Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
         <seg>Зайти у спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I think I'll be going.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143716Z" creationid="Дмитро Киричук" creationdate="20200712T143716Z">
+        <seg>Думаю, що буду вже йти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll consider that an apology, Jarvis.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143758Z" creationid="Дмитро Киричук" creationdate="20200712T143758Z">
+        <seg>Вважатиму це за вибачення, Джарвісе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm going.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143700Z" creationid="Дмитро Киричук" creationdate="20200712T143700Z">
+        <seg>Я йду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +894,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last Attacked By:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135518Z" creationid="Дмитро Киричук" creationdate="20200712T135518Z">
+        <seg>Останній нападник:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last Attacked:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135336Z" creationid="Дмитро Киричук" creationdate="20200712T135336Z">
+        <seg>Остання ціль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level Range</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163526Z" creationid="Дмитро Киричук" creationdate="20200709T163232Z">
         <seg>Рівні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141919Z" creationid="Дмитро Киричук" creationdate="20200712T141919Z">
+        <seg>Рівень {%d0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +1062,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Offensive Ability</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135301Z" creationid="Дмитро Киричук" creationdate="20200712T135301Z">
+        <seg>Нападальна здатність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offensive Ability {^b}(?)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135241Z" creationid="Дмитро Киричук" creationdate="20200712T135241Z">
+        <seg>Нападальна здатність {^b}(?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offensive Stats</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133408Z" creationid="Дмитро Киричук" creationdate="20200712T133408Z">
+        <seg>Нападні показники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Offline</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172918Z" creationid="Дмитро Киричук" creationdate="20200709T172918Z">
@@ -774,10 +1118,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Opening a new rift will close your existing one.  Do you wish to proceed?</seg>
+        <seg>Opening a new rift will close your existing one.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174351Z" creationid="Дмитро Киричук" creationdate="20200709T174351Z">
-        <seg>Відкривши новий розрив, ти зруйнуєш старий. Продовжити?</seg>
+        <seg>Відкривши новий розрив, ти зруйнуєш старий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Physique</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T092535Z" creationid="Дмитро Киричук" creationdate="20200712T092535Z">
+        <seg>Статура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Play Game</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153217Z" creationid="Дмитро Киричук" creationdate="20200709T153217Z">
@@ -846,6 +1198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164434Z" creationid="Дмитро Киричук" creationdate="20200709T164434Z">
+        <seg>Будь ласка, увійди до GOG Galaxy та запусти Grim Dawn через GOG!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please post problems to the Grim Dawn forum.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Points Spent:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175951Z" creationid="Дмитро Киричук" creationdate="20200721T175938Z">
@@ -870,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refund: {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133809Z" creationid="Дмитро Киричук" creationdate="20200712T133809Z">
+        <seg>Відшкодування: {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace Celestial Power?</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173337Z" creationid="Дмитро Киричук" creationdate="20200709T173337Z">
@@ -888,8 +1264,8 @@
       <tuv lang="en">
         <seg>Required {%s0}: {%.0f1}</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180643Z" creationid="Дмитро Киричук" creationdate="20200721T180643Z">
-        <seg>Треба {%s0}: {%.0f1}</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T134233Z" creationid="Дмитро Киричук" creationdate="20200712T134233Z">
+        <seg>Вимога: {%s0} {%.0f1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +1310,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rotting Corpse</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165811Z" creationid="Дмитро Киричук" creationdate="20200721T165811Z">
+        <seg>Загнивший труп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotting Soldier</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165641Z" creationid="Дмитро Киричук" creationdate="20200721T165641Z">
+        <seg>Загнивший солдат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Target Level</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165256Z" creationid="Дмитро Киричук" creationdate="20200709T165256Z">
@@ -970,6 +1362,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175554Z" creationid="Дмитро Киричук" creationdate="20200721T175554Z">
         <seg>Контрабандист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spirit</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T134952Z" creationid="Дмитро Киричук" creationdate="20200712T134952Z">
+        <seg>Дух</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1454,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The percent by which your block recovery is reduced.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141503Z" creationid="Дмитро Киричук" creationdate="20200712T141503Z">
+        <seg>Частка, на яку зменшується тривалість відновлення блоку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173403Z" creationid="Дмитро Киричук" creationdate="20200709T173403Z">
         <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo Class Selection</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131317Z" creationid="Дмитро Киричук" creationdate="20200712T131317Z">
+        <seg>Скасувати вибір класу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo Points</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131304Z" creationid="Дмитро Киричук" creationdate="20200712T131304Z">
+        <seg>Повернути бали</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1510,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Walking Dead</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165740Z" creationid="Дмитро Киричук" creationdate="20200721T165740Z">
+        <seg>Ходячий Мрець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: during the test phase, you will encounter bugs, crashes and performance issues.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to Multiplayer Testing!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Ласкаво просимо на тестування багатокористувацького режиму!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XP : {%t0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141923Z" creationid="Дмитро Киричук" creationdate="20200712T141923Z">
+        <seg>Досвід : {%t0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XP: {%d0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174448Z" creationid="Дмитро Киричук" creationdate="20200709T174448Z">
@@ -1104,7 +1560,7 @@
       <tuv lang="en">
         <seg>You are dead!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175850Z" creationid="Дмитро Киричук" creationdate="20200721T175850Z">
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172352Z" creationid="Дмитро Киричук" creationdate="20200721T172352Z">
         <seg>Ти [[ms]помер[fs]померла]!</seg>
       </tuv>
     </tu>
@@ -1174,10 +1630,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You're welcome.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143733Z" creationid="Дмитро Киричук" creationdate="20200712T143733Z">
+        <seg>Будь ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your game is Saved</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175806Z" creationid="Дмитро Киричук" creationdate="20200721T175806Z">
         <seg>Гру збережено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Hold Ctrl to Hide Tooltip]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141041Z" creationid="Дмитро Киричук" creationdate="20200712T141041Z">
+        <seg>[Тримай Ctrl, щоб сховати підказку]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1666,54 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180716Z" creationid="Дмитро Киричук" creationdate="20200721T180716Z">
         <seg>{%.0f0}% поглинання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%+.0f0}% {^E}Physical Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135817Z" creationid="Дмитро Киричук" creationdate="20200712T135817Z">
+        <seg>{%+.0f0}% {^E}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%+.0f0}-{%.0f1}% {^E}Physical Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T140952Z" creationid="Дмитро Киричук" creationdate="20200712T140952Z">
+        <seg>{%+.0f0}-{%.0f1}% {^E}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.0f0} Armor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141128Z" creationid="Дмитро Киричук" creationdate="20200712T141128Z">
+        <seg>{%.0f0} броні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.0f0} {^S}Damage Per Second (If Equipped)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135745Z" creationid="Дмитро Киричук" creationdate="20200712T135745Z">
+        <seg>{%.0f0} {^S}шкоди за секунду (якщо спорядити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.0f0}% Chance to block {^W}{%.0f1} damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141255Z" creationid="Дмитро Киричук" creationdate="20200712T141255Z">
+        <seg>{%.0f0}% шанс заблокувати {^W}{%.0f1} шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.0f0}-{%.0f1} Armor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141147Z" creationid="Дмитро Киричук" creationdate="20200712T141147Z">
+        <seg>{%.0f0}-{%.0f1} броні</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1814,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141941Z" creationid="Дмитро Киричук" creationdate="20200712T141941Z">
+        <seg>{%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% понад максимум)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%t0} {^E}Physical Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135711Z" creationid="Дмитро Киричук" creationdate="20200712T135711Z">
+        <seg>{%t0} {^E}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%t0} {^S}Physical Damage</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135715Z" creationid="Дмитро Киричук" creationdate="20200712T135715Z">
+        <seg>{%t0} {^S}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^g}Cost  {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133831Z" creationid="Дмитро Киричук" creationdate="20200712T133831Z">
+        <seg>{^g}Ціна  {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^g}Cost  {%d0} ~ Original Sell Value</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133922Z" creationid="Дмитро Киричук" creationdate="20200712T133922Z">
+        <seg>{^g}Ціна  {%d0} ~ первинна вартість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^g}Sell Back Value  {%d0} ~ Original Purchase Cost</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T134038Z" creationid="Дмитро Киричук" creationdate="20200712T134038Z">
+        <seg>{^g}Вартість продажу {%d0} ~ ціна покупки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^g}Sell Value  {%d0}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133929Z" creationid="Дмитро Киричук" creationdate="20200712T133929Z">
+        <seg>{^g}Вартість продажу  {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Cost  {%d0} ~ Not Enough Iron</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133842Z" creationid="Дмитро Киричук" creationdate="20200712T133842Z">
+        <seg>{^r}Ціна  {%d0} ~ замало заліза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Cost  {%d0} ~ Not Enough Reputation</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133901Z" creationid="Дмитро Киричук" creationdate="20200712T133901Z">
+        <seg>{^r}Ціна  {%d0} ~ замало репутації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^r}That item cannot be placed there</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173924Z" creationid="Дмитро Киричук" creationdate="20200709T173924Z">
@@ -1306,6 +1898,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173909Z" creationid="Дмитро Киричук" creationdate="20200709T173909Z">
         <seg>{^r}Ця навичка не готова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^y}{%d0}{^w} Available Points</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141913Z" creationid="Дмитро Киричук" creationdate="20200712T141913Z">
+        <seg>{^y}{%d0}{^w} вільних балів</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
