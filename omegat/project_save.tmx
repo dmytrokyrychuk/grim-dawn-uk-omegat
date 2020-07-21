@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shield</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181445Z" creationid="Дмитро Киричук" creationdate="20200721T181445Z">
+        <seg>[ms]щит</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Target Level</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165256Z" creationid="Дмитро Киричук" creationdate="20200709T165256Z">
