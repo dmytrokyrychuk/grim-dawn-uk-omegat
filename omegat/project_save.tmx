@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>per Second</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180740Z" creationid="Дмитро Киричук" creationdate="20200721T180740Z">
+        <seg>за секунду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%.0f0}% Absorption</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180716Z" creationid="Дмитро Киричук" creationdate="20200721T180716Z">
