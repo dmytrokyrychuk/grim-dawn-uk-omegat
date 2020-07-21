@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Points Spent:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175938Z" creationid="Дмитро Киричук" creationdate="20200721T175938Z">
+        <seg>Балів вкладено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quest</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175724Z" creationid="Дмитро Киричук" creationdate="20200721T175724Z">
