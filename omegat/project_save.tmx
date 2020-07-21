@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Boots</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181552Z" creationid="Дмитро Киричук" creationdate="20200721T181552Z">
+        <seg>[np]черевики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
