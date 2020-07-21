@@ -30,30 +30,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>+{%d0} Experience</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180603Z" creationid="Дмитро Киричук" creationdate="20200721T180603Z">
-        <seg>+{%d0} досвіду</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>+{%d0} Iron</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180437Z" creationid="Дмитро Киричук" creationdate="20200721T180437Z">
-        <seg>+{%d0} заліза</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>A shady character who will store your gear and transport it between your characters.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
-        <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>+{%.0f0} {^E}Armor</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141133Z" creationid="Дмитро Киричук" creationdate="20200712T141133Z">
@@ -70,10 +46,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>+{%d0} Experience</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180603Z" creationid="Дмитро Киричук" creationdate="20200721T180603Z">
+        <seg>+{%d0} досвіду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{%d0} Iron</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180437Z" creationid="Дмитро Киричук" creationdate="20200721T180437Z">
+        <seg>+{%d0} заліза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>+{%t0} {^E}Physical Damage</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135812Z" creationid="Дмитро Киричук" creationdate="20200712T135812Z">
         <seg>+{%t0} {^E}фізичної шкоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A shady character who will store your gear and transport it between your characters.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
+        <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172749Z" creationid="Дмитро Киричук" creationdate="20200709T172749Z">
         <seg>Активні завдання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Friend</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T185123Z" creationid="Дмитро Киричук" creationdate="20200721T185123Z">
+        <seg>Додати друга</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,18 +190,18 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Boots</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181552Z" creationid="Дмитро Киричук" creationdate="20200721T181552Z">
-        <seg>[np]черевики</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Block Recovery</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141424Z" creationid="Дмитро Киричук" creationdate="20200712T141424Z">
         <seg>Відновлення блоку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Boots</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181552Z" creationid="Дмитро Киричук" creationdate="20200721T181552Z">
+        <seg>[np]черевики</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,14 +1310,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Shield</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181445Z" creationid="Дмитро Киричук" creationdate="20200721T181445Z">
-        <seg>[ms]щит</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Rotting Corpse</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165811Z" creationid="Дмитро Киричук" creationdate="20200721T165811Z">
@@ -1322,6 +1322,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165641Z" creationid="Дмитро Киричук" creationdate="20200721T165641Z">
         <seg>Загнивший солдат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shield</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181445Z" creationid="Дмитро Киричук" creationdate="20200721T181445Z">
+        <seg>[ms]щит</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,22 +1502,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>We weren't going to last much longer out there. We all knew it. Stephen just... snapped one day. If you hadn't arrived when you did... thank you.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
-        <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
-        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Walking Dead</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165740Z" creationid="Дмитро Киричук" creationdate="20200721T165740Z">
@@ -1526,10 +1518,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We weren't going to last much longer out there. We all knew it. Stephen just... snapped one day. If you hadn't arrived when you did... thank you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
+        <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Welcome to Multiplayer Testing!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Ласкаво просимо на тестування багатокористувацького режиму!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,14 +1670,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>{%.0f0}% Absorption</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180716Z" creationid="Дмитро Киричук" creationdate="20200721T180716Z">
-        <seg>{%.0f0}% поглинання</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>{%+.0f0}% {^E}Physical Damage</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135817Z" creationid="Дмитро Киричук" creationdate="20200712T135817Z">
@@ -1698,6 +1698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135745Z" creationid="Дмитро Киричук" creationdate="20200712T135745Z">
         <seg>{%.0f0} {^S}шкоди за секунду (якщо спорядити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{%.0f0}% Absorption</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180716Z" creationid="Дмитро Киричук" creationdate="20200721T180716Z">
+        <seg>{%.0f0}% поглинання</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,22 +1806,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>{^r}Required {%s0: %.0f1}</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180711Z" creationid="Дмитро Киричук" creationdate="20200721T180711Z">
-        <seg>{^r}Треба {%s0: %.0f1}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>{^r}Required {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% Reduction]</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180702Z" creationid="Дмитро Киричук" creationdate="20200721T180702Z">
-        <seg>{^r}Треба {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% зменшення]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>{%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum)</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141941Z" creationid="Дмитро Киричук" creationdate="20200712T141941Z">
@@ -1882,6 +1874,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133901Z" creationid="Дмитро Киричук" creationdate="20200712T133901Z">
         <seg>{^r}Ціна  {%d0} ~ замало репутації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Required {%s0: %.0f1}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180711Z" creationid="Дмитро Киричук" creationdate="20200721T180711Z">
+        <seg>{^r}Треба {%s0: %.0f1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^r}Required {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% Reduction]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180702Z" creationid="Дмитро Киричук" creationdate="20200721T180702Z">
+        <seg>{^r}Треба {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% зменшення]</seg>
       </tuv>
     </tu>
     <tu>
