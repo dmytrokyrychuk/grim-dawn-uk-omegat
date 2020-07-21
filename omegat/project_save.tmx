@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Player Level</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180621Z" creationid="Дмитро Киричук" creationdate="20200721T180621Z">
+        <seg>Рівень гравця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Points Spent:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175951Z" creationid="Дмитро Киричук" creationdate="20200721T175938Z">
