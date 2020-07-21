@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>A shady character who will store your gear and transport it between your characters.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175647Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
-        <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами..</seg>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
+        <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153355Z" creationid="Дмитро Киричук" creationdate="20200709T153355Z">
         <seg>Застосувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to exit to the main menu?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175821Z" creationid="Дмитро Киричук" creationdate="20200721T175821Z">
+        <seg>Ти точно хочеш перейти до головного меню?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to quit to desktop?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175831Z" creationid="Дмитро Киричук" creationdate="20200721T175831Z">
+        <seg>Ти точно хочеш покинути гру?</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173349Z" creationid="Дмитро Киричук" creationdate="20200709T173349Z">
         <seg>Поточний рівень : {%d0} / {%d1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Currently active quest.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175739Z" creationid="Дмитро Киричук" creationdate="20200721T175739Z">
+        <seg>Активне завдання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exit to Main Menu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175747Z" creationid="Дмитро Киричук" creationdate="20200721T175747Z">
+        <seg>Головне меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Experience : {^y}{%d0}{^w} / {^y}{%d1}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173341Z" creationid="Дмитро Киричук" creationdate="20200709T173341Z">
@@ -474,6 +506,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163153Z" creationid="Дмитро Киричук" creationdate="20200709T163153Z">
         <seg>Інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inventor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175718Z" creationid="Дмитро Киричук" creationdate="20200721T175718Z">
+        <seg>Винахідник</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175800Z" creationid="Дмитро Киричук" creationdate="20200721T175800Z">
+        <seg>Опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Password</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
@@ -726,10 +774,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Player</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175704Z" creationid="Дмитро Киричук" creationdate="20200721T175704Z">
+        <seg>Гравець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Player Grave ~ {%t0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173039Z" creationid="Дмитро Киричук" creationdate="20200709T173039Z">
         <seg>Могила гравця ~ {%t0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quest</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175724Z" creationid="Дмитро Киричук" creationdate="20200721T175724Z">
+        <seg>Завдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quit to Desktop</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175753Z" creationid="Дмитро Киричук" creationdate="20200721T175753Z">
+        <seg>Покинути гру</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are dead!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175850Z" creationid="Дмитро Киричук" creationdate="20200721T175850Z">
+        <seg>Ти [[ms]помер[fs]померла]!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot teleport to this Riftgate from here.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174313Z" creationid="Дмитро Киричук" creationdate="20200709T174313Z">
@@ -1002,6 +1082,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191236Z" creationid="Дмитро Киричук" creationdate="20200708T191236Z">
         <seg>Ви тепер у безпеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your game is Saved</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175806Z" creationid="Дмитро Киричук" creationdate="20200721T175806Z">
+        <seg>Гру збережено</seg>
       </tuv>
     </tu>
     <tu>
