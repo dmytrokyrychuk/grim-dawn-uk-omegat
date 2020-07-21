@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{%_s0}{%_s1}{%_s2}{%_s3}{%_s4}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181004Z" creationid="Дмитро Киричук" creationdate="20200721T181004Z">
+        <seg>{%_a0}{%_a1}{%_a2}{%_a3}{%_a4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%d0} Experience</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174420Z" creationid="Дмитро Киричук" creationdate="20200709T174420Z">
