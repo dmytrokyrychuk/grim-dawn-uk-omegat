@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Smuggler</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175554Z" creationid="Дмитро Киричук" creationdate="20200721T175554Z">
+        <seg>Контрабандист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153346Z" creationid="Дмитро Киричук" creationdate="20200709T153346Z">
