@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A shady character who will store your gear and transport it between your characters.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175647Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
+        <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164041Z" creationid="Дмитро Киричук" creationdate="20200709T164041Z">
