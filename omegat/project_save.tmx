@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kill Kyzogg the Reanimator</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150800Z" creationid="Dmytro" creationdate="20210522T150800Z">
+        <seg>Вбий Кайзоґа Реаніматора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kill Zombies</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
@@ -1374,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to Captain John Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150937Z" creationid="Dmytro" creationdate="20210522T150937Z">
+        <seg>Повернися до капітана Джона Бурбона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Game</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175520Z" creationid="Дмитро Киричук" creationdate="20200721T175520Z">
@@ -1386,6 +1402,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180526Z" creationid="Дмитро Киричук" creationdate="20200709T180526Z">
         <seg>Повернися до Гармонда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Returning to Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150807Z" creationid="Dmytro" creationdate="20210522T150807Z">
+        <seg>Повернення до Бурбона</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1578,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143417Z" creationid="Dmytro" creationdate="20210522T143417Z">
         <seg>Поховальна  печера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Reanimator is slain and the Dead should be slowed, for now. {^n}{^n}Return to Captain John Bourbon with the good news.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
+        <seg>Реаніматор вбитий, а напади мертвих сповільнилися, поки що. {^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
       </tuv>
     </tu>
     <tu>
