@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T145856Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Captain John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170337Z" creationid="Дмитро Киричук" creationdate="20200709T170337Z">
