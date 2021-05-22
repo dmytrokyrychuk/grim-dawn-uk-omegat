@@ -482,8 +482,8 @@ tagNotification_WarningSecret03=This place feels strange...
 #NPC Names
 
 tagNPC_JohnBourbon=Капітан Джон Бурбон
-tagNPC_Kasparov=Kasparov
-tagNPC_Harmond=Harmond
+tagNPC_Kasparov=Каспаров
+tagNPC_Harmond=Гармонд
 tagNPC_Barnabas=Barnabas
 tagNPC_SybilHart=Sybil Hart
 tagNPC_LutherGraves=Luther Graves
@@ -603,7 +603,7 @@ tagNPC_SybilGreene=Sybil Greene
 
 #Flavor NPC Names
 
-tagNPC_Jailor=Hangman Jarvis
+tagNPC_Jailor=Кат Джарвіс
 tagNPC_Villager=Villager
 tagNPC_Flavor_DevilsCrossing01=Constance
 tagNPC_Flavor_DevilsCrossing02=Jane
@@ -1341,20 +1341,20 @@ tagNPC_MerchantT01=Roving Merchant
 tagStoreTitle_MerchantT01=Salvage Dealer
 
 tagNPC_SmugglerA01=Carlile
-tagStoreTitle_SmugglerA01=Smuggler
+tagStoreTitle_SmugglerA01=Контрабандист
 
 tagNPC_SmugglerA02=Hannah
-tagStoreTitle_SmugglerA02=Smuggler
+tagStoreTitle_SmugglerA02=Контрабандист
 
 tagNPC_SmugglerA03=Ogvald
-tagStoreTitle_SmugglerA03=Smuggler
+tagStoreTitle_SmugglerA03=Контрабандист
 
 
 tagNPC_ReallocatorA01=Sahdina
 tagStoreTitle_ReallocatorA01=Spirit Guide
 
 tagNPC_InventorA01=Darlet
-tagStoreTitle_InventorA01=Inventor
+tagStoreTitle_InventorA01=Винахідник
 
 tagNPC_SmithA01=Angrim
 tagStoreTitle_SmithA01=Forgemaster

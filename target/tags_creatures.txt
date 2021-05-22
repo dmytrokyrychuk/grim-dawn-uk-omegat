@@ -935,14 +935,14 @@ tagYetiBoss01=Ragrathar Rageblood
 
 #CreatureZombie
 
-tagEnemyZombieA01=Walking Dead
+tagEnemyZombieA01=Ходячий Мрець
 tagEnemyZombieB01=Wretcher
 tagEnemyZombieC01=Fury
 tagEnemyZombieD01=Cold One
 tagEnemyZombieE01=Night Terror
 tagEnemyZombieF01=Burning Dead
 tagEnemyZombieG01=Plague Walker
-tagEnemyZombieSoldierA01=Rotting Soldier
+tagEnemyZombieSoldierA01=Загнивший солдат
 tagEnemyZombieSoldierB01=Rotting Emberguard
 tagEnemyZombieSoldierC01=Fury Soldier
 tagEnemyZombieBerserkerA01=Corpsefiend

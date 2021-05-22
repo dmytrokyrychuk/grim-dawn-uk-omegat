@@ -1,4 +1,4 @@
-Опір
+The Resistance
 Waking to Misery
 Intro
 Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.

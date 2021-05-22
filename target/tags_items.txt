@@ -1,6 +1,6 @@
 #prefix/quality/style/name/suffix concatenation
 
-tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 tagItemNameAndStack={%s0} ({%d1})
 
 #Weapons
@@ -594,7 +594,7 @@ tagShieldA007=Targe
 tagShieldA008=Targe
 tagShieldA009=Rondache
 tagShieldA010=Kite Shield
-tagShieldA011=Shield
+tagShieldA011=[ms]щит
 
 tagShieldB001=Warden's Bulwark
 tagShieldB001Desc="Forged from hardened steel and ruthless hatred."
@@ -869,7 +869,7 @@ tagArmorClass03=Heavy
 
 #WeaponClass
 tagOffHand=Off-Hand
-tagShield=Shield
+tagShield=[ms]щит
 
 tagOneHandedSword=One-Handed Sword
 tagOneHandedMace=One-Handed Mace
@@ -897,11 +897,11 @@ tagShoulders=Shoulders
 tagHead=Helm
 tagLegs=Pants
 tagChest=Chest Armor
-tagFeet=Boots
+tagFeet=[np]черевики
 tagGloves=Gloves
 
 #QualityClass
-tagMagic=Magic 
+tagMagic=[ms]Магічний [fs]Магічна [ns]Магічне [np]Магічні  
 tagRare=Rare 
 tagEpic=Epic 
 tagLegend=Legendary 
@@ -1515,7 +1515,7 @@ tagLegsD014=Wildshorn Legguards
 #ArmorFeet
 
 tagFeetA001=Footpads
-tagFeetA002=Boots
+tagFeetA002=[np]черевики
 tagFeetA003=Greaves
 tagFeetA004=Sabatons
 tagFeetA005=Treads
@@ -3605,7 +3605,7 @@ tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to rest
 
 tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[Ctrl-Click to Split Stacks]
-tagHideTooltip=[Hold Ctrl to Hide Tooltip]
+tagHideTooltip=[Тримай Ctrl, щоб сховати підказку]
 
 # Bonuses
 tagBonusLifePercentAbsPercent={^E}Restores {^H}{%.0f0}%+{%.0f1} {^E}Health {^H}+{%.0f2}% {^E}Over Time
@@ -4247,7 +4247,7 @@ tagChestRationA01=Journeyman's Pack
 tagChestMetalA01=Metal Strongbox
 tagChestNaturalA01=Marked Rock
 tagChestNaturalA02=Uprooted Stump
-tagChestCorpseA01=Rotting Corpse
+tagChestCorpseA01=Загнивший труп
 tagChestRockCairnA01=Rock Cairn
 tagChestCocoonA01=Cocooned Remains
 tagChestWoodB01=Polished Chest

@@ -140,7 +140,7 @@ tagTutorialTip38TextC=To transfer items, place them in the Item Transfer Window.
 tagTutorialTip38SubtitleB=Transfer Between Players
 tagTutorialTip38TextD=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead. Right click the player's portrait, and choose "Trade".
 
-tagTutorialTip39Title=Inventor
+tagTutorialTip39Title=Винахідник
 tagTutorialTip39TextA=Inventors are capable of removing Components and Augments from items. Either the item or the component is preserved in the process. Any Augments are lost.
 tagTutorialTip39SubtitleA=Removing Components
 tagTutorialTip39TextB=The removal of Components from items costs a fee proportional to the combined value of the item, Augment and the Component. Place an item with a Component in the Salvage Window to begin.

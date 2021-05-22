@@ -1,32 +1,32 @@
 ﻿#General
 
-tagGameDifficultySetting01=Normal Difficulty
-tagGameDifficultySetting02=Elite Difficulty
+tagGameDifficultySetting01=Нормальна важкість
+tagGameDifficultySetting02=Елітна важкість
 tagGameDifficultySetting03=Ultimate Difficulty
-tagDifficultyUnlocked=Difficulty Unlocked
-tagDifficultyLevelUnlocked=You may now access {^g}{%s0}{^w}!
+tagDifficultyUnlocked=Важкість розблоковано
+tagDifficultyLevelUnlocked=Ти тепер маєш доступ до {^g}{%s0}{^w}!
 
-tagAutosort=Inventory Auto-Sort
+tagAutosort=Автосортування вмісту
 
-tagPromptButtonYes=Yes
-tagPromptButtonNo=No
-tagPromptButtonOkay=Okay
-tagPromptButtonClose=Close
+tagPromptButtonYes=Так
+tagPromptButtonNo=Ні
+tagPromptButtonOkay=Добре
+tagPromptButtonClose=Закрити
 
-tagGraveName=Player Grave ~ {%t0}
-tagGraveSlainBy=Slain By {%t0}
-tagGraveXPRecovered=Experience Recovered : {%d0}
+tagGraveName=Могила гравця ~ {%t0}
+tagGraveSlainBy=Вбивця {%t0}
+tagGraveXPRecovered=Досвіду відновлено : {%d0}
 tagHeroXP={%d0} Enemy Hero XP
 tagBossXP={%d0} Enemy Boss XP
-tagHeroKilled=Enemy Hero Killed
-tagBossKilled=Enemy Boss Killed
-tagXPAwarded={%d0} XP Awarded
-tagReputationBonus=Reputation Bonus
+tagHeroKilled=Вбито ворожого героя
+tagBossKilled=Вбито ворожого боса
+tagXPAwarded={%d0} досвіду отримано
+tagReputationBonus=Репутаційний бонус
 tagRepAwarded=+{%d0} Reputation Awarded with {^g}{%s1}
 tagLoreBonus=Lore Bonus
 
 tagLevelUp=Level Up
-tagLevelReached=You reached {^y}Level {%d0}
+tagLevelReached=Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня
 
 #Devotion
 
@@ -34,56 +34,56 @@ tagDevotionPointAwarded={%d0} Devotion Point Awarded
 tagDevotionPointsAwarded={%d0} Devotion Points Awarded
 tagDevotionShrine=Shrine Cleansed
 tagDevotionShrineGuardian=Shrine Guardian
-tagDevotionUpdate=Devotion Level
+tagDevotionUpdate=Рівень відданості
 tagDevotionSkillLevelUp={^g}{%s0} {^w}has reached rank {%d1}!
 tagDevotionSkillMaxLevel={^g}{%s0} {^w}has reached maximum rank!
-tagDevotionAffinityBonus=Complete Constellation Bonus:
-tagDevotionAffinity=Affinities:
-tagDevotionSelected= (Selected)
-tagDevotionInUse= (In Use)
-tagDevotionConfirm=Replace Celestial Power?
-tagDevotionExperienceFormat=Experience : {^y}{%d0}{^w} / {^y}{%d1}
-tagDevotionSkillRank=Current Level : {%d0} / {%d1}
+tagDevotionAffinityBonus=Бонус за ціле сузір'я:
+tagDevotionAffinity=Прихильності:
+tagDevotionSelected= (Вибрано)
+tagDevotionInUse= (Використовувано)
+tagDevotionConfirm=Замінити небесну силу?
+tagDevotionExperienceFormat=Досвід : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=Поточний рівень : {%d0} / {%d1}
 
-tagUndo=Undo
+tagUndo=Скасувати
 Chat=Chat:
 
-tagGamePaused=Game Paused
+tagGamePaused=Гру зупинено
 
-tagSkillNotReady={^r}That skill is not ready
+tagSkillNotReady={^r}Ця навичка не готова
 
-tagTransferStashError={^r}That item cannot be placed there
+tagTransferStashError={^r}Цей предмет не можна тут розмістити
 
 #Riftgate
 
-tagRiftgatePersonal=Personal Rift
-tagRiftgateDestination=Destination
-tagRiftgateError01=You cannot use this rift.  It was created by a player not in your group.
-tagRiftgateError02=You cannot teleport to this Riftgate from the same Riftgate.
-tagRiftgateError03=You cannot teleport to this Riftgate from here.
+tagRiftgatePersonal=Особистий розрив
+tagRiftgateDestination=Пункт призначення
+tagRiftgateError01=Не можна пройти через цей розрив, бо його створив гравець з іншої групи.
+tagRiftgateError02=Не можна вийти у той самий розрив, через який заходиш.
+tagRiftgateError03=Звідси не можна телепортуватися до цього розриву.
 tagRiftgateDialog01=Opening a new rift will close your existing one.  Do you wish to proceed?
 tagRiftGateMapA01=Cairn
 
 #Quest
 
-tagQuests=Active Quests
+tagQuests=Активні завдання
 tagQuestLogNameNumber={%t0} ({%d1})
-tagQuestJournalNoQuests=No Quests
-tagQuestJournalNoComplete=No Completed Quests
-tagQuestIncentives=Incentives:
-tagQuestObjectives=Objectives:
-tagQuestRewards=Rewards:
+tagQuestJournalNoQuests=Нема завдань
+tagQuestJournalNoComplete=Нема завершених завдань
+tagQuestIncentives=Стимули:
+tagQuestObjectives=Цілі:
+tagQuestRewards=Нагороди:
 tagCodexJournalNoNotes=No Lore Entries
 tagCodexJournalSubHeadingEnemy=Enemy Insight
 tagCodexJournalSubHeadingFaction=Factions
 tagCodexJournalSubHeadingCreed=Inquisitor Creed
 tagCodexJournalSubHeadingArkovia=History - Arkovia
 tagCodexJournalSubHeadingNecropolis=History - Necropolis
-tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
-tagCodexJournalSubHeadingSurvivorBurrwitch=Survivors - Burrwitch
-tagCodexJournalSubHeadingSurvivorsHomestead=Survivors - Homestead
-tagCodexJournalSubHeadingSurvivorsDarkvale=Survivors - Darkvale
-tagCodexJournalSubHeadingSurvivorsValbury=Survivors - Port Valbury
+tagCodexJournalSubHeadingSurvivorBlackLegion=Вцілілі - Black Legion
+tagCodexJournalSubHeadingSurvivorBurrwitch=Вцілілі - Burrwitch
+tagCodexJournalSubHeadingSurvivorsHomestead=Вцілілі - Homestead
+tagCodexJournalSubHeadingSurvivorsDarkvale=Вцілілі - Darkvale
+tagCodexJournalSubHeadingSurvivorsValbury=Вцілілі - Port Valbury
 tagCodexJournalSubHeadingHistoryGods=History - Gods of Cairn
 tagCodexJournalSubHeadingDefault=Miscellaneous
 tagDevotionJournalTitle={%d0}/{%d1} Devotion Shrines
@@ -99,13 +99,13 @@ tagQuestCompleted=Quest Completed: {^n}"{%t0}"
 tagQuestUpdate=Quest Progress
 tagQuestUpdated=Quest Updated: {^n}"{%t0}"
 tagQuestFailed=Quest Failed: {^n}"{%t0}"
-tagActionGiveMoney={%d0} Iron
+tagActionGiveMoney={%d0} заліза
 tagActionGiveTribute={%d0} Tribute
 tagActionGiveTributes={%d0} Tributes
-tagActionGiveExperience={%d0} Experience
+tagActionGiveExperience={%d0} досвіду
 tagActionGiveFaction={%d0} {%t1} Faction
-tagActionGiveLevel={%d0} Level
-tagActionGiveLevels={%d0} Levels
+tagActionGiveLevel={%d0} рівень
+tagActionGiveLevels={%d0} рівнів
 tagActionGiveSkillPoint={%d0} Skill Point
 tagActionGiveSkillPoints={%d0} Skill Points
 tagActionGiveAttributePoint={%d0} Attribute Point
@@ -116,12 +116,12 @@ tagConditionHasKilled={%t0} ({%d1}/{%d2})
 tagConditionHasItem={%t0} ({%d1}/{%d2})
 tagQuestRewardWindowTitle=Quest Complete
 tagQuestRewardWindowInterim=Quest Progress
-tagQuestRewardTitle=Rewards:
-tagQuestRewardMoney={%d0} Iron
-tagQuestRewardXP=XP: {%d0}
+tagQuestRewardTitle=Нагороди:
+tagQuestRewardMoney={%d0} заліза
+tagQuestRewardXP=Досвід: {%d0}
 tagQuestRewardReputationPositive=+{%d0} {%s1} Reputation
 tagQuestRewardReputationNegative=-{%d0} {%s1} Reputation
-tagQuestRewardAcceptButton=Close
+tagQuestRewardAcceptButton=Закрити
 tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
 
 tagObjectives=Objectives
@@ -462,7 +462,7 @@ tagHUDButtonMap=Map Window
 tagHUDButtonChat=Chat Window
 tagHUDButtonFaction=Faction Window
 tagHUDButtonAchievements=Achievements Window
-tagHUDButtonOptions=Options Menu
+tagHUDButtonOptions=Опції
 
 tagHUDButtonRollCharacter=Character attributes, inventory, and equipment management.
 tagHUDButtonRollSkills=Skill class selection, skill assignment and devotion.
@@ -481,7 +481,7 @@ tagLootFilterToggleOff=Items Hidden
 tagLootFilterTitle01=Quality
 tagLootFilterTitle02=Type
 tagLootFilterTitle03=Damage
-tagLootFilterTitle04=Character
+tagLootFilterTitle04=Персонаж
 
 tagLootFilterReset=Defaults
 tagLootFilterResetInfo=Reset the filter settings to their defaults.
@@ -489,7 +489,7 @@ tagLootFilterResetConfirm=Reset filter settings to their defaults?
 
 tagLootFilter01=Common
 tagLootFilter01Info=Show/Hide items of Common (White) Quality.
-tagLootFilter02=Magic
+tagLootFilter02=[ms]Магічний [fs]Магічна [ns]Магічне [np]Магічні 
 tagLootFilter02Info=Show/Hide items of Magic (Yellow) Quality.
 tagLootFilter03=Rare
 tagLootFilter03Info=Show/Hide items of Rare (Green) Quality. This includes items that drop from specific enemies, also known as Monster Infrequents.
@@ -516,7 +516,7 @@ tagLootFilter13=Dagger/Scepter
 tagLootFilter13Info=Show/Hide Daggers and Scepters.
 tagLootFilter14=Caster Off-Hand
 tagLootFilter14Info=Show/Hide Caster Off-hands.
-tagLootFilter15=Shield
+tagLootFilter15=[ms]щит
 tagLootFilter15Info=Show/Hide Shields.
 tagLootFilter16=Armor
 tagLootFilter16Info=Show/Hide Helms, Shoulders, Chest Armor, Pants, Boots and Gloves.
@@ -556,9 +556,9 @@ tagLootFilter32=Cooldown Reduction
 tagLootFilter32Info=Show items that reduce the Cooldown of Skills.
 tagLootFilter33=Crit Damage
 tagLootFilter33Info=Show items that increase Critical Damage.
-tagLootFilter34=Offensive Ability
+tagLootFilter34=Нападальна здатність
 tagLootFilter34Info=Show items that increase Offensive Ability.
-tagLootFilter35=Defensive Ability
+tagLootFilter35=Захисна здатність
 tagLootFilter35Info=Show items that increase Defensive Ability.
 tagLootFilter36=Resistances
 tagLootFilter36Info=Show items that increase Resistances to Damage, Crowd Control or exotic effects such as Reflected Damage or Reduced Damage over Time Duration.
@@ -574,9 +574,9 @@ tagLootFilter39Info=Toggle this checkbox to always show Double Rare items (Rare 
 
 #SkillUI
 
-tagSkillUndoClass=Undo Class Selection
-tagSkillUndoPoints=Undo Points
-tagSkillUndoGeneric=Undo
+tagSkillUndoClass=Скасувати вибір класу
+tagSkillUndoPoints=Повернути бали
+tagSkillUndoGeneric=Скасувати
 tagSkillClassSelect=Select Class
 tagCurrentLevel=Current Level : {%d0}
 tagNextLevel=Next Level : {%d0}
@@ -624,12 +624,12 @@ tagStatsResistance12Desc=Resistance to effects that interrupt the use of spells 
 
 tagCharStatsTab1Name=Primary
 tagCharStatsTab2Name=Secondary
-tagCharAttributeTitle=Attributes
-tagCharAttributeName01=Cunning
-tagCharAttributeName02=Physique
-tagCharAttributeName03=Spirit
-tagCharAttributeName04=Health
-tagCharAttributeName05=Energy
+tagCharAttributeTitle=Атрибути
+tagCharAttributeName01=Спритність
+tagCharAttributeName02=Статура
+tagCharAttributeName03=Дух
+tagCharAttributeName04=Здоров'я
+tagCharAttributeName05=Енергія
 
 tagCharAttributeDescription01=A cunning intellect improves your combat technique, increasing physical, pierce, bleed and internal trauma damage. Cunning also increases your capacity for pain, your chances of landing melee and ranged attacks, and critically hitting enemies.
 
@@ -637,7 +637,7 @@ tagCharAttributeDescription02=Physical conditioning gives you the strength to fi
 
 tagCharAttributeDescription03=A strong spirit increases the flow of energy into your being and allows you to withstand the spiritual burden of using more powerful enchanted items. Spirit also increases your capacity for pain and magnifies the damage of magical attacks.
 
-tagCharAttributeDescription04=Health is a measure of how much pain and damage you can withstand before you collapse or die.
+tagCharAttributeDescription04=Здоров'я є мірою болю і шкоди, що ти можеш витримати перед знесиленням чи смертю.
 
 tagCharAttributeDescription05=Energy is a measure of your spirit's capacity to hold magical energies.  The greater this capacity, the larger the pool of energy you can immediately draw upon before waiting to regenerate.
 
@@ -657,21 +657,21 @@ tagCharAttributeIncrement03=Each point increases Spirit by 10.
 tagCharAttributeIncrement04=Each point increases Health by 50.
 tagCharAttributeIncrement05=Each point increases Energy by 50.
 
-tagCharStatsOAAlert=Offensive Ability {^b}(?)
-tagCharStatsOA=Offensive Ability
-tagCharStatsOALast=Last Attacked: 
-tagCharStatsOAHit=Chance to Hit:
-tagCharStatsOACrit=Chance to Crit:
+tagCharStatsOAAlert=Нападальна здатність {^b}(?)
+tagCharStatsOA=Нападальна здатність
+tagCharStatsOALast=Остання ціль: 
+tagCharStatsOAHit=Шанс поцілити:
+tagCharStatsOACrit=Шанс критичного удару:
 tagCharStatsOADescription=A higher Offensive Ability (OA) increases your chance of successfully landing attacks and spells, scoring critical hits, and the damage of critical hits. An Offensive Ability lower than your opponent's Defensive Ability will greatly increase your chance to miss (your chance to hit cannot go below 60%).  Offensive Ability is affected by skills, items, and Cunning.
 
-tagCharStatsDAAlert=Defensive Ability {^b}(?) 
-tagCharStatsDA=Defensive Ability
-tagCharStatsDALast=Last Attacked By: 
-tagCharStatsDAHit=Chance to be Hit:
-tagCharStatsDACrit=Chance to be Crit:
+tagCharStatsDAAlert=Захисна здатність {^b}(?) 
+tagCharStatsDA=Захисна здатність
+tagCharStatsDALast=Останній нападник: 
+tagCharStatsDAHit=Шанс отримати удар:
+tagCharStatsDACrit=Шанс отримати критичний удар:
 tagCharStatsDADescription=A higher Defensive Ability (DA) allows you to avoid enemy hits more often (minimum chance to be hit is 60%), decreases the chance of suffering a critical hit and reduces the damage taken when you are critically hit. Defensive Ability is affected by skills, items, and Physique.
 
-tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum) 
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% понад максимум) 
 
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
@@ -700,9 +700,9 @@ tagFormatPlus=+ {%d0}
 tagFormatDash={%d0} - {%d1} 
 tagFormatDashPercent={%d0}% - {%d1}%
 tagCharPointAvailable={^y}{%d0}{^w} Available Point
-tagCharPointsAvailable={^y}{%d0}{^w} Available Points
-tagCharLevel=Level {%d0}
-tagCharXP=XP : {%t0}
+tagCharPointsAvailable={^y}{%d0}{^w} вільних балів
+tagCharLevel=Рівень {%d0}
+tagCharXP=Досвід : {%t0}
 tagCharLevelAndClass={%t1} {%d0} рівня
 
 tagCharRollLeftHand=Off-Hand:
@@ -714,15 +714,15 @@ tagTimePlayedName=Time Played
 tagTimePlayedNumber={%d0}:{%d1}:{%d2}
 
 tagCharHeaderResistance=Resistances
-tagCharHeaderDefense=Defensive Stats
-tagCharHeaderOffense=Offensive Stats
-tagCharHeaderCombat=Combat Stats
+tagCharHeaderDefense=Захисні показники
+tagCharHeaderOffense=Нападні показники
+tagCharHeaderCombat=Бойові показники
 tagCharHeaderDPS=Damage Per Hit
-tagCharHeaderCharacter=Character
+tagCharHeaderCharacter=Персонаж
 tagCharHeaderPhysical=Physical
 tagCharHeaderMagical=Magical
 tagCharHeaderPets=Pet Bonuses
-tagCharHeaderDefenseSection=Defense
+tagCharHeaderDefenseSection=Захист
 tagCharHeaderRetaliation=Retaliation
 tagCharHeaderStats=Stats
 tagCharHeaderMisc=Misc
@@ -768,7 +768,7 @@ tagItemInsufficientStatus={^r}Insufficient Faction Status
 tagCharStatsMaximumSpeed=Maximum Speed
 
 #Character
-tagCharStatsAttacksPerSecond=Attacks per Second
+tagCharStatsAttacksPerSecond=атак за секунду
 tagCharStatsAttacksPerSecondInfoo=The attacks per second with your weapon, including bonuses.
 tagCharStatsRunSpeed=Run Speed
 tagCharStatsRunSpeedInfo=The speed at which your character can run relative to the baseline (Includes Total Speed).
@@ -954,10 +954,10 @@ tagCharStatsPetCastSpeednfo=The percent bonus to the Cast Speed of your pets and
 tagCharStatsPetRunSpeed=Run Speed
 tagCharStatsPetRunSpeednfo=The percent bonus to the Run Speed of your pets and summoned minions.
 
-tagCharStatsPetOA=Offensive Ability
+tagCharStatsPetOA=Нападальна здатність
 tagCharStatsPetOAInfo=The percent bonus to the Offensive Ability of your pets and summoned minions.
 
-tagCharStatsPetDA=Defensive Ability
+tagCharStatsPetDA=Захисна здатність
 tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
 
 tagCharStatsPetPhysicalResist=Physical Resist
@@ -999,8 +999,8 @@ tagCharStatsBlockChanceDescription=The percent chance of blocking an incoming at
 tagCharStatsBlockAmount=Damage Blocked
 tagCharStatsBlockAmountDescription=The amount of damage that will be negated by a successful block.
 
-tagCharStatsBlockRecovery=Block Recovery
-tagCharStatsBlockRecoveryInfo=The percent by which your block recovery is reduced.
+tagCharStatsBlockRecovery=Відновлення блоку
+tagCharStatsBlockRecoveryInfo=Частка, на яку зменшується тривалість відновлення блоку.
 
 tagCharStatsDodgeChance=Dodge Chance
 tagCharStatsDodgeChanceInfo=The percent chance of evading a melee attack, negating the damage completely.
@@ -1182,13 +1182,13 @@ tagFactionVendorTab04B=Faction rewards unlocked at Revered status.
 tagVendorRolloverName=Salvage Dealer
 tagVendorRolloverDescription=Dealers profit from humankind's misfortune by selling salvaged or stolen goods to those who dare venture out beyond the human strongholds. It's best not to ask for an item's origins.
 
-MarketCostAffordable={^g}Cost  {%d0}
-MarketCostTooExpensive={^r}Cost  {%d0} ~ Not Enough Iron
-MarketCostReputationTooLow={^r}Cost  {%d0} ~ Not Enough Reputation
-MarketCostPreviousTransaction={^g}Cost  {%d0} ~ Original Sell Value
-MarketCostPreviousTransactionTooExpensive={^r}Cost  {%d0} ~ Not Enough Iron
-MarketValue={^g}Sell Value  {%d0}
-MarketValuePreviousTransaction={^g}Sell Back Value  {%d0} ~ Original Purchase Cost
+MarketCostAffordable={^g}Ціна  {%d0}
+MarketCostTooExpensive={^r}Ціна  {%d0} ~ замало заліза
+MarketCostReputationTooLow={^r}Ціна  {%d0} ~ замало репутації
+MarketCostPreviousTransaction={^g}Ціна  {%d0} ~ первинна вартість
+MarketCostPreviousTransactionTooExpensive={^r}Ціна  {%d0} ~ замало заліза
+MarketValue={^g}Вартість продажу  {%d0}
+MarketValuePreviousTransaction={^g}Вартість продажу {%d0} ~ ціна покупки
 MarketSalePending=Sale Pending
 MarketPurchasePending=Purchase Pending
 
@@ -1204,10 +1204,10 @@ Sold=Sold
 #Crafting
 
 tagCrafting=Crafting
-tagInventorNamePlate=Inventor
+tagInventorNamePlate=Винахідник
 tagCraftingComponentCount=Quantity of this material in inventory.
 tagCraftingComponentMissing=This material is not currently in your inventory.
-tagCraftingWindowTitle=Inventor
+tagCraftingWindowTitle=Винахідник
 tagCraftingPanelA=Equipment Modification
 tagCraftingPanelB=Equipment Detachment
 tagCraftingCost=Cost:
@@ -1318,9 +1318,9 @@ tagShrineLocked=The shrine lies dormant.
 #Smuggler
 
 tagStorageRefund=Storage Refund
-tagCaravanTitle=Smuggler
-tagCaravanCost=Cost: {%d0}
-tagCaravanRefund=Refund: {%d0}
+tagCaravanTitle=Контрабандист
+tagCaravanCost=Ціна: {%d0}
+tagCaravanRefund=Відшкодування: {%d0}
 tagCaravanExpand=Expand Stash
 tagCaravanItemStorage=Item Stash
 tagStorageInfo01=Use the Item Stash as an extension of your inventory. Right click or drag and drop items to and from the Item Stash. Items stored this way are accessible from any Smuggler in the game.
@@ -1342,7 +1342,7 @@ tagCaravanSort=Are you sure you wish to auto-sort your items?
 #Chat
 
 tagChatSend=Send To...
-tagChatCommand01=Group
+tagChatCommand01=Група
 tagChatCommand02=Everyone
 tagChatCommand03=Reply
 tagChatCommand04=Tell
@@ -1367,17 +1367,17 @@ tagWorldMapWindowName=World Map
 
 tagMapSymbolAOI=POI
 tagMapSymbolAOIDesc=A point of interest.
-tagMapSymbolSmuggler=Smuggler
-tagMapSymbolSmugglerDesc=A shady character who will store your gear and transport it between your characters.
-tagMapSymbolHero=Player
+tagMapSymbolSmuggler=Контрабандист
+tagMapSymbolSmugglerDesc=Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами.
+tagMapSymbolHero=Гравець
 tagMapSymbolHeroDesc=Your current Location.
-tagMapSymbolInventor=Inventor
-tagMapSymbolInventorDesc=A tinker capable of removing components from gear.
-tagMapSymbolMission=Quest
-tagMapSymbolMissionDesc=Currently active quest.
+tagMapSymbolInventor=Винахідник
+tagMapSymbolInventorDesc=Експериментатор, здатний відокремлювати компоненти від предметів.
+tagMapSymbolMission=Завдання
+tagMapSymbolMissionDesc=Активне завдання.
 tagMapSymbolNPC=NPC
 tagMapSymbolNPCDesc=A non-playable character.
-tagMapSymbolGroup=Group
+tagMapSymbolGroup=Група
 tagMapSymbolGroupDesc=Location of your group members.
 tagMapSymbolRespawn=Healer
 tagMapSymbolRespawnDesc=A healer trained in rejuvenation and the sealing of griveous wounds.
@@ -1394,18 +1394,18 @@ tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
 
 #SystemStatsSkillUI
 
-tagOptionsMenuReturn=Return to Game
-tagOptionsMenuExit=Exit to Main Menu
-tagOptionsMenuQuit=Quit to Desktop
-tagOptionsMenuOptions=Options Menu
-tagOptionsMenuGameSaved=Your game is Saved
-tagOptionsMenuExitMenuConfirm=Are you sure you want to exit to the main menu?
-tagOptionsMenuExitGameConfirm=Are you sure you want to quit to desktop?
+tagOptionsMenuReturn=Повернутися до гри
+tagOptionsMenuExit=Головне меню
+tagOptionsMenuQuit=Покинути гру
+tagOptionsMenuOptions=Опції
+tagOptionsMenuGameSaved=Гру збережено
+tagOptionsMenuExitMenuConfirm=Ти точно хочеш вийти до головного меню?
+tagOptionsMenuExitGameConfirm=Ти точно хочеш покинути гру?
 tagInfoTitle=Інформація
-tagInfoButtonYes=Yes
-tagInfoButtonNo=No
+tagInfoButtonYes=Так
+tagInfoButtonNo=Ні
 tagInfoButtonOk=OK
-tagGameOver=You are dead!
+tagGameOver=Ти [[ms]помер[fs]померла]!
 
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
@@ -1413,14 +1413,14 @@ TripleStringFormat={%s0}{%s1}{%s2}
 TripleStringFormat2={%s0} {%s1}{%s2}
 QuadStringFormat={%s0}{%s1}{%s2}{%s3}
 SkillBaseNamesFormat={    %s0}
-CostFormat=Cost: {%d0}
-ManaDisplayFormat=Energy  {%d0} / {%d1} ({%d2} Reserved)
-LifeDisplayFormat=Health  {%d0} / {%d1}
-ExperienceDisplayFormat=Current Experience : {^y}{%d0}{^w}  ~  Experience to Next Level : {^y}{%d1}
+CostFormat=Ціна: {%d0}
+ManaDisplayFormat=Енергія {%d0} / {%d1} ({%d2} Reserved)
+LifeDisplayFormat=Здоров'я {%d0} / {%d1}
+ExperienceDisplayFormat=Поточний досвід : {^y}{%d0}{^w}  ~  Досвіду до наступного рівня : {^y}{%d1}
 
-tagExpDisplayFormat=Current Experience : {^y}{%t0}{^w}  ~  Experience till Next Level : {^y}{%t1}
+tagExpDisplayFormat=Поточний досвід : {^y}{%t0}{^w}  ~  Досвіду до наступного рівня : {^y}{%t1}
 
-tagCharPointsSpent=Points Spent:
+tagCharPointsSpent=Балів вкладено:
 
 tagCharAttribute01={%+.0f0} {^E}Cunning
 tagCharAttribute02={%+.0f0} {^E}Physique
@@ -1589,11 +1589,11 @@ tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}Cunning Requirement for all Wea
 tagChanceOf={%.1f0}% {^E}{Chance of {^H}
 tagChanceTo={%.1f0}% {^E}{Chance to {^H}
 
-Strength=Physique
-Dexterity=Cunning
-Intelligence=Spirit
-Life=Health
-Mana=Energy
+Strength=Статура
+Dexterity=Спритність
+Intelligence=Дух
+Life=Здоров'я
+Mana=Енергія
 UnusedPointsText={%d0} Unused Points
 LifeText={%.0f0} Health
 ManaText={%.0f0} Energy
@@ -1611,7 +1611,7 @@ SkillLevelFormat={%d0} / {%d1}
 ShortManaText=Energy  {%.0f0} / {%.0f1} / {%.1f2}
 ShortLifeText=Health {%.0f0} / {%.0f1}
 ShortExperienceText=Exp {%d0} / {%d1}
-ShortLevel=Level {%d0}
+ShortLevel=Рівень {%d0}
 HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0} (x{%.2f1})
@@ -1623,31 +1623,31 @@ tagDodge=Dodge
 tagBlock=Block
 tagDeflect=Deflect
 tagInvulnerable=Invulnerable
-GiveMoneyFormat=+{%d0} Iron
-TakeMoneyFormat={%d0} Iron
-ExperienceFormat=+{%d0} Experience
+GiveMoneyFormat=+{%d0} заліза
+TakeMoneyFormat={%d0} заліза
+ExperienceFormat=+{%d0} досвіду
 FactionFormat=+{%d0} {%s1} Reputation
-FactionUnlocked={%s0} Unlocked
+FactionUnlocked={%s0} розблоковано
 LevelUpFormat=Level Up!
 SkillPointFormat={%d0} Skill Point(s)
 AttributePointFormat={%d0} Attribute Point(s)
-MenuName=Name: 
-MenuLevel=Level:   {%d0}
+MenuName=Ім'я: 
+MenuLevel=Рівень:   {%d0}
 ItemSkillIncrement={+%d0} {^E}to {%s1}
 ItemMasteryIncrement={+%d0} {^E}to all skills in {%s1}
 ItemAllSkillIncrement={+%d0} {^E}to all Skills
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}
-tagPerSecond= per Second
-tagDPS={%.1g0} Damage Per Second
+tagPerSecond= за секунду
+tagDPS={%.1g0} шкоди за секунду
 
-LevelRequirement=Player Level
-ShieldBlockAbsorption={%.0f0}% Absorption
-ShieldBlockRecoveryTime={%.2f0} second Block Recovery
-MeetsRequirement=Required {%s0}: {%.0f1}
-MeetsRequirementWithReduction=Required {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% Reduction]
-FailsRequirementWithReduction={^r}Required {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% Reduction]
-FailsRequirement={^r}Required {%s0: %.0f1}
+LevelRequirement=Рівень гравця
+ShieldBlockAbsorption={%.0f0}% поглинання
+ShieldBlockRecoveryTime={%.2f0} секунд на відновлення блоку
+MeetsRequirement=Вимога: {%s0} {%.0f1}
+MeetsRequirementWithReduction=Треба {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% зменшення]
+FailsRequirementWithReduction={^r}Треба {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% зменшення]
+FailsRequirement={^r}Треба {%s0: %.0f1}
 SkillIntFormat={%d0 %s1}
 SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
@@ -1773,7 +1773,7 @@ tagGamePadRevert=Revert
 tagGamePadSplitStack=Split Stack
 tagGamePadNone=N/A
 
-tagGamePadCharacter=Character
+tagGamePadCharacter=Персонаж
 tagGamePadSkills=Skills
 tagGamePadMap=Мапа
 tagGamePadFactions=Factions
@@ -1784,7 +1784,7 @@ tagGamePadMinimapSize=Minimap
 
 tagControllerUIWarning=Your current Screen Resolution does not support the Controller User Interface.
 
-tagShieldBlockInfo={%.0f0}% Chance to block {^W}{%.0f1} damage
+tagShieldBlockInfo={%.0f0}% шанс заблокувати {^W}{%.0f1} шкоди
 
 
 
@@ -1848,8 +1848,8 @@ tagDotPhysical=Internal Trauma
 tagDotAttackSpeed=Attack Speed
 tagDotCastSpeed=Cast Speed
 tagDotRunSpeed=Run Speed
-tagDotOffensiveAbility=Offensive Ability
-tagDotDefensiveAbility=Defensive Ability
+tagDotOffensiveAbility=Нападальна здатність
+tagDotDefensiveAbility=Захисна здатність
 tagDotFumble=Melee Fumble
 tagDotRangedFumble=Impaired Aim
 tagDotTotalDamageReduction=Total Damage
@@ -1867,13 +1867,13 @@ tagDotPetrify=Petrified
 tagSetItems=({%d0}) Set
 tagSecond={^E}Second
 tagSeconds={^E}Seconds
-DamagePerSecond={%.0f0} {^S}Damage Per Second (If Equipped)
+DamagePerSecond={%.0f0} {^S}шкоди за секунду (якщо спорядити)
 DamagePerSecondOffHand={%.0f0} {^S}Damage Per Second (Off-Hand)
-DamagePhysicalChance={%t0} {^E}Physical Damage
-DamageBasePhysical={%t0} {^S}Physical Damage
+DamagePhysicalChance={%t0} {^E}фізичної шкоди
+DamageBasePhysical={%t0} {^S}фізичної шкоди
 DamageBasePierceRatio={%.0f0}% {^S}Armor Piercing
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}Armor Piercing
-DamageBonusPhysical={%t0} {^E}Physical Damage
+DamageBonusPhysical={%t0} {^E}фізичної шкоди
 tagDamageBaseFire={%t0} {^S}Fire Damage
 tagDamageBaseLightning={%t0} {^S}Lightning Damage
 tagDamageBaseCold={%t0} {^S}Cold Damage
@@ -1891,7 +1891,7 @@ DamageLightning={%t0} {^E}Lightning Damage
 DamageElemental={%t0} {^E}Elemental Damage
 DamageModifierElemental={%+.0f0}% {^E}Elemental Damage
 DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Elemental Damage
-DamagePhysical=+{%t0} {^E}Physical Damage
+DamagePhysical=+{%t0} {^E}фізичної шкоди
 DamagePierce={%t0} {^E}Piercing Damage
 DamagePoison={%t0} {^E}Acid Damage
 DamageKnockdown={^E}Knockdown target{^H}{%t0}
@@ -1943,8 +1943,8 @@ DamageElementalResistanceReductionAbsolute= {^E}Reduced target's Elemental Resis
 DamageDurationFumble=% {^E}Chance for target to Fumble attacks
 DamageDurationProjectileFumble=% {^E}Chance of Impaired Aim to target
 
-DamageModifierPhysical={%+.0f0}% {^E}Physical Damage
-DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Physical Damage
+DamageModifierPhysical={%+.0f0}% {^E}фізичної шкоди
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}фізичної шкоди
 DamageModifierPierceRatio={^E}Increases Armor Piercing by {^H}{%.0f0}%
 DamageModifierPierceRatioR={^E}Increases Armor Piercing by {^H}{%.0f0}-{%.0f1}%
 DamageModifierPierce={%+.0f0}% {^E}Pierce Damage
@@ -2053,10 +2053,10 @@ RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}Reduced Offensive Abil
 RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}Damage Reduction Retaliation
 RetaliationDurationModifierPoison={%+.0f0}% {^E}Poison Retaliation
 
-DefenseAbsorptionProtection={%.0f0} Armor
-DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} Armor
-DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}Armor
-DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}Armor
+DefenseAbsorptionProtection={%.0f0} броні
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} броні
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}броні
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}броні
 DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}Bonus Armor
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}Bonus Armor
 DefensePhysical={%.0f0}% {^E}Physical Resistance
@@ -2243,7 +2243,7 @@ tagItemSkillModified= {^E}to {^Z}{%s0}
 
 tagAutoSort=Auto Sort
 tagAutoComplete=Complete Components
-tagAttributeUndo=Undo
+tagAttributeUndo=Скасувати
 
 tagQuestItem=Quest Item
 
@@ -2252,9 +2252,9 @@ tagCR_Jewelry=Jewelry:
 tagRelicError=You cannot apply a relic or charm to an Epic or Legendary item.
 
 tagExperienceDisplayFormat=Current Experience : {^y}{%t0}{^w}  ~  Experience to Next Level : {^y}{%t1}
-tagCXP=XP : {%t0}
-tagGrave01=Player Grave ~ {%t0}
-tagGrave02=Slain By {%t0}
+tagCXP=Досвід : {%t0}
+tagGrave01=Могила гравця ~ {%t0}
+tagGrave02=Вбивця {%t0}
 tagGrave03=Experience Reclaimed : {%d0}
 tagHeroXPShort={%d0} Hero XP
 tagBossXPShort={%d0} Boss XP
@@ -2311,7 +2311,7 @@ tagStackCancel=Скасувати
 #Multiplayer
 
 tagMPTrade=Trade
-tagMPGroup=Group
+tagMPGroup=Група
 tagMPInGame=In Game
 tagMPCharName=Character Name
 tagMPCharLevel=Level
@@ -2361,7 +2361,7 @@ tagTradeError04=You do not have enough room in your inventory to accept this tra
 tagTradeButton01=Trade
 tagTradeButton02=Скасувати
 tagTradeDistance=That player is too far away to trade with.
-tagChatGroup=Group
+tagChatGroup=Група
 tagChatAll=ALL
 tagChatFriends=FRIENDS
 tagChatReply=REPLY
