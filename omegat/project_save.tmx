@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kyzogg the Reanimator</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T151209Z" creationid="Dmytro" creationdate="20210522T151209Z">
+        <seg>Кайзоґ Реаніматор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kyzogg's Skull</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T151146Z" creationid="Dmytro" creationdate="20210522T151146Z">
