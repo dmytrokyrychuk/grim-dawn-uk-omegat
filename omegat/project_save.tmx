@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
+        <seg>Поговори з капітаном Джоном Бурбоном у Дідьковому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spirit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T134952Z" creationid="Дмитро Киричук" creationdate="20200712T134952Z">
