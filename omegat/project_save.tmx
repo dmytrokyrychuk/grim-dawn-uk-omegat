@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Burial Cave</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T143417Z" creationid="Dmytro" creationdate="20210522T143417Z">
+        <seg>Поховальна  печера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Resistance</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170513Z" creationid="Дмитро Киричук" creationdate="20200709T170513Z">
