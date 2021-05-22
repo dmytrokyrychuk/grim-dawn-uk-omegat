@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Burial Hill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T145948Z" creationid="Dmytro" creationdate="20210522T145948Z">
+        <seg>Поховальний Пагорб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
@@ -216,8 +224,8 @@
       <tuv lang="en">
         <seg>Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20210522T145856Z" creationid="Dmytro" creationdate="20210522T145856Z">
-        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.</seg>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих. {^n}{^n}Він вважає, що вони приходять з-під Поховального Пагорба. Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя. Поховальний Пагорб буде зліва від розгалуження дороги за річкою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Entrance</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150114Z" creationid="Dmytro" creationdate="20210522T150114Z">
+        <seg>Вхід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143656Z" creationid="Дмитро Киричук" creationdate="20200712T143656Z">
         <seg>Добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Foggy Bank</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150010Z" creationid="Dmytro" creationdate="20210522T150010Z">
+        <seg>Туманний Берег</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165636Z" creationid="Дмитро Киричук" creationdate="20200709T165636Z">
         <seg>Блок підйому предметів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lower Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150001Z" creationid="Dmytro" creationdate="20210522T150001Z">
+        <seg>Нижнє Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
