@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find The Burial Cave</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T143427Z" creationid="Dmytro" creationdate="20210522T143427Z">
+        <seg>Знайди поховальну печеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fine.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143656Z" creationid="Дмитро Киричук" creationdate="20200712T143656Z">
