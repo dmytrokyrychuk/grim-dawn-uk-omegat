@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resistances</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T151846Z" creationid="Dmytro" creationdate="20210522T151846Z">
+        <seg>О́пори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Captain John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150937Z" creationid="Dmytro" creationdate="20210522T150937Z">
