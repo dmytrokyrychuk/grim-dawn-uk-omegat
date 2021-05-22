@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A creature in the cave underneath Burial Hill is causing the Dead to rise! {^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
+        <seg>Істота, що живе під Поховальним Пагорбом, піднімає мертвих на ноги! {^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A shady character who will store your gear and transport it between your characters.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
@@ -646,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the Cave under Burial Hill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150547Z" creationid="Dmytro" creationdate="20210522T150547Z">
+        <seg>Зайди в печеру під Поховальним Пагорбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entrance</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150114Z" creationid="Dmytro" creationdate="20210522T150114Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
         <seg>Вбий зомбі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Killing the Reanimator</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150620Z" creationid="Dmytro" creationdate="20210522T150620Z">
+        <seg>Вбити Реаніматора</seg>
       </tuv>
     </tu>
     <tu>
