@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kyzogg's Skull</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T151146Z" creationid="Dmytro" creationdate="20210522T151146Z">
+        <seg>Кайзоґовий череп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LAN</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163156Z" creationid="Дмитро Киричук" creationdate="20200709T163156Z">
