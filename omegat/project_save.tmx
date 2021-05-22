@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
+        <seg>Шибеник Джарвіс сказав, що капітан Джон Бурбон врятував тебе прямо з-під його носа.{^n}{^n} Капітана можна знайти далі по дорозі, біля кам'яного мосту. Він хоче з тобою поговорити. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Harmond</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180321Z" creationid="Дмитро Киричук" creationdate="20200709T180321Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163153Z" creationid="Дмитро Киричук" creationdate="20200709T163153Z">
         <seg>Інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intro</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T141132Z" creationid="Dmytro" creationdate="20210522T141132Z">
+        <seg>Вступ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164327Z" creationid="Дмитро Киричук" creationdate="20200709T164327Z">
         <seg>Очікування сервера...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Waking to Misery</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T141128Z" creationid="Dmytro" creationdate="20210522T141128Z">
+        <seg>Нещасливе пробудження</seg>
       </tuv>
     </tu>
     <tu>
