@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alright then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105947Z" creationid="Dmytro" creationdate="20220106T105947Z">
+        <seg>Ну добре тоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153355Z" creationid="Дмитро Киричук" creationdate="20200709T153355Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170337Z" creationid="Дмитро Киричук" creationdate="20200709T170337Z">
         <seg>Капітан Джон Бурбон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cause you have evil in your tummy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105939Z" creationid="Dmytro" creationdate="20220106T105939Z">
+        <seg>Бо у тебе в животі зло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Farewell.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110020Z" creationid="Dmytro" creationdate="20220106T110020Z">
+        <seg>Прощавай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find The Burial Cave</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143427Z" creationid="Dmytro" creationdate="20210522T143427Z">
@@ -766,10 +790,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glad to hear it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105906Z" creationid="Dmytro" creationdate="20220106T105906Z">
+        <seg>[[ms]Радий[fs]Рада] це чути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gods know what your plans are, 'Taken', but I can't deny what you've done up at the Necropolis.{^n}{^n}If you had burnt in the pile with all the rest...well...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T144520Z" creationid="Дмитро Киричук" creationdate="20200712T144338Z">
         <seg>Хто зна, що ти задумав, '[[ms]одержимий[fs]одержима]', та я не міг не звернути уваги на те, що ти зробив[[ms]зробив[fs]зробила] у Некрополісі.{^n}{^n}Якби ти [[ms]згорів[fs]згоріла] вкупі з усіма...тоді б...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Good luck.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110010Z" creationid="Dmytro" creationdate="20220106T110010Z">
+        <seg>Щасливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +882,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
         <seg>Зайти у спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I just do what needs to be done.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105721Z" creationid="Dmytro" creationdate="20220106T105721Z">
+        <seg>Я роблю те, що треба робити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I see.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105943Z" creationid="Dmytro" creationdate="20220106T105943Z">
+        <seg>Розумію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1162,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163520Z" creationid="Дмитро Киричук" creationdate="20200709T163221Z">
         <seg>Гравців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mrs. Constance is making new clothes for everyone!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105844Z" creationid="Dmytro" creationdate="20220106T105844Z">
+        <seg>Місіс Констанція шиє всім новий одяг!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mrs. Constance says I'm not supposed to talk to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105927Z" creationid="Dmytro" creationdate="20220106T105927Z">
+        <seg>Місіс Констанція каже, щоб я з тобою не говорив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run along now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105739Z" creationid="Dmytro" creationdate="20220106T105739Z">
+        <seg>Біжи тепер далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shield</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181445Z" creationid="Дмитро Киричук" creationdate="20200721T181445Z">
@@ -1602,6 +1682,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105526Z" creationid="Dmytro" creationdate="20220106T105526Z">
         <seg>Дякую!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105725Z" creationid="Dmytro" creationdate="20220106T105725Z">
+        <seg>Дякую.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1826,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Ласкаво просимо на тестування багатокористувацького режиму!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why is that?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105930Z" creationid="Dmytro" creationdate="20220106T105930Z">
+        <seg>Чому?</seg>
       </tuv>
     </tu>
     <tu>
