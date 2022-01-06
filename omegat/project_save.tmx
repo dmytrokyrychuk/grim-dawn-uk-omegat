@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I ended it quickly.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
+        <seg>Я зробив це швидко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I hope they suffered.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114755Z" creationid="Dmytro" creationdate="20220106T114755Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135336Z" creationid="Дмитро Киричук" creationdate="20200712T135336Z">
         <seg>Остання ціль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less guts in ya than I reckoned, but at least they're still inside ya and not spilling out on some road, eh?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115039Z" creationid="Dmytro" creationdate="20220106T115039Z">
+        <seg>У тобі менше мужності, ніж я думав, але тепер вони хоч не розливаються по дорогах, еге ж?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They were a horrifying sight.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114921Z" creationid="Dmytro" creationdate="20220106T114921Z">
+        <seg>Вони виглядали жахливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This world is too cruel for an angel like Annabel.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T112027Z" creationid="Dmytro" creationdate="20220106T112027Z">
@@ -2362,6 +2386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133929Z" creationid="Дмитро Киричук" creationdate="20200712T133929Z">
         <seg>{^g}Вартість продажу  {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Anyway, here's yer iron.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115120Z" creationid="Dmytro" creationdate="20220106T115120Z">
+        <seg>{^n}{^n}Тим не менш, ось твоє залізо.</seg>
       </tuv>
     </tu>
     <tu>
