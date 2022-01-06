@@ -5,3 +5,4 @@ Mrs. Constance	Місіс Констанція
 Alicia	Аліція
 Silas	Сілас
 Tutorial Tip	Підказка
+Tip	Підказка
