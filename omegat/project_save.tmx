@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now eat up!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105535Z" creationid="Dmytro" creationdate="20220106T105535Z">
+        <seg>Тепер їж!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Objectives:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173815Z" creationid="Дмитро Киричук" creationdate="20200709T173815Z">
@@ -1590,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105526Z" creationid="Dmytro" creationdate="20220106T105526Z">
+        <seg>Дякую!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks for playing!{^n}{^n}Grim Dawn is currently available on Steam, or via our website at www.grimdawn.com</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153104Z" creationid="Дмитро Киричук" creationdate="20200709T153104Z">
@@ -1726,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wow!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105641Z" creationid="Dmytro" creationdate="20220106T105641Z">
+        <seg>Ого!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XP : {%t0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141923Z" creationid="Дмитро Киричук" creationdate="20200712T141923Z">
@@ -1810,6 +1834,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're really brave.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105711Z" creationid="Dmytro" creationdate="20220106T105711Z">
+        <seg>Ти дуже [[ms]сміливий[fs]смілива].</seg>
       </tuv>
     </tu>
     <tu>
