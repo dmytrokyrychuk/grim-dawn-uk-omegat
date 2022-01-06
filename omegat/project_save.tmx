@@ -1824,8 +1824,8 @@
       <tuv lang="en">
         <seg>Still drawing breath, I see. You're one lucky bastard, I'll give you that. Best go speak to Captain Bourbon right away. He seems to have a plan for you now that we've spared your life.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122706Z" creationid="Dmytro" creationdate="20220106T122706Z">
-        <seg>Бачу, що ти досі дихаєш. Щастить тобі, це правда. Краще відразу поговори з капітаном Бурбоном. Здається, що у нього є на тебе плани, оскільки ми тебе пощадили.</seg>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
+        <seg>Бачу, що ти досі дихаєш. Щастить тобі, це точно. Краще відразу поговори з капітаном Бурбоном. Здається, що у нього є на тебе плани, оскільки ми тебе пощадили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2210,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You were possessed, so we strung you up. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
+        <seg>Ти  [[ms]був одержимим[fs]була одержимою], тому ми тебе підвісили. Здається, дух покинув твоє тіло до твоєї смерті. {^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани. Він бачить в тобі якусь користь, і я не буду з ними сперечатися.</seg>
       </tuv>
     </tu>
     <tu>
