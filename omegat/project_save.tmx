@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear Monsters</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T160435Z" creationid="Dmytro" creationdate="20220106T160435Z">
+        <seg>Зачисти монстрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173032Z" creationid="Дмитро Киричук" creationdate="20200709T173032Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143427Z" creationid="Dmytro" creationdate="20210522T143427Z">
         <seg>Знайди поховальну печеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the Burrwitch Portal</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T160608Z" creationid="Dmytro" creationdate="20220106T160608Z">
+        <seg>Знайди портал Бурвіча</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1802,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105739Z" creationid="Dmytro" creationdate="20220106T105739Z">
         <seg>Біжи тепер далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Securing Burrwitch</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T160601Z" creationid="Dmytro" creationdate="20220106T160601Z">
+        <seg>Убезпечення Бурвіча</seg>
       </tuv>
     </tu>
     <tu>
