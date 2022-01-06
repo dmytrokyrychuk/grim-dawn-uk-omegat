@@ -2352,8 +2352,8 @@
       <tuv lang="en">
         <seg>You reached {^y}Level {%d0}</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
-        <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T125910Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
+        <seg>Ви досягнули {^y}{%d0} рівня</seg>
       </tuv>
     </tu>
     <tu>
