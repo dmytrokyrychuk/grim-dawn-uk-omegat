@@ -10,3 +10,4 @@ Annabel	Анабель
 Warden	Наглядач
 Homestead	Садиба
 Barnabas	Барнабас
+Burrwitch	Бурвіч
