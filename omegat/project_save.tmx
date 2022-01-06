@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alicia</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110104Z" creationid="Dmytro" creationdate="20220106T110104Z">
+        <seg>Аліція</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alright then.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105947Z" creationid="Dmytro" creationdate="20220106T105947Z">
@@ -814,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goodbye.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110133Z" creationid="Dmytro" creationdate="20220106T110133Z">
+        <seg>До побачення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
@@ -1002,6 +1018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
         <seg>Створити спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just passing through.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110128Z" creationid="Dmytro" creationdate="20220106T110128Z">
+        <seg>Просто йду собі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please move on.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110112Z" creationid="Dmytro" creationdate="20220106T110112Z">
+        <seg>Будь ласка, проходь далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please post problems to the Grim Dawn forum.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
@@ -1814,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We have nothing to offer you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110124Z" creationid="Dmytro" creationdate="20220106T110124Z">
+        <seg>Ми не маємо, що тобі дати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We weren't going to last much longer out there. We all knew it. Stephen just... snapped one day. If you hadn't arrived when you did... thank you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
@@ -1866,6 +1906,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173020Z" creationid="Дмитро Киричук" creationdate="20200709T173020Z">
         <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes, he seemed pleased.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110029Z" creationid="Dmytro" creationdate="20220106T110029Z">
+        <seg>Так, він виглядав задоволено.</seg>
       </tuv>
     </tu>
     <tu>
