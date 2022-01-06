@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just try to make sure it's not yer own blood...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115637Z" creationid="Dmytro" creationdate="20220106T115637Z">
+        <seg>Але дивися, щоб це була не твоя кров...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kasparov</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180327Z" creationid="Дмитро Киричук" creationdate="20200709T180327Z">
