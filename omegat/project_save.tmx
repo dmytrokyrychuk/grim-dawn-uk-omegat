@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This world is too cruel for an angel like Annabel.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T112027Z" creationid="Dmytro" creationdate="20220106T112027Z">
+        <seg>Цей світ надто жорстокий для такого янгола, як Анабель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173403Z" creationid="Дмитро Киричук" creationdate="20200709T173403Z">
