@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What're you standing around here for? If you're not gonna make yourself useful, we may as well get another noose ready. {^n}{^n}No sense in keeping around another mouth to feed.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
+        <seg>Чого ти тут стоїш? Якщо не займешся чимось корисним, то ми можемо підготувати ще одну петлю. {^n}{^n}Нема сенсу годувати ще й тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where can I find this Captain then?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123242Z" creationid="Dmytro" creationdate="20220106T123242Z">
