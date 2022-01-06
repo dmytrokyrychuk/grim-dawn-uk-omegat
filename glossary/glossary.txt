@@ -11,3 +11,4 @@ Warden	Наглядач
 Homestead	Садиба
 Barnabas	Барнабас
 Burrwitch	Бурвіч
+riftgate	розрив
