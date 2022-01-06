@@ -902,6 +902,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I can tell you've had yer share of horrors.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114652Z" creationid="Dmytro" creationdate="20220106T114652Z">
+        <seg>По тобі видно, що ти бачив свою частку жахів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I did what had to be done.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114908Z" creationid="Dmytro" creationdate="20220106T114908Z">
+        <seg>Я зробив те, що треба було зробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I hope they suffered.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114755Z" creationid="Dmytro" creationdate="20220106T114755Z">
+        <seg>Сподіваюся, вони страждали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I just do what needs to be done.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105721Z" creationid="Dmytro" creationdate="20220106T105721Z">
@@ -1038,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was gruesome and bloody.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114734Z" creationid="Dmytro" creationdate="20220106T114734Z">
+        <seg>Вона була жаливою і кривавою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170355Z" creationid="Дмитро Киричук" creationdate="20200709T170355Z">
@@ -1058,6 +1090,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110128Z" creationid="Dmytro" creationdate="20220106T110128Z">
         <seg>Просто йду собі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just the way I like it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114746Z" creationid="Dmytro" creationdate="20220106T114746Z">
+        <seg>Саме так, як я люблю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173003Z" creationid="Дмитро Киричук" creationdate="20200709T172942Z">
         <seg>Нема завдань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nobody deserves to be torn apart by monsters like that, and now there are a few less in the world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114843Z" creationid="Dmytro" creationdate="20220106T114843Z">
+        <seg>Ніхто не заслуговує бути розірваним на шматки такими монстрами, і тепер їх трохи менше на світі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1802,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173800Z" creationid="Дмитро Киричук" creationdate="20200709T173800Z">
         <seg>Вцілілі - Port Valbury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tell me, what was the battle like?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114714Z" creationid="Dmytro" creationdate="20220106T114714Z">
+        <seg>Розкажи, якою була битва?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114510Z" creationid="Dmytro" creationdate="20220106T114510Z">
         <seg>{^n}{^n}Он твоя плата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Here, take yer iron.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114604Z" creationid="Dmytro" creationdate="20220106T114604Z">
+        <seg>{^n}{^n}Ось, тримай своє залізо.</seg>
       </tuv>
     </tu>
     <tu>
