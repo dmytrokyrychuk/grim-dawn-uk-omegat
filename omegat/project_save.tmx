@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He's up the road, in the courtyard. Don't make me regret cutting you down.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123318Z" creationid="Dmytro" creationdate="20220106T123318Z">
+        <seg>У дворі далі по вулиці. Дивися, щоб я не пошкодував, що тебе зняли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Health</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131214Z" creationid="Дмитро Киричук" creationdate="20200712T131214Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114534Z" creationid="Dmytro" creationdate="20220106T114523Z">
         <seg>Я ще повернуся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll be on my way then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123326Z" creationid="Dmytro" creationdate="20220106T123326Z">
+        <seg>Тоді я йду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1098,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173439Z" creationid="Дмитро Киричук" creationdate="20200709T173439Z">
         <seg>Автосортування вмісту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can wait.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
+        <seg>Це може почекати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2122,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T122055Z" creationid="Dmytro" creationdate="20220106T122055Z">
         <seg>Що сталося... як я сюди [[ms]потрапив[fs]потрапила]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find this Captain then?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123242Z" creationid="Dmytro" creationdate="20220106T123242Z">
+        <seg>Де мені шукати капітана?</seg>
       </tuv>
     </tu>
     <tu>
