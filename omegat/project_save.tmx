@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T111736Z" creationid="Dmytro" creationdate="20220106T111736Z">
+        <seg>Знаєш, інколи коли я закриваю очі, то я бачу її.{^n}{^n}Я чую запах її каштанового волосся, відчуваю її тендітну руку на моїй щоці.{^n}{^n}А потім я розтуляю очі і бачу цю діру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
