@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oh look, it's the possessed one.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115604Z" creationid="Dmytro" creationdate="20220106T115604Z">
+        <seg>Дивиться, це ж одержимий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153525Z" creationid="Дмитро Киричук" creationdate="20200709T153525Z">
