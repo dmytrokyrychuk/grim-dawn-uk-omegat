@@ -758,10 +758,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fine then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124104Z" creationid="Dmytro" creationdate="20220106T124104Z">
+        <seg>Добре тоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fine.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143656Z" creationid="Дмитро Киричук" creationdate="20200712T143656Z">
         <seg>Добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fine. I'm going.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124114Z" creationid="Dmytro" creationdate="20220106T124114Z">
+        <seg>Добре. Я йду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1202,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
         <seg>Вбий зомбі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Killed the Warden, eh? So one bastard killed another. Makes little difference when one survived.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
+        <seg>[[ms]Вбив[fs]Вюила] Наглядача, еге ж? Одна наволоч вбила другу. Це не має значення, якщо інша досі жива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,8 +2296,8 @@
       <tuv lang="en">
         <seg>You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123925Z" creationid="Dmytro" creationdate="20220106T123925Z">
-        <seg>Ти тупий чи що? Капітан Бурбон далі по дорозі. Йди!</seg>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124053Z" creationid="Dmytro" creationdate="20220106T123925Z">
+        <seg>Ти  [[ms]тупий[fs]тупа] чи що? Капітан Бурбон далі по дорозі. Йди!</seg>
       </tuv>
     </tu>
     <tu>
