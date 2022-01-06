@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Destroy Abomination</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105253Z" creationid="Dmytro" creationdate="20220106T105253Z">
+        <seg>Знищити Гидоту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
