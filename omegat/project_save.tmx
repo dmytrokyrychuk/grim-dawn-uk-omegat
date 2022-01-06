@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -70,10 +70,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>A creature in the cave underneath Burial Hill is causing the Dead to rise! {^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
+        <seg>A creature in the cave underneath Burial Hill is causing the Dead to rise!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
-        <seg>Істота, що живе під Поховальним Пагорбом, піднімає мертвих на ноги! {^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+        <seg>Істота, що живе під Поховальним Пагорбом, піднімає мертвих на ноги!</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +230,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.</seg>
+        <seg>Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
-        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих. {^n}{^n}Він вважає, що вони приходять з-під Поховального Пагорба. Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя. Поховальний Пагорб буде зліва від розгалуження дороги за річкою.</seg>
+        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих.</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +790,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.</seg>
+        <seg>Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
-        <seg>Шибеник Джарвіс сказав, що капітан Джон Бурбон врятував тебе прямо з-під його носа.{^n}{^n} Капітана можна знайти далі по дорозі, біля кам'яного мосту. Він хоче з тобою поговорити. </seg>
+        <seg>Шибеник Джарвіс сказав, що капітан Джон Бурбон врятував тебе прямо з-під його носа.{^n}{^n} Капітана можна знайти далі по дорозі, біля кам'яного мосту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once past the stream, Burial Hill will be on the left where the road forks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Поховальний Пагорб буде зліва від розгалуження дороги за річкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Online</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172856Z" creationid="Дмитро Киричук" creationdate="20200709T172856Z">
@@ -1590,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Aetherial Farm</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105024Z" creationid="Dmytro" creationdate="20220106T105024Z">
+        <seg>Ефірна Ферма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Burial Cave</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143417Z" creationid="Dmytro" creationdate="20210522T143417Z">
@@ -1598,10 +1614,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The Reanimator is slain and the Dead should be slowed, for now. {^n}{^n}Return to Captain John Bourbon with the good news.</seg>
+        <seg>The Reanimator is slain and the Dead should be slowed, for now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
-        <seg>Реаніматор вбитий, а напади мертвих сповільнилися, поки що. {^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
+        <seg>Реаніматор вбитий, а напади мертвих сповільнилися, поки що.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170513Z" creationid="Дмитро Киричук" creationdate="20200709T170513Z">
         <seg>Опір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Trials of Homestead</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105233Z" creationid="Dmytro" creationdate="20220106T105233Z">
+        <seg>Садибні випробування</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,14 +1718,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
-        <seg>Ласкаво просимо на тестування багатокористувацького режиму! Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми . Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>XP : {%t0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141923Z" creationid="Дмитро Киричук" creationdate="20200712T141923Z">
@@ -1774,10 +1790,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!</seg>
+        <seg>You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164434Z" creationid="Дмитро Киричук" creationdate="20200709T164434Z">
-        <seg>Ти мусиш увійти до GOG Galaxy, щоб грати Grim Dawn у багатокористувацькому режимі. Будь ласка, увійди до GOG Galaxy та запусти Grim Dawn через GOG!</seg>
+        <seg>Ти мусиш увійти до GOG Galaxy, щоб грати Grim Dawn у багатокористувацькому режимі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2034,46 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T133929Z" creationid="Дмитро Киричук" creationdate="20200712T133929Z">
         <seg>{^g}Вартість продажу  {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>{^n}{^n}Він вважає, що вони приходять з-під Поховального Пагорба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Head north across the bridge and through the ruins of Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
+        <seg>{^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Return to Captain John Bourbon with the good news.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
+        <seg>{^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
+        <seg>Він хоче з тобою поговорити.</seg>
       </tuv>
     </tu>
     <tu>
