@@ -888,8 +888,8 @@
       <tuv lang="en">
         <seg>He's up the road, in the courtyard. Don't make me regret cutting you down.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123318Z" creationid="Dmytro" creationdate="20220106T123318Z">
-        <seg>У дворі далі по вулиці. Дивися, щоб я не пошкодував, що тебе зняли.</seg>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
+        <seg>У дворі далі по дорозі. Дивися, щоб я не пошкодував, що тебе зняли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143700Z" creationid="Дмитро Киричук" creationdate="20200712T143700Z">
         <seg>Я йду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm on my way.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123941Z" creationid="Dmytro" creationdate="20220106T123941Z">
+        <seg>Йду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Who am I supposed to talk to again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123849Z" creationid="Dmytro" creationdate="20220106T123849Z">
+        <seg>З ким це я маю поговорити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Why is that?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105930Z" creationid="Dmytro" creationdate="20220106T105930Z">
@@ -2250,6 +2266,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123925Z" creationid="Dmytro" creationdate="20220106T123925Z">
+        <seg>Ти тупий чи що? Капітан Бурбон далі по дорозі. Йди!</seg>
       </tuv>
     </tu>
     <tu>
