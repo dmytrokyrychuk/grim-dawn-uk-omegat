@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So Bourbon let you stay? Bah! Man is far too trusting. You'll slip eventually. Don't be going far. My noose is lonely.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>То Бурбон дозволив тобі лишитися? Ех! Він надто довірливий. Колись ти послизнешся. Далеко не відходь. Моїй петлі самотньо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T111736Z" creationid="Dmytro" creationdate="20220106T111736Z">
@@ -2062,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Um, right. I'll be going now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124511Z" creationid="Dmytro" creationdate="20220106T124511Z">
+        <seg>Емм, добре. Я вже йду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173403Z" creationid="Дмитро Киричук" creationdate="20200709T173403Z">
@@ -2234,6 +2250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172352Z" creationid="Дмитро Киричук" creationdate="20200721T172352Z">
         <seg>Ти [[ms]помер[fs]померла]!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can't be serious.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124450Z" creationid="Dmytro" creationdate="20220106T124450Z">
+        <seg>Ти, мабуть, жартуєш.</seg>
       </tuv>
     </tu>
     <tu>
