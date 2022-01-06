@@ -28,7 +28,7 @@ No, but we hail from the same banner.{^n}{^n}You chose to work with us back at t
 I do what I can.
 Good luck with that.
 You've done the right thing, for all of us.{^n}{^n}Travel in peace.
-Farewell.
+Прощавай.
 Look here, if it isn't one of Kymon's zealots. I'm not here to fight you. There are greater threats about.{^n}{^n}Have you come to atone for your errors? Or do you serve the forgotten god as well?
 What do you mean?
 I think you know exactly what I mean.{^n}{^n}You chose to side with that sad bastard and his loyal band of fools back in Sorrow's Bastion.{^n}{^n}With your help he nearly wiped out all of our men stationed there. {^n}{^n}And look where that's gotten us.{^n}{^n}Here we are chasing the old fool through this wasteland where he plans to resurrect an ancient god that's bent on vengeance.{^n}{^n}And it looks like he might just pull it off.{^n}{^n}So, thank you for that.
@@ -40,7 +40,7 @@ No, I'm going to do it myself.
 Father Kymon lies dead, by my hand.
 Is he now?{^n}{^n}And to think, felled by one of his own pawns.{^n}{^n}What a fitting end to humanity's betrayer, betrayed by his own ilk.{^n}{^n}That is good news indeed, I will report back to my order.{^n}{^n}Thank you for this news, perhaps the likes of you can indeed atone for your mistakes.{^n}{^n}The Order of Death's Vigil thanks you for bringing balance to Cairn.
 It had to be done.
-Farewell.
+Прощавай.
 Father Kymon was very convincing.
 Of course he was. {^n}{^n}He was trained by the Luminari. Charisma and manipulation are part of his toolkit. With a primordial god at his side, it was trivial for him to convince lesser fools to lay down their lives in his service.{^n}{^n}I suppose you were even convinced that he found a way to defeat the Chthonians.{^n}{^n}The gullible will believe anything, particularly in desperate times like these.{^n}{^n}But that's all behind us.{^n}{^n}What matters now is now is what you do next.{^n}{^n}Will you help us stop him?
 Of course.
@@ -49,13 +49,13 @@ Ok.
 Too bad for them.
 No, I'll do it myself as usual.
 I don't have time for this.
-You're welcome.
+Будь ласка.
 I think you know exactly what I mean.{^n}{^n}You chose to side with that sad bastard and his loyal band of fools back in Sorrow's Bastion.{^n}{^n}And look where your loyalties have gotten us.{^n}{^n}Here we are chasing the old fool through this wasteland where he plans to resurrect an ancient god that's bent on vengeance.{^n}{^n}And it looks like he might just pull it off.{^n}{^n}So, thank you for that.
 
 
 
 I don't have time for this.
-You're welcome.
+Будь ласка.
 I don't have time for your foolishness.
 Hold stranger.{^n}{^n}We are not enemies.
 What are you doing out here?

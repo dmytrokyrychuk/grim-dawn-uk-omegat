@@ -1,6 +1,6 @@
 Angrim
 Move along.
-Farewell.
+Прощавай.
 You and I have nothing left to say to each other.
 I lost the Malleum Menhir.
 Yes, I found it shortly after you left. You continue to insult me with your presence. Take it and be gone.
@@ -34,7 +34,7 @@ It is time the hammer was passed on.
 It is true, Duncan brings a fresh approach to the forge with his arcane weapons and he goes about his work with unrivaled energy, but he still lacks the experience to make weapons for real soldiers and masters of the blade.{^n}{^n}I cannot have the power of Malleum Menhir wasting away when we are at war.
 I will see that his work benefits humanity. (Side with Duncan)
 You'd put him to work, eh? You certainly do seem like the capable sort.{^n}{^n}*Angrim sighs.*{^n}{^n}Very well, Duncan will inherit the Malleum Menhir. Take it to him. Let him do his charity work, but after that...
-Thank you. He and I will do great things.
+Дякую. He and I will do great things.
 We could use your talents in Devil's Crossing.
 Guess I'll just take it by force then.
 
@@ -60,6 +60,6 @@ Good luck in your search.
 
 I...um, nevermind.
 
-Farewell.
+Прощавай.
 Move along.
-Farewell.
+Прощавай.

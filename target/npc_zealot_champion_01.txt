@@ -7,7 +7,7 @@ I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine 
 Just as long as you're on our side.
 For as long as you stand by the righteous and the devout, you need not fear the flame.
 I have another question.
-I see.
+Розумію.
 I have another question.
 I...see...
 Now that you are here, what will you do?
@@ -15,13 +15,13 @@ I will bring the wrath of Empyrion upon those who would defile Cairn, beginning 
 What is at the Necropolis?
 A gathering of darkness. The Cult of Ch'thon and its minions have come together in great numbers.{^n}{^n}For what purpose, it matters not. All shall burn.
 I have another question.
-Goodbye.
+До побачення.
 I have another question.
-Goodbye.
+До побачення.
 What is Empyrion's will?
 Cleanse the world of the impure. Incinerate the heretics in righteous fire!
 I have another question.
-Thank you.
+Дякую.
 Nevermind.
 Um, goodbye.
 What is it, mortal?
@@ -29,8 +29,8 @@ Who, or what, are you?
 I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
 Just as long as you're on our side.
 For as long as you stand by the righteous and the devout, you need not fear the flame.
-I see.
-Goodbye.
+Розумію.
+До побачення.
 By Empyrion's will, I have returned.
 
-Goodbye.
+До побачення.

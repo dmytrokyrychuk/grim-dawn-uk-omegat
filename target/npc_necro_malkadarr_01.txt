@@ -5,7 +5,7 @@ Speak.
 Are you immortal?
 For as long as the ashes burn within me or the Keeper deems it necessary.
 I have another question.
-Goodbye.
+До побачення.
 So what happens now?
 That is for the Keeper to decide. I am hers to command.
 Are you her slave?
@@ -15,7 +15,7 @@ To gain access to the innermost secrets of Necromancy, I had to agree to this bi
 Will you obey me?
 *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
 I have another question.
-I see.
+Розумію.
 I have another question.
 A steep price for knowledge.
 I have another question.
@@ -25,7 +25,7 @@ I shall speak to her then.
 What's it like, being undead?
 A strange question. What does it feel like to be alive?{^n}{^n}I feel no pain. I feel no hunger. I will never tire. Mortal limitations no longer concern me.
 I have another question.
-Goodbye.
+До побачення.
 Nevermind.
 Welcome back, Malkadarr.
 By the will of the Keeper, I have returned.
@@ -33,7 +33,7 @@ Who are you?
 I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
 A resurrection? Impressive.
 A resurrection? That's unsettling.
-Goodbye.
+До побачення.
 So, it is you I must thank for my resurrection?
 So what happens now?
 That is for the Keeper to decide. I am hers to command.
@@ -43,7 +43,7 @@ Why would you agree to this?
 To gain access to the innermost secrets of Necromancy, I had to agree to this binding, so that all I learn is not lost should I perish.{^n}{^n}It was a price worth paying; an honor, not a curse.
 Will you obey me?
 *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
-I see.
+Розумію.
 A steep price for knowledge.
 Sounds like a terrible fate.
 I shall speak to her then.
@@ -53,4 +53,4 @@ Who are you?
 I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
 A resurrection, impressive.
 A resurrection? That's unsettling.
-Goodbye.
+До побачення.

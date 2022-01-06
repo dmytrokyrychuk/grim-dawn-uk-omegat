@@ -19,7 +19,7 @@ Your powers are invaluable in combat.
 As they should be, little shaman.{^n}{^n}Drink deep of my power and bring yourself closer to your god.
 
 I will.
-Farewell.
+Прощавай.
 I am wary of your gifts.
 I'd rather not discuss this.
 What is this little thing that stands before me?{^n}{^n}Have you come to offer yourself to a god?
@@ -40,7 +40,7 @@ The primordial servant may have left your body, but it has also left its mark.{^
 
 
 I have another question.
-I see.
+Розумію.
 Um, I think I'll be going.
 I won't just stand here and take insults from you.
 Is that so? Does the worm wish to rise above the dirt and fly as a bird?{^n}{^n}Wishes do not change our station. Learn your place and appreciate that you still live.
@@ -54,14 +54,14 @@ I have another question.
 
 How's this for an empty threat? (Misguidedly Attack)
 I'll leave you be, this time...
-I see.
+Розумію.
 What is your will?
 I shall begin by hunting down the one who scorned me. The beast god will suffer for his transgressions.{^n}{^n}Then we shall scour this world clean of dead gods and their pathetic servants.
 What has Mogdrogen done?
 At the peak of his power, the beast god strove to rule over nature as he saw fit.{^n}{^n}Others like myself rose to oppose him, many fell. My body was destroyed and my disembodied form forced to roam the veil for millennia.{^n}{^n}But I have returned, and my vengeance will be absolute.
 I have another question.
 Send that arrogant bastard my regards.
-I see.
+Розумію.
 I have another question.
 Praise Ravager!
 I'll be going now.
@@ -74,11 +74,11 @@ You do not impress me, I've faced a god and won.
 You speak of Mogdrogen? That pathetic creature has been in decline for centuries.{^n}{^n}He and I shall meet again, and this time he shall not have the upper hand.
 I have another question.
  (Misguidedly Attack)
-I see.
+Розумію.
 Why the hatred of Chthonians?
 They seek to claim blood that is rightfully mine!{^n}{^n}I shall feast upon the marrow of their bones and the blood they had gathered will briefly sate my endless hunger!
 I have another question.
-I see.
+Розумію.
 Nevermind.
 Praise Ravager!
 I'll be going now.

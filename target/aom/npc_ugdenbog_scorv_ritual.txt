@@ -1,7 +1,7 @@
 Scorv Egdenor
 A glorious age will soon begin.
 I'm out of here.
-Farewell.
+Прощавай.
 It is a pity we could not find agreement, but as you can see, it is far too late for hostilities now.
 So you say.
 You have pleased Ravager with your actions, outsider.{^n}{^n}When this world is scoured of unbelievers and fiends, perhaps you too shall be among the chosen few who will rise up from the ashes.
@@ -10,7 +10,7 @@ There are no secrets between us.{^n}{^n}*Scorv smiles widely*
 What is Ravager exactly?
 Ravager is as old as Cairn, the primal embodiment of hunger, of life and death; the vicious cycle of predator and prey.{^n}{^n}Wrongfully scorned by the beast god, Ravager was forced to hide within the shadows, but he has returned to us and with our worship he rivals even the gods.
 I have another question.
-I see.
+Розумію.
 What is Ravager's plan?
 With his body remade, Ravager will rid this world of the Chthonic taint that threatens to steal the precious blood that is rightfully his.{^n}{^n}Then, all show bow before their god, or be extinguished.
 I have another question.
@@ -19,7 +19,7 @@ As they should.
 What is next for Barrowholm?
 With our god manifested, we shall thrive unchallenged.{^n}{^n}None can hope to stand against us now. But we only shall go where Ravager commands.
 I have another question.
-I see.
+Розумію.
 Forget it.
 How did you come to serve the Wendigo?
 Oh, that old tale.{^n}{^n}I was a traveler, much like yourself, but unlike you I was not one for battle. I had a partner back then, her name was Jessa. Together, we foolishly wandered into Ugdenbog and got lost. We roamed for days, sometimes circling back to where we were days before. The water was poison, the only food was more likely to eat me back than offer any sustenance. In short, we were doomed.{^n}{^n}I'm not sure who got the idea first, but we both eyed each other with a ravenous hunger fueled by desperation. I overpowered Jessa and plunged my knife into her heart. As her blood oozed out of the wound and she choked on her last words, I drank deep of the crimson. I ate well that day as tears poured down my face.{^n}{^n}The next night, my dreams were plagued by feverish visions. I was visited by a spirit. It smiled at me with a wide grin and offered solace in my misery. It said that my soul was forfeit for what I had done, but that need not be the end. It offered me an anguished tale of its banishment and how it desired only to return to the mortal realm. With my help, its aspirations could become reality. In return, it offered salvation from my cursed fate. I willingly agreed.{^n}{^n}On that day, I became the herald of Ravager.
@@ -42,10 +42,10 @@ Er, great!
 Rather disgusting.
 Charming.
 I'll be leaving now.
-Farewell.
+Прощавай.
 A glorious age will soon begin.
 I'm out of here.
-Farewell.
+Прощавай.
 A massive burden and honor has been placed upon you, outsider.{^n}{^n}Think about this carefully.
 I think I've decided.
 Who shall serve as the Ravager's flesh?
@@ -147,7 +147,7 @@ Very well.
 What's with the new outfits?
 The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
 
-I see.
+Розумію.
 
 I suppose so.
 Think I've already done too much.
@@ -175,7 +175,7 @@ The time for deceptions is over. Today we gather to honor the Great Wendigo Spir
 
 
 This isn't what I signed up for.
-I see.
+Розумію.
 Have you dealt with that pest yet?
 Where is the witch hiding again?
 Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog.
@@ -185,14 +185,14 @@ What's with the new outfits?
 The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
 
 This isn't what I signed up for.
-I see.
+Розумію.
 Not yet.
 What you see may come as a shock, but do not fear us.{^n}{^n}You have already proven loyal.
 What's with the new outfits?
 The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
 This isn't what I signed up for.
-I see.
+Розумію.
 
 A glorious age will soon begin.
 I'm out of here.
-Farewell.
+Прощавай.

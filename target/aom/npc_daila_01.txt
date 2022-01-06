@@ -15,15 +15,15 @@ I have another question.
 Don't do anything foolish.
 Be careful, Daila.
 I have another question.
-Good luck.
+Щасливо.
 You seem rather secretive about your father.
 He left us when we were still children and never returned, so I don't feel particularly protective of him.{^n}{^n}Honestly, there is so much misinformation out there, I'm not sure what to believe and what is myth.{^n}{^n}I know that he is a powerful mage and that he learned things about the arcane in his lifetime that most only dream of. He's also done some regrettable things in his day, things that Dravis now pursues.
 Regrettable things?
 When he taught us some rudimentary magic, he warned us of abusing it.{^n}{^n}In the past he had used people, often unwillingly, as sources of power; even as conduits for his rituals.{^n}{^n}He did not hold anything back. He wanted us to know that magic is often ugly and can be misused in the wrong hands.
 I have another question.
-I see.
+Розумію.
 I have another question.
-Farewell.
+Прощавай.
 Nevermind.
 Hope you find him.
 Don't you have someplace better to be?
@@ -69,15 +69,15 @@ I'm sure you do.{^n}{^n}But is this really the right time?
 Who's your father?
 *Daila sighs*{^n}{^n}I knew him as Armin Thall, but have since learned that he bore many names in his lengthy lifetime. I do not know anymore which is true.{^n}{^n}Dravis now pursues relentlessly, hoping for some form of revenge. I've tracked him down as far as here, but the trail has gone cold.
 I have another question.
-I see.
+Розумію.
 You left your husband behind?
 Oliver? He'll understand, in time.{^n}{^n}He's a good man, but he has a very narrow view of the world that doesn't leave much room for its wonders...and dangers.
 I have another question.
-I see.
+Розумію.
 How did you get all the way out here on your own?
 Don't underestimate a girl's desire to see the world.{^n}{^n}I can take care of myself and I know ways to get around that you may not consider.
 I have another question.
-I see.
+Розумію.
 Nevermind.
 I'm still searching
 Well, you've convinced me. Here I am, tracking my deranged brother.{^n}{^n}Now are you going to help me or not?
@@ -122,7 +122,7 @@ A few embellishments here and there, but yes, they happened.{^n}{^n}Oliver likes
 You should take the sword.
 What are you doing out here?
 
-I see.
+Розумію.
 What are you doing out here?
 Um, alright.
 Whoah, hold on, I have some questions.

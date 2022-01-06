@@ -1,17 +1,17 @@
 Brother Molltair
 You have chosen wisely, friend.
-Farewell.
+Прощавай.
 You have chosen wisely, friend.
-Farewell.
+Прощавай.
 You've made your choice, now leave me be.
-Goodbye.
+До побачення.
 I have come to represent Kymon's Chosen, as your superiors have requested.
 
-Goodbye.
+До побачення.
 You are expected at our Enclave.
 Where is your enclave located?
 Head out through the northern gates and into the Fallow Fields. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
-Thank you.
+Дякую.
 I'm on my way.
 I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
 I will seek out your enclave.
@@ -75,9 +75,9 @@ We are well equipped to deal with the fiends infesting our world. There is somet
 
 
 I'll need some time to think this through.
-Goodbye.
+До побачення.
 I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.
 Who are the Kymon's Chosen?
 We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
-I see.
-Goodbye.
+Розумію.
+До побачення.

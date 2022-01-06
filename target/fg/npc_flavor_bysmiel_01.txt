@@ -34,7 +34,7 @@ I suppose that's true.
 I don't think so witch.
 Well, to be quite frank, it is a search for knowledge and power...a race even.{^n}{^n}We seek to uncover the secrets of the past so that we might unlock them before they fall into the hands of our adversaries.{^n}{^n}There are those who would use such information for the misfortune of us all, as I'm sure you're aware.{^n}{^n}Instead, the relics serve the purposes of the Three, and we are justly rewarded.
 
-I see.
+Розумію.
 Keep up the good work sister.
 Well, to be quite frank, it is a search for knowledge and power...a race even.{^n}{^n}We seek to uncover the secrets of the past so that we might unlock them before they fall into the hands of our adversaries.{^n}{^n}There are those who would use such information for the misfortune of us all, as I'm sure you're aware.
 
@@ -56,7 +56,7 @@ That's interesting.
 I don't have time to talk right now.
 Thanks.
 Welcome [[ms]brother[fs]sister]. The Emissary spoke of your arrival. {^n}{^n}I believe he's waiting for you.
-Thank you.
+Дякую.
 I'll go find him.
 Hello there stranger.{^n}{^n}You had better go speak with the Emissary before you go wandering around the camp.
 I'll go wherever I please.

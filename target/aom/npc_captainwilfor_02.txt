@@ -15,7 +15,7 @@ It's a lot to process.
 It had to be done.
 I couldn't let this carnage continue.
 With you and the Black Legion here, we stand a fighting chance again.{^n}{^n}Thank you.
-You're welcome.
+Будь ласка.
 We're all in this together.
 I admit it, I was wrong to sink to despair.{^n}{^n}We still have a fighting chance, and we have to take it.
 That's the spirit.
@@ -25,12 +25,12 @@ Good on you to put yourself at risk for the safety of others.{^n}{^n}I'll be sur
 What's next?
 I believe Korinia's got something big planned for the harbor. You should speak to her when you get the chance.
 I will.
-Farewell.
+Прощавай.
 Good on you to put yourself at risk for the safety of others.{^n}{^n}I'll be sure that they do their fair share from within the hideout, and not out there. Not everybody's cut out for the warrior life.
 What's next?
 I believe Korinia's got something big planned for the harbor, but she's not ready to discuss her plans yet.
-I see.
-Farewell.
+Розумію.
+Прощавай.
 Any luck out there? Did you find the volunteers out in the Steelcap District?
 Where should I look?
 If they're still alive, I'd check anywhere the Aetherials might have a hard time finding.{^n}{^n}If Hyram and Nadia were discovered, there won't be anything left for you to bring back. The Aetherials don't waste living human tissue these days.
@@ -73,7 +73,7 @@ It's good to see the Steelcap District again, even if it's worse for wear.
 What's our next move?
 I cannot say. Korinia and that inquisitor are cooking up something new in the hopes of taking down Crown Hill.{^n}{^n}I'd speak to them.
 Alright.
-Farewell.
+Прощавай.
 Well? Have you sabotaged the Aetherial efforts in the Candle District?
 It is done. The wagons are destroyed.
 Good, one less thing to worry about. Here, some iron bits for your trouble.{^n}{^n}And I see you've already taken care of our next concern, which is to recover weapons and supplies from the Steelcap District.{^n}{^n}Well done. Kaylon will be pleased to finally get back to work.

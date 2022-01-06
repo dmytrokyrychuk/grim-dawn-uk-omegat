@@ -11,9 +11,9 @@ It is one thing to wage war, for man to kill another man for the sake of food, l
 We must persevere.
 Word of your deeds travels fast, friend.{^n}{^n}*Barnabas raises a glass of water*{^n}{^n}To you, and to the fallen.
 There is still a future for Cairn, so long as we fight for it.
-Thank you.
+Дякую.
 It's been too long since I've laid my eyes on fresh corn. I used to hate the stuff. Now it's like a blessing.
-Farewell.
+Прощавай.
 Yer friends have done wonders to secure our relations with Homestead. This sanctuary would not survive without the help of people like you.
 We all do our part.
 Your allies already made good work of everythin' I needed done.
@@ -26,7 +26,7 @@ We will survive. I will make sure of it.
 You found yer way to Homestead? Tell me, is there any hope for it? Do we stand a chance?
 I found some people out there.
 Interesting. I don' suppose they were handing out food, were they now?
-I need to speak with them. Farewell.
+I need to speak with them. Прощавай.
 How goes the journey?
 Where am I headed again?
 Head northwest out of Devil's Crossing across the bridge we repaired. The journey will take you far to the northwest, and we haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coastal bridge near Twin Falls still stands.{^n}{^n}If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
@@ -50,9 +50,9 @@ My pleasure.
 Any luck clearing out those Slith? People are starting to beg me for water. {^n}{^n}I don' know how many more times I can say 'it'll melt yer guts' before they just rush me and take it.
 I've taken care of it.
 Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack. Useful for hauling back Scrap or whatever else you come across. I'm too old for that stuff now.
-Thank you. Glad to be of help.
+Дякую. Glad to be of help.
 Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.
-Thank you. Glad to be of help.
+Дякую. Glad to be of help.
 Have you cleared out the Slith den?
 Not yet, where is it again?
 Open the cellar in the shack behind me. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.

@@ -1,15 +1,15 @@
 Spellbreaker Moira
 The Legion is indebted to you. It would be an honor to fight by your side.
-Farewell.
+Прощавай.
 Few would brave the Immolation as you have.{^n}{^n}The Legion thanks you.
-Farewell.
+Прощавай.
 Moira of the Spellbreaker Division, at your service.
 
-Farewell.
+Прощавай.
 Have you braved the Immolation?
 The Herald of Destruction lies dead.
 You've done us all a great service. With the Herald gone, the Aetherials will not be able to spread their aetherfire in the south.{^n}{^n}I'd also like to personally thank you for avenging my fellow soldiers. I'll sleep easier knowing the thing that slaughtered them is gone.
-Farewell.
+Прощавай.
 Have you braved the Immolation?
 Where is it located?
 The Aetherials have infested an area of Deadman's Gulch we have begun calling the Immolation. It is a terrible place of aetherfire and corruption. One of their obelisks, the Herald of Destruction, is there.
@@ -31,4 +31,4 @@ Moira of the Spellbreaker Division, at your service.
 What's a Spellbreaker?
 We are Legion-sanctioned arcanists specialized in disrupting enemy spellcasters. Our primary duty is the nullification and elimination of enemy arcane capabilities.{^n}{^n}With the Aetherial threat growing, our ranks are stretched all too thin.
 Intriguing.
-Farewell.
+Прощавай.

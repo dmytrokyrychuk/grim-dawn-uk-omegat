@@ -8,7 +8,7 @@ This here's Garrund's home. Ain't got nowhere else to go.{^n}{^n}Of course, Garr
 Ok, I'll keep that in mind.
 Ok, you crazy old drunk.
 Have fun down here.
-Farewell.
+Прощавай.
 Got any more tales for me?
 Hm, well let's see. {^n}{^n}How bout Garrund's favorite bar fight, ya that there's a good one. {^n}{^n}Happened at a watterin' hole called Freighters down ta the Blackirons. Place was run by a crusty old sailor named Nicholas Kotch. Ya see there weren't nothin' Nick knew better than the sauce, made him a damn good business out of it too, but that there's a story for a different time.{^n}{^n}That night Garrund was down there sittin' at the bar doin what he did best... {^n}{^n}He was drinkin ya see?{^n}{^n}
 I thought fighting was what he did best?
@@ -87,7 +87,7 @@ See. You aren't so useless after all.
 Sounds like a tall tale to me.
 I'm sorry to hear that.
 Ok, I think I need to get going.
-Farewell.
+Прощавай.
 I don't have time for this.
 You were a soldier? Got any war stories?
 Sorry, I need to go.

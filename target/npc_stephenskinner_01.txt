@@ -1,6 +1,6 @@
 Stephen Skinner
 Leave me to my troubles.
-Alright then.
+Ну добре тоді.
 Stand back. I'm burning this shack down. My family does not need to suffer any longer in this horrible world.
 Is your family in there? Are you insane?!
 Stay out of this. It's for the best.
@@ -23,5 +23,5 @@ We defend it. There is shelter and drinking water. Please, join us.
 Perhaps this is the fresh start we needed. I really hope you speak the truth. Alright, take us there.
 I'll see you and your family there. (Open Riftgate)
 You're right. Go ahead.
-Fine. Go ahead.
+Добре. Go ahead.
 Nope. Not dealing with crazy.

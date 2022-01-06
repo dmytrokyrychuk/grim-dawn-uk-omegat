@@ -15,9 +15,9 @@ Bring them on!
 They don't stand a chance.
 I've had enough of your associates. Send them away.
 I understand if they're too much for ya!{^n}{^n}Very well, I'll send them off. I've got other debts to claim...
-Thank you.
+Дякую.
 I'm just giving them a break.
-Farewell.
+Прощавай.
 Do you have something for me?
 Here, the Iris.
 Splendid work, my friend. You and I are settled.{^n}{^n}In fact, I'll throw in one last prize for a job well done, no favors necessary.
@@ -25,7 +25,7 @@ What do you plan to do with it?
 What does one do with an eye? Might see things you shouldn't.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
 I don't trust you.
 Yes, well, trust was never part of the bargain!
-Fine.
+Добре.
 Don't do anything foolish.
 You better.
 Don't do anything foolish.
@@ -38,7 +38,7 @@ Why do you need this Iris?
 Hm, I don't think knowing anything was part of our deal.{^n}{^n}What I do with it is my business, friend.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
 I don't trust you.
 Yes, well, trust was never part of the bargain!{^n}{^n}Now off you go!
-Fine.
+Добре.
 Hm, alright.
 Alright.
 I'm still searching.
@@ -56,7 +56,7 @@ Now why didn't you say so in the first place. You are a legend in the making, my
 Now will you get your goons off my back?
 Consider it done, my friend. Consider it done.
 Good, they were a nuisance.
-Thank you.
+Дякую.
 Good, we are done then.
 Will you send your goons away?
 Hm, perhaps I could...if you get me what I need.

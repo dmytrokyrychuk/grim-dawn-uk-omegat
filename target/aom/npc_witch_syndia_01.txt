@@ -1,21 +1,21 @@
 Guardian Syndia
 Thank you for finding our missing sisters.{^n}{^n}It appears that you can be trusted, unlike most that stumble upon here.
 Seemed like the right thing to do.
-Farewell.
+Прощавай.
 Watch yourself, outsider.{^n}{^n}Uninvited guests aren't welcome here.
 I'll be off then.
 It seems that we owe you a debt of gratitude.{^n}{^n}The sisters you found while out in Ugdenbog have all returned safely thanks to you.
-You're welcome.
+Будь ласка.
 They've already suffered under the empire. They deserve a better life. Getting devoured by those beasts would have been a cruel end.{^n}{^n}Thank you. And here, my end of the deal, as promised.
 Glad they are safe now.
-Farewell.
+Прощавай.
 Any luck with the search?
 Where are the lost sisters?
 We fear that they have become stranded in Ugdenbog, or worse, captured by cannibals.{^n}{^n}If you find yourself out in Ugdenbog, please keep an eye out for them.
 I will.
 I'm still looking.
 It seems that we already owe you a debt of gratitude.{^n}{^n}The sisters you found while out in Ugdenbog have all returned safely thanks to you.{^n}{^n}Please, take these materials as a small gesture of our thanks.
-You're welcome.
+Будь ласка.
 
 Greetings, outsider.{^n}{^n}I am told that you are heading into Ugdenbog. Brave of you.{^n}{^n}I was wondering if you could assist us in an important matter while you are out there.
 What did you have in mind?

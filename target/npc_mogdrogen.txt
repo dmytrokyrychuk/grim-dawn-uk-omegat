@@ -9,10 +9,10 @@ Don't make that mistake again.
 Has your rage cooled, mortal?{^n}{^n}Are you finished with your futile outbursts of violence?
 
 I'm just getting started.
-Farewell.
+Прощавай.
 Have you come to pay your respects, mortal?
 
-Farewell.
+Прощавай.
 Come to pay your respects?
 May I ask some questions?
 Ask.
@@ -71,7 +71,7 @@ I have another question.
 Alright then, I'll be going.
 I apologize.
 I have another question.
-I see.
+Розумію.
 Were you mortal once?
 An insulting question. Were you not a fool once?
 I have another question.
@@ -90,14 +90,14 @@ I have another question.
 Rhowan sounded like a wise ruler.
 Fascinating.
 I have another question.
-I see.
+Розумію.
 Nevermind.
-Farewell.
+Прощавай.
 You have done the Rhowari a great justice this day, mortal. For this, I thank you.
 Is this your shrine?
 The shrine was created in my honor, yes. It is one of many, though none suffered the corrupting presence of Ch'thon as this one.{^n}{^n}Your valor shall not go without reward.
 
-Thank you.
+Дякую.
 Have you come to pay your respects, mortal?
 Who are you?
 I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
@@ -105,4 +105,4 @@ A god? Shouldn't you be protecting Cairn?
 A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
 Alright then, I'll be going.
 I...see.
-Farewell.
+Прощавай.

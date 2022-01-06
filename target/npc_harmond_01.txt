@@ -1,4 +1,4 @@
-Harmond
+Гармонд
 Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole. This world is too cruel for an angel like Annabel. She would wither away in its corruption.
 I'm sorry.
 They took my Annabel from me. I'll make them pay yet!
@@ -8,13 +8,13 @@ I'll... leave you to your thoughts.
 I can tell you've had yer share of horrors. Tell me, what was the battle like?
 It was gruesome and bloody. Just the way I like it.
 I hope they suffered. Nobody deserves to be torn apart by monsters like that, and now there are a few less in the world. Thanks to you. {^n}{^n}Here, take yer iron.
-Thank you. I did what had to be done.
+Дякую. I did what had to be done.
 They were a horrifying sight. I ended it quickly.
 Less guts in ya than I reckoned, but at least they're still inside ya and not spilling out on some road, eh? {^n}{^n}Anyway, here's yer iron.
-Thank you.
+Дякую.
 It was sad to see men twisted in such a way. I took them out of their misery.
 Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living. {^n}{^n}You did the right thing. Here's yer iron.
-Thank you.
+Дякую.
 You're not going to convince me that you've killed the mutants without some personal experience to back it up!
 Where should I look for them?
 Balros and Hagra chased the survivors from Burrwitch as far as the Moldering Fields, just beyond the Burrwitch Outskirts. Start yer hunt there.
@@ -31,15 +31,15 @@ Then tell me, what was the battle like?
 There is a fire in yer eyes and blood on yer clothes. Did ya put those tainted men down?{^n}{^n}Tell me, how did it feel?
 I felt vindicated. Righteous.
 That's what I like to hear! If it wasn' for my bum leg, I'd be out there with ya. Payin' others with good iron and hearin' the tales is just the next best thing. {^n}{^n}Speakin' of which, here's yer share.
-Thank you.
+Дякую.
 
 I didn't feel much of anything.
 Then you and I have somethin' in common. After those things took my Annabel from me, I don' feel much of anythin' either. {^n}{^n}Here, take yer coin. You've earned it.
-Thank you.
+Дякую.
 
 Regret... these people once lived.
 I ain' payin' for a lecture in conscience. Those things are abominations. Abominations that killed my wife, Annabel, and turned me into a cripple! {^n}{^n}The only way I can get back at them now is by payin' someone like you. So if ya want more iron, skip the morals and kill some more Dead. {^n}{^n}Here's yer pay.
-Thank you.
+Дякую.
 
 Yer blade looks a bit dry there, stranger. Come back to me when you've put the dead where they belong. I want to hear all the details.
 Where should I look for them?
@@ -57,4 +57,4 @@ That's what I like to hear.{^n}{^n}Tell me, how did it feel?
 
 
 Oh look, it's the possessed one. Tell ya what, I've got somethin' that needs doing and I'll pay good to see it done.{^n}{^n}I'm not quite sure you've got what it takes but come back with some blood on yer boots and maybe I'll reconsider. Just try to make sure it's not yer own blood...
-Alright then.
+Ну добре тоді.

@@ -1,20 +1,20 @@
 Haruuv
 The path you walk is a wise one.
-Farewell.
+Прощавай.
 The path you walk is a wise one. We look forward to working alongside you.
 Likewise.
 If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
 I do what I must so that we all survive.
 I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
-Goodbye.
+До побачення.
 I did what I feel is right.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 
-Goodbye.
+До побачення.
 Please, visit our sanctum. Master Varuuk will wish to speak with you.
 Where is your sanctum?
 Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
-Thank you.
+Дякую.
 I'm on my way.
 I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
 I will seek out your sanctum.
@@ -80,9 +80,9 @@ You should find that our equipment can handle many situations, but the users of 
 
 
 I'll need some time to think this through.
-Farewell.
+Прощавай.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 What is the Order of Death's Vigil?
 We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
-I see.
-Goodbye.
+Розумію.
+До побачення.

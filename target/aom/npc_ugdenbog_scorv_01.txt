@@ -1,16 +1,16 @@
 Scorv Egdenor
 I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
-Farewell.
+Прощавай.
 Splendid work dealing with that coven meddler.{^n}{^n}I do hope you enjoy your stay.
-Farewell.
+Прощавай.
 So much anger, you really need to take an example from your allies.
 We're not finished.
 I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
-Farewell.
+Прощавай.
 Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
 
 Uh, thanks.
-Farewell.
+Прощавай.
 Have you dealt with that pest yet?
 Where would I find Larria?
 Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog, to the south of Barrowholm.
@@ -56,9 +56,9 @@ We'll talk later.
 I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society.{^n}{^n}If you can ever find it in yourself to help us further, Tyvald and Jordyth could surely use your assistance.
 We'll talk later.
 I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
-Farewell.
+Прощавай.
 I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
-Farewell.
+Прощавай.
 I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}As promised, my stash is open to you. You are welcome to take the fetish.
 Anything else I can do to help?
 
@@ -66,13 +66,13 @@ But of course. Speak to my friends Tyvald and Jordyth if you have not already.{^
 Why Chthonians?
 They are a threat...to us all!
 Fair enough.
-Farewell.
-Thank you.
+Прощавай.
+Дякую.
 Is there something you need?
 So how can I help?
 Speak to Tyvald or Jordyth. Both if you're feeling generous.{^n}{^n}Help us and we will help you.
 Alright.
-Farewell.
+Прощавай.
 You strike me as a violent person.{^n}{^n}But I want you to know that despite any past transgressions, you are always welcome here.
 I had my reasons.
 *Scorv sighs*{^n}{^n}Very well, shall this dance of blood begin anew then?
@@ -81,14 +81,14 @@ I need to think this through.
 You're right, we can be friends.
 I'm pleased to hear it.{^n}{^n}We shall welcome you as a friend, but everything that has transpired before this moment will be forgotten.{^n}{^n}(Warning: selecting to be allies with Barrowholm will reset your Faction Reputation with them)
 Yes, let us be friends. (Reset Faction to Friendly)
-Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
+Ну добре тоді. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
 I will speak to them.
 On second thought...
 This village is finished. (Remain Hostile)
 I need to think this through.
 You strike me as somebody with an open mind.{^n}{^n}Tell me, shall we be friends?
 I think we can help each other. (Remain Friendly)
-Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
+Ну добре тоді. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
 I will speak to them.
 I'm not sure I can keep helping you.
 That is rather disappointing.{^n}{^n}Must we truly bicker over a misunderstanding?{^n}{^n}(Warning: selecting to be hostile with Barrowholm will reset your Faction Reputation with them)
@@ -183,6 +183,6 @@ I'll be back.
 Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
 This village is immaculate!
 Thank you kindly.{^n}{^n}We do our best to maintain a little bit of normalcy in this crazy new world.
-Farewell.
+Прощавай.
 Uh, thanks.
-Farewell.
+Прощавай.

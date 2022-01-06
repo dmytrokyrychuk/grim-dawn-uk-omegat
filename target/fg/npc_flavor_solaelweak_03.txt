@@ -10,7 +10,7 @@ We can still duel.
 Hah, do not tempt me!{^n}{^n}No, I must maintain my post.{^n}{^n}Partaking in ritual combat without command to do so would be an offense to Solael and a disgrace to my title.
 Very well.
 That's too bad.
-Farewell.
+Прощавай.
 So there is to be a ritual of sacrifice.{^n}{^n}If I am under consideration then truly I have failed Sagon in my duties. But if offering myself before Solael is to be my final act of service, so be it.{^n}{^n}Shall we begin?
 You want to die?
 I wish only to serve Solael, whatever it takes.{^n}{^n}But I also relish the thought of you and I fighting to the death. It will be quite a bloody show and I am eager for a good fight.{^n}{^n}You may be surprised who it is that ends up giving their life in honor of Solael.
@@ -32,7 +32,7 @@ That, my friend, is a question I am ill-prepared to answer.{^n}{^n}I have served
 
 Hope you find one a worthy one soon then.
 Too bad for you.
-Farewell.
+Прощавай.
 What is this place?
 You are standing in the Conclave of the Three, a sacred gathering of the servants of the Witch Gods.
 Why is everyone here?
@@ -47,7 +47,7 @@ Why such hostility?
 An inquisitor asks a servant of Solael why the hostility...this is precious.{^n}{^n}Did you hit your head on the way here, inquisitor?{^n}{^n}Just stay out of my way before things get ugly.
 Alright, I'm going.
 There's no need for that.
-Good luck.
+Щасливо.
 Please do not distract me from my task.
 What are you doing here?
 I am an Oathkeeper of Solael. I am the sword, and the shield, I am righteous wrath.{^n}{^n}It is my sworn duty to defend brother Sagon and I will do so with my life, and yours if need be.

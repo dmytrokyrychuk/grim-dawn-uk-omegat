@@ -1,6 +1,6 @@
 Ivok
 I am unsettled by your presence, inquisitor. 
-Why is that? 
+Чому? 
 We have suffered too much at the hands of your kind. Leave me. 
 I mean you no harm.
 Your reassurance brings me no comfort. {^n}{^n}A Luminari has no business here but to bring pain and suffering to the coven.{^n}{^n}I will have my eye on you.

@@ -1069,7 +1069,7 @@ tagEnemyMogdrogenHorror=Mogdrogen's Briarthorn
 
 #Boss&Quest
 
-tagQuestEnemyReanimator=Kyzogg the Reanimator
+tagQuestEnemyReanimator=Кайзоґ Реаніматор
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
 tagQuestChthonianMonstrosity=Thall'Nosh, the Unraveler

@@ -1,14 +1,14 @@
 Quade
 I've heard that Darius is dead. I'm glad we're on the same side in this conflict.
-Farewell.
+Прощавай.
 You're always welcome at our camp.
-Farewell.
+Прощавай.
 Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
-Farewell.
+Прощавай.
 How goes the hunt?
 "Moneybags" Martin is dead.
 You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
-You're welcome.
+Будь ласка.
 How goes the hunt?
 Where should I be looking?
 You should find "Moneybags" Martin in Cronley's Hideout underneath the Four Hills.
@@ -21,7 +21,7 @@ I'll find "Moneybags" Martin.
 Hm, no thanks.
 I've already slain "Moneybags" Martin.
 You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
-You're welcome.
+Будь ласка.
 Not interested.
 How goes your mission?
 I have destroyed the forges.
@@ -51,6 +51,6 @@ I've already destroyed their forges.
 Mornay knows how to pick them. Well done, your payment as promised. Now... I'm wondering if you would be up for a little more work.
 
 Not interested.
-Just passing through.
+Просто йду собі.
 Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
-Just passing through.
+Просто йду собі.

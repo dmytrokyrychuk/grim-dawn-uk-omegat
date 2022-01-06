@@ -9,7 +9,7 @@ Then stay out of it.
 Thank you for your mercy.
 I dropped the relic somewhere, don't suppose you...
 Found it?{^n}{^n}Yes, here. If this is the price for our lives, take it.
-Thank you.
+Дякую.
 Travel safe.
 Go on, before I change my mind.
 Do not try to stop us, [[ms]brother[fs]sister].{^n}{^n}We have had enough of Kymon's lies and wish to leave in peace. If you have any sense left, you should join us.

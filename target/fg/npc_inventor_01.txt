@@ -45,4 +45,4 @@ Hello there.{^n}{^n}When you've finished with your immediate priorities, I could
 I will.
 See you soon.
 Greetings, seeker.
-Farewell.
+Прощавай.

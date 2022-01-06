@@ -5,21 +5,21 @@ The visions grow silent. The raging flame's mournful screech echoes across the h
 Another threat to humanity vanquished.
 The fiends of Korvaak will pay dearly for the loss of Inarah.{^n}{^n}Our eyes are many, our gaze as acid upon flesh. They cannot hide. They cannot win.{^n}{^n}We have seen their fate.
 Yes, they will pay.
-Farewell.
+Прощавай.
 The Great Guardian commands, and I serve.
-Farewell.
+Прощавай.
 The seers of Dreeg weep tears of blood.{^n}{^n}I take it Inarah's strand, and that of the Mind Reaper within, has been severed?
 The seer lies dead.
 The loss of Inarah will create a power vacuum within the folds of our collective minds that others will greedily fill, but it is as it must be.{^n}{^n}We are grateful for this. May this gift be sufficient compensation.
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 The Mind Reaper's actions have perverted the balance.{^n}{^n}See that it dies its final death this day.
 Where is Inarah again?
 Inarah's strand lies bare before us. She was headed to the Tomb of Nephos, within the Valley of the Chosen to the west of the Ruins of Abyd.{^n}{^n}What the Mind Reaper seeks there is unknown, but it will not come to pass.{^n}{^n}Use the hexstone I had given you to dispel any protective spells Inarah may have cast. She was a favored of Dreeg and is well versed in his ways.
 I will head there immediately.
 I've misplaced the hexstone.
 To follow Inarah without the hexstone is folly.{^n}{^n}Do not lose this one.
-Thank you.
+Дякую.
 I will deal with her soon.
 With Draellus' eye turned elsewhere, it falls upon us to dissolve the claws digging into our minds.{^n}{^n}Though the Mind Reaper lies dead, its spirit lingered.
 What happened?
@@ -29,11 +29,11 @@ Find someone else to handle this.
 I've been there. The seer lies dead.
 Then I have truly become blind.{^n}{^n}My words fail you as we had failed Inarah. Perhaps I too suffer the lingering effects of the Mind Reaper. I will spill blood this night in hopes that my sacrifice will earn me a fragment of forgiveness from our divine patron.{^n}{^n}We are grateful for this. May this gift be sufficient compensation.										
 Do not waste any more of my time.
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 We will speak later.
 You must hurry to the Oracle.{^n}{^n}Draellus demands your presence. You will find him at the Vanguard of the Three, Northeast of the Sunbane Oasis, through the Howling Chasm.
-Farewell.
+Прощавай.
 It pains me to call for the execution of one of our own, but such is the price of our divine vision.
 The traitor is dead.
 The fool was blind to the true vision of the Great Guardian and has paid the price.{^n}{^n}Draellus has sensed the true nature of our foe, however. Soon the maddening whispers will end.
@@ -84,4 +84,4 @@ So...what needs to be done?
 Sure...let's talk later.
 Uh, let's talk later.
 The Great Guardian commands, and I serve.
-Farewell.
+Прощавай.

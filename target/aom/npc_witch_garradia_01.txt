@@ -10,7 +10,7 @@ I lost Ulgrim's Keepsake.
 Where is Matron Malostria?
 You will find her below us, at the center of the refuge.{^n}{^n}She is usually tending to the ritual circle we will need to restore our wards.
 
-Thank you.
+Дякую.
 
 Alright.
 Perhaps I was wrong about you. You are willing to look past prejudices and assist us.
@@ -66,10 +66,10 @@ Yes, the aberration has been slain.
 Good. Perhaps in time new plant life will sprout from her remains that brings a healthy balance to the ecosystem.{^n}{^n}Our Matron, Malostria, will be pleased to hear this news.{^n}{^n}In fact, she has been inquiring about you. You should not keep her waiting.
 Where is Matron Malostria?
 You will find her below us, at the center of the refuge.{^n}{^n}She is usually tending to the ritual circle we will need to restore our wards.
-Thank you.
+Дякую.
 Alright, I will.
 Good. Perhaps in time new plant life will sprout from her remains that brings a healthy balance to the ecosystem.{^n}{^n}Our Matron, Malostria, will be pleased to hear this news.{^n}{^n}When the time comes and you have earned the trust of all our sisters, I am sure she will wish to speak with you personally.
-Farewell.
+Прощавай.
 Have you found the Undergrowth and dealt with Sylvarria?
 I lost Ulgrim's Keepsake.
 
@@ -89,7 +89,7 @@ Good. Perhaps in time new plant life will sprout from her remains that brings a 
 
 Alright, I will.
 Good. Perhaps in time new plant life will sprout from her remains that brings a healthy balance to the ecosystem.{^n}{^n}Our Matron, Malostria, will be pleased to hear this news.{^n}{^n}When the time comes and you have earned the trust of all our sisters, I am sure she will wish to speak with you personally.
-Farewell.
+Прощавай.
 We will speak later.
 Do you have the materials we seek?
 Yes, here they are.
@@ -187,7 +187,7 @@ Very well. What do you require?
 I require your aid.
 Everybody needs something nowadays.{^n}{^n}It would seem only fair that you bring us something in return, no?
 I will return.
-Farewell.
+Прощавай.
 Whatever it is you think you're doing here, you are in the wrong place.
 Perhaps the heart of Carraxus will change your mind.
 Interesting. It appears that perhaps we can be of use to each other after all.{^n}{^n}Very well, speak. What brings you to our refuge?

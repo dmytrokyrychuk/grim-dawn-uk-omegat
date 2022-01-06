@@ -1,4 +1,4 @@
-John Bourbon
+Джон Бурбон
 So another monster has been banished from this world.{^n}{^n}You're beginning to give me hope that someday there will be an end to all this tragedy.
 We can only hope.
 Anything to report on the situation in Malmouth?
@@ -19,9 +19,9 @@ What's next for Devil's Crossing?
 We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
 
 We will endure.
-Farewell.
+Прощавай.
 I knew that eliminating Krieg would not be the end of our troubles, but I never pictured this.
 What's next for Devil's Crossing?
 We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
 We will endure.
-Farewell.
+Прощавай.

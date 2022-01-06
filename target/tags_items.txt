@@ -720,7 +720,7 @@ tagFocusB022=Gazer Eye
 tagFocusB023=Overseer Eye
 tagFocusB023_Desc="The eye still twitches in your hands."
 tagFocusB024=Karvor's Conjuring Bone
-tagFocusB025=Kyzogg's Skull
+tagFocusB025=Кайзоґовий череп
 tagFocusB026=Ragrathar's Horn
 
 tagFocusC001=Dementia
@@ -901,7 +901,7 @@ tagFeet=[np]черевики
 tagGloves=Gloves
 
 #QualityClass
-tagMagic=[ms]Магічний [fs]Магічна [ns]Магічне [np]Магічні  
+tagMagic=Magic 
 tagRare=Rare 
 tagEpic=Epic 
 tagLegend=Legendary 
@@ -1472,6 +1472,8 @@ tagLegsA006=Legguards
 tagLegsB001=Dreeg-Sect Legguards
 tagLegsB002=Solael-Sect Legguards
 tagLegsB003=Bysmiel-Sect Legguards
+tagLegsB004=Anasteria's Legguards
+tagLegsB005=Anasteria's Leggings
 
 tagLegsC001=Mistwalker Leggings
 tagLegsC002=Hermit's Legguards
@@ -3325,7 +3327,7 @@ tagCompA028Name=Vitriolic Gallstone
 tagCompA028Desc="Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons, shields and caster off-hands)
 
 tagCompA029Name=Blessed Whetstone
-tagCompA029Desc="Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes, swords, guns and crossbows.)
+tagCompA029Desc="Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes, swords, guns and crossbows)
 
 tagCompA030Name=Silk Swatch
 tagCompA030Desc="Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."^w^n(Used in shoulder, chest and leg armor)
@@ -3470,7 +3472,7 @@ tagCompB014Name=^kShard of Beronath
 tagCompB014Desc="But a piece of the legendary spear that felled Beronath, yet still retains great power."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompB015Name=^kBloody Whetstone
-tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives sharpened edges a hunger for blood."^w^n(Used in axes, swords, guns and crossbows.)
+tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives sharpened edges a hunger for blood."^w^n(Used in axes, swords, guns and crossbows)
 
 tagCompB016Name=^kAttuned Lodestone
 tagCompB016Desc="These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
@@ -3488,7 +3490,7 @@ tagCompB020Name=^kMark of the Myrmidon
 tagCompB020Desc="A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
 
 tagCompB021Name=^kOleron's Blood
-tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons)
+tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompB022Name=^kKilrian's Shattered Soul
 tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)

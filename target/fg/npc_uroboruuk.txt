@@ -1,8 +1,8 @@
 Uroboruuk
 *Uroboruuk looks at you silently*
-Goodbye.
+До побачення.
 *Uroboruuk looks at you silently*
-Goodbye.
+До побачення.
 I've witnessed the passing of centuries, but now I find myself wishing I had more time.
 Can you bring down the barrier?
 When Dravis confronted me at the temple steps, I saw the madness consuming his soul, but I also saw the anguish that I had wrought upon it.{^n}{^n}Dravis was unwilling to listen to reason. I erected the barrier so that he could not enter the tomb by any means, but I could not bring myself to strike down my own child.{^n}{^n}Now my powers are nearly spent. The souls flowing through my veins seek their release. I sense that my time has finally come.{^n}{^n}It appears that you and I had similar goals. The evils within this tomb must not be set free.{^n}{^n}I will lower my barrier.{^n}{^n}Enter the Tomb of the Eldritch Sun and complete my task. Vanquish the darkness and bring a momentary peace to Cairn.
@@ -46,7 +46,7 @@ May I ask another question?
 I need a moment to think.
 I need a moment to think.
 You lived for centuries?
-Yes, I've witnessed the rise of empires and their inevtiable fall. I played no small part in one of them.{^n}{^n}I was there when the gods grew silent and the world was left to the machinations of mortals and ascendants.{^n}{^n}But this is no gift. I paid a dark price for this cursed existence.
+Yes, I've witnessed the rise of empires and their inevitable fall. I played no small part in one of them.{^n}{^n}I was there when the gods grew silent and the world was left to the machinations of mortals and ascendants.{^n}{^n}But this is no gift. I paid a dark price for this cursed existence.
 
 May I ask another question?
 You mean Arkovia?
@@ -86,4 +86,4 @@ This isn't my fight.
 Alright, I will.
 This isn't my fight.
 *Uroboruuk looks at you silently*
-Goodbye.
+До побачення.

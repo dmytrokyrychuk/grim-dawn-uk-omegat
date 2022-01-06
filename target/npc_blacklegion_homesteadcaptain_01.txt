@@ -8,7 +8,7 @@ Don't worry about Homestead. I have things here under control.{^n}{^n}Focus on t
 
 Take care.
 Don't just stand there. I'm sure there's something you could be doing.
-Goodbye.
+До побачення.
 What is it?
 I have some questions.
 Well, go on then.
@@ -18,8 +18,8 @@ I have another question.
 What is the First Blade of the Emperor?
 The First Blade was the emperor's most trusted spy and assassin; a master of the darker side of politics.{^n}{^n}All knew he existed but at the same time none would dare suggest that the emperor would resort to such methods.
 
-Goodbye.
-Goodbye.
+До побачення.
+До побачення.
 Can you tell me more about the Black Legion?
 What would you like to know about us?
 Tell me about the Legion's history.
@@ -44,19 +44,19 @@ Inquisitor Creed worked for the Luminari, investigating and dealing with superna
 How does he know so much about the Aetherials?
 I wouldn't say he's an expert; no one is. The Aetherials were largely unknown until the Grim Dawn. That's part of the reason they succeeded so well in infiltrating and defeating the empire.{^n}{^n}However, Creed is one of the few surviving people who had experience with them before the Grim Dawn and, apparently, he was able to find some references to them in old texts stored in the vaults of the Luminari. We still learn new things about them every day though and they continue to find ways to surprise us. We're still not entirely sure where they came from...
 I have another question.
-Goodbye.
+До побачення.
 I have another question.
-Goodbye.
+До побачення.
 What can you tell me about Fort Ikon?
 Fort Ikon has withstood generations of warfare. It was originally constructed over 300 years ago during a drawn-out conflict with another human nation, long since conquered by Erulan.{^n}{^n}The Fort is our northern bastion, a beacon of the empire's strength.
 Tell me about that war.
 I'm not exactly a historian, but I'll give it my best shot.{^n}{^n}The North Wars as they came to be called were waged over the disputed lands beyond the Asterkarn Mountains. The area was rich in resources and provided ample farmland, so it proved to be a point of contention between the two great nations. Neither side would relent ownership of the territory, and so it came to war.{^n}{^n}The conflict dragged on over twenty six years before we finally pushed them back. That was not the end of the bloodshed though. Years later, the northerners returned with another army, intent on retaking the region. The final exchange marked one of the bloodiest days in the Empire's history. It was also one of the first campaigns undertaken by the Black Legion. Back then, we were still unproven, only a few battles under our banner; but the Legion proved to be a force to be reckoned with. That same year we marched all the way to their capital, and crushed them. That was the end of the North Wars.
 I have another question.
-Goodbye.
+До побачення.
 I have another question.
-Goodbye.
+До побачення.
 Forget it.
-Nothing. Goodbye.
+Nothing. До побачення.
 I've already informed Creed of your recent actions. He is most eager to speak with you.{^n}{^n}Show him what you've shown me. He needs to see this.
 I will speak to Creed at once.
 I will deal with this later.
@@ -169,7 +169,7 @@ Sounds rough.
 What can you tell me about the Black Legion?
 What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in the Grim Dawn but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
 I have another question.
-Thank you.
+Дякую.
 Is that Inquisitor Creed?
 Why, you've heard of him?{^n}{^n}Yes, Inquisitor Creed has been working closely with the Black Legion after the Grim Dawn. His insight on the Aetherials has helped keep all of us alive so far.
 I found evidence of his presence in Burrwitch.
@@ -177,10 +177,10 @@ Yes, grisly business with Warden Krieg. Creed barely escaped with his life.
 I killed the Warden.
 If that's true, then you have my respect.
 I have another question.
-Goodbye.
+До побачення.
 I have another question.
-Goodbye.
+До побачення.
 I have another question.
-Thank you.
+Дякую.
 Nevermind.
-Goodbye.
+До побачення.

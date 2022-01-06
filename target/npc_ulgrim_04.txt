@@ -14,9 +14,9 @@ It won't. We'll stop them.
 Thanks, I think?
 What can I do for you?
 
-Farewell.
+Прощавай.
 Come back another time. I've got important matters to attend to.
-Farewell.
+Прощавай.
 Got anything useful out of those two?
 Who would you choose?
 Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
@@ -43,11 +43,11 @@ Ask away.
 Why do you dislike the Black Legion?
 They represent the rejects of the empire, forced together under a banner of oppression and lack of restraint. The Legion may be famous for its countless victories, but what you don't hear about is the brutality and the senseless murder.{^n}{^n}Sure, not all of them are like that. Many are unfortunate souls caught on the wrong side of politics, but it's difficult to wash that much blood off your banner with the good intentions of a select few.
 I have another question.
-I see.
+Розумію.
 How do you know Inquisitor Creed?
 Hmm, I swear I can't recall when exactly we've met, but the good Inquisitor had accompanied me on several missions since his encounter with Warden Krieg raised suspicions of corruption in the Capital.{^n}{^n}His analytical mind and experience with the occult has proven invaluable since the Grim Dawn. It is unfortunate that we were too late to save Erulan.
 I have another question.
-I see.
+Розумію.
 What did you do as the First Blade of the Emperor?
 Much of what I had to do does not bear mentioning. Let's just say that I eliminated threats to the crown and maintained a spy network spanning the width of the empire.{^n}{^n}Most of that network has now collapsed, with agents gone missing or dead, but it has served me well even after the end of the world.
 I have another question.
@@ -68,4 +68,4 @@ I wish that was the end of our troubles, but there is a mounting threat on the h
 What do we do now?
 
 Come back another time. I've got important matters to attend to.
-Farewell.
+Прощавай.

@@ -1,6 +1,6 @@
 Keisen
 We all heard the screams of an agonized god.{^n}{^n}They were as terrifying as they were relieving.{^n}{^n}Our desperate war is over. The Three reign victorious.
-Farewell.
+Прощавай.
 What is it?
 What can you tell me about this camp?
 It is a gathering of some of the most powerful servants of the Three ever to converge upon one place.{^n}{^n}Here, we are united in purpose, if not in faith.{^n}{^n}This particular location was selected for very important reasons. What you may not know is that this was once a religious site.{^n}{^n}The Korvan people, it appears, knew something of the magics we wield. They sensed the potential in the very air, the energies that tear at the fabric of reality.{^n}{^n}Here the veil is thin. It enables us to perform rituals of supreme power and allows Sagon to draw upon the Eldritch flame in ways I did not even believe possible.{^n}{^n}It is also here that a portal was once opened to another realm. We have secured it for our own purposes.{^n}{^n}Now the same rift hungrily consumes reality around it at the center of camp, but you can speak to Mazaan about that.
@@ -10,7 +10,7 @@ Yes, I've seen it.
 What can you tell me about our foe?
 It is an ancient being, primordial in nature and supremely powerful. It once ruled over this land and the people here worshipped it.{^n}{^n}That is until the very god they revered turned on them and turned the land to ash and fire.{^n}{^n}This spiteful being has but one name: Korvaak.{^n}{^n}Now, a brainwashed former inquisitor by the name Kymon seeks to resurrect this forgotten god. The Witch Gods are rightfully concerned and so we are here to make sure this does not happen. If we fail here, all of Cairn will be in even greater danger than the Aetherials and Chthonians have brought down upon us. As you can surmise, that is not an option.
 
-I see.
+Розумію.
 Sounds like a bunch of fairy tales to me.
 Nothing, sorry to bother you.
 Serve the Three and prosper.{^n}{^n}Deny them and...
@@ -19,7 +19,7 @@ And? How did these recruits do?
 They are worthy.
 Hmm, excellent to hear.{^n}{^n}More blood in the service of Solael. More loyal servants to live and die in his glorious name.{^n}{^n}Perhaps we'll start them where the scavenging crew failed...
 Just don't expect me to go rescue them.
-Farewell.
+Прощавай.
 It didn't go well.
 Not surprising.{^n}{^n}I'll be sure to let those fools under Dreeg's banner know that they've wasted our precious time.{^n}{^n}Thank you for doing this. If they're not already dead, then I trust you've sent them away.{^n}{^n}They have no place in the Conclave.
 They will be leaving soon.

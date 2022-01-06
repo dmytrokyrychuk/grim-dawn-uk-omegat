@@ -8,7 +8,7 @@ Should I tell him you're alive?
 It might be better that he believes me dead. The last thing I need is a love sick fool pursuing me through this hellish world.
 
 
-Goodbye.
+До побачення.
 What did you mean by "another" from Devil's Crossing?
 I encountered another survivor from Devil's Crossing just recently who convinced me that Homestead was a place where I could help make a difference. I never got a name but he cooked a fine meal and told me many remarkable stories about political intrigues in the time of the Empire. Then he set off by himself.
 If you were headed to Homestead, why didn't you join him?
@@ -17,12 +17,12 @@ I plan on fighting through Smuggler's Pass. You could join me.
 I appreciate the offer but, as I said, the fighting seems a little too intense up there right now and I plan to wait it out. I'd advise you to do the same but, if you insist on pressing ahead, I hope you prevail.
 
 
-Alright. Farewell.
+Alright. Прощавай.
 You're always welcome back in Devil's Crossing.
 Thanks but I have no plans to return there. I'd rather find my fate on the open road.
 
 
-Alright. Farewell.
+Alright. Прощавай.
 Good luck out there.
 So be it.
 What can you tell me of this area?
@@ -35,4 +35,4 @@ Interesting. Thanks.
 
 
 Thanks for the info.
-Alright then.
+Ну добре тоді.

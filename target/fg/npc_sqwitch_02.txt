@@ -1,8 +1,8 @@
 Vorak
 Thank you for the assistance.{^n}{^n}It's a relief to know the fanatics will not be harnessing another fiend against us.
-Farewell.
+Прощавай.
 I hear you've done some excellent work around here, but don't you have some place more important to be?{^n}{^n}We're at war here.
-Goodbye.
+До побачення.
 Have you executed our little plan?
 Yes, the beast is dead.
 I knew it existed!{^n}{^n}This is a great victory for the Three and an affirmation to the glory of Bysmiel's web.{^n}{^n}Now we can move forward with our plans without worrying about the creature being used against us.
@@ -28,4 +28,4 @@ Not right now.
 
 I don't really have the time.
 I hear you've done some excellent work around here, but don't you have some place more important to be?{^n}{^n}We're at war here.
-Goodbye.
+До побачення.

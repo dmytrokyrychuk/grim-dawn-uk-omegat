@@ -3,9 +3,9 @@ Don't worry, I'll be well aware of your every move. You need not come tell me yo
 Um, sure.
 If you say so.
 What a curiosity.{^n}{^n}You and I must speak another time.
-Farewell.
+Прощавай.
 What a bother.{^n}{^n}Move along, child.
-Fine.
+Добре.
 The web is spun. Everything is set in motion as I've planned.{^n}{^n}What are you still doing here?
 What do I need to do again?
 Our primordial foe stirs within the Tomb of the Eldritch Sun, beyond the Infernal Wastes.{^n}{^n}Seal its fate and spare Cairn another cataclysmic event.
@@ -26,7 +26,7 @@ I've misplaced the sigil.
 *The sigil appears over Byscilla's extended hand*{^n}{^n}My web has already seen to your error. Do not be so careless with such a precious relic.
 I'll be more careful.
 Um, on my way.
-Farewell.
+Прощавай.
 The hour of our victory has come.{^n}{^n}Our work from the shadows is finished, now we must see this through.
 What is the plan?
 The Witch Gods are united in this endeavor. All of our forces stand at the ready to assault the Tomb of the Eldritch Sun and breach its gates.{^n}{^n}Join them on the battlefield, decimate any that would stand in our way.{^n}{^n}Travel north, beyond the Infernal Wastes and into the remains of Korvan City. Ascend the steps to the tomb and make your way inside. Within lies a secret chamber with the power to breach the veil itself.{^n}{^n}Take this sigil. It will open the way to the primordial one's hiding place. Enter the rift and bring an end to this grave threat.
@@ -76,4 +76,4 @@ Alain was quite pleased with your performance. But now it is my turn.{^n}{^n}You
 And what's that?
 
 What a bother.{^n}{^n}Move along, child.
-Fine.
+Добре.

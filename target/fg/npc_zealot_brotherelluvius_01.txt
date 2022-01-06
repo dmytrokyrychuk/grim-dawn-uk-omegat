@@ -1,6 +1,6 @@
 Brother Elluvius
 May the Light of Empyrion guide your path.
-Farewell.
+Прощавай.
 The news Sister Girra brings of Father Kymon's mission to the east is...troubling.{^n}{^n}Her words rattle me to the core, surely she spouts heresy?
 It's all true, brother. I've seen it.
 *Elluvius shakes with rage*{^n}{^n}In the end, he was but a man. His mistakes do not change what we stand for.{^n}{^n}Without us, the Chthonians will engulf all of Cairn. We must stand united in this betrayal.
@@ -14,10 +14,10 @@ Kymon is dead, as is your god.
 
 You're a fool.
 This is futile.
-Farewell.
+Прощавай.
 Brother Miranok speaks very highly of you, [[ms]brother[fs]sister].
 
-Farewell.
+Прощавай.
 Father Kymon speaks very highly of you, [[ms]brother[fs]sister].
 There is something you should know about Kymon.
 Do not strain yourself, [[ms]brother[fs]sister]. I've heard all the praises.
@@ -28,22 +28,22 @@ Our Prophet has brought us hope in desperate times.{^n}{^n}I will not allow you 
 Stubborn son of a slith.
 Fine...
 I...nevermind.
-You're right. Farewell.
-Farewell.
+You're right. Прощавай.
+Прощавай.
 I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
 
-Farewell.
+Прощавай.
 Father Kymon has requested that you meet with Brother Miranok in his office. Do not make him wait.
 
 Father Kymon has requested your presence. Do not make him wait.
 What can you tell me about Father Kymon?
 He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
-I see. Thank you.
-Farewell.
+Розумію. Дякую.
+Прощавай.
 Rumors travel fast. Your allies are working with the vile Order.{^n}{^n}I cannot trust you with our work when you have such questionable company.
-Goodbye.
+До побачення.
 May the Light of Empyrion guide your path.
-Goodbye.
+До побачення.
 Have you dealt with Ravok?
 I have slain the necromancer.
 You have exceeded even the Blessed Father's expectations.{^n}{^n}He has requested that you speak with Brother Miranok in his stead. Do not make him wait [[ms]brother[fs]sister].
@@ -119,4 +119,4 @@ You are the one the Legion sent?{^n}{^n}You are later than I expected.
 You wanted to speak with me?
 
 May the Light of Empyrion guide your path.
-Goodbye.
+До побачення.

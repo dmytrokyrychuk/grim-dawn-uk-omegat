@@ -19,7 +19,7 @@ You are naive.
 I have another question.
 Fair enough.
 You are naive.
-Good luck.
+Щасливо.
 What about the Wendigo?
 The Wendigo spirit still holds great sway over these parts, but our wards should hold.{^n}{^n}Although I would advise you to consider your allegiances with the people of Barrowholm carefully.{^n}{^n}Do not make the same mistake as Janaxia. Ravager is a being not to be trifled with.
 I have another question.
@@ -27,23 +27,23 @@ That is my concern.
 I won't.
 With the cult within Barrowholm exterminated by your hand, we can only hope that Ravager's power will wane with time; but I don't think we can count ourselves fortunate enough to see the fiend destroyed for good.{^n}{^n}For now, all we can do is hope the wards hold and that the Wendigo spirit does not return to these parts.
 I have another question.
-Farewell.
+Прощавай.
 The Wendigo spirit still holds great sway over these parts, but our wards should hold.{^n}{^n}For now, we must remain vigilant.
 I have another question.
-Farewell.
+Прощавай.
 How does the warding spell work exactly?
 The exact properties of it were known only to its creator, former Matron Agallia, may her soul find rest.{^n}{^n}While it does not keep out physical threats, it does distress beasts and forces most of them to flee. It also acts as a barrier against malevolent spirits, a much too common threat in this region.{^n}{^n}What its effects would be on an Aetherial, that I do not know. I suppose we will find out should they ever find their way here.
 I have another question.
-I see.
+Розумію.
 Nevermind.
-Farewell.
+Прощавай.
 Persistent, aren't you?{^n}{^n}Very well, you may remain here for the time-being.{^n}{^n}Perhaps we will find use for you yet.
-Goodbye.
+До побачення.
 What does the foul wind bring us this day?{^n}{^n}I believe you were just leaving...
-Goodbye.
+До побачення.
 Praise the Three, the ritual was a success.{^n}{^n}Forgive me for treating you so harshly at first. I prefer a healthy measure of skepticism of those who wander into our refuge.{^n}{^n}Please, take this as a small token of our thanks.
 
-Farewell.
+Прощавай.
 The preparations have been made.{^n}{^n}Place your hands upon the fetish when you are ready.
 Alright.
 The outsider returns.{^n}{^n}Though perhaps not an outsider for long. Tell me, are you prepared to aid us at this most critical moment?
@@ -64,14 +64,14 @@ Good, I can already feel power gathering within the ritual circle.{^n}{^n}Soon, 
 How can I help?
 As much as you have done here, I am not sure I can entrust you with overseeing the final stages.{^n}{^n}This is a matter only for the most trusted members of the Coven.{^n}{^n}Don't take this personally.
 Very well.
-Farewell.
+Прощавай.
 Have you purged the circles of power?
 Where are the circles?
 They are not far from the refuge, just out in Ugdenbog.{^n}{^n}Be careful. Do not underestimate the spirits trapped within them.
 I'll be careful.
 Can you refresh the warding spell?
 Hm, very well.
-Thank you.
+Дякую.
 
 I think I am beginning to see your purpose in our Coven.{^n}{^n}You will be the catalyst we require to restore our protective wards.{^n}{^n}But are you prepared for what that entails?
 What must I do?
@@ -90,7 +90,7 @@ What must I do?
 
 Is there anything else?
 
-Thank you.
+Дякую.
 Is it finished? Is Janaxia dead?
 Where should I look for her?
 She has made her home beneath one of the great trees within Ugdenbog, that much I know.{^n}{^n}Janaxia has become corrupted beyond redemption and must be stopped before this gets out of hand. I will not have one of my own become a tool of the wendigo.
@@ -107,12 +107,12 @@ Is there anything else?
 
 Is there anything else?
 
-Thank you.
+Дякую.
 We'll speak later.
 Persistent, aren't you?{^n}{^n}Very well, you may remain here for the time-being.{^n}{^n}Perhaps we will find use for you yet.
 What can I do to help?
 For me? Nothing I suspect you can handle.{^n}{^n}Speak to Garradia. She might have something for you.
-Goodbye.
-Goodbye.
+До побачення.
+До побачення.
 What does the foul wind bring us this day?{^n}{^n}I believe you were just leaving...
-Goodbye.
+До побачення.

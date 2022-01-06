@@ -1,10 +1,10 @@
 Garett Torven
 I heard news that the fiend that destroyed my home has been vanquished at last.{^n}{^n}I never thought I'd see the day, and I certainly dispelled any illusions that I'd see Malmouth ever again.{^n}{^n}Thank you.
-You're welcome.
-Farewell.
+Будь ласка.
+Прощавай.
 So you waded through that nightmare and made it to Malmouth.{^n}{^n}I don't know where you get the strength.
 I do what must be done.
-Farewell.
+Прощавай.
 This place is like a dream I can't quite shake off.{^n}{^n}It is a shame that our nightmares in Malmouth have reached even here.
 Why did you ask your daughter to go ahead alone?
 We were attacked by those...things. I froze up, Amala...saved me, but not before one of the wretches tore up my leg.{^n}{^n}I told her to keep going, to find safety on her own. I could have probably hobbled along but, truth is, I've had enough of these horrors. I just wanted to curl up and die.{^n}{^n}In my cowardice, I left my daughter at the mercy of nature.
@@ -20,4 +20,4 @@ Malmouth was once a prosperous city, a true gem in the east. I made a modest liv
 Good to know.
 Take care.
 After journeying through aetherfire and vile bog, this place is like a dream I can't quite shake off.
-You're safe now.
+Ви тепер у безпеці.

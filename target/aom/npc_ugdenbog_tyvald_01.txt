@@ -7,14 +7,14 @@ All of our efforts, all of our sacrifices, have come to this moment.{^n}{^n}Bloo
 Good, let the blood flow.
 You have helped us in these meager tasks, but know that soon the time shall come when your loyalties will be tested.{^n}{^n}Do not falter or it will be your blood I'll be spilling that day.
 Um, alright.
-Goodbye.
+До побачення.
 Watch yourself, traveler.{^n}{^n}I'm simply hungry to spill some blood. Just give me an excuse.
 Alright, backing off.
 So, has the mine been secured? Have you butchered the pests threatening our supplies?
 Yes, the infestation has been dealt with.
 That's good news. A pity I could not spill their blood myself.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 So, has the mine been secured? Have you butchered the pests threatening our supplies?
 Where is the mine?
 The Barrowholm mine entrance lies just to the east, up in the hills.{^n}{^n}Slaughter the pests infesting the mines and I'll see that you are aptly compensated.
@@ -27,8 +27,8 @@ I'll clear out the mine.
 This isn't my problem.
 I've already dealt with your pests.
 Really? You're quite the eager butcher.{^n}{^n}I like that. I'm starting to see why Scorv kept you around.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 I need to take care of something else.
 I see that the warding aura surrounding Barrowholm appears to have been restored.{^n}{^n}So you are good for something. I'll go ahead and give Scorv the word that you can be trusted.
 Good.

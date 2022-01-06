@@ -1,6 +1,6 @@
 The Keeper of Tomes
 The Order welcomes you.
-Farewell.
+Прощавай.
 You battle ceaselessly in the name of Cairn.{^n}{^n}We are honored to have you among us.
 I found Uroboruuk, but he is no longer among the living.
 Are you certain of this?{^n}{^n}Our master's power over death is beyond measure.{^n}{^n}How could this be?
@@ -9,7 +9,7 @@ This is...difficult to comprehend.{^n}{^n}But if what you say is true then our m
 It will be difficult, but the Order will endure.
 I'm sorry.
 I'm sorry.
-Farewell.
+Прощавай.
 You battle ceaselessly in the name of Cairn.{^n}{^n}We are honored to have you among us.
 
 
@@ -30,11 +30,11 @@ I found Uroboruuk, but he is no longer among the living.
 
 I wonder if he's alright.
 So be it.
-Farewell.
+Прощавай.
 You have selected your allies poorly.{^n}{^n}So long as they battle alongside Kymon's Chosen, we have nothing to say to each other.
-Goodbye.
+До побачення.
 The Order welcomes you.
-Goodbye.
+До побачення.
 Was your journey successful?
 I found a part of Uroboruuk's journal.
 This is a shocking discovery. None have found even a hint of Uroboruuk before now.{^n}{^n}It appears that our master has involved himself in the events revolved around the Grim Dawn's origins. Being involved in world-changing events is not exactly new for him.
@@ -169,24 +169,24 @@ I maintain our records and library, ensuring that none of our knowledge is lost.
 
 I have another question.
 What did you need me to do?
-Thank you.
+Дякую.
 What are the Order's goals?
 To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
 I have another question.
 
 What did you need me to do?
-Thank you.
+Дякую.
 What can you tell me about Kymon's Chosen?
 They are zealous followers of a false prophet and a nonexistent god known as Empyrion. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm
 I have another question.
 What did you need me to do?
-I see.
+Розумію.
 What did you need me to do?
 Nevermind.
 We will have to talk later.
 Another one joins our ranks. It is always a pleasure to welcome another seeker of the truths.{^n}{^n}Make yourself at home.
 
-Goodbye.
+До побачення.
 Consider your presence here to be a courtesy to the Black Legion, inquisitor.{^n}{^n}Step out of line in any way, threaten one of our own for any reason, and you shall quickly find that our vengeance comes swiftly and...painfully.
 
 Fair enough.
@@ -213,15 +213,15 @@ What is your role as Keeper?
 I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
 
 I have another question.
-I see.
+Розумію.
 What are the Order's goals?
 To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
 
 I have another question.
-I see.
+Розумію.
 What can you tell me about Kymon's Chosen?
 They are zealous followers of a false prophet and a nonexistent god. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm.
 I have another question.
-I see.
+Розумію.
 Nevermind.
-Goodbye.
+До побачення.

@@ -2,12 +2,12 @@ Inquisitor Creed
 One district at a time, we will take this city back.
 The Aetherials don't stand a chance.
 The Aetherials will regret ever stepping foot in Malmouth.
-Farewell.
+Прощавай.
 Is there something you need?
 Where do you need me again?
 There's a sewer passage that will take you to the surface, up to the Steelcap District.{^n}{^n}The resistance had a base of operations there before they were forced to flee underground.{^n}{^n}We are going to take that base back.
 I'm on it.
-Farewell.
+Прощавай.
 I've spoken with Korinia, she appears to be in charge of these people.{^n}{^n}Things here are about as bad as we thought, but with her intel, I believe we can make a difference in Malmouth.
 What's our plan?
 Korinia has informed me of an old resistance outpost up on the surface, in the Steelcap District. They were forced to abandon it when the Aetherial presence became overwhelming.{^n}{^n}I believe it will be a boost to morale to see it retaken, and it can serve as our base of operations when we advance upon Crown Hill.{^n}{^n}I've dispatched some troops, but I'd like you to lead the assault. Take the nearby sewer passage up to the surface and clear out any Aetherials present.
@@ -38,4 +38,4 @@ What's our plan?
 
 I've got some questions first.
 The Aetherials will regret ever stepping foot in Malmouth.
-Farewell.
+Прощавай.

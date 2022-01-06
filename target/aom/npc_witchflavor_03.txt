@@ -2,16 +2,16 @@ Andros
 Sister Garradia has instructed me to aid you in return for your efforts. {^n}{^n}I have used the heart of Carraxus to prepare a restorative salve.
 Sounds good to me.
 This alone should be sufficient payment, but I've been instructed to offer my help if you should need it in the future. {^n}{^n}However, the salve takes some time to prepare. Now leave me, I must return to my work.
-Thank you.
+Дякую.
 I suppose I owe you an apology, inquisitor.{^n}{^n}Thanks to you the circle has been restored and our little refuge is afforded some security once again.
 No apology necessary.
 
 And never forget it.
-You're welcome.
+Будь ласка.
 You are indeed a [[ms]brother[fs]sister] of this coven. {^n}{^n}Thanks to you the circles are restored and our little refuge is afforded some security once again.
 Anything to help the coven.
 
-Farewell.
+Прощавай.
 Thanks to you the circles are restored and our refuge is afforded some security once again. 
 I did what I could.
 It was some spectacle watching you battle those manifestations during the ritual.
@@ -38,7 +38,7 @@ I'll leave you to your work.
 Thank you [[ms]brother[fs]sister] for returning our lost recruits.
 I am glad to help.
 
-You're welcome.
+Будь ласка.
 Despite my misgivings, you have proven yourself an ally to our coven.{^n}{^n}I suppose I should thank you for returning our lost recruits.
 I did what was right.
 

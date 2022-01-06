@@ -39,7 +39,7 @@ tagMenuGame04=Інтернет
 tagMenuGame05=LAN
 tagMenuGame06=Назва гри
 tagMenuGame07=Пароль
-tagMenuGame08=Гравців
+tagMenuGame08=Max. Players
 tagMenuGame09=Рівні
 tagMenuGame10=-
 tagMenuGame11=Мапа
@@ -115,6 +115,7 @@ tagGameStateConnecting=Приєднання до сервера...
 tagGameStateData=Очікування сервера...
 
 tagGogMustBeSignedIn=Ти мусиш увійти до GOG Galaxy, щоб грати Grim Dawn у багатокористувацькому режимі. Будь ласка, увійди до GOG Galaxy та запусти Grim Dawn через GOG!
+tagEosMustBeSignedIn=You must be logged into the Epic Games Launcher to play Grim Dawn in Multiplayer mode. Please launch Grim Dawn from the Epic Games Launcher!
 tagSteamCloudLimit=Ти досягнув обмеження хмарного сховища Steam для Grim Dawn. Необхідно видалити одного персонажа перед створенням нового.
 
 #
@@ -505,6 +506,7 @@ tagMenuError41=Please insert the original Grim Dawn disc.
 tagMenuError42=Steam authentication failed.
 tagMenuError43=The Crucible is currently in progress and cannot be interrupted. The session can be joined once combat is over.
 tagMenuError44=An expansion character with that name already exists.
+tagMenuError45=The selected character is not within the level range required by this server.
 tagConnectAborted=Connect Aborted.
 tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
 tagMenuWarning02=Would you like to rename this Custom Only Character?

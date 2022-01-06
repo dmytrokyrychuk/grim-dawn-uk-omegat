@@ -10,7 +10,7 @@ Insufficient Tributes to Restart at Checkpoint (Need 10 Tributes)
 Insufficient Tributes to Restart at Checkpoint (Need 20 Tributes)
 Insufficient Tributes to Restart at Checkpoint (Need 40 Tributes)
 Nevermind
-Thank you.
+Дякую.
 The Crucible claims another. Go, take your pitiful earnings and get out of my sight.
 I wish to take on the Crucible again.
 Watching you squirm was enjoyable, I admit.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)

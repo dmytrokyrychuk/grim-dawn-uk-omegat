@@ -12,13 +12,13 @@ Don't worry, you're safe now.
 
 
 
-Farewell.
+Прощавай.
 So you are a new recruit?
 Yes, like the others you saved. We were called here.
 Called here?
 Like a voice in your head, calling you home. {^n}{^n}I know it sounds strange but, after the Grim Dawn, I got this feeling. {^n}{^n}I could sense something reaching out to me from this place. I just, I knew exactly what I needed to do. As it turned out, it was Matron Malostria calling to others like her through the aether.
 So you came here to join the coven?
-Yes, and I wouldn't have made it without your help. Thank you.
+Yes, and I wouldn't have made it without your help. Дякую.
 
 
 
@@ -27,7 +27,7 @@ Fascinating.
 
 
 
-Farewell.
+Прощавай.
 The Three have become silent.
 How can you say such things when it is their guidance that kept me alive all these years?{^n}{^n}I would be nothing if not for the blessings of Solael.
 
@@ -38,7 +38,7 @@ Solael?
 Yes, the divine gods of the eldritch realm watch over us all and bless us with powers unimaginable.{^n}{^n}Solael is my patron and to whom I swear my life.
 
 
-I see.
+Розумію.
 Take care.
 By the Three, this place is more than I could have hoped for.
 The Three have become silent.
@@ -47,5 +47,5 @@ Believe what you want.
 If it makes you feel better.
 The Three?
 Yes, the divine gods of the eldritch realm watch over us all and bless us with powers unimaginable.{^n}{^n}Solael is my patron and to whom I swear my life.
-I see.
-Farewell.
+Розумію.
+Прощавай.

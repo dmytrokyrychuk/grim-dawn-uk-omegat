@@ -43,12 +43,12 @@ Ok.
 Too bad for them.
 No, I'll do it myself as usual.
 I don't have time for this.
-You're welcome.
+Будь ласка.
 I think you know exactly what I mean.{^n}{^n}You chose to side with that sad bastard and his loyal band of fools back in Sorrow's Bastion.{^n}{^n}And look where your loyalties have gotten us.{^n}{^n}Here we are chasing the old fool through this wasteland where he plans to resurrect an ancient god that's bent on vengeance.{^n}{^n}And it looks like he might just pull it off.{^n}{^n}So, thank you for that.
 
 
 I don't have time for this.
-You're welcome.
+Будь ласка.
 I don't have time for your foolishness.
 Hold stranger.{^n}{^n}We are not enemies.
 What are you doing out here?

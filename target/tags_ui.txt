@@ -58,10 +58,10 @@ tagTransferStashError={^r}Цей предмет не можна тут розм�
 
 tagRiftgatePersonal=Особистий розрив
 tagRiftgateDestination=Пункт призначення
-tagRiftgateError01=Не можна пройти через цей розрив, бо його створив гравець з іншої групи.
+tagRiftgateError01=You cannot use this rift.  It was created by a player not in your group.
 tagRiftgateError02=Не можна вийти у той самий розрив, через який заходиш.
 tagRiftgateError03=Звідси не можна телепортуватися до цього розриву.
-tagRiftgateDialog01=Opening a new rift will close your existing one.  Do you wish to proceed?
+tagRiftgateDialog01=Відкривши новий розрив, ти зруйнуєш старий.  Продовжити?
 tagRiftGateMapA01=Cairn
 
 #Quest
@@ -489,7 +489,7 @@ tagLootFilterResetConfirm=Reset filter settings to their defaults?
 
 tagLootFilter01=Common
 tagLootFilter01Info=Show/Hide items of Common (White) Quality.
-tagLootFilter02=[ms]Магічний [fs]Магічна [ns]Магічне [np]Магічні 
+tagLootFilter02=Magic
 tagLootFilter02Info=Show/Hide items of Magic (Yellow) Quality.
 tagLootFilter03=Rare
 tagLootFilter03Info=Show/Hide items of Rare (Green) Quality. This includes items that drop from specific enemies, also known as Monster Infrequents.
@@ -560,7 +560,7 @@ tagLootFilter34=Нападальна здатність
 tagLootFilter34Info=Show items that increase Offensive Ability.
 tagLootFilter35=Захисна здатність
 tagLootFilter35Info=Show items that increase Defensive Ability.
-tagLootFilter36=Resistances
+tagLootFilter36=О́пори
 tagLootFilter36Info=Show items that increase Resistances to Damage, Crowd Control or exotic effects such as Reflected Damage or Reduced Damage over Time Duration.
 tagLootFilter37=Retaliation
 tagLootFilter37Info=Show items that increase Retaliation damage.
@@ -596,7 +596,7 @@ GenderFormat={%t0}{%0a1}
 tagInventoryBag=Inventory Bag
 tagInventoryBagDescription=Expands the size of your inventory
 
-tagStatsResistanceTitle=Resistances
+tagStatsResistanceTitle=О́пори
 tagStatsResistance01=Fire
 tagStatsResistance01Desc=Resistance to incendiary attacks and spells that deal Fire or Burn damage.
 tagStatsResistance02=Lightning
@@ -639,7 +639,7 @@ tagCharAttributeDescription03=A strong spirit increases the flow of energy into 
 
 tagCharAttributeDescription04=Здоров'я є мірою болю і шкоди, що ти можеш витримати перед знесиленням чи смертю.
 
-tagCharAttributeDescription05=Energy is a measure of your spirit's capacity to hold magical energies.  The greater this capacity, the larger the pool of energy you can immediately draw upon before waiting to regenerate.
+tagCharAttributeDescription05=Енергія є мірою здатності твого духу втримувати магічні енергії.  The greater this capacity, the larger the pool of energy you can immediately draw upon before waiting to regenerate.
 
 tagCharBonusHealth=Bonus Health:
 tagCharBonusHealthRegen=Bonus Health Regen:
@@ -713,7 +713,7 @@ tagInfoPage=Info Page:
 tagTimePlayedName=Time Played
 tagTimePlayedNumber={%d0}:{%d1}:{%d2}
 
-tagCharHeaderResistance=Resistances
+tagCharHeaderResistance=О́пори
 tagCharHeaderDefense=Захисні показники
 tagCharHeaderOffense=Нападні показники
 tagCharHeaderCombat=Бойові показники
@@ -2354,6 +2354,7 @@ tagMPNameLevel={%t0} ({%d1})
 tagMPClass={%s0}
 tagMPLocation={%s0}
 tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=Report
 tagTradeError01={%t0} is currently trading with another player.
 tagTradeError02={%t0} has denied your trade request.
 tagTradeError03={%t0} has requested a trade.

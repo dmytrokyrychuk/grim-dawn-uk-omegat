@@ -6,7 +6,7 @@ Do you speak to the Witch Gods even now?
 For a long time, their choir was silent to me, but I once again feel their presence beyond the veil.{^n}{^n}Whatever has consumed their attention is no more. Glory to the Three!
 I have another question.
 Proceed.
-I see.
+Розумію.
 Tell me about the Witch Gods.
 Of whom would you wish to learn?
 Tell me of Bysmiel.
@@ -38,15 +38,15 @@ A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.
 Where are the other servants of the Three?
 Dead to the eldritch creatures, or fled.{^n}{^n}Preserving their own hides proved a stronger motivation than the integrity of this temple.
 
-Farewell.
+Прощавай.
 
 Foolish.
 If only he were stronger.
 Nevermind.
-Farewell.
+Прощавай.
 Welcome to the Sanctum, Sentinel.
 
-Farewell.
+Прощавай.
 Welcome to the Sanctum, worthy seeker.
 I have some questions.
 As do all who come here.
@@ -91,14 +91,14 @@ A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.
 Where are the other servants of the Three?
 Dead to the eldritch creatures, or fled.{^n}{^n}Preserving their own hides proved a stronger motivation than the integrity of this temple.
 
-Farewell.
+Прощавай.
 
 Foolish.
 If only he were stronger.
 Nevermind.
-Farewell.
+Прощавай.
 Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
+Прощавай.
 Intruder...leave this place!
 Leaving now.
 You carry the markings of the Three, seeker. Long has it been since a bearer of a Witch God oath has traveled these halls.{^n}{^n}May your vows be unbroken 'til your dying breath, sentinel.{^n}{^n}But where are my manners. Greetings! I am the Attendant to our gods.
@@ -147,6 +147,6 @@ It is only natural to balk at the sight of me.{^n}{^n}I am as the gods made me, 
 We will speak another time.
 We will speak another time.
 Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
+Прощавай.
 Intruder...leave this place!
 Leaving now.

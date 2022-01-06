@@ -1,25 +1,25 @@
 Douglass Sullivan Oldbarrow
 These are trying times, but we will persevere.
-Farewell.
+Прощавай.
 Even hearing about the thing living beneath the Necropolis gives me chills.{^n}{^n}To think that you fought against it...{^n}{^n}You are either really brave, or a real fool, but we all owe you our lives.
 
 I just want to do my part.
-You're welcome.
+Будь ласка.
 I trust that, together, Homestead and Devil's Crossing can prosper through this calamity.
 I have some questions.
 What would you like to know?
 What will you trade for with Devil's Crossing?
 We obviously have the food, but Devil's Crossing has access to scrap, cloth and other materials found around the villages.{^n}{^n}Both settlements will prosper from this deal.
 
-Farewell.
+Прощавай.
 What is Homestead's history?
 I'm afraid there isn't much to tell. My great great great grandfather, Cullis Oldbarrow, settled on this land back when the crimson plague was going around the capital. He wasn't a farmer, in fact he was a banker, but he wanted to get his family out and away from the heavily populated areas.{^n}{^n}The Oldbarrows weren't the first to settle in this area, but we made it our home for generations among the tight-knit farming community. In times of trouble, we all gather here and take care of each other.
 
-Farewell.
+Прощавай.
 How are things with the Black Legion?
 Relations are as cold as ever. Sometimes I wonder if Somer would have just taken all the food by force if we weren't producing enough to feed both us and the soldiers.{^n}{^n}But I try not to dwell too much on that eventuality. You saw to it that we do not have to.
 
-Farewell.
+Прощавай.
 Nevermind.
 I hope so too.
 I trust that the food has arrived safely in Devil's Crossing?
@@ -27,8 +27,8 @@ I still need to check in with my people.
 I've been pondering your situation at Devil's Crossing of late, and I think we may finally be in a position where Homestead can return the favor for all of your hard work.{^n}{^n}Captain Somer argued against it, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 I'm glad to hear that.
 You have done much to assist us here at Homestead. I wish to return the favor.{^n}{^n}I've sent word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
-Thank you. I will let my people know immediately.
-Thank you. I will get back to you on this soon.
+Дякую. I will let my people know immediately.
+Дякую. I will get back to you on this soon.
 You are a great service to the people of Homestead.
 My people at Devil's Crossing need food.
 You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
@@ -36,19 +36,19 @@ Very well.
 It sounds like your people are in a grave situation indeed. You have done so much for us, I think it is only fair that we help out.{^n}{^n}Captain Somer might disagree about sharing our resources, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 I'm glad to hear that.
 I will send word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
-Thank you. I will let my people know immediately.
-Thank you. I will get back to you on this soon.
+Дякую. I will let my people know immediately.
+Дякую. I will get back to you on this soon.
 What else could I do to help out?
 Anything you can do to ease the load on the farmers will be of great help. The more time they can spend tending to the crops, the better. Clearing out the beasts roaming the land will also assure that we can work in peace.
-Farewell.
-Goodbye.
+Прощавай.
+До побачення.
 Have you dealt with the Dermapteran queen?
 The Dermapteran cycle is disrupted.
 That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
 What about Devil's Crossing?
 You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
 Very well.
-Farewell.
+Прощавай.
 That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
 I'm glad to hear that.
 
@@ -70,12 +70,12 @@ I have already dealt with the queen.
 That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
 What about Devil's Crossing?
 
-Farewell.
+Прощавай.
 That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
 I'm glad to hear that.
 
 That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.
-Glad to hear it.
+[[ms]Радий[fs]Рада] це чути.
 Sorry, I think I've done enough.
 Any progress with the Dermapterans?
 I have cleared out the fields, as you asked.
@@ -99,7 +99,7 @@ I will clear out the infestation.
 Sounds like a job for the Legion.
 
 
-Goodbye.
+До побачення.
 Welcome to Homestead, traveler. What brings you to our sanctuary?
 I come from Devil's Crossing. I was wondering if we could trade for food.
 I understand your predicament, I truly do; but I'm afraid we are not in a position to help you right now.{^n}{^n}Frankly, we could use some help ourselves. With the Black Legion hell-bent on destroying every Aetherial and Chthonian they see, they've lost sight of the issues plaguing the very people they are trying to protect.
@@ -107,7 +107,7 @@ I understand your predicament, I truly do; but I'm afraid we are not in a positi
 
 
 I understand.
-Just passing through.
+Просто йду собі.
 Welcome to Homestead, traveler. I'd give a warmer greeting, but we have a situation on our hands that requires my attention.{^n}{^n}With the Black Legion hell-bent on destroying every Aetherial and Chthonian they see, they've lost sight of the issues plaguing the very people they are trying to protect.
 What is the problem?
 After the Grim Dawn, many of our neighbors were forced to abandon their homes and flee here. Together, we built Homestead up into a sanctuary, but it came at a loss of countless other farmsteads.{^n}{^n}When the Black Legion arrived, we were able to recover a few fields, but not nearly enough to feed everyone. Captain Somer considers the resources available to be sufficient for her campaign and has deemed any further efforts to restore the farmland to be secondary to the Legion's mission.The Dermapterans, a vile infestation that plagues this land every few years, are running rampant throughout our lands, devouring all they see and laying their eggs. If we don't act soon, our harvest will be ruined and the land left barren.{^n}{^n}There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields. I'll see to it that you are justly compensated. What do you say?
@@ -117,10 +117,10 @@ Why is the Black Legion not helping?
 Captain Somer is only concerned with the Aetherials and the Cult of Ch'thon. What she fails to understand is that we need to restore more fields to working condition if we are to provide food for ourselves and all her troops. With the world in disarray, the Dermapterans have spread like locusts, invading our farms and devouring our livestock.{^n}{^n}We have come to the Black Legion for aid many times, but the captain is deaf to our requests.
 So what is the problem?
 
-Farewell.
+Прощавай.
 What can you tell me about the area?
 Homestead and the surrounding farmlands have been providing food to the nearby towns and villages for centuries. My family has worked this land for over two hundred years. But when the Grim Dawn struck, that all seemed to fall apart in an instant.{^n}{^n}Now we are contending with Dermapterans, Aetherials and bloodthirsty cultists, virtually at the same time. Homestead has become a hurricane of conflict, and we are at the eye of the storm.
 So what is the problem?
 
-Farewell.
-Farewell.
+Прощавай.
+Прощавай.

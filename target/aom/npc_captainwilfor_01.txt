@@ -46,7 +46,7 @@ She survived the aetherfire? That's nothing short of incredible. Then again, I'm
 She's the reason we're here.
 Remains to be seen if that's a good thing.
 I have another question.
-Farewell.
+Прощавай.
 She found relative safety down in Devil's Crossing.
 It's a small consolation that people survived elsewhere, but if Malmouth is any indication, a fate worse than deaths awaits them all in the end.
 You're so cheerful...
@@ -55,9 +55,9 @@ I have another question.
 I'll, um, leave you to your thoughts.
 It's not over yet.
 I have another question.
-Farewell.
+Прощавай.
 I have another question.
-Farewell.
+Прощавай.
 You mentioned the Fleshworks?
 Yes, it's what we're calling the massive fleshy growth that's been expanding out from Crown Hill.{^n}{^n}Prisoners and corpses alike are taken there. Nobody ever leaves.{^n}{^n}What comes out? Fleshwarped horrors beyond imagining.
 I have another question.

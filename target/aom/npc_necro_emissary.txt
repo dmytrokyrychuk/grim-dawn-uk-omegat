@@ -1,6 +1,6 @@
 Haruuv
 The path you walk is a wise one.
-Farewell.
+Прощавай.
 The path you walk is a wise one. We look forward to working alongside you.
 Likewise.
 I cannot fathom why you would turn on your own like this.
@@ -11,15 +11,15 @@ I did what I feel is right.
 If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
 I do what I must so that we all survive.
 I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
-Goodbye.
+До побачення.
 I did what I feel is right.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 
-Goodbye.
+До побачення.
 Please, visit our sanctum. Master Varuuk will wish to speak with you.
 Where is your sanctum?
 Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
-Thank you.
+Дякую.
 I'm on my way.
 I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
 I will seek out your sanctum.
@@ -59,7 +59,7 @@ Actually, I'll need more time to think this through.
 
 
 
-Farewell.
+Прощавай.
 Very well, Inquisitor. We may have to swallow our pride and try and find common ground in these trying times.{^n}{^n}I cannot promise you a warm greeting, but we can try and work together.
 I think I've made my decision.
 What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
@@ -71,9 +71,9 @@ Actually, I'll need more time to think this through.
 
 
 
-Farewell.
+Прощавай.
 An inquisitor? I was under the impression that this was to be an amicable gathering.{^n}{^n}I am Haruuv and I represent the Order of Death's Vigil, but I'm not sure there is much for us to discuss.
-Why is that?
+Чому?
 Our people have suffered much under the watchful eye of the empire's Luminari.{^n}{^n}I'm not sure it is wise for me to recommend an alliance with an inquisitor.
 
 Very well.
@@ -96,12 +96,12 @@ Actually, I'll need more time to think this through.
 
 
 
-Farewell.
+Прощавай.
 I promise I mean you no harm.
 Those are just words, inquisitor. The actions of the Luminari speak louder.{^n}{^n}Your mere presence in our sanctum would raise suspicions, create a sense of dread and invoke painful memories.{^n}{^n}It is not something I am willing to put my people through. I'm sorry.
 Very well.
 It is a shame we cannot find an agreement.
-Farewell.
+Прощавай.
 Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
 I think I've made my decision.
 What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
@@ -151,25 +151,25 @@ You should find that our equipment can handle many situations, but the users of 
 
 
 I'll need some time to think this through.
-Farewell.
+Прощавай.
 A fellow seeker of knowledge, I feel more comfortable here already.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 What is the Order of Death's Vigil?
 We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
-I see.
-Goodbye.
+Розумію.
+До побачення.
 An inquisitor? I under the impression that this was to be an amicable gathering.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come.
 What is the Order of Death's Vigil?
 We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
 
-I see.
+Розумію.
 I mean you no harm.
 While that is certainly a relief, you'll have to forgive me for not putting my guard down.{^n}{^n}The Order does not have a comfortable history with the Luminari.
 
 Things change.
 Understandable.
-Goodbye.
+До побачення.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 What is the Order of Death's Vigil?
 We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
-I see.
-Goodbye.
+Розумію.
+До побачення.

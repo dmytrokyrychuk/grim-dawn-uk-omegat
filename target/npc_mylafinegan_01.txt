@@ -1,10 +1,10 @@
 Myla Finegan
 Hello, stranger.
-Farewell.
+Прощавай.
 You've returned! Do you have the dynamite?
 Here you go.
 Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
+Alright. Дякую.
 Hello, friend! How goes the search for the dynamite?
 Where should I be looking again?
 I suppose I would check the mines around Old Arkovia, or the nearby quarry, but that area is filled with aetherfire.
@@ -24,7 +24,7 @@ Is this enough dynamite?
 Why, yes that will do! Aren't you the resourceful type!
 Here you go.
 Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
+Alright. Дякую.
 Not my problem.
 I am here to stop the Cult of Ch'thon.
 What a noble and foolhardy pursuit. After the Grim Dawn stranded me out here, I claimed this cave as my home; but nature, it seems, has decreed that I die out here instead.{^n}{^n}An avalanche collapsed the entrance not a day ago. All of my food and belongings are inside.

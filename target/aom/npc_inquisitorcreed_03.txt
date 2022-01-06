@@ -18,10 +18,10 @@ I need to get back there.
 We're counting on you to find a way to Malmouth.{^n}{^n}I know you won't let us down.
 I...misplaced Ulgrim's Keepsake.
 You cannot be serious. How many of these do you think Ulgrim kept around? Don't answer that...{^n}{^n}Please be more careful with this one.
-Thank you. I'll be more careful.
+Дякую. I'll be more careful.
 I...misplaced your pendant.
 I'm not sure I heard you correctly when you said you lost a precious Luminari relic that only a handful of inquisitors ever even had access to.{^n}{^n}Be more careful.
-Thank you. I'll be more careful.
+Дякую. I'll be more careful.
 Where is the Coven again?
 You will need to head north from the Burrwitch Estates. An Aetherial barrier will block the road, but my pendant should help you get past it.{^n}{^n}Once you're in Gloomwald, head north along the road and search for a waterside lair housing the creature Carraxus Foul. Slay it and claim its heart so that you can offer it as tribute to the witches.{^n}{^n}I suspect the Coven's Refuge is somewhere on the edge of Ugdenbog, but I cannot be sure.
 I have other questions.

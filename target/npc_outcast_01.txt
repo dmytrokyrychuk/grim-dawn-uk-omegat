@@ -1,6 +1,6 @@
 Anasteria
 What is this, a human, and yet...{^n}{^n}Speak with me another time, perhaps?
-Farewell.
+Прощавай.
 And so here we are, a mortal and an Aetherial. Unlikely allies, yes?
 I have some questions.
 I am certain that you do.
@@ -43,7 +43,7 @@ Then I will find it.
 A shame that it survived.
 Nevermind.
 It is strange to even consider.
-Farewell.
+Прощавай.
 Your insistence on violence is wearing out my patience.{^n}{^n}Leave now. Perhaps some day you may return here with a more open mind.
 Don't count on it.
 Perhaps.
@@ -92,21 +92,21 @@ I am not wading into Aetherial territory for you.
 And what have you learned from the shard?
 Extended exposure to the void? Not recommended. It toys with the mind and corrupts the flesh. But I suppose it is a bit late to say that now.{^n}{^n}You have a tendency to survive events that would kill lesser mortals. You should feel fortunate, but don't take it for granted. Spend as little time in the void as possible.
 So what is this other matter?
-I see. We'll talk later.
+Розумію. We'll talk later.
 Maybe later.
 This is a fine sample from the void. The Ch'thonic Void shall not hold its secrets from us for long.
 
-Farewell.
+Прощавай.
 This is a fine sample from the void. It will take me some time to uncover all of its properties.{^n}{^n}Come back later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
 
-Farewell.
+Прощавай.
 You have brought me obsidian, I can sense it.
 Yes, here it is.
-Thank you. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.{^n}{^n}But while you were gone, another matter of some import has come to my attention.
+Дякую. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.{^n}{^n}But while you were gone, another matter of some import has come to my attention.
 And that is?
 
 We will talk of this later.
-Thank you. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.{^n}{^n}Come back later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
+Дякую. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.{^n}{^n}Come back later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
 Very well.
 You've returned, but without the obsidian.{^n}{^n}Do you need something?
 Where should I be looking?
@@ -156,7 +156,7 @@ Ah, my only friend in this accursed fort has returned.{^n}{^n}Always a pleasure.
 Is there anything you need?
 I'm not sure you're quite ready for what's next.{^n}{^n}Come back to me once you're more experienced in dealing with our enemies.
 Very well.
-Farewell.
+Прощавай.
 Have you slain the spawn of Beronath?
 Yes, here is its fang.
 The creature you felled must have been quite formidable to be armed with such a fang.{^n}{^n}I thank you for this, but perhaps you would be willing to help this old crone once more?
@@ -164,7 +164,7 @@ What do you need?
 
 Not right now.
 The creature you felled must have been quite formidable to be armed with such a fang.{^n}{^n}I thank you for this. Come back and speak with me again some time.
-Farewell.
+Прощавай.
 Have you slain the spawn of Beronath?
 Where is the Bonehunter again?
 Kalis Ka the Bonehunter dwells in a den deep within the East Marsh, east of Burrwitch.{^n}{^n}Slay the creature and bring me its fang.
@@ -217,7 +217,7 @@ What, do you think I just sprouted from the earth and knew all that there is to 
 I have another question.
 Fair point.
 I have another question.
-I see.
+Розумію.
 Nevermind.
 Not yet.
 Now that we've put that unpleasantness behind us, I was hoping you could hear me out.{^n}{^n}Nobody in the Legion will help me, but perhaps you will be more understanding?
@@ -259,7 +259,7 @@ I have another question.
 Fair point.
 So what did you need?
 I have another question.
-I see.
+Розумію.
 Nevermind. What did you need?
 Nevermind.
 I can't help you right now.

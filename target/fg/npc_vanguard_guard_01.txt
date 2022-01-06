@@ -3,9 +3,9 @@ Fascinating. You are a blank, an unknown.{^n}{^n}The winds of destiny wash over 
 Um, thanks?
 Whatever you've got, I don't want it.
 Victory is ours, and yet...{^n}{^n}Ill portents blow upon the winds of change.{^n}{^n}In times like this, a blank path without second chances may be the ultimate mark of victory.
-Farewell.
+Прощавай.
 Stay vigilant out there.{^n}{^n}The many eyes are watching.
-Farewell.
+Прощавай.
 The fates are pleased in today's turn, and yet...blood...{^n}{^n}But I digress. The Emissary seeks your presence back at the Conclave.
 Where is Byscilla?
 The web's mistress is gone. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
@@ -27,6 +27,6 @@ The strings swirl in black smoke. The truth is unknown.{^n}{^n}Speak with him yo
 Very well.
 I'll speak with him then.
 Stay vigilant out there.{^n}{^n}The many eyes are watching.
-Farewell.
+Прощавай.
 Stay vigilant out there.{^n}{^n}The many eyes are watching.{^n}{^n}In times like this, a blank path without second chances may be the ultimate mark of victory.
-Farewell.
+Прощавай.

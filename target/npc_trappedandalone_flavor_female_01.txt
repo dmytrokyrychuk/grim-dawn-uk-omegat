@@ -1,6 +1,6 @@
 Elara
 Our poor Kalista...in peace at last.
-Farewell.
+Прощавай.
 Hello, traveler.{^n}{^n}We don't get many visitors out here. Not with the Dermapterans running wild.
 A Chthonian almost tricked me into releasing it here.
 Oh no, you must mean Kalista.{^n}{^n}The girl is devil spawn, a curse upon our family. Shortly after she was born, her eyes would glow red and she could speak, but not in any human tongue.{^n}{^n}Tarvic could not bring himself to end her life, so we left her in a nearby tomb and sealed the entrance shut. {^n}{^n}If you have spoken to her, then she must have broken free!
@@ -14,5 +14,5 @@ That is despicable, but I destroyed your demon.
 Don't worry. I will banish the creature.
 How do you survive out here?
 We try to stay out of sight. If anything dangerous gets too close, we put out the campfire and hide.{^n}{^n}We plan to leave this place soon though and you should too...
-Farewell.
-Farewell.
+Прощавай.
+Прощавай.

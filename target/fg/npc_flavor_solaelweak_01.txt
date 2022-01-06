@@ -6,7 +6,7 @@ I'm honored that you chose me as a sacrifice. I saw it as an opportunity to show
 Sorry about that.
 Thank you for sparing my life, friend.{^n}{^n}To be honest, it is a bit of a mixed blessing. I would gladly have given my life if that is what Solael demanded.{^n}{^n}But he must have spared me for a purpose. Now it is up to me to discover that purpose and live what remains of my life as he intends.{^n}{^n}Let me know if there's anything I can do for you.
 I will.
-Good luck.
+Щасливо.
 Hello, is there something I might help you with?
 Sagon has ordered a sacrifice.
 Indeed, he has. {^n}{^n}Am I to be chosen for this noble end?{^n}{^n}I would gladly give my life in service of Solael.{^n}{^n}Without the Three, I would have lived a life without purpose.{^n}{^n}The least I can do is give what remains of mine to honor the will of Solael.
@@ -19,7 +19,7 @@ Die in the name of Solael! (Attack)
 Are you lost, inquisitor?{^n}{^n}How is it that a member of the Luminari finds [[ms]himself[fs]herself] at the center of the worship they so desperately  sought to erase?{^n}{^n}{^n}
 The Emissary summoned me.
 Then this is where you belong, for reasons I'm sure we'll all discover.{^n}{^n}The emissary does not make mistakes, his actions speak for the Three.{^n}{^n}A word of caution though: there are many here who will not appreciate your presence.
-Why is that?
+Чому?
 For generations, the Luminari hunted our kind, stole our artifacts, and experimented on us for their own gain. All in the name of defending the empire.{^n}{^n}That time has long since passed and there are far greater threats to the empire than the few of us who remain.{^n}{^n}But there are many here who suffered at the hands of the Luminari and they are slow to forgive.{^n}{^n}Just tread lightly.{^n}{^n}Now, is there anything else I might help you with?
 
 
@@ -56,7 +56,7 @@ Each of us has our role to play, but all of us are here because the Three demand
 
 Who are the Three?
 Ok, I'll keep that in mind.
-Farewell.
+Прощавай.
 Thanks for the information.
 I'm fine, but thanks.
 I was just leaving.

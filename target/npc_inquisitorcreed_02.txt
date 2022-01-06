@@ -5,21 +5,21 @@ Yes?
 What about Ulgrim?
 There are arcane ways to track down almost anyone. I'll think of something. Trust me.
 I have another question.
-I see.
+Розумію.
 What about the Aetherials?
 They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
 I have another question.
-Farewell.
+Прощавай.
 The Cult is still out there. Shouldn't we stop them for good?
 Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
 I have another question.
-I see.
+Розумію.
 Did you know that Anasteria is an Aetherial?
 I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
 I have another question.
 Makes sense.
 Nevermind.
-Farewell.
+Прощавай.
 Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
 We'll deal with it, one challenge at a time.
 You've returned. Is it finished then?
@@ -41,14 +41,14 @@ We could use you out there.
 Perhaps so, but someone has to coordinate our forces, and Fort Ikon is still exposed.
 Fair enough.
 
-Farewell.
+Прощавай.
 What are you still doing here? Ulgrim needs you at the Necropolis!
 
 I'll head there now.
 Have you secured the riftgate?
 Where is the Necropolis?
 Take the front gates out of Fort Ikon and make your way across the Plains of Strife. The gates to the Necropolis are not far beyond.{^n}{^n}Once there, find a riftgate and secure it so that our troops can advance on the cult.
-Thank you.
+Дякую.
 I have some questions.
 Yes?
 Who is Anasteria?
@@ -60,7 +60,7 @@ Very well.
 I heard her name come up.
 Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
 I have another question.
-I see.
+Розумію.
 I have another question.
 Forget it.
 What do we know about the Loghorrean?
@@ -99,11 +99,11 @@ Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever
 Alright. What did you need me to do?
 
 I have another question.
-I see.
+Розумію.
 Forget it. What did you need me to do?
 
 I have another question.
-I see.
+Розумію.
 What do we know about the Loghorrean?
 Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
 What did you need me to do?

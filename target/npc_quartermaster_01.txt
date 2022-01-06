@@ -5,11 +5,11 @@ Those people needed the supplies more.
 Thank you for recovering those supplies. They will be useful in patching up our damaged defenses.
 Happy to help.
 I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
-Goodbye.
+До побачення.
 Have you recovered the supplies?
 Yes, here they are.
 Ah, excellent. I was afraid they had been destroyed after the recent explosions down in the armory.{^n}{^n}Thank you for recovering the supplies. Here, take some of this scrap. I'm sure you could use it too.
-Thank you. Make good use of those supplies.
+Дякую. Make good use of those supplies.
 Have you recovered the supplies?
 Where are they again?
 The supplies were stored in the armory, on the north end of the fort. With the possessed commander trapped down there I can't just send anybody, so I'm relying on you.
@@ -24,4 +24,4 @@ I have the supplies. Here you go.
 
 Sorry, can't right now.
 I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
-Goodbye.
+До побачення.

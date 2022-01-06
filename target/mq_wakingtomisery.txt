@@ -1,21 +1,21 @@
-The Resistance
-Waking to Misery
-Intro
-Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.
-Speak to Captain John Bourbon at Devil's Crossing
-Find The Burial Cave
-Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.
-Enter the Cave under Burial Hill
+Опір
+Нещасливе пробудження
+Вступ
+Шибеник Джарвіс сказав, що капітан Джон Бурбон врятував тебе прямо з-під його носа.{^n}{^n} Капітана можна знайти далі по дорозі, біля кам'яного мосту. Він хоче з тобою поговорити.
+Поговори з капітаном Джоном Бурбоном у Дідьковому Перехресті
+Знайди поховальну печеру
+Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих. {^n}{^n}Він вважає, що вони приходять з-під Поховального Пагорба. Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя. Поховальний Пагорб буде зліва від розгалуження дороги за річкою.
+Зайди в печеру під Поховальним Пагорбом
 
 
-Killing the Reanimator
-A creature in the cave underneath Burial Hill is causing the Dead to rise! {^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.
-Kill Kyzogg the Reanimator
+Вбити Реаніматора
+Істота, що живе під Поховальним Пагорбом, піднімає мертвих на ноги! {^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.
+Вбий Кайзоґа Реаніматора
 
-Returning to Bourbon
-The Reanimator is slain and the Dead should be slowed, for now. {^n}{^n}Return to Captain John Bourbon with the good news.
+Повернення до Бурбона
+Реаніматор вбитий, а напади мертвих сповільнилися, поки що. {^n}{^n}Передай добрі новини капітану Джону Бурбону.
 
-Return to Captain John Bourbon
+Повернися до капітана Джона Бурбона
 
 
 

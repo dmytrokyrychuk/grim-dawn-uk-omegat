@@ -8,7 +8,7 @@ It's my job to keep Garradia safe, whether from humans, beasts or the occasional
 Keep up the good work.
 
 
-I see. Farewell.
+Розумію. Прощавай.
 
 I'll be on my way.
 Hey there, can I help you?
@@ -36,15 +36,15 @@ A noble pursuit.
 Nobody in my life had ever shown me the kindness that Garradia has.{^n}{^n}There isn't anything I wouldn't do for her.
 
 
-Farewell.
+Прощавай.
 
 
-Farewell.
+Прощавай.
 You seem friendlier than others I've spoken to.
 I don't immediately assume every stranger is an enemy, though a healthy bit of skepticism helps these days.{^n}{^n}Don't mistake my demeanor for softness though. Touch Garradia and you're a dead [[ms]man[fs]woman].
 
 
 Fair enough.
-Just passing through.
+Просто йду собі.
 I'm sorry, but if you have business here you should speak with Garradia.
 I will, thank you.

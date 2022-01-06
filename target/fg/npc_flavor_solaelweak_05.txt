@@ -21,7 +21,7 @@ I'm glad I could help.
 Yes, you see, I must redouble my faith in the Three, prove myself worthy of Solael once more.{^n}{^n}Only then, perhaps Merise will find it in her heart to submit to my love.{^n}{^n}I will have her at my side, no matter the price.
 You're hopeless.
 Yeah, that will work.
-You're welcome.
+Будь ласка.
 You're right, she could never love you.
 What have you done!{^n}{^n}You monster! You took Merise from this world!{^n}{^n}I...I...would cut the heart from your chest as you did mine but...{^n}{^n}Just end it...take me from this pitiless world. Perhaps I will join Merise beyond the veil.
 Who's Merise again?
@@ -88,4 +88,4 @@ I don't want her to think I'm, you know...talking to you.{^n}{^n}You know what I
 I have no idea.
 Um, sure.
 Alright.
-Goodbye.
+До побачення.

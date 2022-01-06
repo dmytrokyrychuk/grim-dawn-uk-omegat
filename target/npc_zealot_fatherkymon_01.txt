@@ -1,6 +1,6 @@
 Father Kymon
 Welcome to the Chosen.
-Farewell.
+Прощавай.
 And now you understand that I did what I had to.{^n}{^n}The Loghorrean is just one of countless terrors under the command of Ch'thon.
 Perhaps, but was the price you paid too high?
 Maybe so, but we must all live with the decisions we make.{^n}{^n}I will die knowing that I battled one terror with the aid of another, but so long as Cairn survives, the sacrifice will be worth it.
@@ -16,7 +16,7 @@ You misunderstand. I did not reveal my secret to you so that you would call me a
 
 
 I will keep your secret, so long as it helps humanity.
-Thank you. I knew that my trust in you was not misplaced.
+Дякую. I knew that my trust in you was not misplaced.
 Thank you for your honesty.
 We will regret this.
 You are a fool. I'm leaving.
@@ -52,14 +52,14 @@ Thank you for your honesty.
 We will regret this.
 I will have no part in your delusions.
 You have selected your allies poorly.{^n}{^n}So long as they battle alongside Order of Death's Vigil, we have nothing to say to each other.
-Goodbye.
+До побачення.
 Welcome to the Chosen.
-Goodbye.
+До побачення.
 You have been a devout servant, and your faith shall not go unrewarded. I have opened my study to you, as promised.{^n}{^n}Please go there and see for yourself what it means to serve the gods.
 What will you do with the Eye?
 I shall use it to peer into the hearts of my Chosen, to find the ones I can call upon in our time of need, as I did with you.
 
-I see.
+Розумію.
 What's in your study?
 Just the truth.{^n}{^n}Humanity is facing unfathomable foes. It is our duty to make the necessary sacrifices, even if they go against our own convictions.
 
@@ -191,7 +191,7 @@ We wish to spread Empyrion's divine light to all of humanity and to cleanse Cair
 
 I have another question.
 What did you need me to do?
-Thank you.
+Дякую.
 What can you tell me about the Order?
 They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
 I have another question.
@@ -228,10 +228,10 @@ What are your goals?
 We wish to spread Empyrion's divine light to all of humanity and to cleanse Cairn of the corruption that now threatens to destroy her.{^n}{^n}Empyrion guides us in all things.
 
 I have another question.
-Thank you.
+Дякую.
 What can you tell me about the Order?
 They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
 I have another question.
-I see.
+Розумію.
 Nevermind.
-Goodbye.
+До побачення.

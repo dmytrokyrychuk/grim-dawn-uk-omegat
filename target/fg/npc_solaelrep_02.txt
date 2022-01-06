@@ -2,7 +2,7 @@ Sagon, Vicar of Solael
 It is good that you have found your place with the others.{^n}{^n}Solael has no time for distractions.
 Whatever you say.
 Admirable, but your place isn't here with me.{^n}{^n}We will speak another time.
-Farewell.
+Прощавай.
 Your presence here is only welcome out of necessity.{^n}{^n}If it were up to me...
 Um, goodbye.
 Do not tempt Solael...or me.{^n}{^n}Get to the tomb!
@@ -25,7 +25,7 @@ I've misplaced the sigil.
 *The sigil appears over Sagon's extended hand*{^n}{^n}One does not simply lose an artifact of such power. Be more careful with my gifts.
 I'll be careful this time.
 I'm on my way.
-Farewell.
+Прощавай.
 Solael is pleased!{^n}{^n}All that remains is to crush the insolent fools guarding the Tomb of the Eldritch Sun and destroy their precious god.
 What is the plan?
 The Witch Gods are united in this very moment. The three cults will move upon the Tomb of the Eldritch Sun and you will join them.{^n}{^n}You must go north, beyond the Infernal Wastes and into what remains of Korvan City.{^n}{^n}Turn the sands red with the blood of our enemies, decimate their fortifications and breach the gates of the tomb.{^n}{^n}Inside, you will find a central chamber with the power to pierce the veil between realities.{^n}{^n}Use this sigil. It will activate the chamber and open the way to where the forgotten one stirs. Enter the rift and bring an end to this calamity.

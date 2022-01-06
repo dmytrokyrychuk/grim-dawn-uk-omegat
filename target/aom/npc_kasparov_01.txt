@@ -1,20 +1,20 @@
-Kasparov
+Каспаров
 Splendid work in Malmouth.{^n}{^n}I wish you had brought me some samples of this "Master of Flesh", but I suppose it is for the best that none of his twisted legacy ever see the light of day again.
 What's left to try with Hargate's Formula?
 Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course.
 Just don't kill us all.
-Good luck.
-Farewell.
+Щасливо.
+Прощавай.
 You may not have an appreciation for the art of science, but at least you fight for us all.{^n}{^n}I suppose I must forgive and move on.
-Farewell.
+Прощавай.
 The exothermic results were...undesirable, but there's still hope, yes, most certainly not a dead end.
 What is left to try?
 Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course.
 Just don't kill us all.
-Good luck.
-Good luck.
+Щасливо.
+Щасливо.
 This business with the colossus, despicable, truly despicable.
-Farewell.
+Прощавай.
 Leave me to my work. Some of us are busy trying to end this madness.
 You don't say?
 I'll, uh, leave you to it.
@@ -48,12 +48,12 @@ Let's hope so.
 At least you're good for gathering food, like a proper caveman that cannot appreciate the wonders of science.
 
 
-Goodbye.
+До побачення.
 The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible. A shame...
 
 
 I...don't even want to know what that entailed.
-Farewell.
+Прощавай.
 What do you want?
 I've changed my mind, have Hargate's notes. (Give Formula)
 Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 2000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
@@ -78,7 +78,7 @@ I'm not going back there, if that's what you're asking.
 Nevermind.
 What can I do for you?
 
-Just passing through.
+Просто йду собі.
 Hm? Do you have something for me?
 I have the formula right here. (Give Formula)
 Good, good, hand it here. Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.
@@ -90,7 +90,7 @@ No, I am keeping it. (Keep Formula)
 What? No, no, you can't do this!{^n}{^n}Think about what you're doing. I only wish to use those notes in order to treat Aetherial victims, I swear it.
 This knowledge cannot end up in the wrong hands.
 You're being a fool. A selfish fool!{^n}{^n}Think of all the good we could do with that knowledge!
-Farewell.
+Прощавай.
 Alright, have them. (Give Formula)
 Hm? Do you have something for me?
 Where should I be looking for the formula?
@@ -116,10 +116,10 @@ Can you provide me with Inventor services?
 Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
 Hmm, alright.
 I...don't even want to know what that entailed.
-Farewell.
+Прощавай.
 Hello there, friend. What can Kasparov do for you?
 
-Just passing through.
+Просто йду собі.
 Your allies have already provided me with the materials I required for my experiment. They are quite industrious.
 Very well.
 Hmm, yes? Do you have the dynamite we require?

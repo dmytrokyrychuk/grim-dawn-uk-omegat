@@ -1,7 +1,7 @@
 Kalderos
 You have done well, but even greater challenges await within the depths of Torment, forever bound in undeath.{^n}{^n}Such is the fearsome power of your kind. Do not think to abuse it.
 
-Goodbye.
+До побачення.
 You have done well, but even greater challenges await within the depths of Torment.
 I have some questions.
 Ask and I shall answer.
@@ -10,9 +10,9 @@ These doors were sealed off by Uroboruuk himself after he doomed the Arkovians t
 Who was Uroboruuk?
 He was a great scholar and master of the necrotic arts. His greatest and most terrible achievement was turning the Arkovians' lust for immortality against them.
 I have another question.
-Thank you.
+Дякую.
 I have another question.
-Thank you.
+Дякую.
 What do I do with the Skeleton Key?
 It will open many ancient doors, including the ones before you. But beware, the key will be destroyed once used and the doors will seal promptly behind you.{^n}{^n}Once inside, the only way out is past the Lord Executioner...or through death.
 The Lord Executioner?
@@ -22,21 +22,21 @@ Good to know.
 Can I re-open the doors?
 No...once the doors are sealed, you will have to return another time...
 I have another question.
-I see.
+Розумію.
 I have another question.
-Thank you.
+Дякую.
 What was the purpose of the Steps of Torment?
 It was a place of torture and life-long imprisonment for those the Arkovians deemed unworthy of their 'perfect' society. In the end, it served as a prison for all necromancers of Arkovian descent.
 I have another question.
-I see. Thank you.
+Розумію. Дякую.
 Why are you serving Balvoruuk?
 I am sworn to protect him, even in death. He has proven to be a most interesting companion in my afterlife.
 I have another question.
 Interesting.
 Nevermind.
-Goodbye.
+До побачення.
 Your allies have done well, but even greater challenges await.
-Goodbye.
+До побачення.
 You have destroyed the priest.
 It is finished.
 My master will be pleased. For your service, I bestow upon you this key. It is the only way to unlock the ancient places of this world.
@@ -66,10 +66,10 @@ I've had enough of all this.
 Your task is unfinished.
 Where do I go again?
 Enter the Arkovian Undercity. Its entrance lies in the ruins to the west of here. There you will find the spirits of the Oligarchs.
-Thank you.
+Дякую.
 I will return.
 Greetings, mortal.
 You are not like other ghosts I've encountered.
 You speak of the dead roaming these ruins? No, I am willingly bound to this immortal form. They...were not as fortunate.
 I...see.
-Goodbye.
+До побачення.

@@ -4,7 +4,7 @@ Glad you're feeling better.
 With the gate down, the assault on Crown Hill will begin soon.{^n}{^n}Are you ready?
 Will you be joining us?
 My blade is yours. When the assault begins, I'll be there by your side.
-Glad to hear it.
+[[ms]Радий[fs]Рада] це чути.
 We'll need all the help we can get.
 As ready as I can be.
 Not sure I'll ever be.
@@ -14,6 +14,6 @@ Don't worry about me.{^n}{^n}I'll be sure to avoid any tears in reality if I can
 Fair enough.
 Will you join the assault on Crown Hill?
 My blade is yours. When the assault begins, I'll be there by your side.
-Glad to hear it.
+[[ms]Радий[fs]Рада] це чути.
 We'll need all the help we can get.
 Glad you're feeling better.

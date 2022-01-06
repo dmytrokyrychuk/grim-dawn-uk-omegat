@@ -1,22 +1,22 @@
 Alain
 It makes no difference whom you choose to follow. In the end, we all serve Bysmiel's will.
-Farewell.
+Прощавай.
 The anguished cries of Korvaak reach us even here.{^n}{^n}You've served the gods well!
 Another threat to humanity vanquished.
 I can only wonder how many other relics dedicated to the vile god twisting beneath this land still exist.{^n}{^n}We will have to purge them all!
 We'll find them in time.
-Farewell.
+Прощавай.
 To gaze upon Bysmiel's web is to witness the workings of the gods themselves.{^n}{^n}Simply magnificent.
-Farewell.
+Прощавай.
 Have you tracked down the deserters?
 I convinced them to give up the relic peacefully.
 You spared their lives? How...perverse.{^n}{^n}No matter I suppose. I doubt they will get far with their limited supplies. The desert can be...unforgiving.{^n}{^n}This thing you've brought me. It is another false idol to Korvaak. I will see that it is disposed of. But perhaps we can glean some knowledge from these runes first.{^n}{^n}Here, see if you can make use of this.
-Thank you.
+Дякую.
 They are harmless and did not deserve to die.
 Have you tracked down the deserters?
 I've dealt with them. Here is the relic.
 Good, another nuisance dealt with.{^n}{^n}This thing you've brought me. It is another false idol to Korvaak. I will see that it is disposed of. But perhaps we can glean some knowledge from these runes first.{^n}{^n}Here, see if you can make use of this.
-Thank you.
+Дякую.
 Just doing my part.
 How goes the hunt for Kymon's deserters?
 Where should I be looking again?
@@ -34,14 +34,14 @@ I've convinced them to give up the relic peacefully.
 
 We'll speak of this later.
 Speak to the Matron of Rifts.{^n}{^n}She hears the will of Bysmiel and will know what to do next.{^n}{^n}Seek out Byscilla at the Vanguard of the Three, far to the north, past the Sunbane Oasis and through the Howling Chasm.
-Farewell.
+Прощавай.
 Well? Do you have it?
 I have the Core of Galfang.
 Was the Eldritch Realm as stunning as the stories say?{^n}{^n}You will have to tell me all about your journey later.{^n}{^n}Right now, we must bring the blood and the core to Byscilla. She has a plan for them.
 What else does Byscilla need?
 I believe it's time you spoke with her yourself.{^n}{^n}I've done everything she's asked. Seek her out at our forward camp, the Vanguard of the Three, far to the north, past the Sunbane Oasis and through the Howling Chasm.
 Alright.
-Farewell.
+Прощавай.
 It was quite the sight.
 I wasn't really impressed.
 Bysmiel has bestowed upon us a great honor.{^n}{^n}Do not squander the opportunity.
@@ -70,7 +70,7 @@ Yes! The power coming off their blood is intoxicating.{^n}{^n}This is exactly wh
 Was there anything else?
 What I must ask of you next is much more dangerous, but perhaps more exotic depending on your taste for travel.
 
-Thank you.
+Дякую.
 Back already? Do you have the blood?
 Where do I need to look again?
 The Infused Animated Watchers roam the various ruins across the Korvan Basin, but you will most likely find them within the Cairan Docks and the Temple of Osyr, to the north.{^n}{^n}The watchers may not be the most powerful of the ancient guardians, but their essence is the most pure and will serve Bysmiel's needs.

@@ -1,6 +1,6 @@
 Master Varuuk
 May the specter of death guard your path.
-Farewell.
+Прощавай.
 It pains me to hear that we've come so close to finding our master again, only to have that hope dashed.
 We will find Uroboruuk, someday.
 Your master does not wish to be found.
@@ -8,11 +8,11 @@ Malkadarr has been returned to us.{^n}{^n}No small thanks to you. The Order was 
 It is a fruitful alliance.
 May the specter of death guard your path.
 What is the Keeper's role?
-Farewell.
+Прощавай.
 I want nothing to do with you so long as you meddle with people who ally themselves with Kymon's Chosen.
-Goodbye.
+До побачення.
 May the specter of death guard your path.
-Goodbye.
+До побачення.
 Have you dealt with Noveria?
 I have gathered her essence.
 Excellent work. I was worried that she may have been too much for you, but you have proven to be quite resourceful.{^n}{^n}There is but one final piece we still require to bring back Malkadarr, but that is not for me to discuss. Speak with the Keeper when you are able. She will have the details.
@@ -23,7 +23,7 @@ Yes, sadly our master has left us several years ago. To what end, we do not know
 Has anyone gone after him?
 Yes, quite a few. Some never returned, dead or still searching.{^n}{^n}Before the Grim Dawn, our accomplished acolytes would set out into the world for a year in order to search for our master. It was a rite of passage of sorts.
 Perhaps he will return some day.
-I see.
+Розумію.
 I will speak to her.
 I will.
 Have you dealt with Noveria?
@@ -98,8 +98,8 @@ You must be the representative from the Black Legion.{^n}{^n}Come, come, there i
 You wanted to speak with me?
 
 Welcome to this sanctum.{^n}{^n}Here you shall find peace to expand your knowledge and pursue what your soul seeks.
-Goodbye.
+До побачення.
 Don't try any of your tricks while you're here, inquisitor, or your welcome will be short-lived.
-Goodbye.
+До побачення.
 May the specter of death guard your path.
-Goodbye.
+До побачення.

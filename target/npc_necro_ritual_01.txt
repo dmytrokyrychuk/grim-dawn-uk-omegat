@@ -1,11 +1,11 @@
 Soulkeeper Kaandris
 Lead us to greatness, [[ms]brother[fs]sister].
-Farewell.
+Прощавай.
 You have done the Order a great service.
 What of Malkadarr?
 He shall resume his duties under the Keeper of Tomes, his knowledge preserved for future generations.
-Farewell.
-You're welcome.
+Прощавай.
+Будь ласка.
 You should not be here.
 Alright, I'm leaving.
 Everything is in place.{^n}{^n}The ritual will require my complete attention, so it falls on you to keep the dead contained while I search for Malkadarr. I will be shielded from their presence, but should any of the spirits remain when the ritual is finished, the results could be disastrous.{^n}{^n}Are you ready to begin? 

@@ -1,6 +1,6 @@
 Markiv
 I'll be alright.{^n}{^n}Thank you for the assist.
-Goodbye.
+До побачення.
 Make sure to slay some more of those bastards for me.
 I'll be sure to.
 Come and finish the job, you filth!
@@ -13,7 +13,7 @@ Wait, you're not from around here, are you? That's a first in months.{^n}{^n}Yes
 Will you be alright?
 I'll make it.{^n}{^n}You just make sure to slay some more of those bastards for me.
 Alright, be safe.
-Good luck.
+Щасливо.
 Ok, I'll find Captain Wilfor.
 
 I'm sorry, I need to go.

@@ -43,12 +43,12 @@ A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.
 Where are the other servants of the Three?
 Dead to the eldritch creatures, or fled.{^n}{^n}Preserving their own hides proved a stronger motivation than the integrity of this temple.
 
-Farewell.
+Прощавай.
 
 Foolish.
 If only he were stronger.
 Nevermind.
-Farewell.
+Прощавай.
 Intruder...leave this place!
 Leaving now.
 You carry the markings of the Three, seeker. Long has it been since one such as you has traveled these halls.{^n}{^n}Greetings. I am the Attendant to the gods.

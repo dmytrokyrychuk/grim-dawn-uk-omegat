@@ -1,12 +1,12 @@
 Deathmark Vallar
 You have served the Black Legion well. We do not forget our allies.
-Farewell.
+Прощавай.
 These are dangerous parts. Best be moving back the way you came.
-Farewell.
+Прощавай.
 How goes the battle against Bloodfeast?
 It wasn't easy, but Bloodfeast is dead.
 You are a brutal and effective fighter. I'd hate to run into you on a battlefield. Glad to have you on our side.{^n}{^n}I will be sure to include you in my report back to Captain Somer in Homestead.
-Farewell.
+Прощавай.
 How goes the battle against Bloodfeast?
 Where is the dranghoul?
 You will find Bloodfeast the Ruthless entrenched in an old fort to the east known as Tyrant's Hold. He has rallied many grobles to his side, so prepare for a prolonged conflict.
@@ -66,5 +66,5 @@ I'm sorry. Do you need any help here?
 I'm sorry I jumped to conclusions.
 I'd like to help, if you need me.
 
-Farewell.
+Прощавай.
 I'm just passing through.

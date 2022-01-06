@@ -2,7 +2,7 @@ Deathmark Kadris
 Good work out there. A proper ending to the legend of Ol' Bloodbriar.
 It wasn't so tough.
 Move along, Black Legion business.
-Farewell.
+Прощавай.
 You've returned, with a few new bruises I might add.
 Ol' Bloodbriar is no more.
 Well done! The death of that horrid beast will go a long way towards restoring order to this region. My superiors will be pleased to hear of this, you can be sure of it.
@@ -29,7 +29,7 @@ I'll be careful.
 Haven't dealt with a Wastestalker yet.
 You must be one tough slith to make it way out here on your own. Deathmark Kadris, of the Black Legion. What brings you here, citizen?
 I'm exploring the area.
-I see. Well I can't stop you from going out there, but I must warn you that the wilds out here are not to be trifled with. The Jagged Waste to the west is full of manticores, but if you're foolish enough to venture there then perhaps you'd be willing to bring something back for me?
+Розумію. Well I can't stop you from going out there, but I must warn you that the wilds out here are not to be trifled with. The Jagged Waste to the west is full of manticores, but if you're foolish enough to venture there then perhaps you'd be willing to bring something back for me?
 Sure, what do you need?
 The Manticore Wastestalkers pack a potent venom up in their barbed tails. It's quite caustic and can burn through nearly anything. My hope is that the Legion can use it in their effort against the Chthonian invaders.{^n}{^n}We are dealing with a large group of cultists up near Homestead, and they are starting to bring in the larger demons from the void. We need to turn the tide and fast, or soon there won't be a home to defend. If you bring me back a venom gland from a Wastestalker, then I will gladly provide you with a blade specially coated with their poison. Should do some serious damage in a fight. What do you say?
 I will get you the venom.
@@ -53,5 +53,5 @@ Where is Homestead?
 Is that where you're headed? You are going the wrong way, friend.{^n}{^n}Homestead is far to the north of here. Follow the Dusty Road.
 Thanks.
 
-Goodbye.
-Just passing through.
+До побачення.
+Просто йду собі.

@@ -1,7 +1,7 @@
 Korinia
 I know you can't stand to be apart from me, but I'm sure there's somebody who could use your assistance right about now.
 
-Goodbye.
+До побачення.
 I know you can't stand to be apart from me, but isn't there an incursion happening on the surface as we speak?{^n}{^n}Aren't you...maybe supposed to be up there too?
 What about you?
 Believe me, I'd go, but I've got people that need looking after almost as much as you do.{^n}{^n}You'll make it without me. Go on now.
@@ -9,14 +9,14 @@ Believe me, I'd go, but I've got people that need looking after almost as much a
 Alright, I'm going.
 
 Alright, I'm going.
-Goodbye.
+До побачення.
 Welcome to Malmouth, for what it's worth.{^n}{^n}Inquisitor Creed and I have been talking. While I may have taken the lead here, I admit I do not have the military experience he does.{^n}{^n}He will defer to me for smaller operations, but commanding our troops in taking back the city will fall to him.
 I have some questions.
 What would you like to know?
 What's your role here?
 I'm the one who barks commands and everybody else listens for some reason.{^n}{^n}The inquisitor clearly has more experience than I do in war. I do not plan to stand in his way, but looking after our people is my responsibility.
 Can I ask something else?
-I see.
+Розумію.
 What's the situation here?
 Everyone's either dead, a horribly disfigured mess or alive and hiding down here.{^n}{^n}We're quickly running out of alive, so it's a good thing you're here.{^n}{^n}Our contact with the outside world collapsed quickly after the Aetherials attacked. We've lost hope of ever taking back our city.{^n}{^n}Crown Hill, once the home to the Malmouth government and the piles of lard that grew rich off the industry here, is now the throne of Theodin Marcell, the Master of Flesh. A sickening growth is spreading outward from there that we've called the Fleshworks.
 The Fleshworks?
@@ -36,7 +36,7 @@ Sounds awful.
 How did you survive this long?
 Me personally? My charming good looks of course. That or the arcane training. I haven't decided which one.{^n}{^n}As a group, we survived with guerilla tactics and scavenging for supplies wherever the Aetherials were thinnest. Unfortunately that's become much more difficult of late.
 Can I ask something else?
-I see.
+Розумію.
 Forget it.
 Makes sense.
 Looking forward to working together.
@@ -50,7 +50,7 @@ I'm with the Black Legion, here to help.
 The Black Legion? Where were they when the city burned?{^n}{^n}Where were they when our people were forced to flee into the sewers?{^n}{^n}Where were they when we watched our children get turned into monsters?!
 I'm sorry. The attacks happened everywhere.
 That may be true, but do not expect me to leap for joy because of empty gestures.{^n}{^n}If you are here to help, then act.
-Farewell.
+Прощавай.
 Well, we're here now.
 I'm sorry.
 Just leaving.

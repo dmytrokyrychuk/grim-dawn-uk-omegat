@@ -1,6 +1,6 @@
 Myla Finegan
 You are not the one I seek.
-Alright then.
+Ну добре тоді.
 I must apologize for the ruse, but alas, I cannot travel very far from my tomb.{^n}{^n}You may die knowing that I will savor you as I drain the life from your breath.
 You tricked me!
 Deception was a necessity. Would you have sacrificed yourself willingly knowing my true intentions?{^n}{^n}I merely do what I must to survive. Now hush and die peacefully. This will all be over soon.
@@ -11,4 +11,4 @@ I have haunted this forest for centuries, sapping unsuspecting fools such as you
 I can still try! (Attack)
 Only one way to find out. (Attack)
 You are not the one I seek.
-Alright then.
+Ну добре тоді.

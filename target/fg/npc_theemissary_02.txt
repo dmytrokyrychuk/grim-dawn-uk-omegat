@@ -23,10 +23,10 @@ Hm, let us just say that I was once a young priest in the service of Menhir, bel
 
 
 Fascinating.
-I see.
-Farewell.
+Розумію.
+Прощавай.
 You stand upon sacred ground.{^n}{^n}Care where you step.
-Farewell.
+Прощавай.
 Korvaak's anguished cries have echoed across realities!
 Yes, Korvaak is no more.
 His cult has been crushed. Even now, his scattered followers are being hunted down and eliminated.{^n}{^n}The forgotten god will soon be a distant memory. Without a vessel, his powers will wane and he shall fade into nothingness.{^n}{^n}Never again will the people of Cairn have to fear for their lives at the mercy of Korvaak's fickle temper and destructive malevolence.{^n}{^n}Know that the Witch Gods are grateful for your sacrifice, even if they do not thank you in person. Wherever your journey leads next, their eyes will be upon you. Here, a prize from the gods themselves.
@@ -62,21 +62,21 @@ We will end him.
 What can you tell me about the Eldritch Realm?
 Ah, to even bear witness to its splendor is a gift from the Three.{^n}{^n}It is another plane of existence, a realm teeming with raw potential and untamed magic. Therein dwell the spawns of magic itself, which sometimes transcend the veil and enter our reality.{^n}{^n}It is where the Witch Gods sit upon their celestial thrones and where they go when they do not grace us with their presence.{^n}{^n}To see it perverted by the machinations of the forgotten god is an insult to everything we stand for.
 
-I see.
+Розумію.
 Nothing we can't handle.
 I'll be careful.
 What can you tell me about the Eldritch Realm?
 Ah, to even bear witness to its splendor is a gift from the Three.{^n}{^n}It is another plane of existence, a realm teeming with raw potential and untamed magic. Therein dwell the spawns of magic itself, which sometimes transcend the veil and enter our reality.{^n}{^n}It is where the Witch Gods sit upon their celestial thrones and where they go when they do not grace us with their presence.{^n}{^n}To see it perverted by the machinations of the forgotten god is an insult to everything we stand for.
 
-I see.
+Розумію.
 Victory will be ours.
 The Cult of Solael. None sacrifice more to their master than those that serve the Eldritch Flame.{^n}{^n}And none are as rewarded for their loyalty.
-Farewell.
+Прощавай.
 Hm, yes, the Great Guardian has foreseen this.{^n}{^n}A bold decision. I hope the maddening whispers of Dreeg's prophecies do not drive you insane as they have so many others.
 Um, I'll be careful.
-Farewell.
+Прощавай.
 Ah, the Cult of Bysmiel.{^n}{^n}None has displayed greater mastery of binding eldritch beings to their will than the Schemer.{^n}{^n}May her vast web serve you well.
-Farewell.
+Прощавай.
 Have you made a decision?
 What do I need to do again?
 Speak to the masters of the three cults, Draellus, Byscilla and Sagon. Learn their ways and decide whom you shall join and stand beside in the final assault.
@@ -85,7 +85,7 @@ Alright.
 And which cult do you belong to?
 When I first stood before the Witch Gods, I said to them that I shall serve in this life and the next if need be, but I shall only ever serve the Three, not Bysmiel, not Dreeg...not Solael.{^n}{^n}And so I am the herald of the gods. The one who spreads their message and finds worthy allies. All the cults look to my guidance. Even the gods have sought my counsel in the past.
 
-I see.
+Розумію.
 I'm still thinking.
 You are worthy of our ranks, but which of the cults will have your allegiance?
 So why did you bring me here?
@@ -188,4 +188,4 @@ What do you need me for then?
 We'll speak of this later.
 I'll be back.
 You stand upon sacred ground.{^n}{^n}Take care where you step.
-Farewell.
+Прощавай.

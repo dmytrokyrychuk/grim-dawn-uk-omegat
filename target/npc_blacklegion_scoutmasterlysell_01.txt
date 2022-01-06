@@ -1,12 +1,12 @@
 Scoutmaster Lysell
 I won't forget what you've done. It may be sentimental, but those brave men and women deserved this small respect.
-Goodbye.
+До побачення.
 As you were.
-Goodbye.
+До побачення.
 Any luck recovering those insignias?
 Yes. Here they are.
-Thank you. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
-Thank you.
+Дякую. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
+Дякую.
 Any luck recovering those insignias?
 Where should I be looking?
 Head out into cultist territory in the Blood Grove, to the north of Homestead.{^n}{^n}I'm not holding out any hope that my men survived out there, so just bring back their insignias.
@@ -18,8 +18,8 @@ At Captain Somer's command, I've been sending out scouting parties to the north 
 I will honor your dead.
 I'm sorry, I cannot do this right now.
 I already found some insignias. Here you go.
-Thank you. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
-Thank you.
+Дякую. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
+Дякую.
 What can you tell me about the area?
 Well, I'd best describe it as somewhere between in trouble and royally screwed. We have Aetherials to the south and west. You've done a number on their farm though, so we probably don't have to worry about them as much anymore. Not for a while at least.{^n}{^n}The cultists are assaulting us from the north. They've been capturing any stragglers and bringing them to their blood farms to harvest for some chthonic rituals. Those are the lucky ones. The others get strung up like scarecrows for the birds to have their feast. Finally, we have the Dermapteran infestation to the west. So long as they stay to the fields, we don't want anything to do with them. We're spread thin as it is.
 Did you say you needed help?
@@ -28,4 +28,4 @@ Scoutmaster Lysell, at your service.
 What can you tell me about the area?
 Well, I'd best describe it as somewhere between in trouble and royally screwed. We have Aetherials to the south and west, working on some deplorable creations in those abandonded farms, I'm sure.{^n}{^n}The cultists are assaulting us from the north. They've been capturing any stragglers and bringing them to their blood farms to harvest for chthonic rituals. Those are the lucky ones. The others get strung up like scarecrows for the birds to have their feast.Finally, we have the Dermapteran infestation to the west. So long as they stay to the fields, we don't want anything to do with them. We're spread thin as it is.
 Thanks.
-Farewell.
+Прощавай.

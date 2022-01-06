@@ -1,4 +1,4 @@
-John Bourbon
+Джон Бурбон
 What's with all the commotion?
 Direni was sabotaging us. He damaged the well pump!
 I trusted that son of a slith! Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.
@@ -17,15 +17,15 @@ I will answer what I can.
 How was Mornay able to explore Old Arkovia?
 The bridge was destroyed after his trek north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
 I have another question.
-Farewell.
+Прощавай.
 What will happen to Burrwitch now?
 I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
 I have another question.
-Farewell.
+Прощавай.
 How long do you think we can hold out here?
 With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
 I have another question.
-Farewell.
+Прощавай.
 That is all for now.
 I'll see if I can convince them.
 Your allies have already provided us with assistance. I have no information for you.
@@ -44,15 +44,15 @@ I will answer what I can.
 How was Mornay able to explore Old Arkovia?
 The bridge was destroyed after his trek north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
 I have another question.
-Farewell.
+Прощавай.
 What will happen to Burrwitch now?
 I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
 I have another question.
-Farewell.
+Прощавай.
 How long do you think we can hold out here?
 With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
 I have another question.
-Farewell.
+Прощавай.
 Now that the Warden lies dead, what is our next step?
 
 That is all for now.
@@ -95,7 +95,7 @@ That's excellent! What is the situation there?
 Swarming with Aetherial corruption, but the riftgate is secure.
 
 Good, you're back. I've heard good things from both Kasparov and Barnabas. You are a real asset to this community.
-Thank you.
+Дякую.
 
 I'm still waiting for one of my scouts to report in.  {^n}{^n}Take some time to mingle with the other survivors and speak to Kasparov and Barnabas. It sounds like they could use your help.  {^n}{^n}Meet me in my office, inside the prison, when you're finished.
 I'll be off then.
@@ -144,10 +144,10 @@ Where can I find Barnabas and Kasparov?
 The Dead attacks have slowed and their numbers are thinning. I take that as a sign that you've dealt with the source?
 I have killed the Reanimator.
 A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
-Thank you.
+Дякую.
 
 A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}I've sent word to the gate guard. Speak to him and he should let you in. Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
-Thank you.
+Дякую.
 
 What is it now? The Dead are rising in droves and will overwhelm us with sheer numbers at the rate things are going! {^n}{^n}Head to Burial Hill and destroy whatever is reviving them!
 Where can I find Burial Hill again?

@@ -18,7 +18,7 @@ What else is out there?
 I don't know whether this is just hopeful delusion or something more but a few of the drifters I encountered spoke of another human enclave in the mountains. They talked about a fortress built of salt rock that could repel any Aetherial attack. This fantasy doesn't consider that salt would dissolve in the rain. While that might be fanciful nonsense, there are quite a lot of old mines up in the mountains. It's possible some people found refuge in an old salt mine.
 
 Thanks.
-Actually, nevermind. Farewell.
+Actually, nevermind. Прощавай.
 I spotted Elsa out there. She's still alive.
 You have no idea how relieved this makes me. I must go find her!
 Don't. She wants nothing to do with you.
@@ -30,14 +30,14 @@ I survived out there for weeks. Don't you worry about me.
 Nevermind.
 Yes, you should.
 Ah, back on the road again. Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
-Good luck.
+Щасливо.
 
 Darius did not have Elsa.
 Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
-Good luck.
-Farewell.
+Щасливо.
+Прощавай.
 Move along. I'm here to speak with the Captain.
-Goodbye.
+До побачення.
 Now that we're not in any imminent danger, we need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and our supply runs are coming up dry. We need a reliable source of food and we need it fast.{^n}{^n}Barnabas has some ideas as to what we can do. Speak to him immediately.
 I will speak to Barnabas.
 I must do something else first.
@@ -59,7 +59,7 @@ Nevermind. What do we do now?
 
 Yes, you should.
 Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
-Good luck. What do we do now?
+Щасливо. What do we do now?
 
 I found no trace of Elsa. (Lie)
 
@@ -90,10 +90,10 @@ I survived out there for weeks. Don't you worry about me.
 Nevermind.
 Yes, you should.
 Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me. We have to deal with Cronley first though.
-Good luck.
+Щасливо.
 Darius does not have Elsa.
 Damnation! Perhaps...perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
-Good luck.
+Щасливо.
 Darius Cronley...{^n}{^n}Last I've seen his face, they almost hung him for a double homicide. The Warden intervened at the last minute in favor of a life sentence in Devil's Crossing. Seems there were ulterior motives after all.{^n}{^n}Darius Cronley is the devil made manifest, devious and manipulative with a penchant for sin of every kind. He's the one running this gang and he's the one we need to go after next.
 Do you have a plan?
 We have to hit them hard and fast, leave no room for a counterstrike. I've only seen a portion of their operations in the region, but they are really entrenched on the Four Hills in Old Arkovia.{^n}{^n}"Shanks" surely wasn't Darius' only lieutenant, so I suggest you find the rest and kill them. We don't want one of them taking over after Darius is dealt with. I don't have any names for you, but they will probably have equally clever prison names as our dead friend "Shanks".But to really end this, you need to cut off the head of this operation, Darius Cronley. If what I hear is true, you will find him hiding out in the mines underneath the Four Hills.{^n}{^n}Lastly, my scouting partner, Elsa, must still be out there with them. If I ventured a guess, Cronley has her in his clutches. Save her from that brute. I hear you are quite capable, so don't let me down.{^n}{^n}When you find yourself out there, I recommend you seek out a man by the name Quade. He and his group forsook the peaceful ways of the Rovers in favor of fighting back against the outlaws. And I'm glad they did. It was Quade's people that pulled me from the jaws of death.
@@ -162,4 +162,4 @@ The Grim Dawn took my wife. Elsa is like a daughter to me and I'm not going to l
 I already crossed the bridge and killed a man named "Shanks".
 Very well.
 Move along. I'm here to speak with the Captain.
-Goodbye.
+До побачення.

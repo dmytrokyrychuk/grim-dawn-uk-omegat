@@ -1,18 +1,18 @@
 Raiken, Guardian of Solael
 It is good you've found a place among the weaklings serving Bysmiel and Dreeg, we do not suffer the weak here.
-Farewell.
+Прощавай.
 We heard Korvaak's suffering even here.{^n}{^n}I hate to admit it, but your actions are truly worthy of praise.
 Another threat to humanity vanquished.
 The Korvan Basin has a wealth of treasures for the taking.{^n}{^n}We must merely be willing to risk it all to claim them for ourselves.
-Farewell.
+Прощавай.
 Stay out of my way and we'll get along just fine.
 I don't want any trouble.
 Uh, sure.
 I give you the find of a lifetime, and you're still here?
 Are these the tablets?
 Ah yes, the Words of Rahn. Shattered and hidden so that none may utter the spell hidden within ever again.{^n}{^n}The fools feared the words of power. Well now they are ours.{^n}{^n}Here, bring this to a craftsman you trust and reap the power at our fingertips!
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 I give you the find of a lifetime, and you're still here?
 What do I need to do again?
 Head out into the ruins of Korvan City to the northwest of the Infernal Wastes and seek out three silver statues.{^n}{^n}Find a way to activate them and recover the fragments of the Words of Rahn within.{^n}{^n}Bring those to me and I will decipher their meaning for our mutual gain.
@@ -53,7 +53,7 @@ What must I do again?
 We must be resolute. Speak to the aspirants around the camp.{^n}{^n}Find the weakest among them and cut them down!
 This is all so wrong.
 I do not need a lecture on morals.{^n}{^n}Do what must be done or we will find someone else who can.
-Fine.
+Добре.
 If that's what it takes...
 I will get on it.
 This is barbaric.

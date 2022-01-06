@@ -11,7 +11,7 @@ Insufficient Currency (Need 12 Tributes)
 What are Tributes?
 Tributes are the currency of the Crucible.{^n}{^n}Earn our master's favor and you shall be rewarded with Tributes based on your performance.
 
-I see.
+Розумію.
 I wish to prove my Devotion.
 You need only to look to the skies to witness the incomprehensible power that surrounds us.{^n}{^n}Pay Tribute to the gods and perhaps they will show their mercy upon you.{^n}{^n}(Torralia will exchange your Tributes for Devotion Points)
 My Tribute to the gods. (3 Tributes)

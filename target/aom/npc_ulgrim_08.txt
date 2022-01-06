@@ -1,8 +1,8 @@
 Ulgrim
 It's good to see the sun again.
-Goodbye.
+До побачення.
 It's good to see the sun again.
-Goodbye.
+До побачення.
 I'm sorry I cannot be of more assistance.{^n}{^n}I'll be sure to carve a few Aetherial skulls for you when I'm not on the verge of vomiting up black sludge.
 Where do we need to go?
 If my bearings are correct, the gates to Malmouth are to the north of here.{^n}{^n}Find and secure another riftgate and I shall join you.
@@ -33,4 +33,4 @@ Do you know this place?
 
 I'll be right back.
 It's good to see the sun again.
-Goodbye.
+До побачення.

@@ -61,7 +61,7 @@ I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
 
-Goodbye.
+До побачення.
 Well if it isn't my old friend from Devil's Crossing. I had a feeling you'd be making your way through here.
 Ulgrim? What are you doing out here?
 
@@ -140,6 +140,6 @@ I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
 
 Well if it isn't my best friend from Devil's Crossing.{^n}{^n}As you can see, we're in a bit of a situation here, but I have it under control. For now...
-Good luck.
+Щасливо.
 Move along, my blades hunger for troll blood, but they'll settle for you.
 Alright, I'm going.

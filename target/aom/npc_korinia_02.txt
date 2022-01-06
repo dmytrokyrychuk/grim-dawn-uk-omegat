@@ -4,7 +4,7 @@ With the Master of Flesh dead and the council dismantled, the people of Malmouth
 
 
 Good.
-Farewell.
+Прощавай.
 I appreciate you keeping my...other self a secret.{^n}{^n}I think it's best this way.
 
 Can I ask you about Aetherials?
@@ -37,13 +37,13 @@ Nevermind.
 On second thought, you shouldn't be kept a secret.
 *Korinia sighs*{^n}{^n}I'm not so sure of that. I've chosen my side. The other Aetherials will inflict an eternity of torment upon me if they capture me. If my human comrades learn of what I am, I will lose my place here as well. Maybe some could accept or tolerate me as a possessed but they'd never look at me the same, never let their guard down in my company and I'm sure some would be all too eager to destroy me. I doubt being openly known as an Aetherial possessed would do much to improve my opportunities for romance either.{^n}{^n}But...I suppose Anasteria walks freely among you, the truth exposed for all to see. All the same, I think I'd prefer to remain just good old human Korinia for now, if you're willing to keep my secret.
 They need to know the truth.
-Fine. Forget it.
+Добре. Forget it.
 So long as you're on our side.
-Farewell.
+Прощавай.
 With the Master of Flesh dead and the council dismantled, the people of Malmouth can once again hope for a brighter future.{^n}{^n}From all of us, thank you.
 
 
-Farewell.
+Прощавай.
 The removal of the Council from Crown Hill is another major step towards restoring some peace to the people of Malmouth.{^n}{^n}Thank you for all you've done.
 I have some questions.
 Sure, what do you need?
@@ -79,9 +79,9 @@ Perhaps I was mistaken.
 We will speak of this later.
 Perhaps I was mistaken.
 We will speak of this later.
-Farewell.
+Прощавай.
 You Legion metalheads work fast.{^n}{^n}Maybe there's hope for us yet!
-Farewell.
+Прощавай.
 Have the councilmen been vanquished?
 Yes, they are no more.
 Good, with them gone, Malmouth can begin to heal of the atrocities done to its people.{^n}{^n}You've done us all a great service.
@@ -106,7 +106,7 @@ Well if it isn't my favorite human.{^n}{^n}What can I do for you?
 Anything need doing?
 You could help out the others at the hideout or take a look at the Bounty Table for recent developments.{^n}{^n}There's always something worth doing.
 Alright.
-Goodbye.
+До побачення.
 Was the mission a success?
 The docks belong to us.
 I always knew I had it in me to tell somebody else to do something heroic.{^n}{^n}The Malmouth Resistance appreciates everything you've done. The future of this war may well be shaped by your actions this day.{^n}{^n}Now if only that was the end of the Aetherials here. It's time to cut the heads off this Aetherial occupation.
@@ -132,7 +132,7 @@ Maybe later.
 I'm planning a new push against the Aetherials but my people are not all prepared yet.{^n}{^n}In the meantime, be a dear and slay some more mutants for me, or perhaps take a look at the Bounty Table.
 Alright.
 Captain Wilfor tells me that you've done your fair share of rescuing damsels and acquiring murder weapons. Well done.{^n}{^n}Your efforts will go a long way towards our people's survival.
-You're welcome.
+Будь ласка.
 I was wondering if perhaps you'd be willing to lead an attack I've been planning.{^n}{^n}It involves the harbor.
 What are you plotting?
 
@@ -153,5 +153,5 @@ You Legion metalheads work fast.{^n}{^n}I'm starting to believe maybe there's ho
 That's one way to say thanks.
 Wouldn't want you to get too excited when the real fighting's still ahead.{^n}{^n}*Korinia smirks*{^n}{^n}But I'm sure you don't do all this for the praise.
 Well, maybe a little praise.
-Farewell.
-Farewell.
+Прощавай.
+Прощавай.

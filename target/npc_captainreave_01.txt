@@ -1,6 +1,6 @@
 Captain Reave
 This isn't a good time. We have an incursion to deal with.
-Farewell.
+Прощавай.
 I can't believe you are siding with Creed on this.{^n}{^n}Anasteria is a traitor. Keeping her around will only lead to our doom.
 Anasteria has helped save countless lives.
 A ruse to lure us into a false sense of comfort. She reeks of Aetherial corruption, not to mention she is a witch.{^n}{^n}Alas, I am honor-bound not to act upon this risk. I pray I am wrong.
@@ -8,9 +8,9 @@ I am convinced that you are.
 Time will tell.
 We shall see.
 Glad to have you here. You do what must be done.
-Farewell.
+Прощавай.
 This isn't a good time. We have an incursion to deal with.
-Farewell.
+Прощавай.
 Have you cleared the Tomb of Korvaak?
 Yes, the cultists are dead.
 Excellent work. We don't need them sniffing around our back yard.{^n}{^n}Who knows what they could have found down there.
@@ -56,4 +56,4 @@ This isn't my problem.
 
 I don't want to get involved.
 This isn't a good time. We have an incursion to deal with.
-Farewell.
+Прощавай.

@@ -2,7 +2,7 @@ Silas
 I'm goin', I'm goin'. Got money to spend anyhow.
 Good.
 What ya comin' near me fer? Git back to work.
-I'm going.
+Я йду.
 Back to work with ya. Quota's goin' up next week, ya know.
 I think I'm going to kill you this time.
 Ya watch yer litte mouth or I'll have to carve ya another.
@@ -57,4 +57,4 @@ What ya comin' near me fer? Git back to work.
 What's going on here?
 New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
 Nevermind.
-I'm going.
+Я йду.

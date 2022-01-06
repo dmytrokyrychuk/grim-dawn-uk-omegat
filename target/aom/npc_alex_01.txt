@@ -5,18 +5,18 @@ I'm sure he'll be back any day.
 Rook was one of the fun adults. He would play with us and let me pull on his moustache.{^n}{^n}When is he coming back? Mrs. Constance says he went away on a journey.
 He'll, um, be a while.
 I'm sure he'll be back any day.
-Mrs. Constance says you've brought us real food. Thank you!
-You're welcome. Now eat up!
+Mrs. Constance says you've brought us real food. Дякую!
+Будь ласка. Тепер їж!
 Did you really make the Warden go away? He was so scary!
-That I did.
-Wow! You're really brave.
-I just do what needs to be done.
-Thank you.
-Run along now.
-Mrs. Constance is making new clothes for everyone!
-Glad to hear it.
-Mrs. Constance says I'm not supposed to talk to you.
-Why is that?
-Cause you have evil in your tummy.
-I see.
-Alright then.
+Це я [[ms]зробив[fs]зробила].
+Ого! Ти дуже [[ms]сміливий[fs]смілива].
+Я роблю те, що треба робити.
+Дякую.
+Біжи тепер далі.
+Місіс Констанція шиє всім новий одяг!
+[[ms]Радий[fs]Рада] це чути.
+Місіс Констанція каже, щоб я з тобою не говорив.
+Чому?
+Бо у тебе в животі зло.
+Розумію.
+Ну добре тоді.

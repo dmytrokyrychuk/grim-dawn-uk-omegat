@@ -9,7 +9,7 @@ Yes, Anasteria informed me of this. This development confounds me as I cannot po
 
 They've been helpful so far.
 I don't trust them.
-Farewell.
+Прощавай.
 The fighting ahead will be brutal, but we have to persevere.
 Onwards then.
 Tell me, what happened in the Fleshworks?
@@ -18,7 +18,7 @@ The Master of Flesh is no more.
 
 Hear, hear!
 Steel yourself.{^n}{^n}We do not know what to expect within that living nightmare.
-Farewell.
+Прощавай.
 Ulgrim needs you at Crown Hill.{^n}{^n}Get back out there!
 I'll head there now.
 Is there anything you need?
@@ -27,8 +27,8 @@ The gates to Crown Hill are on the northwestern end of the Steelcap District, ju
 I'm on it.
 I've misplaced your additive.
 Misplaced a highly unstable arcane powder? What could possibly go wrong?{^n}{^n}Here. Be careful with this stuff.
-Thank you.
-Farewell.
+Дякую.
+Прощавай.
 It is nearly time to begin the assault on Crown Hill, while the Aetherials are still reeling from our recent attack.{^n}{^n}We need to discuss our next move.
 What is the plan?
 The resistance had attempted to breach the gates of Crown Hill before, but they were not adequately prepared. The remains of their fallen still litter the streets, along with the explosives they had crafted for the task.{^n}{^n}I've prepared a powder that should magnify the properties of their makeshift bomb dramatically, enough to pierce those steel gates and give us an opening.{^n}{^n}I need you to take this powder and recover the explosives from the failed mission. Combine them at the Crown Hill gates and blast the damned things open. Only then will we have any hope of breaching the Fleshworks and destroying the Master of Flesh.{^n}{^n}Once through, secure a foothold and report to Ulgrim, who will join you in the field.

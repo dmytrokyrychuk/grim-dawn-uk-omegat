@@ -1,12 +1,12 @@
 Sergeant Serriv
-That lumber mill will go a long way towards making this place more livable. Thank you.
-Farewell.
+That lumber mill will go a long way towards making this place more livable. Дякую.
+Прощавай.
 I hope you're here to do more than just loiter.
-Goodbye.
+До побачення.
 Any luck with the lumber mill?
 The lumber mill is clear of Chthonian spawn.
 I'll have men sent over there immediately so it stays that way.{^n}{^n}A job well done.
-Thank you.
+Дякую.
 Any luck with the lumber mill?
 Where is the lumber mill again?
 Head out through the northern gates, into the Blood Grove. The lumber mill is not far, but it's overrun with Chthonians.
@@ -21,5 +21,5 @@ Sorry, can't help you.
 I hope you're here to do more than just loiter.
 Anything need doing?
 If you're willing to help, you should report to Captain Somer.
-Goodbye.
-Goodbye.
+До побачення.
+До побачення.

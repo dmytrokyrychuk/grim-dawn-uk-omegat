@@ -38,7 +38,7 @@ You again?{^n}{^n}I know I was supposed to remember, but what was it?{^n}{^n}Do 
 I'm supposed to find your note.
 Yes, of course.{^n}{^n}The note I forgot... the note to remember.{^n}{^n}Did you find it?
 I'm still looking.
-Farewell.
+Прощавай.
 Hey!{^n}{^n}Don't touch me. Don't touch, don't touch...
 Ok, relax. I won't touch you.
 Just stay back.{^n}{^n}Over there, over there. Stay, stay, stay over there.{^n}{^n}Are you a memory?{^n}{^n}Do you know? Do... do, would you know?{^n}{^n}I don't remember, but I'm sure I knew. I knew... I knew where it was and now I don't know. I don't remember but I know I knew where it was.{^n}{^n}I know I remember putting it there but what it is I don't remember and where is there is what I forgot.

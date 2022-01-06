@@ -10,7 +10,7 @@ The two of them are talking about going back to work.{^n}{^n}Aaral seems to thin
 I do what I can.
 Good luck out there.
 It's rather unusual, I admit.
-Farewell.
+Прощавай.
 Sorry, I can't talk.{^n}{^n}I'm waiting for someone.
 Maybe later.
 Thank you for bringing my brothers back.{^n}{^n}What's left of them.
@@ -19,7 +19,7 @@ I have to be honest, this is all very strange. I don't really know how this is h
 
 
 It's rather unusual, I admit.
-Farewell.
+Прощавай.
 I spoke with Aaral, if Anderan is stuck down in that temple you've got to go down there and find him, please.{^n}{^n}That kid is as strong as a chillmane but he's not much smarter than a rock.{^n}{^n}If he is down there he's going to need your help.
 Where's the temple again?
 There are ruins below the Cairan Docks to the north.{^n}{^n}That's where you found Aaral.

@@ -1,6 +1,6 @@
 The Emissary
 Hello, friend. We will speak again, but at present I seek another in your midst.
-Farewell.
+Прощавай.
 I will speak with you again on the far side of the portal, traveler.
 
 Ah, we speak at last.{^n}{^n}As I am sure you know, there are many who now cast their gaze upon you, traveler, or should I say Taken? Some who mean you ill, some who fear your potential.{^n}{^n}Then there are those who command me. You know them well, for their attendant's mark is upon you.{^n}{^n}They wish to collect upon this gift.

@@ -1,10 +1,10 @@
 Ulgrim
 Don't just stand there staring at my pretty face, there is work to do!
-Farewell.
+Прощавай.
 Your allies seem to have things under control.
-Farewell.
+Прощавай.
 Don't just stand there staring at my pretty face, there is work to do!
-Farewell.
+Прощавай.
 I'll meet you within the Tomb of the Watchers, just beyond the Seal of the Loghorrean.{^n}{^n}Now go!
 Where is the Tomb of the Watchers?
 The Tomb of the Watchers is on the northeastern end of the Necropolis. It will be heavily guarded by both the Cult of Ch'thon and the fiends of the Void, so be careful.{^n}{^n}I will meet you just beyond the Seal of the Loghorrean.
@@ -59,4 +59,4 @@ I have another question.
 Yeah, um...sure...
 Works for me.
 Nevermind.
-Farewell.
+Прощавай.

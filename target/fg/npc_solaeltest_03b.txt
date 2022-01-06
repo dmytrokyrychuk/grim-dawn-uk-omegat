@@ -1,8 +1,8 @@
 Niran
 If you need something, speak to Atrin.
-Goodbye.
+До побачення.
 That was not an easy trial.{^n}{^n}It's a relief to know we passed.
-You're welcome.
+Будь ласка.
 Just barely.
 So now you're just going to make us leave?
 Yes.
@@ -15,9 +15,9 @@ Good luck out there.
 Sure you will.
 It's nothing personal.
 If you need something, speak to Atrin.
-Goodbye.
+До побачення.
 That was intense.{^n}{^n}I hope our efforts have at least shown what we're capable of.
 They have.
 Yup, and it's not much.
 If you need something, speak to Atrin.
-Goodbye.
+До побачення.

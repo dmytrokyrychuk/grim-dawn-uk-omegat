@@ -4,7 +4,7 @@ I did.
 Thank you so much for your help.{^n}{^n}They say it's still too dangerous for us up there but it's one step closer to getting out of this hole.
 I do what I can.
 I didn't do it for you.
-You're welcome.
+Будь ласка.
 I sure hope you're here to help, otherwise we don't really need another mouth to feed.
 Is it bad down here?
 Well, I suppose we're safe.{^n}{^n}That's as much as anyone can ask for after the attack on the surface.{^n}{^n}But I don't think I'll live through another one of that old drunk's stories.
@@ -21,7 +21,7 @@ You're right, of course it is.{^n}{^n}Having something to complain about just ke
 That makes sense.
 Complain away.
 We'll talk later.
-Farewell.
+Прощавай.
 You should be thankful that you have a safe place to hide.
 Well, I suppose you're right. {^n}{^n}As bad as it is down here, we're safe. That's as much as anyone can ask for these days.{^n}{^n}But, I don't think I'll live through another one of that old drunk's stories.
 Sorry to disturb you. I need to go.
