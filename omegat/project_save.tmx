@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Barnabas</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124801Z" creationid="Dmytro" creationdate="20220106T124801Z">
+        <seg>Барнабас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Best go speak to Captain Bourbon right away.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T121951Z" creationid="Dmytro" creationdate="20220106T121951Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143716Z" creationid="Дмитро Киричук" creationdate="20200712T143716Z">
         <seg>Думаю, що буду вже йти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will speak to the Captain.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124649Z" creationid="Dmytro" creationdate="20220106T124649Z">
+        <seg>Я поговорю з капітаном.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T125055Z" creationid="Dmytro" creationdate="20220106T125055Z">
+        <seg>Це тебе ми ледь не повісили! Я не бачив у цьому сенсу, але ж нікого не цікавить, що думає старий Барнабас.{^n}{^n}Тобі точно треба поговорити з капітаном. Він вирішить, чи є тобі місце у Дідьковому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T111736Z" creationid="Dmytro" creationdate="20220106T111736Z">
@@ -1938,6 +1962,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173800Z" creationid="Дмитро Киричук" creationdate="20200709T173800Z">
         <seg>Вцілілі - Port Valbury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take care.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124901Z" creationid="Dmytro" creationdate="20220106T124901Z">
+        <seg>Бувай.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2130,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131304Z" creationid="Дмитро Киричук" creationdate="20200712T131304Z">
         <seg>Повернути бали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very well then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124638Z" creationid="Dmytro" creationdate="20220106T124638Z">
+        <seg>Дуже добре.</seg>
       </tuv>
     </tu>
     <tu>
