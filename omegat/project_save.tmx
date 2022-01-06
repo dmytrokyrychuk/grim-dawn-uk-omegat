@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you for supporting us and our work.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110847Z" creationid="Dmytro" creationdate="20220106T110847Z">
+        <seg>Дакуємо за те, що підтримуєте нашу роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank you!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105526Z" creationid="Dmytro" creationdate="20220106T105526Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
         <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to Grim Dawn</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110817Z" creationid="Dmytro" creationdate="20220106T110817Z">
+        <seg>Вітаємо у Grim Dawn</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141913Z" creationid="Дмитро Киричук" creationdate="20200712T141913Z">
         <seg>{^y}{%d0}{^w} вільних балів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^z}Welcome to Grim Dawn!{^-}{^n}{^n}{^w}Tutorial Tips{^-} are currently enabled.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T111047Z" creationid="Dmytro" creationdate="20220106T111047Z">
+        <seg>{^z}Вітаєму у Grim Dawn!{^-}{^n}{^n}{^w}Підказки{^-}увімкнено.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
