@@ -7,3 +7,4 @@ Silas	Сілас
 Tutorial Tip	Підказка
 Tip	Підказка
 Annabel	Анабель
+Warden	Наглядач
