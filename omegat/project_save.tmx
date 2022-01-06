@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Best go speak to Captain Bourbon right away.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T121951Z" creationid="Dmytro" creationdate="20220106T121951Z">
+        <seg>Краще відразу поговори з капітаном Бурбоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Block Recovery</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141424Z" creationid="Дмитро Киричук" creationdate="20200712T141424Z">
@@ -866,6 +874,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180321Z" creationid="Дмитро Киричук" creationdate="20200709T180321Z">
         <seg>Гармонд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He seems to have a plan for you now that we've spared your life.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122022Z" creationid="Dmytro" creationdate="20220106T122022Z">
+        <seg>Здається, що у нього є на тебе плани, оскільки ми тебе пощадили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What happened... how did I get here?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122055Z" creationid="Dmytro" creationdate="20220106T122055Z">
+        <seg>Що сталося... як я сюди [[ms]потрапив[fs]потрапила]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Why is that?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105930Z" creationid="Dmytro" creationdate="20220106T105930Z">
@@ -2170,6 +2194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174949Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ти [[ms]досягнув[fs]досягнула] {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're one lucky bastard, I'll give you that.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T121921Z" creationid="Dmytro" creationdate="20220106T121921Z">
+        <seg>Щастить тобі, це правда.</seg>
       </tuv>
     </tu>
     <tu>
