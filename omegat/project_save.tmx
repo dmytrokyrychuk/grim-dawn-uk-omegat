@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll be back.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114534Z" creationid="Dmytro" creationdate="20220106T114523Z">
+        <seg>Я ще повернуся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll consider that an apology, Jarvis.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143758Z" creationid="Дмитро Киричук" creationdate="20200712T143758Z">
@@ -938,6 +946,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113954Z" creationid="Dmytro" creationdate="20220106T113954Z">
         <seg>Я змушу їх заплатити за це!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll... leave you to your thoughts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114407Z" creationid="Dmytro" creationdate="20220106T114407Z">
+        <seg>Я... лишу тебе на самоті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thanks to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114550Z" creationid="Dmytro" creationdate="20220106T114550Z">
+        <seg>Завдяки тобі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That I did.</seg>
       </tuv>
       <tuv lang="uk" changeid="Олеся" changedate="20200713T152751Z" creationid="Олеся" creationdate="20200713T152751Z">
@@ -2302,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Here's yer pay.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114510Z" creationid="Dmytro" creationdate="20220106T114510Z">
+        <seg>{^n}{^n}Он твоя плата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
@@ -2314,6 +2346,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
         <seg>{^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Speakin' of which, here's yer share.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114454Z" creationid="Dmytro" creationdate="20220106T114454Z">
+        <seg>{^n}{^n}До речі, ось твоя частка.</seg>
       </tuv>
     </tu>
     <tu>
