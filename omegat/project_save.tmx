@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bah!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>Ех!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Barnabas</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124801Z" creationid="Dmytro" creationdate="20220106T124801Z">
@@ -222,9 +230,17 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before you can search for it, however, you must secure a means of entry.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
+        <seg>Перш ніж проводити пошук, необхідно забезпечити доступ до села.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Best go speak to Captain Bourbon right away.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T121951Z" creationid="Dmytro" creationdate="20220106T121951Z">
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
         <seg>Краще відразу поговори з капітаном Бурбоном.</seg>
       </tuv>
     </tu>
@@ -254,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Burrwitch is located to the north of Devil's Crossing, past Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
+        <seg>Бурвіч знаходиться на північ від Дідькогово Перехрестя, за Wightmire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
         <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Captain Bourbon is up the road, by the stone bridge.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124053Z" creationid="Dmytro" creationdate="20220106T123925Z">
+        <seg>Капітан Бурбон далі по дорозі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +646,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't be going far.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>Далеко не відходь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't make me regret cutting you down.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
+        <seg>Дивися, щоб я не пошкодував, що тебе зняли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153537Z" creationid="Дмитро Киричук" creationdate="20200709T153537Z">
@@ -792,16 +840,8 @@
       <tuv lang="en">
         <seg>Fine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143656Z" creationid="Дмитро Киричук" creationdate="20200712T143656Z">
-        <seg>Добре.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Fine. I'm going.</seg>
-      </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124114Z" creationid="Dmytro" creationdate="20220106T124114Z">
-        <seg>Добре. Я йду.</seg>
+        <seg>Добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,16 +960,24 @@
       <tuv lang="en">
         <seg>He seems to have a plan for you now that we've spared your life.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122022Z" creationid="Dmytro" creationdate="20220106T122022Z">
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
         <seg>Здається, що у нього є на тебе плани, оскільки ми тебе пощадили.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>He's up the road, in the courtyard. Don't make me regret cutting you down.</seg>
+        <seg>He sees some purpose in you and I'm not going to argue.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
+        <seg>Він бачить в тобі якусь користь, і я не буду з ними сперечатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He's up the road, in the courtyard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
-        <seg>У дворі далі по дорозі. Дивися, щоб я не пошкодував, що тебе зняли.</seg>
+        <seg>У дворі далі по дорозі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll be going now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124511Z" creationid="Dmytro" creationdate="20220106T124511Z">
+        <seg>Я вже йду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll be on my way then.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123326Z" creationid="Dmytro" creationdate="20220106T123326Z">
@@ -1090,6 +1146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113922Z" creationid="Dmytro" creationdate="20220106T113922Z">
         <seg>Шкода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're not gonna make yourself useful, we may as well get another noose ready.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
+        <seg>Якщо не займешся чимось корисним, то ми можемо підготувати ще одну петлю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1302,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Killed the Warden, eh? So one bastard killed another. Makes little difference when one survived.</seg>
+        <seg>Killed the Warden, eh?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
-        <seg>[[ms]Вбив[fs]Вюила] Наглядача, еге ж? Одна наволоч вбила другу. Це не має значення, якщо інша досі жива.</seg>
+        <seg>[[ms]Вбив[fs]Вюила] Наглядача, еге ж?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1438,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Makes little difference when one survived.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
+        <seg>Це не має значення, якщо інша досі жива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Man is far too trusting.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>Він надто довірливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163546Z" creationid="Дмитро Киричук" creationdate="20200709T163546Z">
@@ -1410,6 +1490,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163149Z" creationid="Дмитро Киричук" creationdate="20200709T163149Z">
         <seg>Спільна гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My noose is lonely.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>Моїй петлі самотньо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105535Z" creationid="Dmytro" creationdate="20220106T105535Z">
         <seg>Тепер їж!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now move!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124053Z" creationid="Dmytro" creationdate="20220106T123925Z">
+        <seg>Йди!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,10 +1790,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Recon data from John Bourbon's scouts indicates that Burrwitch must be critical to Aetherial operations in the area. {^n}{^n}Perhaps the mastermind behind all this tragedy is hiding somewhere in the village. Before you can search for it, however, you must secure a means of entry. {^n}{^n}Find a riftgate within Burrwitch and secure it for the Survivors. Burrwitch is located to the north of Devil's Crossing, past Wightmire.</seg>
+        <seg>Recon data from John Bourbon's scouts indicates that Burrwitch must be critical to Aetherial operations in the area.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
-        <seg>Дані від розвідників Джона Бурбона вказують на те, що Бурвіч є вкрай важливим для справ Ефірів у цій місцевості. {^n}{^n}Можливо, керівник цих трагічних подій переховується десь у селі. Перш ніж проводити пошук, необхідно забезпечити доступ до села. {^n}{^n}Знайди розрив у Бурвічі та забезпеч його роботу для вцілілих. Бурвіч знаходиться на північ від Дідькогово Перехрестя, за Wightmire.</seg>
+        <seg>Дані від розвідників Джона Бурбона вказують на те, що Бурвіч є вкрай важливим для справ Ефірів у цій місцевості.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1842,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T151846Z" creationid="Dmytro" creationdate="20210522T151846Z">
         <seg>О́пори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to Captain</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T132008Z" creationid="Dmytro" creationdate="20220107T132008Z">
+        <seg>Повернися до капітана</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Seems the spirit fled your body before your life ran out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
+        <seg>Здається, дух покинув твоє тіло до твоєї смерті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>She would wither away in its corruption.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113910Z" creationid="Dmytro" creationdate="20220106T113910Z">
@@ -1878,10 +1990,18 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>So Bourbon let you stay? Bah! Man is far too trusting. You'll slip eventually. Don't be going far. My noose is lonely.</seg>
+        <seg>So Bourbon let you stay?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
-        <seg>То Бурбон дозволив тобі лишитися? Ех! Він надто довірливий. Колись ти послизнешся. Далеко не відходь. Моїй петлі самотньо.</seg>
+        <seg>То Бурбон дозволив тобі лишитися?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So one bastard killed another.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
+        <seg>Одна наволоч вбила другу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,16 +2056,8 @@
       <tuv lang="en">
         <seg>Still drawing breath, I see.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T121900Z" creationid="Dmytro" creationdate="20220106T121900Z">
-        <seg>Бачу, що ти досі дихаєш.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Still drawing breath, I see. You're one lucky bastard, I'll give you that. Best go speak to Captain Bourbon right away. He seems to have a plan for you now that we've spared your life.</seg>
-      </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
-        <seg>Бачу, що ти досі дихаєш. Щастить тобі, це точно. Краще відразу поговори з капітаном Бурбоном. Здається, що у нього є на тебе плани, оскільки ми тебе пощадили.</seg>
+        <seg>Бачу, що ти досі дихаєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,10 +2246,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Um, right. I'll be going now.</seg>
+        <seg>Um, right.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124511Z" creationid="Dmytro" creationdate="20220106T124511Z">
-        <seg>Емм, добре. Я вже йду.</seg>
+        <seg>Емм, добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,10 +2358,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>What're you standing around here for? If you're not gonna make yourself useful, we may as well get another noose ready. {^n}{^n}No sense in keeping around another mouth to feed.</seg>
+        <seg>What're you standing around here for?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
-        <seg>Чого ти тут стоїш? Якщо не займешся чимось корисним, то ми можемо підготувати ще одну петлю. {^n}{^n}Нема сенсу годувати ще й тебе.</seg>
+        <seg>Чого ти тут стоїш?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,18 +2502,26 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!</seg>
+        <seg>You slow or something?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124053Z" creationid="Dmytro" creationdate="20220106T123925Z">
-        <seg>Ти  [[ms]тупий[fs]тупа] чи що? Капітан Бурбон далі по дорозі. Йди!</seg>
+        <seg>Ти  [[ms]тупий[fs]тупа] чи що?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>You were possessed, so we strung you up. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.</seg>
+        <seg>You were possessed, so we strung you up.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
-        <seg>Ти  [[ms]був одержимим[fs]була одержимою], тому ми тебе підвісили. Здається, дух покинув твоє тіло до твоєї смерті. {^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани. Він бачить в тобі якусь користь, і я не буду з ними сперечатися.</seg>
+        <seg>Ти  [[ms]був одержимим[fs]була одержимою], тому ми тебе підвісили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You'll slip eventually.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
+        <seg>Колись ти послизнешся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Find a riftgate within Burrwitch and secure it for the Survivors.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
+        <seg>{^n}{^n}Знайди розрив у Бурвічі та забезпеч його роботу для вцілілих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
@@ -2694,10 +2822,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}I'd have left you to hang but the Captain had other plans.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
+        <seg>{^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
         <seg>{^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}No sense in keeping around another mouth to feed.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
+        <seg>{^n}{^n}Нема сенсу годувати ще й тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Perhaps the mastermind behind all this tragedy is hiding somewhere in the village.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
+        <seg>{^n}{^n}Можливо, керівник цих трагічних подій переховується десь у селі.</seg>
       </tuv>
     </tu>
     <tu>
