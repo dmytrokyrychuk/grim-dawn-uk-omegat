@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are to cross the Infested Farms and Rotten Croplands to the west of Homestead in order to enter the Gruesome Harvest.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133507Z" creationid="Dmytro" creationdate="20220107T133507Z">
+        <seg>Ти маєш пройти крізь Заражені Ферми та Гнилі Угіддя на захів від Садиби, щоб опинитися у Жахливих Жнивах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can't be serious.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124450Z" creationid="Dmytro" creationdate="20220106T124450Z">
