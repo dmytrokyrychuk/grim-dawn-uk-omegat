@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Captain Somer of the Black Legion has sent you on a special operation to disrupt Aetherial activity near Homestead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133115Z" creationid="Dmytro" creationdate="20220107T133115Z">
+        <seg>Капітан Сомер з Чорного Легіону відправив тебе на спеціальну місію для підриву активності Ефірів поблизу Садиби.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cause you have evil in your tummy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105939Z" creationid="Dmytro" creationdate="20220106T105939Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150937Z" creationid="Dmytro" creationdate="20210522T150937Z">
         <seg>Повернися до капітана Джона Бурбона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to Captain Somer in Homestead</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T132942Z" creationid="Dmytro" creationdate="20220107T132942Z">
+        <seg>Повернися до капітана Сомера у Садибі</seg>
       </tuv>
     </tu>
     <tu>
