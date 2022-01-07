@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There you will find the Aetherials entrenched and in the process of creating some sort of sick monstrosity within one of the barns.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133653Z" creationid="Dmytro" creationdate="20220107T133653Z">
+        <seg>Тоді ти побачиш Ефірів, які там вкорінилися та створюють страшного монстра у одному з сараїв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They took my Annabel from me.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113945Z" creationid="Dmytro" creationdate="20220106T113945Z">
