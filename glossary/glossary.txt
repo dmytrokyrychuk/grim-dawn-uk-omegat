@@ -12,3 +12,5 @@ Homestead	Садиба
 Barnabas	Барнабас
 Burrwitch	Бурвіч
 riftgate	розрив
+Somer	Сомер
+Black Legion	Чорний Легіон
