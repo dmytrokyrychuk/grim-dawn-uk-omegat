@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Destroy the abomination before it can wreck havoc across the farmlands.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133724Z" creationid="Dmytro" creationdate="20220107T133724Z">
+        <seg>Знищ гидоту, доки вона не зруйнувала поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
@@ -2502,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have assaulted the Gruesome Harvest and destroyed the Aetherial abomination they were creating.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133915Z" creationid="Dmytro" creationdate="20220107T133915Z">
+        <seg>Ви напали на Жахливі Жнива та знищили ефірну гидоту, яку там створювали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the file limit on Steam's Cloud Storage for Grim Dawn, you must delete a character before you can create another.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164623Z" creationid="Дмитро Киричук" creationdate="20200709T164623Z">
@@ -2530,6 +2546,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T125910Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ви досягнули {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should report to Captain Somer in Homestead of your success.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133932Z" creationid="Dmytro" creationdate="20220107T133932Z">
+        <seg>Звітуй капітанові Сомеру у Садибі про свої успіхи.</seg>
       </tuv>
     </tu>
     <tu>
