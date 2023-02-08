@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I am certain that you do.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165703Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165703Z">
+        <seg>Я впевнений, що так і є.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I can tell you've had yer share of horrors.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114652Z" creationid="Dmytro" creationdate="20220106T114652Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
         <seg>Я зробив це швидко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have some questions.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165647Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165647Z">
+        <seg>Я маю деякі питання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2434,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105930Z" creationid="Dmytro" creationdate="20220106T105930Z">
         <seg>Чому?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why would you betray your own kind?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165743Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165743Z">
+        <seg>Чому ти зрадив своїх?</seg>
       </tuv>
     </tu>
     <tu>
