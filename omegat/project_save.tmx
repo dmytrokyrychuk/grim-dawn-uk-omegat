@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173308Z" creationid="Дмитро Киричук" creationdate="20200709T173308Z">
         <seg>Прихильності:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ah, the stranger returns!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141242Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141242Z">
+        <seg>О, чужак повертається!</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133115Z" creationid="Dmytro" creationdate="20220107T133115Z">
         <seg>Капітан Сомер з Чорного Легіону відправив тебе на спеціальну місію для підриву активності Ефірів поблизу Садиби.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Care for some bonerat ribs?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T142945Z" creationid="Dmytro Kyrychuk" creationdate="20230216T142945Z">
+        <seg>Скуштуєш трохи реберець костощура?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141739Z" creationid="Дмитро Киричук" creationdate="20200712T134905Z">
         <seg>Здоров'я є мірою болю і шкоди, що ти можеш витримати перед знесиленням чи смертю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hello there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141230Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141230Z">
+        <seg>Привіт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2314,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T112027Z" creationid="Dmytro" creationdate="20220106T112027Z">
         <seg>Цей світ надто жорстокий для такого янгола, як Анабель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ulgrim</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141219Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141219Z">
+        <seg>Ульґрім</seg>
       </tuv>
     </tu>
     <tu>
