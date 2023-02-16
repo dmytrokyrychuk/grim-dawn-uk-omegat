@@ -17,3 +17,4 @@ Black Legion	Чорний Легіон
 Infested Farms	Заражені Ферми
 Rotten Croplands	Гнилі Угіддя
 Gruesome Harvest	Жахливі Жнива
+Ulgrim	Ульґрім
