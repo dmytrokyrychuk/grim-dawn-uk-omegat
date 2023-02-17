@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bring the Scrap to Barnabas in Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T205749Z" creationid="Dmytro Kyrychuk" creationdate="20230217T205749Z">
+        <seg>Принесіть брухт Барнабасу в Дідькове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Burial Hill</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T145948Z" creationid="Dmytro" creationdate="20210522T145948Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165356Z" creationid="Дмитро Киричук" creationdate="20200709T165356Z">
         <seg>Хмарне зберігання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collect Scrap for Barnabas</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204324Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204324Z">
+        <seg>Зберіть брухт для Барнабаса</seg>
       </tuv>
     </tu>
     <tu>
