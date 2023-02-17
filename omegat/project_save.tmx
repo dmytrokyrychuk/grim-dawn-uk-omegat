@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He should be awaiting your return inside the prison, in his office.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201637Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201637Z">
+        <seg>Він повинен чекати вашого повернення у в'язниці, у своєму кабінеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He's up the road, in the courtyard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
@@ -1574,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Meet Bourbon inside the Prison</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201726Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201726Z">
+        <seg>Зустріньтеся з Бурбоном у в'язниці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mrs. Constance is making new clothes for everyone!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105844Z" creationid="Dmytro" creationdate="20220106T105844Z">
@@ -1682,6 +1698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124053Z" creationid="Dmytro" creationdate="20220106T123925Z">
         <seg>Йди!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now that you have helped Kasparov and Barnabas, you should report back to Bourbon in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201626Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201626Z">
+        <seg>Тепер, коли ви допомогли Каспарову та Барнабасу, вам слід доповісти Бурбону в Дідьковому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
