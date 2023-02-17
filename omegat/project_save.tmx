@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Report back to Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202617Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202617Z">
+        <seg>Доповідайе Бурбону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Report back to John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202012Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202012Z">
@@ -2080,8 +2088,8 @@
       <tuv lang="en">
         <seg>Secure the Portal in Burrwitch Village</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T161232Z" creationid="Dmytro" creationdate="20220106T161232Z">
-        <seg>Забезпреч портал у селі Бурвіч</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202648Z" creationid="Dmytro" creationdate="20220106T161232Z">
+        <seg>Захисьіьб портал у селі Бурвіч</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173048Z" creationid="Дмитро Киричук" creationdate="20200709T173048Z">
         <seg>Вбивця {%t0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slay all Aetherials swarming around the Burrwitch Riftgate</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202528Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202528Z">
+        <seg>Убийте всіх Етеріалів, що кишать навколо Розлому Беррвіча</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124901Z" creationid="Dmytro" creationdate="20220106T124901Z">
         <seg>Бувай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tell Captain John Bourbon about the situation at Burrwitch Village.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202749Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202749Z">
+        <seg>Розкажіть капітану Джону Бурбону про ситуацію в селі Бурвіч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,8 +2760,8 @@
       <tuv lang="en">
         <seg>You will need to clear them out before you can secure it.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202511Z">
-        <seg>Вам потрібно буде їх позбутися, перш ніж ви зможете забезпечити розлом.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202706Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202511Z">
+        <seg>Вам потрібно буде їх позбутися, щоб захистити розлом.</seg>
       </tuv>
     </tu>
     <tu>
