@@ -20,3 +20,4 @@ Rotten Croplands	Гнилі Угіддя
 Gruesome Harvest	Жахливі Жнива
 Ulgrim	Ульґрім
 Aetherials	Етеріали
+Scrap	Брухт
