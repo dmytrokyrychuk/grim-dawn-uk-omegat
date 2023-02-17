@@ -22,3 +22,4 @@ Ulgrim	Ульґрім
 Aetherials	Етеріали
 Scrap	Брухт
 Dead	Мертв'як
+Lower Crossing	Нижнє Перехрестя
