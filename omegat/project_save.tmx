@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tell John Bourbon that the Burrwitch riftgate is secure</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202831Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202803Z">
+        <seg>Скажи Джону Бурбону, що розрим Бурвіча в безпеці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tell me, what was the battle like?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114714Z" creationid="Dmytro" creationdate="20220106T114714Z">
@@ -2602,6 +2610,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165743Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165743Z">
         <seg>Чому ти зрадив своїх?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With the Burrwitch riftgate secure, return to Captain John Bourbon in Devil's Crossing for further instructions.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202900Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202826Z">
+        <seg>Захистивши розрив Бурвіча, поверніться до капітана Джона Бурбона у Дідьковому Перехресті, щоб отримати подальші інструкції.</seg>
       </tuv>
     </tu>
     <tu>
