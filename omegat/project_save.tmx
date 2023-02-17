@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Barnabas in Devil's Crossing wishes to repair the prison's water pump, but he needs Scrap.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203751Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203751Z">
+        <seg>Барнабас в Дідьковому перехресті хоче відремонтувати водяний насос у в'язниці, але йому потрібен брухт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you can search for it, however, you must secure a means of entry.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
@@ -2062,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to Barnabas</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203809Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203809Z">
+        <seg>Поверніться до Барнабаса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201334Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201334Z">
@@ -3130,6 +3146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
         <seg>{^n}{^n}Він вважає, що вони приходять з-під Поховального Пагорба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}He could melt down the few weapons the survivors have, but dying unarmed to the Dead is not any better than dying of thirst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204027Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204027Z">
+        <seg>{^n}{^n}Він міг би розплавити ту невелику кількість зброї, що є у вцілілих, але померти без зброї перед Мертв'яками не краще, ніж померти від спраги.</seg>
       </tuv>
     </tu>
     <tu>
