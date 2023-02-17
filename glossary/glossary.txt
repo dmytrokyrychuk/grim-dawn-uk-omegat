@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 Devil's Crossing	Дідькове Перехрестя	Локація
 rift	розрив	Портал, через який можна переміститися до іншого такого ж порталу.
 Abomination	Гидота
@@ -18,3 +19,4 @@ Infested Farms	Заражені Ферми
 Rotten Croplands	Гнилі Угіддя
 Gruesome Harvest	Жахливі Жнива
 Ulgrim	Ульґрім
+Aetherials	Етеріали
