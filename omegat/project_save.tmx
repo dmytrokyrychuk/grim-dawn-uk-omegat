@@ -102,10 +102,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access the Warden's Cellar</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212824Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212824Z">
+        <seg>Досягніть Погреба Нагадача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access the Wardens Cellar</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212600Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212600Z">
-        <seg>Досягніть Погріб Наглядача </seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212810Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212600Z">
+        <seg>Досягніть Погреба Наглядача </seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the Warden's Laboratory</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212850Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212850Z">
+        <seg>Знайдіть Лабораторію Наглядача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the Wardens Laboratory</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212838Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212838Z">
+        <seg>Знайдіть Лабораторію Наглядача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fine then.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124104Z" creationid="Dmytro" creationdate="20220106T124104Z">
@@ -1546,6 +1570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
         <seg>Вбий зомбі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kill the Warden</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212858Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212858Z">
+        <seg>Вбийте Наглядача</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}According to the logs in the prison, Warden Krieg, or whatever he has become, was experimenting on prisoners in a secret laboratory underneath his mansion in Burrwitch proper.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212725Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212725Z">
+        <seg>{^n}{^n}Згідно з журналами у в’язниці, наглядач Кріг, або те, чим він став, експериментував на в’язнях у секретній лабораторії під своїм особняком у Бурвічі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Aether Crystals are often found near large collections of corpses, such as graveyards.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212316Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212316Z">
@@ -3442,6 +3482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
         <seg>Він хоче з тобою поговорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}The laboratory can be accessed via the Warden's cellar underneath his estate in Burrwitch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212748Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212734Z">
+        <seg>{^n}{^n}До лабораторії можна потрапити через підвал наглядача під його маєтком у Бурвічі.</seg>
       </tuv>
     </tu>
     <tu>
