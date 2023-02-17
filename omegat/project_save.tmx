@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Already Killed Warden</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213209Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213209Z">
+        <seg>Наглядач вже вбитий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Already been to Burrwitch</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203408Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202147Z">
@@ -1494,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>John Bourbon and the other survivors will want to hear of this triumph.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213111Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213111Z">
+        <seg>Джон Бурбон та інші вцілілі захочуть почути про цей тріумф.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>John Bourbon believes that the Aetherial responsible for the atrocities at Burrwitch has possessed the body of the former warden of Devil's Crossing, Warden Krieg.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212640Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212640Z">
@@ -2134,10 +2150,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Report back to Captain John Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213201Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213201Z">
+        <seg>Доповідайте капітану Джону Бурбону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Report back to John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202012Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202012Z">
         <seg>Доповідайте Джону Бурбону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report to Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213048Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213048Z">
+        <seg>Доповідайте Бурбону</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slay Warden Krieg</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213038Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213038Z">
+        <seg>Убийте наглядача Кріга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slay all Aetherials swarming around the Burrwitch Riftgate</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202528Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202528Z">
@@ -2566,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tell Captain John Bourbon that you have slain the Warden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213222Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213222Z">
+        <seg>Скажіть капітану Джону Бурбону, що ви вбили Наглядача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tell John Bourbon that the Burrwitch riftgate is secure</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202831Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202803Z">
@@ -2726,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These atrocities end here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213025Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213025Z">
+        <seg>На цьому ці звірства закінчуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They took my Annabel from me.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113945Z" creationid="Dmytro" creationdate="20220106T113945Z">
@@ -2818,6 +2874,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165740Z" creationid="Дмитро Киричук" creationdate="20200721T165740Z">
         <seg>Ходячий Мрець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warden Krieg has been slain by your hand!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213100Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213100Z">
+        <seg>Наглядач Кріг був убитий твоїми руками!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Find Warden Krieg in his laboratory and end his life.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213030Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213030Z">
+        <seg>{^n}{^n}Знайдіть наглядача Кріга в його лабораторії та покінчіть з ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Find a riftgate within Burrwitch and secure it for the Survivors.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
@@ -3458,6 +3530,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
         <seg>{^n}{^n}Можливо, керівник цих трагічних подій переховується десь у селі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Report back to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213150Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213150Z">
+        <seg>{^n}{^n}Відзвітуйте у Дідьковому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
