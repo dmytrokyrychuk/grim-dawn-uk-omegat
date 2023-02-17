@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Barnabas can be found just outside the prison walls by the windmill, on the south side.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201305Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201305Z">
+        <seg>Барнабаса можна біля вітряка за межами в'язниці, з південного боку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you can search for it, however, you must secure a means of entry.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T181552Z" creationid="Дмитро Киричук" creationdate="20200721T181552Z">
         <seg>[np]черевики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bourbon has asked you to help out Kasparov and Barnabas while he waits for his scouts to return.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201100Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201100Z">
+        <seg>Бурбон попросив вас допомогти Каспарову та Барнабасу, поки він чекає на повернення своїх розвідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1354,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180327Z" creationid="Дмитро Киричук" creationdate="20200709T180327Z">
         <seg>Каспаров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kasparov does his research near the Riftgate in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201140Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201140Z">
+        <seg>Каспаров проводить свої дослідження біля розриву у Дідьковому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
