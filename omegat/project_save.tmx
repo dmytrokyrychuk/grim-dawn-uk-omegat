@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Burrwitch Riftgate is surrounded by Aetherials.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202353Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202353Z">
+        <seg>Розлом Бурвіча оточений Етеріалами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Reanimator is slain and the Dead should be slowed, for now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
@@ -2722,6 +2730,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
         <seg>Ти  [[ms]був одержимим[fs]була одержимою], тому ми тебе підвісили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to clear them out before you can secure it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202511Z">
+        <seg>Вам потрібно буде їх позбутися, перш ніж ви зможете забезпечити розлом.</seg>
       </tuv>
     </tu>
     <tu>
