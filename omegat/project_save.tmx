@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have entered the bowels of the Warden's twisted facilities.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T214615Z" creationid="Dmytro Kyrychuk" creationdate="20230217T214615Z">
+        <seg>Ви потрапили в нутрощі спотворених приміщень Наглядача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the file limit on Steam's Cloud Storage for Grim Dawn, you must delete a character before you can create another.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164623Z" creationid="Дмитро Киричук" creationdate="20200709T164623Z">
