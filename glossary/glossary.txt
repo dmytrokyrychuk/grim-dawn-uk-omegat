@@ -21,3 +21,4 @@ Gruesome Harvest	Жахливі Жнива
 Ulgrim	Ульґрім
 Aetherials	Етеріали
 Scrap	Брухт
+Dead	Мертв'як
