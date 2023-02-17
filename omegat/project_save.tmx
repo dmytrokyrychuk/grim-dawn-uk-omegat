@@ -2182,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sahdina is the Spirit Guide for the survivors.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211823Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211823Z">
+        <seg>Сагдіна є духовним провідником для вцілілих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save them.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203631Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203631Z">
@@ -2218,6 +2226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
         <seg>Здається, дух покинув твоє тіло до твоєї смерті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She has offered her services to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211827Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211827Z">
+        <seg>Вона запропонувала вам свої послуги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2330,30 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
         <seg>Поговори з капітаном Джоном Бурбоном у Дідьковому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Sahdina</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211843Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211843Z">
+        <seg>Поговоріть зі Сагдіною</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Spirit Guide</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211801Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211732Z">
+        <seg>Поговоріть із духовним провідником</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to gate guard</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211937Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211937Z">
+        <seg>Поговоріть з охоронцем</seg>
       </tuv>
     </tu>
     <tu>
@@ -2520,8 +2560,8 @@
       <tuv lang="en">
         <seg>The Spirit Guide</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211458Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211458Z">
-        <seg>Духовний Провідник</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211753Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211458Z">
+        <seg>Духовний провідник</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,6 +2570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105233Z" creationid="Dmytro" creationdate="20220106T105233Z">
         <seg>Садибні випробування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The inner prison of Devil's Crossing is guarded by Rook, a man loyal to Bourbon through and through.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212022Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212022Z">
+        <seg>Внутрішню в'язницю Дідькового Перехрестя охороняє Рук, людина, наскрізь вірна Бурбону.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +2714,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
         <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211927Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211927Z">
+        <seg>Welcome to Дідькового Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
