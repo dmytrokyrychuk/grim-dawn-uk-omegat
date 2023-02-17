@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alex</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203500Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203500Z">
+        <seg>Алекс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alicia</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110104Z" creationid="Dmytro" creationdate="20220106T110104Z">
@@ -152,8 +160,8 @@
       <tuv lang="en">
         <seg>Already been to Burrwitch</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202147Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202147Z">
-        <seg>Вже був у Бурвічі</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203408Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202147Z">
+        <seg>Вже [[ms]був[fs]була] у Бурвічі</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105947Z" creationid="Dmytro" creationdate="20220106T105947Z">
         <seg>Ну добре тоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And Not a Drop to Drink</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203648Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203648Z">
+        <seg>І ні краплі випити</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201100Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201100Z">
         <seg>Бурбон попросив вас допомогти Каспарову та Барнабасу, поки він чекає на повернення своїх розвідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bring Scrap to Barnabas</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203716Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203716Z">
+        <seg>Принесіть брухт Барнабасу</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did you really make the Warden go away?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203511Z">
+        <seg>Ви справді змусили Наглядача піти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Difficulty Unlocked</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173126Z" creationid="Дмитро Киричук" creationdate="20200709T173126Z">
@@ -1038,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He was so scary!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203529Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203529Z">
+        <seg>Він був такий страшний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He's up the road, in the courtyard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
@@ -1186,6 +1226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124649Z" creationid="Dmytro" creationdate="20220106T124649Z">
         <seg>Я поговорю з капітаном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203555Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203431Z">
+        <seg>Я це зроблю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mrs. Constance says you've brought us real food.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203456Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203456Z">
+        <seg>Місіс Констанс каже, що ви принесли нам справжню їжу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163149Z" creationid="Дмитро Киричук" creationdate="20200709T163149Z">
@@ -1998,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rest in peace.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203619Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203619Z">
+        <seg>Спочивай з миром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return to Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201334Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201334Z">
@@ -2082,6 +2146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105739Z" creationid="Dmytro" creationdate="20220106T105739Z">
         <seg>Біжи тепер далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203631Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203631Z">
+        <seg>Врятуйте їх.</seg>
       </tuv>
     </tu>
     <tu>
