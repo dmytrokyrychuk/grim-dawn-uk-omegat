@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagDefaultMap=Main Campaign</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110905Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110905Z">
+        <seg>tagDefaultMap=Основна кампанія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagPlayGameModeCampaign=Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110810Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110801Z">
