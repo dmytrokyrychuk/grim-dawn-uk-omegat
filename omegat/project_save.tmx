@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aether Crystals... like these?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123300Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123300Z">
+        <seg>Кристали ефіру... як ці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Affinities:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173308Z" creationid="Дмитро Киричук" creationdate="20200709T173308Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excellent, these will do perfectly!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123304Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123304Z">
+        <seg>Відмінно, вони підійдуть ідеально!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
@@ -1498,6 +1514,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143758Z" creationid="Дмитро Киричук" creationdate="20200712T143758Z">
         <seg>Вважатиму це за вибачення, Джарвісе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll just place them into my device here and... oh my.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123928Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123928Z">
+        <seg>Я просто помісщу їх у свій пристрій тут і... ой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2714,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T111736Z" creationid="Dmytro" creationdate="20220106T111736Z">
         <seg>Знаєш, інколи коли я закриваю очі, то я бачу її.{^n}{^n}Я чую запах її каштанового волосся, відчуваю її тендітну руку на моїй щоці.{^n}{^n}А потім я розтуляю очі і бачу цю діру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry I don't have the time.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123257Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123257Z">
+        <seg>Вибачте, я не маю часу.</seg>
       </tuv>
     </tu>
     <tu>
