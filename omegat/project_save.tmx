@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both are outside the Prison.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121352Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121352Z">
+        <seg>Обидва поза межами в'язниці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bourbon has asked you to help out Kasparov and Barnabas while he waits for his scouts to return.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201100Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201100Z">
@@ -3002,6 +3010,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204314Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204314Z">
         <seg>Коли знайдете достатньо брухту, принесіть його Барнабасу в Дідькове Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where are Kasparov and Barnabas again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121407Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121407Z">
+        <seg>То де я можу знайти Каспарова та Барнабаса?</seg>
       </tuv>
     </tu>
     <tu>
