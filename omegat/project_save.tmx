@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At least they keep the area safe from beasts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193116Z">
+        <seg>Принаймні вони охороняють територію від звірів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attacks per Second</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141100Z" creationid="Дмитро Киричук" creationdate="20200712T141100Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glad I could help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193348Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193348Z">
+        <seg>[[ms]Радий[fs]Рада], що [[ms]зміг[fs]змогла] допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glad to hear it.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105906Z" creationid="Dmytro" creationdate="20220106T105906Z">
@@ -1250,6 +1266,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121542Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121542Z">
         <seg>Він пошкодив водяний насос!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He fled shortly after he heard the news that Cronley is dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193145Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193145Z">
+        <seg>Він втік незабаром після того, як почув про смерть Кронлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I guess he got himself one last tribute.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193156Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193156Z">
+        <seg>Я припускаю, що він отримав свою останню данину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I have some questions.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165647Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165647Z">
@@ -1526,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I wish I could do more.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193046Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193046Z">
+        <seg>Я хотів би зробити більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'd like to ask a few questions.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121253Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121253Z">
@@ -1618,6 +1658,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122305Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122305Z">
         <seg>Я Каспаров, вчений і винахідник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm afraid such is our lot in life.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193058Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193058Z">
+        <seg>Боюся, така наша доля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,8 +3008,8 @@
       <tuv lang="en">
         <seg>Take care.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T124901Z" creationid="Dmytro" creationdate="20220106T124901Z">
-        <seg>Бувай.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193208Z" creationid="Dmytro" creationdate="20220106T124901Z">
+        <seg>Бувайте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This situation may not be ideal, but as long as we provide them with fish and scrap, they leave us alone.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193034Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193034Z">
+        <seg>Ця ситуація може бути не ідеальною, але поки ми забезпечуємо їх рибою та брухтом, вони нас не чіпають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This world is too cruel for an angel like Annabel.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T112027Z" creationid="Dmytro" creationdate="20220106T112027Z">
@@ -3330,6 +3386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Попередження: під час тестування ти можеш натрабити на баги, збої та проблеми .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We are finally free of Cronley's oppression and it's all thanks to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193228Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193228Z">
+        <seg>Нарешті ми звільнилися від гніту Кронлі, і все це завдяки вам.</seg>
       </tuv>
     </tu>
     <tu>
