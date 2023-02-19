@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I am sorry, I cannot help you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193407Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193407Z">
+        <seg>Вибачте, я не можу вам допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I believe that, with a correctly tuned pulse of Aether energy, we can replicate this phenomenon in a controlled manner, as in without the need for pesky possession.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123122Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123122Z">
@@ -1538,6 +1546,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122719Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122719Z">
         <seg>Я що?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will help you with your tribute.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193403Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193403Z">
+        <seg>Я допоможу вам з даниною.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2298,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173815Z" creationid="Дмитро Киричук" creationdate="20200709T173815Z">
         <seg>Цілі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193352Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193352Z">
+        <seg>Звичайно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagCharDetailsActiveQuests=Active Quests:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193537Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193537Z">
+        <seg>tagCharDetailsActiveQuests=Активні квести:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagDefaultMap=Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110905Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110905Z">
@@ -3898,6 +3930,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120651Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120651Z">
         <seg>tagPlayOptionsCancel=Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagQuests=Active Quests</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193530Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193530Z">
+        <seg>tagQuests=Активні квести</seg>
       </tuv>
     </tu>
     <tu>
