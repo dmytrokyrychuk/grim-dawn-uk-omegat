@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do we stand a chance?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201129Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201129Z">
+        <seg>Чи є у нас шанс?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you wish to proceed?</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174351Z" creationid="Дмитро Киричук" creationdate="20200709T174351Z">
@@ -1414,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How goes the journey?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201207Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201207Z">
+        <seg>Як проходить подорож?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am certain that you do.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165703Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165703Z">
@@ -1486,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I don' suppose they were handing out food, were they now?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201200Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201200Z">
+        <seg>Я припускаю, що вони не роздавали їжу, чи не так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I ended it quickly.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
@@ -1498,6 +1522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124056Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124056Z">
         <seg>Я почуваюся... сильніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I found some people out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201134Z">
+        <seg>Я знайшов там кількох людей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
         <seg>Можливо, я... дозволив собі трохи свободи, поки ви були на холоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I need to speak with them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201203Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201203Z">
+        <seg>Мені потрібно з ними поговорити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193403Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193403Z">
         <seg>Я допоможу вам з даниною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will make sure of it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201124Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201124Z">
+        <seg>Я в цьому переконаюся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1890,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164248Z" creationid="Дмитро Киричук" creationdate="20200709T164248Z">
         <seg>Ініціалізація...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interesting.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201134Z">
+        <seg>Цікаво.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,6 +3738,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204314Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204314Z">
         <seg>Коли знайдете достатньо брухту, принесіть його Барнабасу в Дідькове Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where am I headed again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201219Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201219Z">
+        <seg>Нагадайте-но, куди я прямую?</seg>
       </tuv>
     </tu>
     <tu>
