@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ah!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124100Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124100Z">
+        <seg>Ага!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ah, the stranger returns!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141242Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141242Z">
@@ -790,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did it reach you too?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124042Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124042Z">
+        <seg>Вас теж зачепило?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Did you really make the Warden go away?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203511Z">
@@ -1326,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How do you feel?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124051Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124051Z">
+        <seg>Як почуваєтеся?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am certain that you do.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165703Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165703Z">
@@ -1370,6 +1394,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
         <seg>Я зробив це швидко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I feel... stronger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124056Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124056Z">
+        <seg>Я почуваюся... сильніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oh dear.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124017Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124017Z">
+        <seg>О Боже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oh look, it's the possessed one.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115604Z" creationid="Dmytro" creationdate="20220106T115604Z">
@@ -2218,6 +2258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
         <seg>Поховальний Пагорб буде зліва від розгалуження дороги за річкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One, two, three... yes, my fingers are still intact.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124031Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124031Z">
+        <seg>Один, два, три... так, всі пальці на місці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +2998,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That pulse, it wasn't supposed to go off.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124011Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124011Z">
+        <seg>Той імпульс не повинен був статися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's not right, not at all.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123931Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123931Z">
+        <seg>Це не правильно, зовсім ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Aetherial Farm</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105024Z" creationid="Dmytro" creationdate="20220106T105024Z">
@@ -3146,6 +3210,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131304Z" creationid="Дмитро Киричук" creationdate="20200712T131304Z">
         <seg>Повернути бали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very good!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124104Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124104Z">
+        <seg>Дуже добре!</seg>
       </tuv>
     </tu>
     <tu>
