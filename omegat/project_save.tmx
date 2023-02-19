@@ -2088,8 +2088,8 @@
       <tuv lang="en">
         <seg>Please post problems to the Grim Dawn forum.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
-        <seg>Будь ласка, публікуй усі проблеми на нашому форумі.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120647Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
+        <seg>Будь ласка, публікуйте усі проблеми на нашому форумі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,10 +3246,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagMenuButton01=Create Character</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120544Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120544Z">
+        <seg>tagMenuButton01=Створити персонажа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton02=Import</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120549Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120549Z">
+        <seg>tagMenuButton02=Імпорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton03=Delete Character</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120620Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120620Z">
+        <seg>tagMenuButton03=Видалити персонажа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagPlayGameModeCampaign=Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110810Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110801Z">
         <seg>tagPlayGameModeCampaign=Основна кампанія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagPlayOptionsAccept=Accept</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120740Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120740Z">
+        <seg>tagPlayOptionsAccept=Прийняти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagPlayOptionsCancel=Cancel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120651Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120651Z">
+        <seg>tagPlayOptionsCancel=Скасувати</seg>
       </tuv>
     </tu>
     <tu>
