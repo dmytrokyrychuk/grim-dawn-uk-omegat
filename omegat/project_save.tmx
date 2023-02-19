@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't worry, you won't be growing any new limbs, probably.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123013Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123013Z">
+        <seg>Не хвилюйтеся, у вас не проростуть нові кінцівки, мабуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153537Z" creationid="Дмитро Киричук" creationdate="20200709T153537Z">
@@ -1342,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I may have... taken some liberties while you were out cold.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
+        <seg>Можливо, я... дозволив собі трохи свободи, поки ви були на холоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122200Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122200Z">
@@ -1370,6 +1386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122423Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122423Z">
         <seg>Я працював над тим, щоб закрити їх, але потім ви пройшли крізь наш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I what?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122719Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122719Z">
+        <seg>Я що?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It appears that your body is still teeming with residual Aether energies.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122946Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122946Z">
+        <seg>Схоже, що ваше тіло все ще кишить залишками енергії ефіру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can wait.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
@@ -1594,6 +1626,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114734Z" creationid="Dmytro" creationdate="20220106T114734Z">
         <seg>Вона була жаливою і кривавою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was just a few tests, a blood sample or two.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122758Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122758Z">
+        <seg>Це було лише кілька аналізів, один-два зразки крові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122608Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122608Z">
         <seg>Як мінімум, не жива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing major.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122802Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122802Z">
+        <seg>Нічого особливого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wait...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122710Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122710Z">
+        <seg>Зачекайте...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Waiting for Server...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164327Z" creationid="Дмитро Киричук" creationdate="20200709T164327Z">
@@ -3274,6 +3330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174149Z" creationid="Дмитро Киричук" creationdate="20200709T174132Z">
         <seg>Не можна пройти через цей розрив, бо його створив гравець з іншої групи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You don't remember anything, do you?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122723Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122723Z">
+        <seg>Ви нічого не пам'ятаєте, чи не так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3954,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212748Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212734Z">
         <seg>{^n}{^n}До лабораторії можна потрапити через підвал наглядача під його маєтком у Бурвічі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}The results were... curious.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122809Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122809Z">
+        <seg>{^n}{^n}Результати були... цікавими.</seg>
       </tuv>
     </tu>
     <tu>
