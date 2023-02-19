@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be careful though.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123239Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123239Z">
+        <seg>Але будьте обережні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you can search for it, however, you must secure a means of entry.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
         <seg>Бурвіч знаходиться на північ від Дідькогово Перехрестя, за Wightmire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But I'm going on tangents here!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123032Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123032Z">
+        <seg>Але я відхилився від теми!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For that, I require Aether Crystal fragments.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123137Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123137Z">
+        <seg>Для цього мені потрібні фрагменти кристала ефіру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Game Guide</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153253Z" creationid="Дмитро Киричук" creationdate="20200709T153253Z">
@@ -1294,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I believe that, with a correctly tuned pulse of Aether energy, we can replicate this phenomenon in a controlled manner, as in without the need for pesky possession.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123122Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123122Z">
+        <seg>Я вважаю, що за допомогою правильно налаштованого імпульсу енергії ефіру ми можемо відтворити це явище контрольованим чином, без потреби в надокучливій одержимості.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I can tell you've had yer share of horrors.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114652Z" creationid="Dmytro" creationdate="20220106T114652Z">
@@ -1454,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll bring some back.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123252Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123252Z">
+        <seg>Я принесу трохи назад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll consider that an apology, Jarvis.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143758Z" creationid="Дмитро Киричук" creationdate="20200712T143758Z">
@@ -1522,6 +1562,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120946Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120946Z">
         <seg>Я досі чекаю на звіт одного з моїх розвідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've been working on just the device to do it, but it needs power.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123134Z">
+        <seg>Я працював лише над пристроєм для цього, але йому потрібне живлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shouldn't be too hard to find, especially around places with large concentrations of corpses.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123232Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123232Z">
+        <seg>Знайти неважко, особливо в місцях великого скупчення трупів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Target Level</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165256Z" creationid="Дмитро Киричук" creationdate="20200709T165256Z">
@@ -2982,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are strewn about the landscape now, anywhere the Aetherials have left their mark.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123219Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123219Z">
+        <seg>Зараз вони розкидані по місцевості, скрізь, де ефіріали залишили свій слід.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They took my Annabel from me.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113945Z" creationid="Dmytro" creationdate="20220106T113945Z">
@@ -3002,6 +3066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T112027Z" creationid="Dmytro" creationdate="20220106T112027Z">
         <seg>Цей світ надто жорстокий для такого янгола, як Анабель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those crystals are a bit unstable around the living.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123246Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123246Z">
+        <seg>Ці кристали трохи нестабільні навколо живих.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,6 +3274,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122258Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122258Z">
         <seg>Де мої манери?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find them?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123143Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123143Z">
+        <seg>Де їх знайти?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3498,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202706Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202511Z">
         <seg>Вам потрібно буде їх позбутися, щоб захистити розлом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You'll be looking for large formations of crystals with an unnatural green glow.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123201Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123201Z">
+        <seg>Шукайте великі утворення кристалів з неприродним зеленим світінням.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3954,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114604Z" creationid="Dmytro" creationdate="20220106T114604Z">
         <seg>{^n}{^n}Ось, тримай своє залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I'd check the graveyard.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123237Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123237Z">
+        <seg>{^n}{^n}Я б перевірив кладовище.</seg>
       </tuv>
     </tu>
     <tu>
