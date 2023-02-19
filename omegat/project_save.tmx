@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'd like to ask a few questions.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121253Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121253Z">
+        <seg>Я хотів би задати кілька запитань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll be back.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114534Z" creationid="Dmytro" creationdate="20220106T114523Z">
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124511Z" creationid="Dmytro" creationdate="20220106T124511Z">
         <seg>Я вже йду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll be off then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121240Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121240Z">
+        <seg>Тоді я піду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113954Z" creationid="Dmytro" creationdate="20220106T113954Z">
         <seg>Я змушу їх заплатити за це!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll try my best to answer them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121257Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121257Z">
+        <seg>Я постараюся відповісти на них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1514,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
         <seg>Це може почекати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It sounds like they could use your help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121210Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121210Z">
+        <seg>Здається, їм знадобиться ваша допомога.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You've earned that much.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121315Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121315Z">
+        <seg>Ви це заслужили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your game is Saved</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175806Z" creationid="Дмитро Киричук" creationdate="20200721T175806Z">
@@ -3634,6 +3674,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
         <seg>{^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Meet me in my office, inside the prison, when you're finished.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121232Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121232Z">
+        <seg>{^n}{^n}Зустрінемося в моєму кабінеті у в’язниці, коли закінчиш.</seg>
       </tuv>
     </tu>
     <tu>
