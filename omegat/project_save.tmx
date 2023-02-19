@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Direni was sabotaging us.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121525Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121525Z">
+        <seg>Дірені саботував нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Damage</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165012Z" creationid="Дмитро Киричук" creationdate="20200709T165012Z">
@@ -1150,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He damaged the well pump!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121542Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121542Z">
+        <seg>Він пошкодив водяний насос!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He seems to have a plan for you now that we've spared your life.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
@@ -1274,6 +1290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114908Z" creationid="Dmytro" creationdate="20220106T114908Z">
         <seg>Я зробив те, що треба було зробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I do what I can.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121715Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121715Z">
+        <seg>Я роблю те, що можу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
         <seg>Чого ти тут стоїш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What's with all the commotion?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121524Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121524Z">
+        <seg>До чого цей галас?</seg>
       </tuv>
     </tu>
     <tu>
