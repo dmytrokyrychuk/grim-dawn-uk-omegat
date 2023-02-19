@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122200Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122200Z">
+        <seg>Я бачив, як ви билися з Мертв'яками в Нижньому Перехресті, і це було просто близкуче!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I see.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105943Z" creationid="Dmytro" creationdate="20220106T105943Z">
@@ -3010,6 +3018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163036Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Ласкаво просимо на тестування багатокористувацького режиму!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to my workshop!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121952Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121952Z">
+        <seg>Ласкаво просимо до моєї майстерні!</seg>
       </tuv>
     </tu>
     <tu>
