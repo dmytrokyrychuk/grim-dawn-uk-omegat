@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagPlayGameModeCampaign=Main Campaign</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110801Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110801Z">
+        <seg>tagPlayGameModeCampaign=Основна Кампанія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{%+.0f0}% {^E}Physical Damage</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T135817Z" creationid="Дмитро Киричук" creationdate="20200712T135817Z">
