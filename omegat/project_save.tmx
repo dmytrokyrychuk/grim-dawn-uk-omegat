@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was working on a way to close them, but then you stumbled through ours!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122423Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122423Z">
+        <seg>Я працював над тим, щоб закрити їх, але потім ви пройшли крізь наш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I will speak to the Captain.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124649Z" creationid="Dmytro" creationdate="20220106T124649Z">
@@ -1586,6 +1594,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114734Z" creationid="Dmytro" creationdate="20220106T114734Z">
         <seg>Вона була жаливою і кривавою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was then that I realized that we could put these portals to use!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122619Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122619Z">
+        <seg>Саме тоді я зрозумів, що ми можемо використовувати ці портали!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +1986,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173105Z" creationid="Дмитро Киричук" creationdate="20200709T173105Z">
         <seg>Нормальна важкість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not a living one anyway.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122608Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122608Z">
+        <seg>Як мінімум, не жива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2818,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105024Z" creationid="Dmytro" creationdate="20220106T105024Z">
         <seg>Ефірна Ферма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Aetherials use them to get around.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122403Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122403Z">
+        <seg>Етеріали використовують їх для переміщення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3890,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212748Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212734Z">
         <seg>{^n}{^n}До лабораторії можна потрапити через підвал наглядача під його маєтком у Бурвічі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}There is something about you that is attuned to the riftgates and I intend to replicate it!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122707Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122707Z">
+        <seg>{^n}{^n}У вас є щось підлаштоване під розриви, і я маю намір відтворити це!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}We have never seen a human, possessed or otherwise, pass through one before.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122547Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122547Z">
+        <seg>{^n}{^n}Ми ніколи раніше не бачили, як людина, одержимої чи ні, пройшла крізь нього.</seg>
       </tuv>
     </tu>
     <tu>
