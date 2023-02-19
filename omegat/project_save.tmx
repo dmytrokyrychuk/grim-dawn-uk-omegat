@@ -1040,8 +1040,8 @@
       <tuv lang="en">
         <seg>Farewell.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T110020Z" creationid="Dmytro" creationdate="20220106T110020Z">
-        <seg>Прощавай.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192701Z" creationid="Dmytro" creationdate="20220106T110020Z">
+        <seg>Прощавайте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goodbye, stranger, and thank you again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192951Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192951Z">
+        <seg>До побачення, незнайомцю, і ще раз дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goodbye.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110133Z" creationid="Dmytro" creationdate="20220106T110133Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180321Z" creationid="Дмитро Киричук" creationdate="20200709T180321Z">
         <seg>Гармонд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you delivered the scrap to Silas?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192723Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192723Z">
+        <seg>Ви доставили брухт Сіласу?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I bribed him so he leaves you alone for good.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192744Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192744Z">
+        <seg>Я підкупив його, щоб він назавжди дав вам спокій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I can tell you've had yer share of horrors.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114652Z" creationid="Dmytro" creationdate="20220106T114652Z">
@@ -1434,6 +1458,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
         <seg>Можливо, я... дозволив собі трохи свободи, поки ви були на холоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I never would have imagined that we would be free of this oppression, but it appears Silas' loyalty could be bought.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192843Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192843Z">
+        <seg>Я і подумати не могла, що ми позбудемося цих утисків, але, здається, вірність Сіласа можна купити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm handling this.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192938Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192938Z">
+        <seg>Я займаюся цим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm on my way.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123941Z" creationid="Dmytro" creationdate="20220106T123941Z">
@@ -1714,6 +1754,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
         <seg>Це може почекати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the least we could do.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192920Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192920Z">
+        <seg>Це найменше, що ми можемо зробити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2426,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120647Z" creationid="Дмитро Киричук" creationdate="20200709T162600Z">
         <seg>Будь ласка, публікуйте усі проблеми на нашому форумі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please, take the scrap we collected for the tribute.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192911Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192911Z">
+        <seg>Будь ласка, візьміть брухт, який ми зібрали на данину.</seg>
       </tuv>
     </tu>
     <tu>
