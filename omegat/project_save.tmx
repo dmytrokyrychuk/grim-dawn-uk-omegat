@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Evidently, cutting you off that noose was the best decision the Captain made that day... {^n}{^n}Ah!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122255Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122255Z">
+        <seg>Очевидно, вийняти вас від тієї петлі було найкращим рішенням, яке прийняв капітан того дня... {^n}{^n}Ага!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153302Z" creationid="Дмитро Киричук" creationdate="20200709T153302Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114407Z" creationid="Dmytro" creationdate="20220106T114407Z">
         <seg>Я... лишу тебе на самоті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm Kasparov, scientist and inventor.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122305Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122305Z">
+        <seg>Я Каспаров, вчений і винахідник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Riftgates, yes!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122348Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122348Z">
+        <seg>Розриви, точно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rotting Corpse</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T130418Z" creationid="Дмитро Киричук" creationdate="20200721T165811Z">
@@ -2790,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Captain said you wanted to speak with me?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122330Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122330Z">
+        <seg>Капітан сказав, що ви хочете зі мною поговорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Reanimator is slain and the Dead should be slowed, for now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
@@ -3030,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What brings you to my humble shop?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122319Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122319Z">
+        <seg>Що привело вас у мою скромну майстерню?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What happened... how did I get here?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T122055Z" creationid="Dmytro" creationdate="20220106T122055Z">
@@ -3066,6 +3106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121407Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121407Z">
         <seg>То де я можу знайти Каспарова та Барнабаса?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where are my manners?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122258Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122258Z">
+        <seg>Де мої манери?</seg>
       </tuv>
     </tu>
     <tu>
