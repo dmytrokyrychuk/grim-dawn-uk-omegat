@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did my ally deliver the scrap?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194335Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194335Z">
+        <seg>Мій союзник доставив брухт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Did you really make the Warden go away?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203511Z">
@@ -1254,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have a glass of water, it's on me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200118Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200118Z">
+        <seg>Випий склянку води, це за мій рахунок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you delivered the scrap to Silas?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192723Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192723Z">
@@ -1442,6 +1458,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121715Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121715Z">
         <seg>Я роблю те, що можу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I don' know how to thank ya.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200108Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200108Z">
+        <seg>Я не знаю, як тобі подякувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1730,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192938Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192938Z">
         <seg>Я займаюся цим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm just glad we'll all survive.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200125Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200125Z">
+        <seg>Я просто радий, що ми всі виживемо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is still a future for Cairn, so long as we fight for it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200316Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200316Z">
+        <seg>У Керна є майбутнє, доки ми за нього боремося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There you will find the Aetherials entrenched and in the process of creating some sort of sick monstrosity within one of the barns.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133653Z" creationid="Dmytro" creationdate="20220107T133653Z">
@@ -3430,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194417Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194417Z">
+        <seg>Нам не пощастило знайти припаси через те, що на Нижньому Перехресті кишать мертв'яки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We have nothing to offer you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110124Z" creationid="Dmytro" creationdate="20220106T110124Z">
@@ -3582,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Word of your deeds travels fast, friend.{^n}{^n}*Barnabas raises a glass of water*{^n}{^n}To you, and to the fallen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200223Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200223Z">
+        <seg>Слово про твої вчинки швидко розноситься, друже.{^n}{^n}*Барнабас піднімає склянку з водою*{^n}{^n}За тебе, і за полеглих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wow!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105641Z" creationid="Dmytro" creationdate="20220106T105641Z">
@@ -3610,6 +3666,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173020Z" creationid="Дмитро Киричук" creationdate="20200709T173020Z">
         <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes indeed!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194337Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194337Z">
+        <seg>Так, справді!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,6 +3786,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T125910Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ви досягнули {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You seem to handle them well enough though.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194435Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194435Z">
+        <seg>Хоча, здається, ви добре з ними справляєтесь.</seg>
       </tuv>
     </tu>
     <tu>
