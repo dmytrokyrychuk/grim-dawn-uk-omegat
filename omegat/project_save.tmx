@@ -224,7 +224,7 @@
       <tuv lang="en">
         <seg>Any progress with Homestead?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200624Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200624Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200643Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200624Z">
         <seg>Чи є прогрес із Садибою?</seg>
       </tuv>
     </tu>
@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll do what I can.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200829Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200829Z">
+        <seg>Я зроблю все, що зможу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll just place them into my device here and... oh my.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123928Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123928Z">
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153325Z" creationid="Дмитро Киричук" creationdate="20200709T153325Z">
         <seg>Імпорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impressive!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200736Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200736Z">
+        <seg>Солідно!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2442,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115604Z" creationid="Dmytro" creationdate="20220106T115604Z">
         <seg>Дивиться, це ж одержимий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oh, I can' blame them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200815Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200808Z">
+        <seg>Ой, я не можу їх звинувачувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tell me, is there any hope for it?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201109Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201109Z">
+        <seg>Скажіть, чи є надія на це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tell me, what was the battle like?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114714Z" creationid="Dmytro" creationdate="20220106T114714Z">
@@ -3310,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The people out there don't trust us.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200648Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200648Z">
+        <seg>Люди там нам не довіряють.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The percent by which your block recovery is reduced.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141503Z" creationid="Дмитро Киричук" creationdate="20200712T141503Z">
@@ -3330,6 +3370,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133653Z" creationid="Dmytro" creationdate="20220107T133653Z">
         <seg>Тоді ти побачиш Ефірів, які там вкорінилися та створюють страшного монстра у одному з сараїв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are trying times and trust is hard to come by.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200822Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200822Z">
+        <seg>Це важкі часи, і довіру знайти важко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,6 +3594,22 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
         <seg>Ми ще не довго тут протрималися б. Всі це розуміли. Стівен просто... зірвався. Якби ти не тоді нас не [[ms]знайшов[fs]знайшла], то ми б... Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We will survive.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200832Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200832Z">
+        <seg>Ми виживемо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've single-handedly secured the future of this settlement.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200756Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200756Z">
+        <seg>Ми вже отримали вантаж із продовольством із Садиби, і, схоже, буде ще більше.{^n}{^n}Ви одноосібно забезпечили майбутнє цього поселення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3866,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122723Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122723Z">
         <seg>Ви нічого не пам'ятаєте, чи не так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You found yer way to Homestead?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200914Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200914Z">
+        <seg>Ви найшли дорогу Садиби?</seg>
       </tuv>
     </tu>
     <tu>
