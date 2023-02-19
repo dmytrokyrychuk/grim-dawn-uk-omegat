@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm still waiting for one of my scouts to report in.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120946Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120946Z">
+        <seg>Я досі чекаю на звіт одного з моїх розвідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're not gonna make yourself useful, we may as well get another noose ready.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
@@ -3270,6 +3278,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagNPC_Barnabas=Barnabas</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120817Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120817Z">
+        <seg>tagNPC_Barnabas=Барнабас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_Harmond=Harmond</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120811Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120811Z">
+        <seg>tagNPC_Harmond=Гармонд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_JohnBourbon=Captain John Bourbon</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120801Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120801Z">
+        <seg>tagNPC_JohnBourbon=Капітан Джон Бурбон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_Kasparov=Kasparov</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120804Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120804Z">
+        <seg>tagNPC_Kasparov=Каспаров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_Ulgrim=Ulgrim</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120825Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120825Z">
+        <seg>tagNPC_Ulgrim=Ульґрім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagPlayGameModeCampaign=Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110810Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110801Z">
@@ -3626,6 +3674,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114454Z" creationid="Dmytro" creationdate="20220106T114454Z">
         <seg>{^n}{^n}До речі, ось твоя частка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Take some time to mingle with the other survivors and speak to Kasparov and Barnabas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121204Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121204Z">
+        <seg>{^n}{^n}Виділіть трохи часу, щоб поспілкуватися з іншими вцілілими та поговорити з Каспаровим і Барнабасом.</seg>
       </tuv>
     </tu>
     <tu>
