@@ -24,3 +24,4 @@ Scrap	Брухт
 Dead	Мертв'як
 Lower Crossing	Нижнє Перехрестя
 Cronley	Кронлі
+quest	квест
