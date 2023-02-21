@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another day in that cage and I would have surely gone mad.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203606Z" creationid="Dmytro Kyrychuk" creationdate="20230221T203606Z">
+        <seg>Ще один день у цій клітці, і я б точно збожеволів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any progress with Homestead?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200643Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200624Z">
@@ -2598,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Phil</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203602Z" creationid="Dmytro Kyrychuk" creationdate="20230221T203602Z">
+        <seg>Філ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Physique</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T092535Z" creationid="Дмитро Киричук" creationdate="20200712T092535Z">
@@ -2808,8 +2824,8 @@
       <tuv lang="en">
         <seg>Return to Captain</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220107T132008Z" creationid="Dmytro" creationdate="20220107T132008Z">
-        <seg>Повернися до капітана</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203519Z" creationid="Dmytro" creationdate="20220107T132008Z">
+        <seg>Поверніться до капітана</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,8 +3328,8 @@
       <tuv lang="en">
         <seg>The Aetherial Farm</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T105024Z" creationid="Dmytro" creationdate="20220106T105024Z">
-        <seg>Ефірна Ферма</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203528Z" creationid="Dmytro" creationdate="20220106T105024Z">
+        <seg>Етеріальна Ферма</seg>
       </tuv>
     </tu>
     <tu>
