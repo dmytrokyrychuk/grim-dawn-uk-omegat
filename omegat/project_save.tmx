@@ -472,8 +472,8 @@
       <tuv lang="en">
         <seg>Captain Somer of the Black Legion has sent you on a special operation to disrupt Aetherial activity near Homestead.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133115Z" creationid="Dmytro" creationdate="20220107T133115Z">
-        <seg>Капітан Сомер з Чорного Легіону відправив тебе на спеціальну місію для підриву активності Ефірів поблизу Садиби.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T193838Z" creationid="Dmytro" creationdate="20220107T133115Z">
+        <seg>Капітан Сомер з Чорного Легіону відправив тебе на спеціальну місію для підриву активності Етеріалів поблизу Садиби.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +786,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105253Z" creationid="Dmytro" creationdate="20220106T105253Z">
         <seg>Знищити Гидоту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Destroy the Aetherial Amalgamation</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T193953Z" creationid="Dmytro Kyrychuk" creationdate="20230221T193953Z">
+        <seg>Знищити Етеріальну Мішанину</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,8 +3896,8 @@
       <tuv lang="en">
         <seg>You are to cross the Infested Farms and Rotten Croplands to the west of Homestead in order to enter the Gruesome Harvest.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220107T133507Z" creationid="Dmytro" creationdate="20220107T133507Z">
-        <seg>Ти маєш пройти крізь Заражені Ферми та Гнилі Угіддя на захів від Садиби, щоб опинитися у Жахливих Жнивах</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T193814Z" creationid="Dmytro" creationdate="20220107T133507Z">
+        <seg>Ти маєш пройти крізь Заражені Ферми та Гнилі Угіддя на захід від Садиби, щоб опинитися у Жахливих Жнивах</seg>
       </tuv>
     </tu>
     <tu>
