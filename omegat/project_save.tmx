@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A Sacrifice</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205114Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205114Z">
+        <seg>Жертва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A creature in the cave underneath Burial Hill is causing the Dead to rise!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123239Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123239Z">
         <seg>Але будьте обережні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because you killed Silas, the outlaw overseer at New Harbor, the rest of Cronley's gang took revenge on the fishing village.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205321Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205321Z">
+        <seg>Через те, що ви вбили Сіласа, бандита-наглядача у Новій Гавані, решта банди Кронлі помстилися рибальському селу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Stash</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205117Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205117Z">
+        <seg>Знайдіть Схованку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find The Burial Cave</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143427Z" creationid="Dmytro" creationdate="20210522T143427Z">
@@ -1154,6 +1178,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123137Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123137Z">
         <seg>Для цього мені потрібні фрагменти кристала ефіру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the Children</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205150Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205150Z">
+        <seg>Заради дітей</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Old Arkovia</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205141Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205141Z">
+        <seg>Стара Арковія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once past the stream, Burial Hill will be on the left where the road forks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
@@ -2914,6 +2954,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211823Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211823Z">
         <seg>Сагдіна є духовним провідником для вцілілих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save Children</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205157Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205157Z">
+        <seg>Врятуйте дітей</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4206,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagMenu04=Options</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205020Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205020Z">
+        <seg>tagMenu04=Опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenu06=Game Guide</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205034Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205034Z">
+        <seg>tagMenu06=Посібник з гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenu07=Exit</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205012Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205012Z">
+        <seg>tagMenu07=Вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagMenuButton01=Create Character</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120544Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120544Z">
@@ -4178,6 +4250,38 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120620Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120620Z">
         <seg>tagMenuButton03=Видалити персонажа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton04=Back</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205038Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205038Z">
+        <seg>tagMenuButton04=Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton05=Start</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205041Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205041Z">
+        <seg>tagMenuButton05=Грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton06=Cancel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205045Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205045Z">
+        <seg>tagMenuButton06=Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuButton07=Apply</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205048Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205048Z">
+        <seg>tagMenuButton07=Застосувати</seg>
       </tuv>
     </tu>
     <tu>
