@@ -26,3 +26,4 @@ Lower Crossing	Нижнє Перехрестя
 Cronley	Кронлі
 quest	квест
 Cairn	Керн
+Amalgamation	Мішанина
