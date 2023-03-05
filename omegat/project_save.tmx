@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Faldis</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134152Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134152Z">
+        <seg>Фалдіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Farewell.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192701Z" creationid="Dmytro" creationdate="20220106T110020Z">
@@ -1982,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm never going out there again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134158Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134158Z">
+        <seg>Я більше ніколи туди не вийду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm off to Burial Hill.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131130Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131130Z">
@@ -2626,6 +2642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122608Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122608Z">
         <seg>Як мінімум, не жива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not much left to scavenge nearby anyhow.{^n}{^n}Besides, I'd be dead right now if you hadn't come for me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134326Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134237Z">
+        <seg>Все одно поблизу мало що можна знайти.{^n}{^n}Крім того, я був би мертвий прямо зараз, якби ти не прийшов за мною.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3414,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak to Faldis inside Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134145Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134145Z">
+        <seg>Поговоріть з Фалдісом всередині Дідькового Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Faldis inside the prison.{^n}{^n}(You may need to earn Bourbon's trust first.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134132Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134132Z">
+        <seg>Поговоріть із Фалдісом у в’язниці.{^n}{^n}(Можливо, спочатку потрібно заслужити довіру Бурбона.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Rook in order to gain entry into the inner prison</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212122Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212122Z">
@@ -4102,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What about supplies?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134250Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134201Z">
+        <seg>А тоді бути з припасами?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What are the Aetherials?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132516Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132516Z">
@@ -4378,6 +4426,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174149Z" creationid="Дмитро Киричук" creationdate="20200709T174132Z">
         <seg>Не можна пройти через цей розрив, бо його створив гравець з іншої групи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You convinced him to take your riftgate back to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134119Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134119Z">
+        <seg>Ви переконали його повернутися у Дідькове Перехрестя через ваш розрив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +5008,8 @@
       <tuv lang="en">
         <seg>tagNPC_Flavor_DevilsCrossing08=Faldis</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T133953Z" creationid="Dmytro Kyrychuk" creationdate="20230305T133953Z">
-        <seg>tagNPC_Flavor_DevilsCrossing08=Фальдіс</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134028Z" creationid="Dmytro Kyrychuk" creationdate="20230305T133953Z">
+        <seg>tagNPC_Flavor_DevilsCrossing08=Фалдіс</seg>
       </tuv>
     </tu>
     <tu>
