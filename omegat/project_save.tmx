@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm too old for that stuff now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165109Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165109Z">
+        <seg>Я вже застарий для такого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've already found Homestead.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164722Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164722Z">
@@ -5046,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The only problem is it smells like a sewer, only about a ten-fold worse.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165202Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165202Z">
+        <seg>Єдина проблема в тому, що пахне каналізацією, тільки приблизно в десять разів гірше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The people out there don't trust us.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200648Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200648Z">
@@ -5146,6 +5162,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114921Z" creationid="Dmytro" creationdate="20220106T114921Z">
         <seg>Вони виглядали жахливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They'll be grateful that they can get a drink without dissolving their intestines.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165123Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165116Z">
+        <seg>Вони будуть вдячні, що зможуть напитися, не розчиняючи кишківник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165036Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165036Z">
+        <seg>Вони будуть вдячні, що зможуть випити, не розчиняючи кишківник.{^n}{^n}Ще одне, візьміть мій рюкзак.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5306,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154914Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154914Z">
         <seg>Були добрими людьми, захисниками імперії; тепер ніщо інше, як нечисті злидні, що переслідують болота Wightmire.{^n}{^n}Убийте їх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful for hauling back Scrap or whatever else you come across.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165051Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165051Z">
+        <seg>Корисний для перевезення брухту або будь-чого іншого, що вам трапляється.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5554,6 +5594,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142932Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142932Z">
         <seg>Ну, начебто, але мій відправить вас додому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, the good news is I got the water pumping again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165155Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165155Z">
+        <seg>Отже, хороша новина полягає в тому, що я знову почав качати воду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}I don' know how many more times I can say 'it'll melt yer guts' before they just rush me and take it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165000Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165000Z">
+        <seg>{^n}{^n}Я не знаю, скільки разів я можу ще сказати "вона роз'їсть ваші нутрощі", перш ніж вони просто обійдуть мене та наберуть її власноруч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143852Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143852Z">
@@ -7146,6 +7202,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
         <seg>{^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I'll make sure to let people here know how much help you've been.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165010Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165010Z">
+        <seg>{^n}{^n}Я подбаю про те, щоб люди тут знали, наскільки ви допомогли.</seg>
       </tuv>
     </tu>
     <tu>
