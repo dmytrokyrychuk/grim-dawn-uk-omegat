@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have something for me?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152107Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152107Z">
+        <seg>Маєте щось для мене?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you wish to proceed?</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174351Z" creationid="Дмитро Киричук" creationdate="20200709T174351Z">
@@ -1502,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Good, good, hand it here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152126Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152126Z">
+        <seg>Добре, добре, давайте її сюди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Good, you can't handle the risks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140842Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140842Z">
@@ -1750,10 +1766,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here they are.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152145Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152145Z">
+        <seg>Ось вони.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here's yer iron.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125958Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125958Z">
         <seg>Ось ваше залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hm?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152102Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152102Z">
+        <seg>Хм?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have the formula right here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152117Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152117Z">
+        <seg>Я маю формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I heard about that mess at the gallows, grisly business.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151500Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151500Z">
@@ -1962,6 +2002,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
         <seg>Можливо, я... дозволив собі трохи свободи, поки ви були на холоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I must study these without any distractions.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152035Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152025Z">
+        <seg>Я повинен вивчати це, не відволікаючись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So be it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152045Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152045Z">
+        <seg>Нехай буде так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So one bastard killed another.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
@@ -4526,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152321Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152321Z">
+        <seg>З Садиби почали надходити вантажі.{^n}{^n}Мабуть, це означає, що я можу припинити пошуки способів перетворити м’ясо розривних псів на щось їстівне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The way back should be clear now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142756Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142756Z">
@@ -4618,6 +4682,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193034Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193034Z">
         <seg>Ця ситуація може бути не ідеальною, але поки ми забезпечуємо їх рибою та брухтом, вони нас не чіпають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 2000 Iron Bits*{^n}{^n}Now get out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152014Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152014Z">
+        <seg>Розшифрування займе час.{^n}{^n}*Каспаров кидає вам ранець із 2000 залізними шматками*{^n}{^n}А тепер йдіть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,6 +5050,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122319Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122319Z">
         <seg>Що привело вас у мою скромну майстерню?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What can I do for you?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152054Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152054Z">
+        <seg>Що я можу для вас зробити?</seg>
       </tuv>
     </tu>
     <tu>
