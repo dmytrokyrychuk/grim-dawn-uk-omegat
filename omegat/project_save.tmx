@@ -2080,8 +2080,8 @@
       <tuv lang="en">
         <seg>I'd like to ask a few questions.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121253Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121253Z">
-        <seg>Я хотів би задати кілька запитань.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151004Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121253Z">
+        <seg>Я [[ms]хотів[fs]хотіла] би задати кілька запитань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2392,8 @@
       <tuv lang="en">
         <seg>In the meantime, there are others around Devil's Crossing who could use your help.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150437Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150437Z">
-        <seg>Тим часом навколо Чортового перехрестя є інші, кому може знадобитися ваша допомога.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150940Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150437Z">
+        <seg>Тим часом, навколо Чортового перехрестя є інші, кому може знадобитися ваша допомога.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5406,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagGameOver=You are dead!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150839Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150839Z">
+        <seg>tagGameOver=Ви мертві!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagInfoButtonNo=No</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150830Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150830Z">
+        <seg>tagInfoButtonNo=Ні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagInfoButtonOk=OK</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150834Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150834Z">
+        <seg>tagInfoButtonOk=Добре</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagInfoButtonYes=Yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150827Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150827Z">
+        <seg>tagInfoButtonYes=Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagInfoTitle=Information</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150825Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150825Z">
+        <seg>tagInfoTitle=Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagMapBurialHill=Burial Hill</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143243Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143243Z">
@@ -5730,6 +5770,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144402Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144402Z">
         <seg>tagNotification_WightmireBurialCaveFound=Джерело мертв'яків десь поблизу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagOptionsMenuExitGameConfirm=Are you sure you want to quit to desktop?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150821Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150821Z">
+        <seg>tagOptionsMenuExitGameConfirm=Ви впевнені, що хочете вийти до робочого столу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagOptionsMenuExitMenuConfirm=Are you sure you want to exit to the main menu?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150813Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150813Z">
+        <seg>tagOptionsMenuExitMenuConfirm=Ви впевнені, що бажаєте вийти в головне меню?</seg>
       </tuv>
     </tu>
     <tu>
