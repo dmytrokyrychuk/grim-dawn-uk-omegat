@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ain' nothin' gonna bring her back; and if it tries, I'll put a bullet through its skull.{^n}{^n}I got nothin' left but revenge, so I pay good iron to those willin' to put down those abominations.{^n}{^n}Take Farros, Jillius and Neegan, for instance.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154841Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154841Z">
+        <seg>Ніщо не поверне її назад; а якщо спробує, я всаджу їй кулю в череп.{^n}{^n}Мені не залишилося нічого, окрім помсти, тому я плачу хороше залізо тим, хто бажає знищити ці гидоти.{^n} {^n}Візьмемо, наприклад, Фарроса, Джилліуса та Нігана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203500Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203500Z">
@@ -2054,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I hear you've been cleanin' up out there in Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154507Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154507Z">
+        <seg>Я чув, що ви займалися зачисткою Нижнього перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I heard about that mess at the gallows, grisly business.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151500Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151500Z">
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151655Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151655Z">
         <seg>Я...навіть не хочу знати, що це означає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're goin' to keep fighting those bastards, you'll need better equipment than that.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154604Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154604Z">
+        <seg>Якщо ти збираєшся продовжувати битися з цими виродками, тобі знадобиться кращі знаряддя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Somethin' for nothin'.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154634Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154634Z">
+        <seg>Щось ні за що.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T111736Z" creationid="Dmytro" creationdate="20220106T111736Z">
@@ -4370,6 +4402,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193208Z" creationid="Dmytro" creationdate="20220106T124901Z">
         <seg>Бувайте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take some iron coin off my hands; I don't need it no more.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154715Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154715Z">
+        <seg>Заберіть трохи моїх залізних монет, мені вони більше не потрібні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5374,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Why are you helping me?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154723Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154723Z">
+        <seg>Чому ви мені допомагаєте?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Why is that?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105930Z" creationid="Dmytro" creationdate="20220106T105930Z">
@@ -5426,6 +5474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174448Z" creationid="Дмитро Киричук" creationdate="20200709T174448Z">
         <seg>Досвід: {%d0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Y'see, they killed my Annabel back when the village was first overrun.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154742Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154742Z">
+        <seg>Бачите, вони вбили мою Аннабель ще тоді, коли село було захоплено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130947Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130947Z">
         <seg>{^n}{^n}Йдіть до Могильної гори та знищіть те, що їх відроджує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Here's somethin' you'll likely never see again in this world, stranger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154629Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154629Z">
+        <seg>{^n}{^n}Ось те, що ти, ймовірно, більше ніколи не побачиш у цьому світі, [[ms]незнайомцю[fs]незнайомице].</seg>
       </tuv>
     </tu>
     <tu>
