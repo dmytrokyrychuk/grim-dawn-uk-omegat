@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A what?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142847Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142847Z">
+        <seg>Відкрити що?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T164041Z" creationid="Дмитро Киричук" creationdate="20200709T164041Z">
@@ -1238,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fine, you're on your own.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142822Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142822Z">
+        <seg>Добри, ви самі по собі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fine.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124114Z" creationid="Dmytro" creationdate="20220106T124114Z">
@@ -1798,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I suppose I could open a riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142830Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142830Z">
+        <seg>Гадаю, я міг би відкрити розлом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I suppose I have you to thank for that?{^n}{^n}It doesn't matter though.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142715Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142715Z">
@@ -2086,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm having a hard time believing that after what I've seen up in Burrwitch.{^n}{^n}But you don't seem to have the look of a 'Taken' about you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143034Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143034Z">
+        <seg>Мені важко в це повірити після того, що я побачив у Бурвічі.{^n}{^n}Але ви не виглядаєте «одержимим».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm just glad we'll all survive.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200125Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200125Z">
@@ -2098,6 +2130,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134158Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134158Z">
         <seg>Я більше ніколи туди не вийду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm not going back out there again.{^n}{^n}The dead will find us and tear us apart.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142807Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142807Z">
+        <seg>Я більше туди не повернуся.{^n}{^n}Мертві знайдуть нас і розірвуть на частини.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2282,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173439Z" creationid="Дмитро Киричук" creationdate="20200709T173439Z">
         <seg>Автосортування вмісту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Isn't that what those...those things are pouring out of?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142910Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142910Z">
+        <seg>Хіба це не те... звідки вони з'являються?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3974,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The area is overrun with the dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142725Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142725Z">
+        <seg>Територія переповнена мертв'яками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The captain is a hero.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140811Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140811Z">
@@ -4010,6 +4066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141503Z" creationid="Дмитро Киричук" creationdate="20200712T141503Z">
         <seg>Частка, на яку зменшується тривалість відновлення блоку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The way back should be clear now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142756Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142756Z">
+        <seg>Дорога назад тепер має бути чиста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We won't make it five feet without getting surrounded.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142735Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142735Z">
+        <seg>Ми не пройдемо п’яти футів, не потрапивши в оточення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We'll just have to search harder.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134336Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134336Z">
@@ -4362,6 +4434,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141039Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141039Z">
         <seg>Будь я проклятий, ви справді зробили це для мене.{^n}{^n}Розрив повернув мене на Дідькове Перехрестя, як ви й обіцяли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, I suppose I could open a riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142835Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142811Z">
+        <seg>Гадаю, я міг би відкрити розрив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, sort of, but mine will take you home.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142932Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142932Z">
+        <seg>Ну, начебто, але мій відправить вас додому.</seg>
       </tuv>
     </tu>
     <tu>
