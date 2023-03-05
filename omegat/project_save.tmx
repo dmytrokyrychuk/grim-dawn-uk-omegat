@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Claim Lumber Mill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T123602Z" creationid="Dmytro Kyrychuk" creationdate="20230305T123602Z">
+        <seg>Займіть лісопилку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear Monsters</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T160435Z" creationid="Dmytro" creationdate="20220106T160435Z">
@@ -1462,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Homestead</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121918Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121918Z">
+        <seg>Садиба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Host Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
@@ -2290,6 +2306,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150001Z" creationid="Dmytro" creationdate="20210522T150001Z">
         <seg>Нижнє Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lumber for the Legion</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121926Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121926Z">
+        <seg>Пиломатеріали для Легіону</seg>
       </tuv>
     </tu>
     <tu>
