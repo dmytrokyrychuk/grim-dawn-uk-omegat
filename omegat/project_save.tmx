@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could you please go out there and find that hopeless girl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153145Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153145Z">
+        <seg>Не могли б ви піти туди і знайти те безнадійне дівчисько?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153531Z" creationid="Дмитро Киричук" creationdate="20200709T153531Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152117Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152117Z">
         <seg>Я маю формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have to say, I do feel a little responsible for her now that she's my apprentice.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153130Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153130Z">
+        <seg>Мушу сказати, що тепер, коли вона моя учениця, я відчуваю певну відповідальність за неї.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Seems her ineptitude carries beyond just the workstation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153111Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153111Z">
+        <seg>Здається, її бездарність виходить за межі просто робочої станції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seems the spirit fled your body before your life ran out.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
@@ -5442,6 +5466,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205415Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205415Z">
         <seg>Ви врятували Оскара-молодшого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You lost your apprentice?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153121Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153121Z">
+        <seg>Ви втратили свою ученицю?</seg>
       </tuv>
     </tu>
     <tu>
