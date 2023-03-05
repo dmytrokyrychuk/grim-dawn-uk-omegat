@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alright, have them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152412Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152412Z">
+        <seg>Добре, тримайте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alright.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151515Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151515Z">
@@ -2446,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm not going back there, if that's what you're asking.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152348Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152343Z">
+        <seg>Я не збираюся туди повертатися, якщо ви саме цього просите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm off to Burial Hill.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131130Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131130Z">
@@ -4470,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Captain send you over?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152535Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152535Z">
+        <seg>Капітан направив вас?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Dead are rising in droves and will overwhelm us with sheer numbers at the rate things are going!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130829Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130829Z">
@@ -5602,6 +5626,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121315Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121315Z">
         <seg>Ви це заслужили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You've gained us a small victory by killing the Reanimator, but our struggle is far from over.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152526Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152526Z">
+        <seg>Ви здобули нам маленьку перемогу, убивши Реаніматора, але наша боротьба ще далека від завершення.</seg>
       </tuv>
     </tu>
     <tu>
