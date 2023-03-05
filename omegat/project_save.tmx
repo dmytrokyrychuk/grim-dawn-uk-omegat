@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a matter of fact, if you find others stranded out there, you could do the same for them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154321Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154321Z">
+        <seg>Насправді, якщо ви знайдете там інших, ви можете зробити те саме для них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At least they keep the area safe from beasts.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193116Z">
@@ -1662,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you happened to find my apprentice?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154159Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154159Z">
+        <seg>Ви випадково знайшли мою ученицю?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150512Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150512Z">
@@ -2406,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll keep looking.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154335Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154325Z">
+        <seg>Я продовжу пошук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll let you through.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132135Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132135Z">
@@ -2570,6 +2594,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151138Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151138Z">
         <seg>Я впевнений, що трохи більше ефіру у вашому тілі не завдасть вам ні найменшої шкоди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm sure she's probably in some cellar in the Burrwitch Estates.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154243Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154243Z">
+        <seg>Я впевнений, що вона, мабуть, у якомусь підвалі в Маєтку Буррвіч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T193814Z" creationid="Dmytro" creationdate="20220107T133507Z">
         <seg>Ти маєш пройти крізь Заражені Ферми та Гнилі Угіддя на захід від Садиби, щоб опинитися у Жахливих Жнивах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can bring her back here by opening a riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154252Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154252Z">
+        <seg>Ви можете повернути її сюди, відкривши розрив.</seg>
       </tuv>
     </tu>
     <tu>
