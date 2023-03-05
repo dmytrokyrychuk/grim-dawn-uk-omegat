@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I will keep an eye out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153148Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153148Z">
+        <seg>Я буду пильнувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I will make sure of it.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201124Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201124Z">
@@ -3906,6 +3914,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T124917Z" creationid="Dmytro Kyrychuk" creationdate="20230305T124917Z">
         <seg>Сержант Серрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She can take care of herself.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153457Z">
+        <seg>Вона може подбати про себе.</seg>
       </tuv>
     </tu>
     <tu>
