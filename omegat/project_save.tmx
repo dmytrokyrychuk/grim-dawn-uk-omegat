@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll need scrap from Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160258Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160258Z">
+        <seg>Мені знадобиться брухт з Нижнього перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll put them down.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154944Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154944Z">
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115039Z" creationid="Dmytro" creationdate="20220106T115039Z">
         <seg>У тобі менше мужності, ніж я думав, але тепер вони хоч не розливаються по дорогах, еге ж?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let's get to business, yes?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160131Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160131Z">
+        <seg>Перейдемо до справи, так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204247Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204247Z">
         <seg>Брухт можна знайти практично скрізь на руїнах людської цивілізації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160349Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160349Z">
+        <seg>Обшукайте зруйновані будинки та старе сміттєзвалище на дальньому боці Нижнього перехрестя, за Могильною горою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5198,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We're all out of parts, so I can't fix 'er up.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160205Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160205Z">
+        <seg>У нас закінчилися запцастини, тому я не можу його полагодити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've single-handedly secured the future of this settlement.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200756Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200756Z">
@@ -5426,6 +5458,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132917Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132917Z">
         <seg>Де я можу знайти Могильну гору?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find it?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160307Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160307Z">
+        <seg>Де я його можу знайти?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Can always melt down what weapons we have, but I'm not too fond of being devoured in my sleep.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160247Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160247Z">
+        <seg>{^n}{^n}Завжди можна переплавити зброю, яку ми маємо, але я не дуже подобається перспектива бути з'їденим уві сні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Find Scrap amongst the ruins of Lower Crossing and the dumping grounds on the edge of Wightmire.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204221Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204221Z">
@@ -6882,6 +6930,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
         <seg>{^n}{^n}Нема сенсу годувати ще й тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Our wind pump's broken down again and we're running low on water.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160151Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160151Z">
+        <seg>{^n}{^n}Наш вітряний насос знову зламався, і у нас закінчується вода.</seg>
       </tuv>
     </tu>
     <tu>
