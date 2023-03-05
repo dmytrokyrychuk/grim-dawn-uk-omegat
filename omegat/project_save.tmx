@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calm down, where are you from?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141517Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141517Z">
+        <seg>Заспокойтеся. Звідки ви?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153350Z" creationid="Дмитро Киричук" creationdate="20200709T153350Z">
@@ -1526,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help is on the way.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141503Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141503Z">
+        <seg>Допомога вже в дорозі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Helping Out</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201340Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201340Z">
@@ -1786,6 +1802,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200337Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200337Z">
         <seg>Раніше я ненавидів таке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I volunteered to go scavenging around Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141636Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141636Z">
+        <seg>Я зголосився вийти на пошуки у Нижнє Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I was staying with a group of survivors down in Devil's Crossing, you know...the old prison, but supplies started running low.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141558Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141558Z">
+        <seg>Я зупинявся з групою вцілілих у Дідьковому Перехресті, знаєте... у старій в’язниці, але запаси почали закінчуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141127Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141127Z">
         <seg>Якось виживемо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're all going to die out here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141459Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141459Z">
+        <seg>Ми всі тут помремо.</seg>
       </tuv>
     </tu>
     <tu>
