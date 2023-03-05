@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lost Survivor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134013Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134013Z">
+        <seg>Загублений вцілілий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lower Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150001Z" creationid="Dmytro" creationdate="20210522T150001Z">
@@ -3370,6 +3378,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205409Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205409Z">
         <seg>Поговоріть з дітьми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Faldis</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134024Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134024Z">
+        <seg>Поговоріть з Фалдісом</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +4946,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120817Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120817Z">
         <seg>tagNPC_Barnabas=Барнабас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_Flavor_DevilsCrossing08=Faldis</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T133953Z" creationid="Dmytro Kyrychuk" creationdate="20230305T133953Z">
+        <seg>tagNPC_Flavor_DevilsCrossing08=Фальдіс</seg>
       </tuv>
     </tu>
     <tu>
