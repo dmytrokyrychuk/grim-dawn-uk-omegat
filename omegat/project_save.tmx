@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Captain Bourbon saved you?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140050Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140050Z">
+        <seg>Капітан Бурбон врятував вас?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Captain John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T170337Z" creationid="Дмитро Киричук" creationdate="20200709T170337Z">
@@ -1214,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fire and the dead everywhere around us.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T135950Z" creationid="Dmytro Kyrychuk" creationdate="20230305T135950Z">
+        <seg>Вогонь і смерть всюди навколо нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Foggy Bank</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150010Z" creationid="Dmytro" creationdate="20210522T150010Z">
@@ -1774,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I watched my neighbors get torn to pieces by those things.{^n}{^n}If it wasn't for Captain Bourbon...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140011Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140011Z">
+        <seg>Я спостерігав, як моїх сусідів розривають на шматки ті створіння.{^n}{^n}Якби не капітан Бурбон...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I what?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122719Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122719Z">
@@ -2170,6 +2194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121210Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121210Z">
         <seg>Здається, їм знадобиться ваша допомога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was Captain Bourbon that found us hiding at the boarding house.{^n}{^n}He personally rounded up the remaining survivors and led us here through the wilderness.{^n}{^n}Even with his help, not all of us made it through the swamps...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140805Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140805Z">
+        <seg>Капітан Бурбон знайшов нас, коли ми ховалися в пансіонаті.{^n}{^n}Він особисто зібрав вцілілих і привів нас сюди через диколісся.{^n}{^n}Навіть з його допомогою не ми всі пройшли через болота...</seg>
       </tuv>
     </tu>
     <tu>
