@@ -43,3 +43,4 @@ Burrwitch Estates	Маєток Бурвіч
 Farros	Фаррос
 Jillius	Джиліус
 Neegan	Ніган
+Slith	Сліт
