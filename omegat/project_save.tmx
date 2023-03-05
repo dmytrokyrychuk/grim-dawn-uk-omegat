@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Head out through Lower Crossing and make your way up to the road, there should be a signpost pointing to Burial Hill, just beyond town.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143437Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143437Z">
+        <seg>Рухайтеся крізь Нижнє Перехрестя вздовж дороги, там має бути вказівник до Могильної гори, відразу за містом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Health</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131214Z" creationid="Дмитро Киричук" creationdate="20200712T131214Z">
@@ -5086,10 +5094,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagDevotionShrineA01=Burial Hill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143325Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143325Z">
+        <seg>tagDevotionShrineA01=Могильна гора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagFactionSurvivors=Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131733Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131733Z">
         <seg>tagFactionSurvivors=Дідькове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMapBurialHill=Burial Hill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143243Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143243Z">
+        <seg>tagMapBurialHill=Могильна гора</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5430,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagPOICaveBurialHillA=Burial Hill Entrance</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143305Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143305Z">
+        <seg>tagPOICaveBurialHillA=Вхід до Могильної гори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagPOICaveBurialHillB=Burial Hill Exit</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143315Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143315Z">
+        <seg>tagPOICaveBurialHillB=Вихід з Могильної гори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagPlayGameModeCampaign=Main Campaign</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T110810Z" creationid="Dmytro Kyrychuk" creationdate="20230219T110801Z">
@@ -5434,6 +5474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193530Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193530Z">
         <seg>tagQuests=Активні квести</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagSign_BurialHill=Burial Hill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143250Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143250Z">
+        <seg>tagSign_BurialHill=Могильна гора</seg>
       </tuv>
     </tu>
     <tu>
