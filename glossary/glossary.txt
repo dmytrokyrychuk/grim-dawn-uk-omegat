@@ -44,3 +44,5 @@ Farros	Фаррос
 Jillius	Джиліус
 Neegan	Ніган
 Slith	Сліт
+Sybil Hart	Сибілла Гарт
+Angrim	Ангрім
