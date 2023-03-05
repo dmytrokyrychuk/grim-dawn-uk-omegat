@@ -38,3 +38,4 @@ Grim Dawn	Похмурий світанок
 Mud Row	Болотяний Квартал
 Hargate	Гаргейт
 rifthound	розривний пес
+Reanimator	Реаніматор
