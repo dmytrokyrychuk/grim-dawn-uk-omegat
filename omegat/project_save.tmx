@@ -3974,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where can I find Burial Hill again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131006Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131006Z">
+        <seg>Нагадайте, де я можу знайти Могильну гору?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where can I find them?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123143Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123143Z">
@@ -5010,6 +5018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
         <seg>Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Head to Burial Hill and destroy whatever is reviving them!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130947Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130947Z">
+        <seg>{^n}{^n}Йдіть до Могильної гори та знищіть те, що їх відроджує!</seg>
       </tuv>
     </tu>
     <tu>
