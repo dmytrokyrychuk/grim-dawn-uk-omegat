@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Didn't just tell your 'Taken' brothers to flee?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144917Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144917Z">
+        <seg>Не сказали своїм «забраним» братам втікати?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Difficulty Unlocked</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173126Z" creationid="Дмитро Киричук" creationdate="20200709T173126Z">
@@ -3602,6 +3610,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T125055Z" creationid="Dmytro" creationdate="20220106T125055Z">
         <seg>Це тебе ми ледь не повісили! Я не бачив у цьому сенсу, але ж нікого не цікавить, що думає старий Барнабас.{^n}{^n}Тобі точно треба поговорити з капітаном. Він вирішить, чи є тобі місце у Дідьковому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So you've cleared out Burial Hill?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144824Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144824Z">
+        <seg>Отже, ви очистили Могильну гору?</seg>
       </tuv>
     </tu>
     <tu>
