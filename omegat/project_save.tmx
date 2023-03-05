@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tell ya what, I've got somethin' that needs doing and I'll pay good to see it done.{^n}{^n}I'm not quite sure you've got what it takes but come back with some blood on yer boots and maybe I'll reconsider.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130355Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130355Z">
+        <seg>Скажу вам що, у мене є дещо, що потрібно зробити, і я добре заплачу, щоб це було зроблено.{^n}{^n}Я не зовсім впевнений, що ви здатні на це, але поверніться з кров'ю на черевиках і, можливо, я передумаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank you for supporting us and our work.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110847Z" creationid="Dmytro" creationdate="20220106T110847Z">
