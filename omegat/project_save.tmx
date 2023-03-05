@@ -4454,6 +4454,70 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagMenuGame04=Internet</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121432Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121432Z">
+        <seg>tagMenuGame04=Інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame05=LAN</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121428Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121428Z">
+        <seg>tagMenuGame05=Локальна мережа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame06=Game Name</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121435Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121435Z">
+        <seg>tagMenuGame06=Назва гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame07=Password</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121437Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121437Z">
+        <seg>tagMenuGame07=Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame08=Max.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121442Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121442Z">
+        <seg>tagMenuGame08=Макс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame09=Level Range</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121455Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121455Z">
+        <seg>tagMenuGame09=Діапазон рівнів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame11=Map</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121504Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121504Z">
+        <seg>tagMenuGame11=Карта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenuGame12=Difficulty</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121505Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121505Z">
+        <seg>tagMenuGame12=Складність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagMenuImport03=Name</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121249Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121249Z">
