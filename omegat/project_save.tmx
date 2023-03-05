@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bring me back the Aether Crystal fragments and we can proceed further.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151309Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151309Z">
+        <seg>Поверніть мені фрагменти кристала ефіру, і ми зможемо продовжити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bring the Aether Crystals to Kasparov in Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212354Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212354Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123032Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123032Z">
         <seg>Але я відхилився від теми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But you look fine!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151156Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151156Z">
+        <seg>Але ви виглядаєте нормально!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fitter than ever.{^n}{^n}A real shame about the prototype though.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151218Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151218Z">
+        <seg>Здоровіше, ніж будь-коли.{^n}{^n}Прототип дуже шкода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Foggy Bank</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150010Z" creationid="Dmytro" creationdate="20210522T150010Z">
@@ -1974,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I think we're done here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151256Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151256Z">
+        <seg>Я думаю, ми закінчили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I took them out of their misery.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125916Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125916Z">
@@ -2074,6 +2106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193046Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193046Z">
         <seg>Я хотів би зробити більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'd be happy to speak with you, but I'm really busy with this prototype.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151303Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151303Z">
+        <seg>Я був би радий поговорити з вами, але я дуже зайнятий цим прототипом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2362,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120946Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120946Z">
         <seg>Я досі чекаю на звіт одного з моїх розвідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm sure a little more Aether in your system won't do you the slightest harm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151138Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151138Z">
+        <seg>Я впевнений, що трохи більше ефіру у вашому тілі не завдасть вам ні найменшої шкоди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ok... maybe it was a lot more.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151146Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151146Z">
+        <seg>Добре... можливо, це було набагато більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okay</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173028Z" creationid="Дмитро Киричук" creationdate="20200709T173028Z">
@@ -3234,6 +3290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perhaps if I had more fragments...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151248Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151248Z">
+        <seg>Можливо, якби я мав більше фрагментів...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,6 +3754,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165338Z" creationid="Дмитро Киричук" creationdate="20200709T165338Z">
         <seg>Показувати рівень цілі разом зі здоров'ям під час прицілювання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showed such promise.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151244Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151244Z">
+        <seg>Був дуже перспективним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Um...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151254Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151254Z">
+        <seg>Емм...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173403Z" creationid="Дмитро Киричук" creationdate="20200709T173403Z">
@@ -4874,6 +4954,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132917Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132917Z">
         <seg>Де я можу знайти Могильну гору?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find the Aether Crystals again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151323Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151323Z">
+        <seg>Нагадайте, де я можу знайти кристали ефіру?</seg>
       </tuv>
     </tu>
     <tu>
