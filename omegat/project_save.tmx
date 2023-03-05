@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I took them out of their misery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125916Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125916Z">
+        <seg>Я [[ms]позбавив[fs]позбавила] їх від страждань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I used to hate the stuff.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200337Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200337Z">
@@ -2058,6 +2066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122758Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122758Z">
         <seg>Це було лише кілька аналізів, один-два зразки крові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was sad to see men twisted in such a way.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125856Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125856Z">
+        <seg>Сумно було бачити людей настільки понівечиних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2608,8 @@
       <tuv lang="en">
         <seg>Oh look, it's the possessed one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115604Z" creationid="Dmytro" creationdate="20220106T115604Z">
-        <seg>Дивиться, це ж одержимий.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125816Z" creationid="Dmytro" creationdate="20220106T115604Z">
+        <seg>Дивіться, це ж [[ms]одержимий[fs]одержима].</seg>
       </tuv>
     </tu>
     <tu>
