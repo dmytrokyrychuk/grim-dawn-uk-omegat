@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A creature was doing this?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145412Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145412Z">
+        <seg>Істота робила це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A shady character who will store your gear and transport it between your characters.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
@@ -966,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disturbing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145413Z">
+        <seg>Тривожно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do we stand a chance?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201129Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201129Z">
@@ -1798,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have killed the Reanimator.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145402Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145402Z">
+        <seg>Я [[ms]вбив[fs]вбила] Реаніматора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I have some questions.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165647Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165647Z">
@@ -1898,6 +1922,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132859Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132859Z">
         <seg>Я вважаю, що ви маєте бути вдячними за те, що не були одержимі достатньо довго, щоб відчути це, наскільки я розумію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I take that as a sign that you've dealt with the source?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145348Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145348Z">
+        <seg>Я сприймаю це як ознаку того, що ви впоралися з джерелом?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak to him and he should let you in.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145517Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145517Z">
+        <seg>Поговоріть з ним, і він впустить вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to him outside the gates of Devil's Crossing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212058Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212058Z">
@@ -3886,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take some well-deserved time to rest and recover.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145544Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145528Z">
+        <seg>Візьміть заслужений час на відпочинок та відновлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tell Captain Bourbon that you have slain the Warden</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213235Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213235Z">
@@ -3986,6 +4034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114550Z" creationid="Dmytro" creationdate="20220106T114550Z">
         <seg>Завдяки тобі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks to your efforts, we may yet hold out here a little longer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145426Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145426Z">
+        <seg>Завдяки вашим зусиллям ми ще можемо протриматися тут трохи довше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4154,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130829Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130829Z">
         <seg>Мертві повстають натовпом і пересилять нас лише власною кількістю, за моїми розрахунками!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Dead attacks have slowed and their numbers are thinning.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145329Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145329Z">
+        <seg>Атаки мертв'яків сповільнилися, і їхня кількість зменшується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,6 +6046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}I've sent word to the gate guard.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145514Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145514Z">
+        <seg>{^n}{^n}Я надіслав повідомлення брамнику.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}It is said that the Aetherials are not of this world.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132619Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132619Z">
@@ -6054,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Take some well-deserved time to rest and recover.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145441Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145441Z">
+        <seg>{^n}{^n}Візьміть заслужений час на відпочинок і відновлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
@@ -6090,6 +6170,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122547Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122547Z">
         <seg>{^n}{^n}Ми ніколи раніше не бачили, як людина, одержимої чи ні, пройшла крізь нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Welcome to Devil's Crossing!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145457Z">
+        <seg>{^n}{^n}Ласкаво просимо до Дідькового Перехрестя!</seg>
       </tuv>
     </tu>
     <tu>
