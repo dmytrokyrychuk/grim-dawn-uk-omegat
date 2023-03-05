@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fair point.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134342Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134342Z">
+        <seg>І то правда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Faldis</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134152Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134152Z">
@@ -4086,6 +4094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We'll just have to search harder.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134336Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134336Z">
+        <seg>Нам просто доведеться шукати уважніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've single-handedly secured the future of this settlement.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200756Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200756Z">
@@ -4374,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes, had a home in Mud Row before the town fell to the Aetherials.{^n}{^n}It was terrible.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T135940Z" creationid="Dmytro Kyrychuk" creationdate="20230305T135940Z">
+        <seg>Так, я мав дім у Болотяному Кварталі до того, як місто впало під етеріалів.{^n}{^n}Це було жахливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yes, he seemed pleased.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110029Z" creationid="Dmytro" creationdate="20220106T110029Z">
@@ -4514,6 +4538,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T125910Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
         <seg>Ви досягнули {^y}{%d0} рівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You said you came from Burrwitch?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134354Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134354Z">
+        <seg>Ви сказали, що прийшли з Бурвіча?</seg>
       </tuv>
     </tu>
     <tu>
