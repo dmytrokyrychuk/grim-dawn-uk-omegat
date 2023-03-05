@@ -328,8 +328,8 @@
       <tuv lang="en">
         <seg>And Not a Drop to Drink</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203648Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203648Z">
-        <seg>І ні краплі випити</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171253Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203648Z">
+        <seg>Та ні краплі випити</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203606Z" creationid="Dmytro Kyrychuk" creationdate="20230221T203606Z">
         <seg>Ще один день у цій клітці, і я б точно збожеволів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any luck clearing out those Slith?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171150Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171150Z">
+        <seg>Чи пощастило зачистити Слітів?</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124801Z" creationid="Dmytro" creationdate="20220106T124801Z">
         <seg>Барнабас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Barnabas believes that Slith have inhabited the cave Devil's Crossing pumps for water.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171339Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171311Z">
+        <seg>Барнабас вважає, що сліт заселили печеру, з якої Чортове Перехрестя качає воду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1714,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180321Z" creationid="Дмитро Киричук" creationdate="20200709T180321Z">
         <seg>Гармонд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Harmond is a wreck of a man, hollow of emotions but for the cold rage he feels towards the corpses now roaming Lower Crossing and beyond.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171745Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171745Z">
+        <seg>Гармонд — це розбита людина, порожня від усіх емоцій, крім холодної люті, яку він відчуває до трупів, які зараз блукають Нижнім Перехрестям і за його межами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kill Slith in Cave</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171304Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171304Z">
+        <seg>Вбийте сліт у печері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kill Zombies</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180514Z" creationid="Дмитро Киричук" creationdate="20200709T180514Z">
@@ -3776,8 +3808,8 @@
       <tuv lang="en">
         <seg>Once I pump out the remaining poisoned water, the spring should be clean enough for drinking.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162016Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162016Z">
-        <seg>Коли я вакмчаю решту отруєної води, джерело стане достатньо чистим для пиття.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171215Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162016Z">
+        <seg>Коли я викачаю решту отруєної води, джерело стане достатньо чистим для пиття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4454,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slay Farros, the Rotted</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171915Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171910Z">
+        <seg>Убийте Фарроса Зігнилого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slay Jillius, the Decayed</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171942Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171942Z">
+        <seg>Убийте Джиліуса Розкладеного</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slay Neegan, the Withered</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171959Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171959Z">
+        <seg>Убити Нігана Змарнілого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slay Viloth the Corruptor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171539Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171539Z">
+        <seg>Вбийте Корупторку Вілот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slay Warden Krieg</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213038Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213038Z">
@@ -4434,6 +4498,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202528Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202528Z">
         <seg>Убийте всіх Етеріалів, що кишать навколо Розлому Беррвіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slith are foul beasts that secrete poisons lethal to humans.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171349Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171349Z">
+        <seg>Сліти — мерзенні звірі, які виділяють отруту, смертельну для людей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,6 +4578,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154634Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154634Z">
         <seg>Щось ні за що.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something For Nothing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171659Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171659Z">
+        <seg>Щось ні за що</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,8 +5216,8 @@
       <tuv lang="en">
         <seg>The only problem is it smells like a sewer, only about a ten-fold worse.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165202Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165202Z">
-        <seg>Єдина проблема в тому, що пахне каналізацією, тільки приблизно в десять разів гірше.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T170018Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165202Z">
+        <seg>Єдина проблема в тому, що вона пахне каналізацією, тільки приблизно в десять разів гірше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5256,8 +5336,8 @@
       <tuv lang="en">
         <seg>They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165036Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165036Z">
-        <seg>Вони будуть вдячні, що зможуть випити, не розчиняючи кишківник.{^n}{^n}Ще одне, візьміть мій рюкзак.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171249Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165036Z">
+        <seg>Вони будуть вдячні, що зможуть випити, не розчинивши кишківник.{^n}{^n}Ще одне, візьміть мій рюкзак.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5442,6 +5522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200612Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200607Z">
         <seg>Добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Viloth, the Slith matriarch has been slain by your hand.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171556Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171556Z">
+        <seg>Вілот, матріарх слітів була вбита твоєю рукою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,6 +6138,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T193814Z" creationid="Dmytro" creationdate="20220107T133507Z">
         <seg>Ти маєш пройти крізь Заражені Ферми та Гнилі Угіддя на захід від Садиби, щоб опинитися у Жахливих Жнивах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the cave via the cellar underneath the shack, near the riftgate, in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171428Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171428Z">
+        <seg>Ви можете пройти до печери через льох під халупою, біля розриву, у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6926,10 +7022,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagSlithBossB01=Viloth, the Corruptor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171618Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171618Z">
+        <seg>tagSlithBossB01=Корупторка Вілот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121003Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121003Z">
         <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Будь ласка, відвідайте наш сайт www.grimdawn.com, щоб взяти участь{^n}у поточній розробці Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagZombieMiniBoss01=Farros, the Rotted</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172115Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172115Z">
+        <seg>tagZombieMiniBoss01=Фаррос Зігнилий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagZombieMiniBoss02=Jillius, the Decayed</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172050Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172050Z">
+        <seg>tagZombieMiniBoss02=Джиліус Розкладений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagZombieMiniBoss03=Neegan, the Withered</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172019Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172019Z">
+        <seg>tagZombieMiniBoss03=Ніган Змарнілий</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Find and kill the matriarch of this Slith pack so that the water will become drinkable again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171400Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171400Z">
+        <seg>{^n}{^n}Знайдіть і вбийте матріарха цієї зграї слітів, щоб вода знову стала придатною для пиття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165420Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165420Z">
@@ -7342,6 +7478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}In the hopes that you will go out there and put down the fallen soldiers Farros, Jillius and Neegan, who are still roaming around Wightmire, he has given you enough Iron Coins to buy some supplies.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171834Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171834Z">
+        <seg>{^n}{^n}У надії, що ви підете туди й уб’єте полеглих солдатів Фарроса, Джиліуса та Нігана, які все ще бродять навколо Wightmire, він дав вам достатньо залізних монет, щоб запастися припасами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}It is said that the Aetherials are not of this world.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132619Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132619Z">
@@ -7402,6 +7546,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213150Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213150Z">
         <seg>{^n}{^n}Відзвітуйте у Дідьковому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Return to Barnabas in Devil's Crossing and inform him that the water will soon be safe to drink again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171605Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171605Z">
+        <seg>{^n}{^n}Поверніться до Барнабаса в Чортове Перехрестя і повідомте йому, що незабаром воду знову можна буде пити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7634,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165611Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165605Z">
         <seg>{^n}{^n}Вони виділяють у воду мерзенну отруту, яка робить її придатною для пиття для них, але майже завжди смертельною для нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}This is probably the only handout you will ever see in this grim new world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171855Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171855Z">
+        <seg>{^n}{^n}Це, мабуть, єдина допомога, яку ви коли-небудь побачите в цьому похмурому новому світі.</seg>
       </tuv>
     </tu>
     <tu>
