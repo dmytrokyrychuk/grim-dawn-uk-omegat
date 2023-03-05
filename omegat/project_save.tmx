@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you cleared out the Slith den?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165325Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165325Z">
+        <seg>Ви розчистили лігво Слітів?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you delivered the scrap to Silas?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192723Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192723Z">
@@ -2066,6 +2074,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151502Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151502Z">
         <seg>Мені це байдуже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I don't have time for this.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165430Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165430Z">
+        <seg>У мене немає на це часу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,6 +2614,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll take care of it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165422Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165422Z">
+        <seg>Я подбаю про це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll take care of the Slith.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165437Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165437Z">
+        <seg>Я подбаю про Сліт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll try my best to answer them.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121257Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121257Z">
@@ -2962,6 +2994,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
         <seg>Це може почекати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It connects to the bowels of the prison, which should lead you to the cave.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165350Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165350Z">
+        <seg>Він з'єднується з надрами в'язниці, яка повинна привести вас до печери.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not yet, where is it again?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165334Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165334Z">
+        <seg>Ще ні. Нагадайте, де воно?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing major.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122802Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122802Z">
@@ -3746,6 +3794,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T172856Z" creationid="Дмитро Киричук" creationdate="20200709T172856Z">
         <seg>Онлайн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the cellar in the shack behind me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165339Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165339Z">
+        <seg>Відкрийте льох у халупі позаду мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +4370,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151244Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151244Z">
         <seg>Був дуже перспективним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since I've cleared out a den of Slith, ages ago.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165316Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165316Z">
+        <seg>Відколи я розчистив лігво Слітів багато років тому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7094,6 +7158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165420Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165420Z">
+        <seg>{^n}{^n}Знайдіть Матріарха Сліта, яка, ймовірно, забруднює нашу воду, і тоді отрута повинна вивестися сама.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Go there and find out what's causing the dead to rise!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143449Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143449Z">
@@ -7390,10 +7462,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Why, I haven' smelled something this rotten since...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165216Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165216Z">
+        <seg>{^n}{^n}Я не відчував такого гнилого запаху відколи...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}You did the right thing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125949Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125949Z">
         <seg>{^n}{^n}Ви вчинили правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165518Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165518Z">
+        <seg>{^n}{^n}Якщо зробите це, тоді все Чортове Перехрестя вшановуватиме ваше ім'я кожною чаркою.</seg>
       </tuv>
     </tu>
     <tu>
