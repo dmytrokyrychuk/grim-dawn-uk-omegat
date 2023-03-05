@@ -28,3 +28,8 @@ quest	квест
 Cairn	Керн
 Amalgamation	Мішанина
 Lumber Mill	Лісопилка
+Serriv	Серрів
+Black Legion	Чорний Легіон
+Blood Grove	Кривавий гай
+Sergeant Serriv	Сержант Серрів
+Captain Somer	Капітан Сомер
