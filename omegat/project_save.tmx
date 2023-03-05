@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you seen the bodies floating out there?{^n}{^n}Surface water around here is rank with disease and decay.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160536Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160536Z">
+        <seg>Ви бачили тіла, що плавають у ній?{^n}{^n}Поверхневі води тут сповнені хвороб і гнилі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150512Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150512Z">
@@ -2442,6 +2450,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130207Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130207Z">
         <seg>Я візьмуся за це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll get the Scrap you need.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160502Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160502Z">
+        <seg>Я принесу потрібний вам брухт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our only hope is this well.{^n}{^n}Now are you going to get us some scrap or do I have to settle for sass?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160624Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160624Z">
+        <seg>Наша єдина надія – цей колодязь.{^n}{^n}То ви принесете нам трохи брухту, чи мені доведеться задовольнитися зухвалістю?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Password</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
@@ -4022,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search the bodies of those things roaming around out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160416Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160416Z">
+        <seg>Обшукуйте тіла істот, які там блукають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160349Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160349Z">
@@ -4166,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Smash some junk.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160400Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160354Z">
+        <seg>Розбивайте мотлох.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Smuggler</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175554Z" creationid="Дмитро Киричук" creationdate="20200721T175554Z">
@@ -4233,6 +4273,14 @@
         <seg>Sorry I don't have the time.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123257Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123257Z">
+        <seg>Вибачте, я не маю часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, I don't have time.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160505Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160505Z">
         <seg>Вибачте, я не маю часу.</seg>
       </tuv>
     </tu>
@@ -5006,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Um, why not just lower a bucket into the river?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160509Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160509Z">
+        <seg>Гм, чому б просто не опустити відро в річку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Um...</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151254Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151254Z">
@@ -5138,6 +5194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193228Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193228Z">
         <seg>Нарешті ми звільнилися від гніту Кронлі, і все це завдяки вам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We are running out of drinking water, nothing to be said about ever taking a bath again.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160457Z">
+        <seg>У нас закінчується питна вода, я вже мовчу про прийняття ванни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,6 +7098,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145457Z">
         <seg>{^n}{^n}Ласкаво просимо до Дідькового Перехрестя!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Where you get it isn' that important to me, just that you get it soon.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160423Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160423Z">
+        <seg>{^n}{^n}Для мене не так важливо, де ви його отримаєте, лише те, щоб ви його отримали швидше.</seg>
       </tuv>
     </tu>
     <tu>
