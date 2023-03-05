@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did you get the Scrap?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162027Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162027Z">
+        <seg>Ви принесли брухт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Did you really make the Warden go away?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203511Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203511Z">
@@ -1550,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glad to be of help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161939Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161939Z">
+        <seg>[[ms]Радий[fs]Рада] бути [[ms]корисним[fs]корисною].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glad to hear it.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105906Z" creationid="Dmytro" creationdate="20220106T105906Z">
@@ -1680,8 +1696,8 @@
       <tuv lang="en">
         <seg>Have a glass of water, it's on me.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200118Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200118Z">
-        <seg>Випий склянку води, це за мій рахунок.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200118Z">
+        <seg>Випий склянку води, я пригощаю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1802,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
         <seg>У дворі далі по дорозі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Head northwest out of Devil's Crossing across the bridge we repaired.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162155Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162155Z">
+        <seg>Рухайтеся на північний захід від Чортового Перехрестя через відремонтований міст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2750,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've taken care of it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162125Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162125Z">
+        <seg>Я подбав про це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I...I'd like to thank you.{^n}{^n}Here, take everything I've found out there.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141105Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141105Z">
@@ -3470,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not yet, where can I find it?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162052Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162052Z">
+        <seg>Ще ні. Де мені його знайти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing major.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122802Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122802Z">
@@ -3630,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once I pump out the remaining poisoned water, the spring should be clean enough for drinking.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162016Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162016Z">
+        <seg>Коли я вакмчаю решту отруєної води, джерело стане достатньо чистим для пиття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once past the stream, Burial Hill will be on the left where the road forks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
@@ -3698,6 +3746,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perfect!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162037Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162037Z">
+        <seg>Ідеально!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161944Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161944Z">
+        <seg>Молодець!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, I suppose I could open a riftgate.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142835Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142811Z">
@@ -5650,6 +5714,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165743Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165743Z">
         <seg>Чому ти зрадив своїх?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will this suffice?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162033Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162033Z">
+        <seg>Цього вистачить?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,6 +7258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161819Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161819Z">
         <seg>{^n}{^n}Вам дійсно варто піти поговорити з капітаном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}You'll find enough in no time!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162100Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162100Z">
+        <seg>{^n}{^n}Ви швидко знайдете достатньо!</seg>
       </tuv>
     </tu>
     <tu>
