@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is this enough Scrap?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160627Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160627Z">
+        <seg>Чи достатньо цього брухту?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Isn't that what those...those things are pouring out of?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142910Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142910Z">
