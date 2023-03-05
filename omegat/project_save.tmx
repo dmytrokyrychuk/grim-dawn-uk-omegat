@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help us in our hour of need, and I will open Devil's Crossing to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143918Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143918Z">
+        <seg>Допоможіть нам у скрутну годину, і я відкрию Дідькове Перехрестя для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Helping Out</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201340Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201340Z">
@@ -1786,6 +1794,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
         <seg>Можливо, я... дозволив собі трохи свободи, поки ви були на холоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I need some time to consider all this.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143952Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143952Z">
+        <seg>Мені потрібен час, щоб усе це обдумати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200829Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200829Z">
         <seg>Я зроблю все, що зможу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll find what's reanimating those corpses.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143944Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143924Z">
+        <seg>Я знайду, що оживляє ці трупи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
         <seg>Поховальний Пагорб буде зліва від розгалуження дороги за річкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you've crossed the stream on the far side of town, there will be a beaten path leading up to Burial Hill.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143748Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143748Z">
+        <seg>Коли ви перетнете струмок на дальній стороні міста, побачите биту стежку, яка веде до Могильної гори.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4282,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124638Z" creationid="Dmytro" creationdate="20220106T124638Z">
         <seg>Дуже добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very well, but make it quick.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144000Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144000Z">
+        <seg>Добре, але швидко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5818,6 +5858,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114604Z" creationid="Dmytro" creationdate="20220106T114604Z">
         <seg>{^n}{^n}Ось, тримай своє залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143852Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143852Z">
+        <seg>{^n}{^n}Я знаю, що прошу багато від вас, але також просив би багато своїх людей прийняти вас.</seg>
       </tuv>
     </tu>
     <tu>
