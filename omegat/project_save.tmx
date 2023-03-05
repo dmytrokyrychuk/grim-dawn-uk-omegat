@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here's yer iron.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125958Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125958Z">
+        <seg>Ось ваше залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Homestead</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121918Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121918Z">
@@ -1826,6 +1834,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200829Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200829Z">
         <seg>Я зроблю все, що зможу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll get on it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130207Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130207Z">
+        <seg>Я візьмуся за це.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125945Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125945Z">
+        <seg>Можливо, вони не заслужили такої долі, але принаймні тепер менше з них загрожують живим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Personal Rift</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T174020Z" creationid="Дмитро Киричук" creationdate="20200709T174020Z">
@@ -3096,8 +3120,8 @@
       <tuv lang="en">
         <seg>She would wither away in its corruption.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T113910Z" creationid="Dmytro" creationdate="20220106T113910Z">
-        <seg>Вона зовсім зів'яла би у цьому гнилому світі.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130058Z" creationid="Dmytro" creationdate="20220106T113910Z">
+        <seg>Вона зовсім зів'яла б у цьому гнилому світі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,6 +3298,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153346Z" creationid="Дмитро Киричук" creationdate="20200709T153346Z">
         <seg>Почати гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start yer hunt there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130205Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130205Z">
+        <seg>Почніть своє полювання там.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where should I look for them?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130136Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130136Z">
+        <seg>Де мені їх шукати?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Who am I supposed to talk to again?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123849Z" creationid="Dmytro" creationdate="20220106T123849Z">
@@ -4226,6 +4266,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124628Z" creationid="Dmytro" creationdate="20220106T124628Z">
         <seg>Колись ти послизнешся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're not going to convince me that you've killed the mutants without some personal experience to back it up!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130127Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130127Z">
+        <seg>Ви не переконаєте мене, що ви вбили мутантів без певного особистого досвіду, який би це підтвердив!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5130,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122547Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122547Z">
         <seg>{^n}{^n}Ми ніколи раніше не бачили, як людина, одержимої чи ні, пройшла крізь нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}You did the right thing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125949Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125949Z">
+        <seg>{^n}{^n}Ви вчинили правильно.</seg>
       </tuv>
     </tu>
     <tu>
