@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132859Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132859Z">
+        <seg>Я вважаю, що ви маєте бути вдячними за те, що не були одержимі достатньо довго, щоб відчути це, наскільки я розумію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I think I'll be going.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T143716Z" creationid="Дмитро Киричук" creationdate="20200712T143716Z">
@@ -2546,6 +2554,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165559Z" creationid="Дмитро Киричук" creationdate="20200709T165559Z">
         <seg>Мережевий адаптер для створення чи приєднання до спільних ігор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevermind.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132908Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132908Z">
+        <seg>Не зважайте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4186,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131006Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131006Z">
         <seg>Нагадайте, де я можу знайти Могильну гору?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find Burial Hill?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132917Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132917Z">
+        <seg>Де я можу знайти Могильну гору?</seg>
       </tuv>
     </tu>
     <tu>
