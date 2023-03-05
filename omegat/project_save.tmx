@@ -5726,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You musta done quite a service with the Dead if he's got hands to spare for Ol' Barnabas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160128Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160128Z">
+        <seg>Ви, мабуть, добре справилися з мертвяками, якщо в нього є вільні руки для старого Барнабаса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You reached {^y}Level {%d0}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T125910Z" creationid="Дмитро Киричук" creationdate="20200709T174949Z">
