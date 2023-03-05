@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Good, you can't handle the risks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140842Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140842Z">
+        <seg>Добре, ви не впораєтеся з ризиками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goodbye, stranger, and thank you again.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192951Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192951Z">
@@ -3430,6 +3438,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sounds awful.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140821Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140821Z">
+        <seg>Звучить жахливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sounds like it was a difficult journey.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140816Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140816Z">
+        <seg>Здається, це була важка подорож.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sounds like you have a habit of needing rescue.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140809Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140809Z">
+        <seg>Здається, у вас є звичка потребувати порятунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
@@ -3846,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The captain is a hero.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140811Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140811Z">
+        <seg>Капітан - герой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The inner prison of Devil's Crossing is guarded by Rook, a man loyal to Bourbon through and through.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212022Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212022Z">
@@ -4186,6 +4226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121952Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121952Z">
         <seg>Ласкаво просимо до моєї майстерні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well I'll be damned, you really came through for me.{^n}{^n}The rift took me back to Devil's Crossing, just as you promised.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141039Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141039Z">
+        <seg>Будь я проклятий, ви справді зробили це для мене.{^n}{^n}Розрив повернув мене на Дідькове Перехрестя, як ви й обіцяли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,6 +4682,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123201Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123201Z">
         <seg>Шукайте великі утворення кристалів з неприродним зеленим світінням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You'll be safe here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140850Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140850Z">
+        <seg>Ви будете тут у безпеці.</seg>
       </tuv>
     </tu>
     <tu>
