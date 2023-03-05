@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On my way.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143451Z">
+        <seg>Йду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once past the stream, Burial Hill will be on the left where the road forks.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
@@ -4334,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143623Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143623Z">
+        <seg>Ми спостерігали за мертв'яками протягом пемного часу, і, схоже, що вони набігають на Нижнє Перехрестя з Могильної гори, відразу за містом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We weren't going to last much longer out there. We all knew it. Stephen just... snapped one day. If you hadn't arrived when you did... thank you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T191227Z" creationid="Дмитро Киричук" creationdate="20200708T191227Z">
@@ -4906,6 +4922,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202706Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202511Z">
         <seg>Вам потрібно буде їх позбутися, щоб захистити розлом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to fight your way through Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143710Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143710Z">
+        <seg>Вам потрібно буде пройти крізь Нижнє Перехрестя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5742,6 +5766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Go there and find out what's causing the dead to rise!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143449Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143449Z">
+        <seg>{^n}{^n}Підіть туди та дізнайтеся, що спричиняє воскресіння мертвих!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
@@ -5786,6 +5818,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114604Z" creationid="Dmytro" creationdate="20220106T114604Z">
         <seg>{^n}{^n}Ось, тримай своє залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I want you to go to Burial Hill, find whatever is controlling those abominations and destroy it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143647Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143647Z">
+        <seg>{^n}{^n}Я хочу, щоб ви пішли до Могильної гори, і знайшли те, що контролює ці гидоти, і знищили його.</seg>
       </tuv>
     </tu>
     <tu>
