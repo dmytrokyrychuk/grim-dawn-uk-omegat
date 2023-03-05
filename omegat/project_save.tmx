@@ -3918,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps now he can move on.{^n}{^n}Return to him in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172413Z">
+        <seg>Можливо, тепер він зможе рухатися далі.{^n}{^n}Поверніться до нього у Чортовому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125945Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125945Z">
@@ -4208,8 +4216,8 @@
       <tuv lang="en">
         <seg>Return to Harmond</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T180526Z" creationid="Дмитро Киричук" creationdate="20200709T180526Z">
-        <seg>Повернися до Гармонда</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172351Z" creationid="Дмитро Киричук" creationdate="20200709T180526Z">
+        <seg>Поверніться до Гармонда</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,6 +6250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205415Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205415Z">
         <seg>Ви врятували Оскара-молодшого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have slain the three rotted soldiers Harmond spoke of.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172356Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172356Z">
+        <seg>Ви вбили трьох гнилих солдатів, про яких говорив Гармонд.</seg>
       </tuv>
     </tu>
     <tu>
