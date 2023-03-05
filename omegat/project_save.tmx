@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I...I'd like to thank you.{^n}{^n}Here, take everything I've found out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141105Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141105Z">
+        <seg>Я... я хотів би подякувати вам.{^n}{^n}Ось, візьміть все, що я там знайшов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're not gonna make yourself useful, we may as well get another noose ready.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123828Z" creationid="Dmytro" creationdate="20220106T123828Z">
@@ -2250,6 +2258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200325Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200325Z">
         <seg>Минуло занадто багато часу, як я бачив свіжу кукурудзу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's not much, but maybe you can make some use of it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141116Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141116Z">
+        <seg>Це небагато, але, можливо, ви можете використати це.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thanks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141117Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141117Z">
+        <seg>Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That I did.</seg>
       </tuv>
       <tuv lang="uk" changeid="Олеся" changedate="20200713T152751Z" creationid="Олеся" creationdate="20200713T152751Z">
@@ -3914,6 +3938,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141503Z" creationid="Дмитро Киричук" creationdate="20200712T141503Z">
         <seg>Частка, на яку зменшується тривалість відновлення блоку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The world we once knew is gone...all gone...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141124Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141124Z">
+        <seg>Світ, який ми колись знали, зник... усе зникло...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4202,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134336Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134336Z">
         <seg>Нам просто доведеться шукати уважніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We'll make do with what we get.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141136Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141136Z">
+        <seg>Ми обійдемося тим, що маємо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We'll survive somehow.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141127Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141127Z">
+        <seg>Якось виживемо.</seg>
       </tuv>
     </tu>
     <tu>
