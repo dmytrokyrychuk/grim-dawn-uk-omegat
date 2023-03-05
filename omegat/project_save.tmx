@@ -2168,8 +2168,8 @@
       <tuv lang="en">
         <seg>Just try to make sure it's not yer own blood...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T115637Z" creationid="Dmytro" creationdate="20220106T115637Z">
-        <seg>Але дивися, щоб це була не твоя кров...</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130448Z" creationid="Dmytro" creationdate="20220106T115637Z">
+        <seg>Але дивіться, щоб це була не ваша кров...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,6 +3538,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122330Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122330Z">
         <seg>Капітан сказав, що ви хочете зі мною поговорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Dead are rising in droves and will overwhelm us with sheer numbers at the rate things are going!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130829Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130829Z">
+        <seg>Мертві повстають натовпом і пересилять нас лише власною кількістю, за моїми розрахунками!</seg>
       </tuv>
     </tu>
     <tu>
