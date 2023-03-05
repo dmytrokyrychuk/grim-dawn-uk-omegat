@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Open Riftgate)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142555Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142555Z">
+        <seg>(Відкрити розрив)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Selected)</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173312Z" creationid="Дмитро Киричук" creationdate="20200709T173312Z">
@@ -1214,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find your own way home.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142617Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142617Z">
+        <seg>Шукайте дорогу додому самі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fine then.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124104Z" creationid="Dmytro" creationdate="20220106T124104Z">
@@ -1258,6 +1274,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205150Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205150Z">
         <seg>Заради дітей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forget it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142601Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142601Z">
+        <seg>Забудьте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1794,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105943Z" creationid="Dmytro" creationdate="20220106T105943Z">
         <seg>Розумію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I suppose I have you to thank for that?{^n}{^n}It doesn't matter though.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142715Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142715Z">
+        <seg>Гадаю, я повинен вам за це подякувати?{^n}{^n}Проте, це не має значення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See you back at Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142637Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142637Z">
+        <seg>Побачимося у Дідьковому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seems the spirit fled your body before your life ran out.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
@@ -4810,6 +4850,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131149Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131149Z">
         <seg>Ви виглядаєте не так вже й погано для того, хто щойно був на межі смерті!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're on your own.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142542Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142542Z">
+        <seg>Ви самі по собі.</seg>
       </tuv>
     </tu>
     <tu>
