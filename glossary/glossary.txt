@@ -21,7 +21,7 @@ Gruesome Harvest	Жахливі Жнива
 Ulgrim	Ульґрім
 Aetherials	Етеріали
 Scrap	Брухт
-Dead	Мертв'як
+Dead	Мертвяк
 Lower Crossing	Нижнє Перехрестя
 Cronley	Кронлі
 quest	квест
