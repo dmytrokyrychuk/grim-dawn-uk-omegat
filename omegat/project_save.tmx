@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150512Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150512Z">
+        <seg>Він базікає якусь нісенітницю, але я думаю, що він хоче поговорити про ваш зв’язок з Етеріалами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He could use some good news.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144954Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144954Z">
@@ -1858,6 +1866,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143952Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143952Z">
         <seg>Мені потрібен час, щоб усе це обдумати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I need some time to plan our strategy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150408Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150408Z">
+        <seg>Мені потрібен час для планування нашої стратегії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I need some time.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150343Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150343Z">
+        <seg>Мені потрібен час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm off to speak with Kasparov and Barnabas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150350Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150350Z">
+        <seg>Я йду поговорити з Каспаровим і Барнабасом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm on my way.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123941Z" creationid="Dmytro" creationdate="20220106T123941Z">
@@ -2330,6 +2362,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200736Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200736Z">
         <seg>Солідно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the meantime, there are others around Devil's Crossing who could use your help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150437Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150437Z">
+        <seg>Тим часом навколо Чортового перехрестя є інші, кому може знадобитися ваша допомога.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take a moment to mingle with your fellow survivors.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150450Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150450Z">
+        <seg>Знайдіть хвилинку, щоб поспілкуватися з іншими вцілілими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take care.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193208Z" creationid="Dmytro" creationdate="20220106T124901Z">
@@ -4592,8 +4640,8 @@
       <tuv lang="en">
         <seg>Welcome back to Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132131Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132123Z">
-        <seg>Ласкаво просимо у Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150338Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132123Z">
+        <seg>Ласкаво просимо до Чортового Перехрестя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,6 +6114,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132619Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132619Z">
         <seg>{^n}{^n}Кажуть, що Етеріали не від цього світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Kasparov, our resident scientist, is really eager to speak with you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150503Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150503Z">
+        <seg>{^n}{^n}Каспаров, наш науковий співробітник, дуже хоче поговорити з вами.</seg>
       </tuv>
     </tu>
     <tu>
