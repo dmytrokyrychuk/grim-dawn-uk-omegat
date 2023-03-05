@@ -214,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ah, yes yes!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151413Z">
+        <seg>Ах, так, так!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ah, you must be the Taken!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151452Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151452Z">
+        <seg>Ах, ви, мабуть, [[ms]Одержимий[fs]Одердима]!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203500Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203500Z">
@@ -250,6 +266,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105947Z" creationid="Dmytro" creationdate="20220106T105947Z">
         <seg>Ну добре тоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alright.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151515Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151515Z">
+        <seg>Добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193116Z">
         <seg>Принаймні вони охороняють територію від звірів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At least you're good for gathering food, like a proper caveman that cannot appreciate the wonders of science.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151530Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151530Z">
+        <seg>Принаймні ти вмієш збирати їжу, як справжня печерна людина, яка не може оцінити чудеса науки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +962,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124042Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124042Z">
         <seg>Вас теж зачепило?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did my ally deliver the crystals?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151409Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151409Z">
+        <seg>Мій союзник доставив кристали?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1822,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I don't care for it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151502Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151502Z">
+        <seg>Мені це байдуже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I ended it quickly.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
@@ -1866,6 +1914,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230208T165647Z" creationid="Dmytro Kyrychuk" creationdate="20230208T165647Z">
         <seg>Я маю деякі питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I heard about that mess at the gallows, grisly business.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151500Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151500Z">
+        <seg>Я чув про той безлад на шибениці, жахлива справа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There was a bit of an...explosion, but I'm sure a little more Aether in your system won't do you the slightest harm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151427Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151427Z">
+        <seg>Був якийсь... вибух, але я впевнений, що трохи більше ефіру у вашій системі не заподіє вам найменшої шкоди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There you will find the Aetherials entrenched and in the process of creating some sort of sick monstrosity within one of the barns.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133653Z" creationid="Dmytro" creationdate="20220107T133653Z">
@@ -6290,6 +6354,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
         <seg>{^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I'm quite eager to learn more about you, but you really should speak to the Captain before wandering too much around the camp.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151511Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151511Z">
+        <seg>{^n}{^n}Мені дуже хочеться дізнатися про вас більше, але вам справді варто поговорити з капітаном, перш ніж довго блукати табором.</seg>
       </tuv>
     </tu>
     <tu>
