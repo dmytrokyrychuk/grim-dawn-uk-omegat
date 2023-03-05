@@ -1,5 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Devil's Crossing	Дідькове Перехрестя	Локація
+Devil's Crossing	Чортове Перехрестя	Локація
 rift	розрив	Портал, через який можна переміститися до іншого такого ж порталу.
 Abomination	Гидота
 Mrs. Constance	Місіс Констанція
