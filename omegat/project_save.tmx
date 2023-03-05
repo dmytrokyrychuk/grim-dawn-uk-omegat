@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Give Formula)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151750Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151750Z">
+        <seg>(Передати формулу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In Use)</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173326Z" creationid="Дмитро Киричук" creationdate="20200709T173326Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175658Z" creationid="Дмитро Киричук" creationdate="20200721T175647Z">
         <seg>Підозрілий персонаж, що зберігає твої речі та переносить їх мід твоїми персонажами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A shame...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151648Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151648Z">
+        <seg>Шкода..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've changed my mind, have Hargate's notes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151742Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151742Z">
+        <seg>Я [[ms]передумав[fs]передумала], візьміть нотатки Гаргейта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've got my eye on you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145057Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145057Z">
@@ -2466,6 +2490,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141105Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141105Z">
         <seg>Я... я хотів би подякувати вам.{^n}{^n}Ось, візьміть все, що я там знайшов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I...don't even want to know what that entailed.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151655Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151655Z">
+        <seg>Я...навіть не хочу знати, що це означає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2890,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115039Z" creationid="Dmytro" creationdate="20220106T115039Z">
         <seg>У тобі менше мужності, ніж я думав, але тепер вони хоч не розливаються по дорогах, еге ж?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151854Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151854Z">
+        <seg>Подивімося, що старий Харгейт наварив у своїй лабораторії.{^n}{^n}Тут дещо про реліквію, якою він користувався, це початок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Splendid!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151752Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151752Z">
+        <seg>Чудово!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153346Z" creationid="Дмитро Киричук" creationdate="20200709T153346Z">
@@ -4290,6 +4338,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123931Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123931Z">
         <seg>Це не правильно, зовсім ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's one way to say thanks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151933Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151927Z">
+        <seg>Це один зі способів сказати спасибі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +4642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141219Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141219Z">
         <seg>Ульґрім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Um, good luck?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151923Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151923Z">
+        <seg>Емм, удачі?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4978,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122319Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122319Z">
         <seg>Що привело вас у мою скромну майстерню?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What do you want?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151704Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151704Z">
+        <seg>Що ви хочете?</seg>
       </tuv>
     </tu>
     <tu>
