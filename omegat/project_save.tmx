@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Devil's Crossing will have safe drinking water again, and it's all thanks to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161629Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161629Z">
+        <seg>Чортове Перехрестя знову матиме безпечну питну воду, і все це завдяки вам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Devotion Level</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173718Z" creationid="Дмитро Киричук" creationdate="20200709T173718Z">
@@ -1550,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glad we could help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161811Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161811Z">
+        <seg>[[ms]Радий[fs]Рада], що ми змогли допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go about your way, 'Taken'.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145116Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145116Z">
@@ -1758,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He'll be the one deciding whether there's a place for you here at Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161843Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161831Z">
+        <seg>Це він вирішить, чи є для вас місце тут, на Чортовому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He's up the road, in the courtyard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123934Z" creationid="Dmytro" creationdate="20220106T123318Z">
@@ -1962,6 +1986,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114908Z" creationid="Dmytro" creationdate="20220106T114908Z">
         <seg>Я зробив те, що треба було зробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161747Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161747Z">
+        <seg>Я не бачив у цьому сенсу, але, знову ж таки, нікого насправді не хвилює, що думає старий Барнабас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122719Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122719Z">
         <seg>Я що?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will get the wind pump up and running in no time.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161618Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161618Z">
+        <seg>Я миттєво введу в роботу вітряний насос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4282,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T124441Z" creationid="Dmytro" creationdate="20220106T124441Z">
         <seg>Одна наволоч вбила другу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So yer the one that we almost hung!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161731Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161731Z">
+        <seg>То це ви [[ms]той[fs]та], кого ми ледь не повісили!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7070,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}The first glass is on me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161648Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161638Z">
+        <seg>{^n}{^n}Перша склянка моїм коштом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}The laboratory can be accessed via the Warden's cellar underneath his estate in Burrwitch.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212748Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212734Z">
@@ -7122,6 +7178,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125949Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125949Z">
         <seg>{^n}{^n}Ви вчинили правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}You really should go speak with the Captain.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161819Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161819Z">
+        <seg>{^n}{^n}Вам дійсно варто піти поговорити з капітаном.</seg>
       </tuv>
     </tu>
     <tu>
