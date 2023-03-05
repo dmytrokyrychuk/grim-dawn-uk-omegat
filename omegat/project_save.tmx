@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How do I get to the cave?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165725Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165725Z">
+        <seg>Як потрапити до печери?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How do you feel?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124051Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124051Z">
@@ -2450,6 +2458,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151303Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151303Z">
         <seg>Я був би радий поговорити з вами, але я дуже зайнятий цим прототипом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'd bet good iron there is a nest in the cave that fuels our pump.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165642Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165642Z">
+        <seg>Б’юся об заклад, гніздо десь у печері, що живить наш насос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5262,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They're loathsome reptiles - make their homes in swamps and dank caves.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165533Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165533Z">
+        <seg>Це огидні рептилії, які живуть у болотах і сирих печерах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This key will open the cellar in the shack behind me, right by that accursed riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165753Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165753Z">
+        <seg>Цей ключ відкриє льох у халупі позаду мене, прямо біля того проклятого розриву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This sanctuary would not survive without the help of people like you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200455Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200455Z">
@@ -7294,6 +7326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165721Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165721Z">
+        <seg>{^n}{^n}Я занадто старий для цієї спелеології, тому мені потрібно, щоб ви пішли туди й убили її.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}I've sent word to the gate guard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145514Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145514Z">
@@ -7434,6 +7474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122707Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122707Z">
         <seg>{^n}{^n}У вас є щось підлаштоване під розриви, і я маю намір відтворити це!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165611Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165605Z">
+        <seg>{^n}{^n}Вони виділяють у воду мерзенну отруту, яка робить її придатною для пиття для них, але майже завжди смертельною для нас.</seg>
       </tuv>
     </tu>
     <tu>
