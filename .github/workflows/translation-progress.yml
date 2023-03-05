@@ -1,8 +1,8 @@
-name: daily progress stat
+name: Monthly progress stat
 
 on:
   schedule:
-    - cron: '3 0 * * *' # every night
+    - cron: '3 0 1 * *' # every month
   workflow_dispatch:
 
 jobs:
