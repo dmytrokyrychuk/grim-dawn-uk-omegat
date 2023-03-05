@@ -39,4 +39,4 @@ Mud Row	Болотяний Квартал
 Hargate	Гаргейт
 rifthound	розривний пес
 Reanimator	Реаніматор
-Burrwitch Estates	Угіддя Бурвіч
+Burrwitch Estates	Маєток Бурвіч
