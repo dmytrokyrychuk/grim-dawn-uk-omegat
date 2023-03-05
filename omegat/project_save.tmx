@@ -2704,8 +2704,8 @@
       <tuv lang="en">
         <seg>If you're goin' to keep fighting those bastards, you'll need better equipment than that.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154604Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154604Z">
-        <seg>Якщо ти збираєшся продовжувати битися з цими виродками, тобі знадобиться кращі знаряддя.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155206Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154604Z">
+        <seg>Якщо ви збираєтеся продовжувати битися з цими виродками, вам знадобляться кращі знаряддя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3162,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165636Z" creationid="Дмитро Киричук" creationdate="20200709T165636Z">
         <seg>Блок підйому предметів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look for Farros, Jillius and Neegan out in Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155840Z" creationid="Dmytro Kyrychuk" creationdate="20230305T155840Z">
+        <seg>Шукайте Фарроса, Джилліуса та Нігана у Wightmire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5528,8 +5536,8 @@
       <tuv lang="en">
         <seg>Y'see, they killed my Annabel back when the village was first overrun.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154742Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154742Z">
-        <seg>Бачите, вони вбили мою Аннабель ще тоді, коли село було захоплено.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155246Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154742Z">
+        <seg>Бачите, вони вбили мою Анабель ще тоді, коли село було захоплено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6752,8 +6760,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Here's somethin' you'll likely never see again in this world, stranger.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154629Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154629Z">
-        <seg>{^n}{^n}Ось те, що ти, ймовірно, більше ніколи не побачиш у цьому світі, [[ms]незнайомцю[fs]незнайомице].</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155227Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154629Z">
+        <seg>{^n}{^n}Ось те, що ви, ймовірно, більше ніколи не побачите у цьому світі, [[ms]незнайомцю[fs]незнайомице].</seg>
       </tuv>
     </tu>
     <tu>
