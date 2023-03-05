@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any progress with Hargate's formula?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154129Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154129Z">
+        <seg>Чи є прогрес із формулою Гаргейта?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any progress with Homestead?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200643Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200624Z">
@@ -2718,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there something you need?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154132Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154132Z">
+        <seg>Вам щось потрібно?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Isn't that what those...those things are pouring out of?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142910Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142910Z">
@@ -4782,10 +4798,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 10000 Iron Bits*{^n}{^n}Now get out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154036Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154036Z">
+        <seg>На розшифрування піде час.{^n}{^n}*Каспаров кидає вам мішечок із 10 000 залізних уламків*{^n}{^n}А тепер йдіть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 2000 Iron Bits*{^n}{^n}Now get out.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152014Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152014Z">
         <seg>Розшифрування займе час.{^n}{^n}*Каспаров кидає вам ранець із 2000 залізними шматками*{^n}{^n}А тепер йдіть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 20000 Iron Bits*{^n}{^n}Now get out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154110Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154110Z">
+        <seg>На розшифрування піде час{^n}{^n}*Каспаров кидає вам мішечок із 20 000 залізних уламків*{^n}{^n}Тепер йдіть.</seg>
       </tuv>
     </tu>
     <tu>
