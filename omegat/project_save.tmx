@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ah, your allies have already provided me with everything I need.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153503Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153503Z">
+        <seg>Ах, ваші союзники вже забезпечили мене всім необхідним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203500Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203500Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123032Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123032Z">
         <seg>Але я відхилився від теми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But thank you for asking.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153504Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153504Z">
+        <seg>Але дякую, що запитали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194335Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194335Z">
         <seg>Мій союзник доставив брухт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you bring back the Aether Crystal fragments I require?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153526Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153526Z">
+        <seg>Ви принесли фрагменти кристалів ефіру, які мені потрібні?</seg>
       </tuv>
     </tu>
     <tu>
