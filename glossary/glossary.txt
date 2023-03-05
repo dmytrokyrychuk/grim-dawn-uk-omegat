@@ -27,3 +27,4 @@ Cronley	Кронлі
 quest	квест
 Cairn	Керн
 Amalgamation	Мішанина
+Lumber Mill	Лісопилка
