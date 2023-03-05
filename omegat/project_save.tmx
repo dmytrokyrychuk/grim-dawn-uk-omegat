@@ -4110,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The longer you linger, the more Dead gather at Lower Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144032Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144032Z">
+        <seg>Чим довше ви затримуєтеся, тим більше мертв'яків збирається на Нижньому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The people out there don't trust us.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200648Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200648Z">
@@ -4570,6 +4578,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131647Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131636Z">
         <seg>Ну що знову?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the situation here?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144034Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144034Z">
+        <seg>Яка тут ситуація?</seg>
       </tuv>
     </tu>
     <tu>
