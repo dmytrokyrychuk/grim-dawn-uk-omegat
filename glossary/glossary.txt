@@ -33,3 +33,4 @@ Black Legion	Чорний Легіон
 Blood Grove	Кривавий гай
 Sergeant Serriv	Сержант Серрів
 Captain Somer	Капітан Сомер
+Burial Hill	Могильна гора
