@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Homestead is running low on building supplies, particularly lumber, but there are still many repairs that require attention.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T123642Z" creationid="Dmytro Kyrychuk" creationdate="20230305T123642Z">
+        <seg>У садибі не вистачає будівельних матеріалів, зокрема пиломатеріалів, але ще багато речей потребують ремонту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Host Multiplayer</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163409Z" creationid="Дмитро Киричук" creationdate="20200709T163136Z">
