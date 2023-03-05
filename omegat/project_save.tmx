@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't start any trouble.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132202Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132202Z">
+        <seg>Не робіть тут проблем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't worry, you won't be growing any new limbs, probably.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123013Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123013Z">
@@ -1870,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll let you through.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132135Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132135Z">
+        <seg>Я пропущу вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll make them pay yet!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113954Z" creationid="Dmytro" creationdate="20220106T113954Z">
@@ -1882,6 +1898,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131313Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131313Z">
         <seg>Я повернусь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll speak to the Captain then.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132309Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132309Z">
+        <seg>Тоді я поговорю з капітаном.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +2002,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123134Z">
         <seg>Я працював лише над пристроєм для цього, але йому потрібне живлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've heard about what you're doing for us, risking your life out there.{^n}{^n}You've more than earned your keep.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132251Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132251Z">
+        <seg>Я чув про те, що ви робите для нас, ризикуючи своїм життям там.{^n}{^n}Ви заслужили більшого, ніж просто утримання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please, come inside and rest a while.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132257Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132257Z">
+        <seg>Будь ласка, зайдіть і відпочиньте трохи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please, take the scrap we collected for the tribute.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192911Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192911Z">
@@ -3278,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, but I can't let you enter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132301Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132301Z">
+        <seg>Вибачте, але я не можу дозволити вам увійти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
@@ -3594,6 +3642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202353Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202353Z">
         <seg>Розлом Бурвіча оточений Етеріалами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Captain said you are good to go.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132154Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132154Z">
+        <seg>Капітан сказав, що вас можна пропускати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,8 +4000,8 @@
       <tuv lang="en">
         <seg>Welcome back to Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132123Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132123Z">
-        <seg>Ласкаво просимо у Дідьковому Перехресті</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132131Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132123Z">
+        <seg>Ласкаво просимо у Дідьковому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4442,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123201Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123201Z">
         <seg>Шукайте великі утворення кристалів з неприродним зеленим світінням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You'll need to be cleared by the Captain before I let you through.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132307Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132307Z">
+        <seg>Вам потрібно буде отримати дозвіл від капітана, перш ніж я пропущу вас.</seg>
       </tuv>
     </tu>
     <tu>
