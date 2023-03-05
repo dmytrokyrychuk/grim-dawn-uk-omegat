@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go right in, friend.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131948Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131948Z">
+        <seg>Проходь, друже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gods know what your plans are, 'Taken', but I can't deny what you've done up at the Necropolis.{^n}{^n}If you had burnt in the pile with all the rest...well...</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T144520Z" creationid="Дмитро Киричук" creationdate="20200712T144338Z">
@@ -3054,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rook</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131935Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131935Z">
+        <seg>Рук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rotting Corpse</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T130418Z" creationid="Дмитро Киричук" creationdate="20200721T165811Z">
@@ -3502,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thanks to you, I get to eat tonight.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132041Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132041Z">
+        <seg>Завдяки вам, я сьогодні зможу повечеряти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks to you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114550Z" creationid="Dmytro" creationdate="20220106T114550Z">
@@ -3914,6 +3938,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200756Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200756Z">
         <seg>Ми вже отримали вантаж із продовольством із Садиби, і, схоже, буде ще більше.{^n}{^n}Ви одноосібно забезпечили майбутнє цього поселення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome back to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132123Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132123Z">
+        <seg>Ласкаво просимо у Дідьковому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome back, friend.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132104Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132104Z">
+        <seg>З поверненням, друже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +4810,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120817Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120817Z">
         <seg>tagNPC_Barnabas=Барнабас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_GateGuardA01=Rook - Gate Keeper</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131924Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131924Z">
+        <seg>tagNPC_GateGuardA01=Рук - Брамник</seg>
       </tuv>
     </tu>
     <tu>
