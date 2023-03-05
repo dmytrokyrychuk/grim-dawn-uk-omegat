@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I don't trust handouts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155025Z" creationid="Dmytro Kyrychuk" creationdate="20230305T155025Z">
+        <seg>Я не довіряю милостині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I ended it quickly.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
@@ -2026,6 +2034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193156Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193156Z">
         <seg>Я припускаю, що він отримав свою останню данину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have already taken care of them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155029Z" creationid="Dmytro Kyrychuk" creationdate="20230305T155029Z">
+        <seg>Я вже подбав про них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113954Z" creationid="Dmytro" creationdate="20220106T113954Z">
         <seg>Я змушу їх заплатити за це!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll put them down.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154944Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154944Z">
+        <seg>Я їх покладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put them in the dirt like they ought to be and I'll give ya some more iron from my stash.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154941Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154941Z">
+        <seg>Покладіть їх у землю, як і годиться, і я дам вам ще трохи заліза зі свого запасу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quest</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175724Z" creationid="Дмитро Киричук" creationdate="20200721T175724Z">
@@ -4582,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That's what I like to hear.{^n}{^n}Tell me, how did it feel?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155103Z" creationid="Dmytro Kyrychuk" creationdate="20230305T155103Z">
+        <seg>Це те, що я люблю чути.{^n}{^n}Скажіть, як ви почувалися?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Aetherial Farm</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T203528Z" creationid="Dmytro" creationdate="20220106T105024Z">
@@ -4962,6 +5002,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T131304Z" creationid="Дмитро Киричук" creationdate="20200712T131304Z">
         <seg>Повернути бали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to all be good men, defenders of the empire; now nothin' more than shamblin' fiends stalking the swamplands of Wightmire.{^n}{^n}Slaughter them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154914Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154914Z">
+        <seg>Були добрими людьми, захисниками імперії; тепер ніщо інше, як нечисті злидні, що переслідують болота Wightmire.{^n}{^n}Убийте їх.</seg>
       </tuv>
     </tu>
     <tu>
