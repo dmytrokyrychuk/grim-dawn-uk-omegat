@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132735Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132735Z">
+        <seg>Етеріали заволодівають живими істотами та спотворюють плоть у таку жахливу форму, яку вони вважають необхідною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Affinities:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T173308Z" creationid="Дмитро Киричук" creationdate="20200709T173308Z">
@@ -2470,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132613Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132613Z">
+        <seg>Більшість із того, що я знаю, походить зі старих звітів, поширених опором незабаром після Похмурого Світанку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mrs. Constance is making new clothes for everyone!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105844Z" creationid="Dmytro" creationdate="20220106T105844Z">
@@ -3630,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Arcanists named them after the Aether they so cherish for their sorcery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132657Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132657Z">
+        <seg>Арканісти назвали їх на честь Ефіру, який вони так цінують для свого чаклунства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Burial Cave</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T143417Z" creationid="Dmytro" creationdate="20210522T143417Z">
@@ -4042,6 +4066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121952Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121952Z">
         <seg>Ласкаво просимо до моєї майстерні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are the Aetherials?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132516Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132516Z">
+        <seg>Що таке Етеріали?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5266,6 +5298,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123228Z" creationid="Dmytro" creationdate="20220106T123228Z">
         <seg>{^n}{^n}Я б лишив тебе висіти, але капітан мав інші плани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}It is said that the Aetherials are not of this world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132619Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132619Z">
+        <seg>{^n}{^n}Кажуть, що Етеріали не від цього світу.</seg>
       </tuv>
     </tu>
     <tu>
