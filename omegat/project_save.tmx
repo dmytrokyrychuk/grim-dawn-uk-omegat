@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ah, we've been so preoccupied with this riftgate business that I completely forgot about my apprentice, Darlet!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152731Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152731Z">
+        <seg>Ах, ми були настільки зайняті цією справою з розривами, що я зовсім забув про свою ученицю Дарлет!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ah, yes yes!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151413Z">
@@ -6514,6 +6522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143852Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143852Z">
         <seg>{^n}{^n}Я знаю, що прошу багато від вас, але також просив би багато своїх людей прийняти вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}I sent her out to the Burrwitch Estates to fetch parts for our research and she's been gone entirely too long.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T153046Z" creationid="Dmytro Kyrychuk" creationdate="20230305T153046Z">
+        <seg>{^n}{^n}Я послав її до Угідь Бурвіч, щоб забрати деталі для нашого дослідження, але її нема вже занадто довго.</seg>
       </tuv>
     </tu>
     <tu>
