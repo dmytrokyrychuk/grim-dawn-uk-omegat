@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got it, I will go speak to them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150706Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150706Z">
+        <seg>Зрозуміло, я піду поговорити з ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T152126Z" creationid="Дмитро Киричук" creationdate="20200709T152126Z">
@@ -2046,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I will speak to them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150622Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150622Z">
+        <seg>Я поговорю з ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I will.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203555Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203431Z">
@@ -2322,6 +2338,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145057Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145057Z">
         <seg>Я за вами слідкую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've had enough for right now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150637Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150637Z">
+        <seg>З мене досить, поки що.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201140Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201140Z">
         <seg>Каспаров проводить свої дослідження біля розриву у Дідьковому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150704Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150704Z">
+        <seg>Каспаров знаходиться в будинку поруч з гігантським розривом, а Барнабас тримає свій табір біля вітряка з південного боку, ви не можете його пропустити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you're done assisting them, speak with me in my office inside the prison.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150620Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150620Z">
+        <seg>Коли ви допоможете їм, поговоріть зі мною в моєму кабінеті у в'язниці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where am I headed again?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201219Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201219Z">
@@ -5986,6 +6026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115120Z" creationid="Dmytro" creationdate="20220106T115120Z">
         <seg>{^n}{^n}Тим не менш, ось твоє залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Barnabas, our handyman, said he needed help with our water pump.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150558Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150558Z">
+        <seg>{^n}{^n}Барнабас, наш завгосп, казав, що йому потрібна допомога з нашим водяним насосом.</seg>
       </tuv>
     </tu>
     <tu>
