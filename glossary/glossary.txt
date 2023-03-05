@@ -37,3 +37,4 @@ Burial Hill	Могильна гора
 Grim Dawn	Похмурий світанок
 Mud Row	Болотяний Квартал
 Hargate	Гаргейт
+rifthound	розривний пес
