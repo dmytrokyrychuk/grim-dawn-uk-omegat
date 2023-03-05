@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Sybil".</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184648Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184648Z">
+        <seg>-Сивілла".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A Sacrifice</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205114Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205114Z">
         <seg>Жертва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Sister's Gift</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184135Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184135Z">
+        <seg>Подарунок сестри</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As much as it pains her, Sybil wishes for her brother to be put to rest.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184345Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184345Z">
+        <seg>Як би їй не було боляче, Сибілла хоче, щоб її брат помер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At least they keep the area safe from beasts.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193116Z">
@@ -594,6 +618,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T205749Z" creationid="Dmytro Kyrychuk" creationdate="20230217T205749Z">
         <seg>Принесіть брухт Барнабасу в Дідькове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bring the amulet to Sybil Hart in Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184730Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184730Z">
+        <seg>Принесіть амулет Сибілли Гарт у Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +842,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212340Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212340Z">
         <seg>Збирайте кристали ефіру для Каспарова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collect Milton Hart's Amulet</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184717Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184717Z">
+        <seg>Зберіть амулет Мілтона Гарта</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Discover Elsa's fate</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185002Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184950Z">
+        <seg>Дізнайтеся про долю Ельзи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Damage</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T165012Z" creationid="Дмитро Киричук" creationdate="20200709T165012Z">
@@ -1406,6 +1454,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Field Return</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184544Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184544Z">
+        <seg>Польове повернення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Elsa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184913Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184913Z">
+        <seg>Знайдіть Ельзу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Kasparov's Apprentice in the cellars beneath the Burrwitch Estates</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174804Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174804Z">
+        <seg>Знайдіть ученицю Каспарова в підвалах під маєтком Бурвіч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Milton Hart and collect his Amulet</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184433Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184433Z">
+        <seg>Знайдіть Мілтона Гарта та заберіть його амулет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find Stash</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205117Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205117Z">
@@ -1422,10 +1502,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a way to get Kasparov's Apprentice to safety</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181203Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181203Z">
+        <seg>Знайдіть спосіб доставити ученицю Каспарова в безпечне місце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find someone else.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174414Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174414Z">
+        <seg>Знайдіть когось іншого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the Burrwitch Portal</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T160608Z" creationid="Dmytro" creationdate="20220106T160608Z">
         <seg>Знайди портал Бурвіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the Inventor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180740Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174644Z">
+        <seg>Знайдіть винахідницю</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1602,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150010Z" creationid="Dmytro" creationdate="20210522T150010Z">
         <seg>Туманний Берег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow the road north, through Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174253Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174253Z">
+        <seg>Йдіть дорогою на північ, через Wightmire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1762,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140842Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140842Z">
         <seg>Добре, ви не впораєтеся з ризиками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Good, you're back.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172858Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172858Z">
+        <seg>Добре, ви повернулися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can I help?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174044Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174044Z">
+        <seg>Чим я можу допомогти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How do I get to Burrwitch?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174245Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174245Z">
+        <seg>Як мені дістатися до Бурвіча?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How do I get to the cave?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165725Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165725Z">
@@ -2162,6 +2298,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T155029Z" creationid="Dmytro Kyrychuk" creationdate="20230305T155029Z">
         <seg>Я вже подбав про них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have another question.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173439Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173439Z">
+        <seg>У мене ще одне питання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2506,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125916Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125916Z">
         <seg>Я [[ms]позбавив[fs]позбавила] їх від страждань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I trusted that son of a slith!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173224Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173224Z">
+        <seg>Я довіряв тому слітовому сину!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm just doing what I can to help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173411Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173411Z">
+        <seg>Я просто роблю все, що можу, щоб допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm just glad we'll all survive.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200125Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200125Z">
@@ -2782,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm ready.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173506Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173506Z">
+        <seg>Я [[ms]готовий[fs]готова].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm sorry.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T113922Z" creationid="Dmytro" creationdate="20220106T113922Z">
@@ -2818,6 +2986,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165109Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165109Z">
         <seg>Я вже застарий для такого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've already been to Burrwitch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174511Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174511Z">
+        <seg>Я вже [[ms]був[fs]була] у Бурвічі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've heard good things from both Kasparov and Barnabas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172908Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172908Z">
+        <seg>Я чув хороші слова і від Каспарова, і від Барнабаса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've taken care of it.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162125Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162125Z">
@@ -2890,6 +3074,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151655Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151655Z">
         <seg>Я...навіть не хочу знати, що це означає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If she is still alive, she is bound to be in one of the cellars in the Burrwitch Estates.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174719Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174719Z">
+        <seg>Якщо вона ще жива, то вона має бути в одному з підвалів маєтку Беррвіч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you find a way to rescue her from their clutches, Mornay will be eternally grateful.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184947Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184947Z">
+        <seg>Якщо ви знайдете спосіб врятувати її з їхніх лап, Морней буде вам вічно вдячний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It bears the following inscription: "To my dear brother: May this amulet keep you strong in battle.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184643Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184643Z">
+        <seg>На ньому такий напис: «Моєму дорогому братові: Нехай цей амулет надає тобі сили у битвах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can wait.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123338Z" creationid="Dmytro" creationdate="20220106T123338Z">
@@ -3114,6 +3322,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141116Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141116Z">
         <seg>Це небагато, але, можливо, ви можете використати це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's our word for those possessed by Aetherials.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173010Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173010Z">
+        <seg>Це наша назва для тих, хто одержимий Етеріалами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's surrounded by a palisade wall, so you will have to find a way inside.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174339Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174339Z">
+        <seg>Він оточений стіною з частоколом, тому вам доведеться знайти шлях всередину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,10 +3430,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kasparov had sent out his apprentice, Darlet, to collect parts for his research and she has yet to return.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174651Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174651Z">
+        <seg>Каспаров відправив свою ученицю Дарлет зібрати деталі для його досліджень, і вона досі не повернулася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150704Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150704Z">
         <seg>Каспаров знаходиться в будинку поруч з гігантським розривом, а Барнабас тримає свій табір біля вітряка з південного боку, ви не можете його пропустити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kasparov's Apprentice should be safe back in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180847Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180847Z">
+        <seg>Учениця Каспарова повинна бути в безпеці у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3466,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150800Z" creationid="Dmytro" creationdate="20210522T150800Z">
         <seg>Вбий Кайзоґа Реаніматора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kill Milton</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184141Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184141Z">
+        <seg>Убити Мілтона</seg>
       </tuv>
     </tu>
     <tu>
@@ -3322,6 +3570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T115039Z" creationid="Dmytro" creationdate="20220106T115039Z">
         <seg>У тобі менше мужності, ніж я думав, але тепер вони хоч не розливаються по дорогах, еге ж?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let Mornay know about Elsa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185038Z" creationid="Dmytro Kyrychuk" creationdate="20230305T185038Z">
+        <seg>Повідомте Морнею про Ельзу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3722,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201726Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201726Z">
         <seg>Зустріньтеся з Бурбоном у в'язниці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mornay's scouting partner, Elsa, is probably still alive and in the hands of those brutes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184926Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184926Z">
+        <seg>Розвідувальна партнерка Морнея, Ельза, ймовірно, досі жива і знаходиться в руках тих звірів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +4094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of my scouts came back with news, making our next move clear.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173949Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173949Z">
+        <seg>Один із моїх розвідників повернувся з новинами, що роблять наш наступний зрозумілим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One, two, three... yes, my fingers are still intact.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T124031Z" creationid="Dmytro Kyrychuk" creationdate="20230219T124031Z">
@@ -3922,6 +4194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172413Z">
         <seg>Можливо, тепер він зможе рухатися далі.{^n}{^n}Поверніться до нього у Чортовому Перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perhaps the Aetherial behind these attacks is there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174034Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174034Z">
+        <seg>Можливо, за цими атаками стоять Етеріали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4314,30 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T175951Z" creationid="Дмитро Киричук" creationdate="20200721T175938Z">
         <seg>Балів вкладено:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portal Inventor to Safety</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180805Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180805Z">
+        <seg>Телепортуйте винахідницю в безпечне місце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portal Kasparov's Apprentice to safety</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181122Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181122Z">
+        <seg>Телепортуйте ученицю Каспарова до безпечного місця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portal the Inventor Out</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180736Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180736Z">
+        <seg>Телепортуйте винахідницю</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4466,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203619Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203619Z">
         <seg>Спочивай з миром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return the Amulet to Sybil Hart in Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184453Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184453Z">
+        <seg>Поверніть амулет Сибіллі Гарт у Чортовому Перехресті</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4640,8 @@
       <tuv lang="en">
         <seg>Secure the Portal in Burrwitch Village</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202648Z" creationid="Dmytro" creationdate="20220106T161232Z">
-        <seg>Захисьіьб портал у селі Бурвіч</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181259Z" creationid="Dmytro" creationdate="20220106T161232Z">
+        <seg>Забезпечте портал у селі Бурвіч</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T211827Z" creationid="Dmytro Kyrychuk" creationdate="20230217T211827Z">
         <seg>Вона запропонувала вам свої послуги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She mentioned Kasparov might be able to help.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181153Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181153Z">
+        <seg>Вона згадала, що Каспаров міг би допомогти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,8 +4800,8 @@
       <tuv lang="en">
         <seg>Slay Neegan, the Withered</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171959Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171959Z">
-        <seg>Убити Нігана Змарнілого</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172812Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171959Z">
+        <seg>Убийте Нігана Змарнілого</seg>
       </tuv>
     </tu>
     <tu>
@@ -4654,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak to Angrim</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185315Z" creationid="Dmytro Kyrychuk" creationdate="20230305T185315Z">
+        <seg>Поговоріть з Ангрімом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
@@ -4666,6 +4994,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205409Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205409Z">
         <seg>Поговоріть з дітьми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Darlet in Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181018Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180917Z">
+        <seg>Поговоріть з Дарлет у Чортовому Перехресті</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +5026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134132Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134132Z">
         <seg>Поговоріть із Фалдісом у в’язниці.{^n}{^n}(Можливо, спочатку потрібно заслужити довіру Бурбона.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Mornay</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185009Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184956Z">
+        <seg>Поговоріть з Морнеєм</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +5082,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150117Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212058Z">
         <seg>Поговоріть з ним біля воріт Чортового Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak with Darlet</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180820Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180820Z">
+        <seg>Поговоріть з Дарлет</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,6 +5190,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Swarming with Aetherial corruption, but the riftgate is secure.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174543Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174543Z">
+        <seg>Кишить ефірними корупціями, але розрив забезпечено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sybil Hart's brother, Milton Hart, was a military man.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184410Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184217Z">
+        <seg>Брат Сибілли Гарт, Мілтон Гарт, був військовим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take a moment to mingle with your fellow survivors.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150450Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150450Z">
@@ -4866,6 +5234,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145601Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145528Z">
         <seg>Візьміть заслужений час на відпочинок і відновлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tale of Two Blacksmiths</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185302Z" creationid="Dmytro Kyrychuk" creationdate="20230305T185302Z">
+        <seg>Історія двох ковалів</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +5306,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110847Z" creationid="Dmytro" creationdate="20220106T110847Z">
         <seg>Дакуємо за те, що підтримуєте нашу роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you for trusting in me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173405Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173405Z">
+        <seg>Дякую за довіру до мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173905Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173905Z">
+        <seg>Дякуємо, що розкрили цю зраду.{^n}{^n}Хто знає, яку ще шкоду він міг завдати, якби залишився без нагляду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5014,10 +5406,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That was when we cut you down.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173144Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173144Z">
+        <seg>І тоді ми вас зрізали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's a tough question.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131204Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131204Z">
         <seg>Це складне питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's excellent!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174515Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174515Z">
+        <seg>Це чудово!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Inventor's Apprentice</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174640Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174640Z">
+        <seg>Учень винахідника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Reanimator is slain and the Dead should be slowed, for now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
@@ -5186,6 +5602,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T140811Z" creationid="Dmytro Kyrychuk" creationdate="20230305T140811Z">
         <seg>Капітан - герой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hangman called me 'Taken'.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172952Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172952Z">
+        <seg>Кат назвав мене «Одержимим».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200316Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200316Z">
         <seg>У Керна є майбутнє, доки ми за нього боремося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There must be a reason why.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174023Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174023Z">
+        <seg>На це має бути причина.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5382,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This sounds like suicide.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174405Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174405Z">
+        <seg>Це схоже на самогубство.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 10000 Iron Bits*{^n}{^n}Now get out.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154036Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154036Z">
@@ -5418,6 +5858,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123246Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123246Z">
         <seg>Ці кристали трохи нестабільні навколо живих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though, in the current state of things, you will likely have to leave the road behind well before you reach the village.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174315Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174315Z">
+        <seg>Хоча за нинішнього стану речей вам, ймовірно, доведеться зійти з дороги задовго до того, як ви досягнете до села.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To help her brother, Sybil gave him an enchanted amulet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184223Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184223Z">
+        <seg>Щоб допомогти братові, Сибілла дала йому зачарований амулет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5838,6 +6294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What did he mean?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172946Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172946Z">
+        <seg>Що він мав на увазі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What did you see out there?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164753Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164753Z">
@@ -5874,6 +6338,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144034Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144034Z">
         <seg>Яка тут ситуація?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the situation there?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174518Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174518Z">
+        <seg>Яка там ситуація?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With all the activity around Burrwitch, there is bound to be a riftgate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174210Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174200Z">
+        <seg>З огляду на всю активність навколо Беррвіча, там неминуче має бути розлом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With the Burrwitch riftgate secure, return to Captain John Bourbon in Devil's Crossing for further instructions.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202900Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202826Z">
@@ -6134,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are a real asset to this community.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172913Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172913Z">
+        <seg>Ви є справжньою цінністю для цієї спільноти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are dead!</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T172352Z" creationid="Дмитро Киричук" creationdate="20200721T172352Z">
@@ -6214,6 +6702,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You found Kasparov's Apprentice, Darlet, in a cellar underneath the Burrwitch Estates.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181038Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181038Z">
+        <seg>Ви знайшли ученицю Каспарова, Дарлет, у підвалі під маєтком Бурвіч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You found a strange amulet on one of the Dead near the Sodden Hollow in Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184600Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184600Z">
+        <seg>Ви знайшли дивний амулет на одному з мертвяків біля Sodden Hollow у Wightmire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You found yer way to Homestead?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200914Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200914Z">
@@ -6226,6 +6730,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133915Z" creationid="Dmytro" creationdate="20220107T133915Z">
         <seg>Ви напали на Жахливі Жнива та знищили ефірну гидоту, яку там створювали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have discovered Elsa's fate and should inform Mornay in Devil's Crossing of your discovery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T185031Z" creationid="Dmytro Kyrychuk" creationdate="20230305T185031Z">
+        <seg>Ви дізналися про долю Ельзи та повинні повідомити про це Морнею у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,10 +6990,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You've proven yourself quite resourceful thus far!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174056Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174050Z">
+        <seg>Досі ви виявилися досить винахідливими!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your allies already made good work of everythin' I needed done.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200602Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200602Z">
         <seg>Ваші союзники добре справилися з усім, що мені треба було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your dedication to this community is without compare.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173429Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173429Z">
+        <seg>Ваша відданість цій спільноті незрівнянна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6918,6 +7446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagNPC_Jailor=Hangman Jarvis</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184841Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184841Z">
+        <seg>tagNPC_Jailor=Кат Джарвіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagNPC_JohnBourbon=Captain John Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120801Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120801Z">
@@ -6934,6 +7470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagNPC_SybilGreene=Sybil Greene</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184829Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184829Z">
+        <seg>tagNPC_SybilGreene=Сибілла Грін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_SybilHart=Sybil Hart</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184817Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184817Z">
+        <seg>tagNPC_SybilHart=Сибілла Гарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagNPC_Ulgrim=Ulgrim</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T120825Z" creationid="Dmytro Kyrychuk" creationdate="20230219T120825Z">
@@ -6942,10 +7494,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagNPC_Villager=Villager</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184900Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184900Z">
+        <seg>tagNPC_Villager=Селянин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagNotification_WightmireBurialCaveFound=The source of the Dead is near...</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144402Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144402Z">
         <seg>tagNotification_WightmireBurialCaveFound=Джерело мертв'яків десь поблизу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNotification_WightmireCaravanDriverFound=A prisoner calls for help!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184109Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184109Z">
+        <seg>tagNotification_WightmireCaravanDriverFound=В'язень кличе на допомогу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNotification_WightmireCaravanFound=This carnage looks recent...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T182235Z" creationid="Dmytro Kyrychuk" creationdate="20230305T182235Z">
+        <seg>tagNotification_WightmireCaravanFound=Ця бійня виглядає нещодавною...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}As you were dangling from the gallows, we watched as the spirit left your body to die.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173133Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173133Z">
+        <seg>{^n}{^n}Поки ви звисали із шибениці, ми спостерігали, як дух лишив ваше тіло помирати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Barnabas, our handyman, said he needed help with our water pump.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150558Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150558Z">
@@ -7306,6 +7890,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160247Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160247Z">
         <seg>{^n}{^n}Завжди можна переплавити зброю, яку ми маємо, але я не дуже подобається перспектива бути з'їденим уві сні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Find Milton Hart at his house near the Sodden Hollow in Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184424Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184356Z">
+        <seg>{^n}{^n}Знайдіть Мілтона Гарта в його будинку біля Sodden Hollow у Wightmire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,6 +8038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}I won't lie to you; it's not going to be easy for folks around here to get used to you... nature of the times.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173206Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173206Z">
+        <seg>{^n}{^n}Я не буду вам брехати; людям тут буде непросто звикнути до вас... такі зараз часи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}I'd check the graveyard.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123237Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123237Z">
@@ -7494,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}If you can capture it, that will give us a solid foothold in the area.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174237Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174237Z">
+        <seg>{^n}{^n}Якщо ви зможете його захопити, це дасть нам міцну опору в цьому районі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}In the hopes that you will go out there and put down the fallen soldiers Farros, Jillius and Neegan, who are still roaming around Wightmire, he has given you enough Iron Coins to buy some supplies.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171834Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171834Z">
@@ -7510,10 +8118,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Kasparov feels a little responsible for her current situation and has implored you to find her.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174743Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174727Z">
+        <seg>{^n}{^n}Каспаров відчуває певну відповідальність через такі обставини, і благає вас знайти її.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Kasparov, our resident scientist, is really eager to speak with you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150503Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150503Z">
         <seg>{^n}{^n}Каспаров, наш науковий співробітник, дуже хоче поговорити з вами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Keep pressing north and you will eventually reach the outskirts of Burrwitch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174329Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174329Z">
+        <seg>{^n}{^n}Продовжуйте рухатися на північ, і зрештою ви дійдете до околиць Бурвіча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,6 +8166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Now she fears it is sustaining her brother unnaturally in death.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184335Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184335Z">
+        <seg>{^n}{^n}Тепер вона боїться, що він неприродним чином живить її мертвого брата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Once you've secured the riftgate, return to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174359Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174359Z">
+        <seg>{^n}{^n}Після того, як ви забезпечите розрив, поверніться до Чортового Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Our wind pump's broken down again and we're running low on water.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160151Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160151Z">
@@ -7566,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Return it to Sybil Hart in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184711Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184711Z">
+        <seg>{^n}{^n}Поверніть його Сибіллі Гарт у Чортовому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Return to Barnabas in Devil's Crossing and inform him that the water will soon be safe to drink again.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171605Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171605Z">
@@ -7578,6 +8226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
         <seg>{^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Speak to her to see how she is recovering from her ordeal.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180903Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180903Z">
+        <seg>{^n}{^n}Поговоріть з нею, щоб дізнатися, як вона оговтується після тяжкого випробування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7606,10 +8262,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Taken can be difficult to distinguish from normal humans but you, or whatever possessed you, stumbled through the rift gate here and became trapped by Kasparov's wards.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173101Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173101Z">
+        <seg>{^n}{^n}Одержимих важко відрізнити від звичайних людей, але ви чи те, що вами оволоділо, пройшло крізь розрив тут і потрапило в пастку підопічних Каспарова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T141923Z" creationid="Dmytro" creationdate="20210522T141923Z">
         <seg>Він хоче з тобою поговорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}The Dead are heavily concentrated in Burrwitch Village to the north, past the swamps of Wightmire.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174015Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174015Z">
+        <seg>{^n}{^n}Мертвяки значною мірою зосереджені в селі Беррвіч на півночі, за болотами Wightmire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +8330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171855Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171855Z">
         <seg>{^n}{^n}Це, мабуть, єдина допомога, яку ви коли-небудь побачите в цьому похмурому новому світі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}We can't know for sure without investigating deeper.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174041Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174041Z">
+        <seg>{^n}{^n}Ми не можемо знати напевно, не дослідивши глибше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,10 +8398,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}You should find a way to get her back to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181144Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181144Z">
+        <seg>{^n}{^n}Ви маєте знайти спосіб повернути її до Чортового Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}You should open a portal for her so she can travel back to Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181057Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181057Z">
+        <seg>{^n}{^n}Ви маєте відкрити для неї портал, щоб вона могла повернутися до Чортового Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}You'll find enough in no time!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162100Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162100Z">
         <seg>{^n}{^n}Ви швидко знайдете достатньо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Your ability to secure riftgates for human use could be a turning point in our situation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174129Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174129Z">
+        <seg>{^n}{^n}Ваша здатність забезпечувати рифтові ворота для використання людьми може стати поворотним моментом у нашій ситуації.</seg>
       </tuv>
     </tu>
     <tu>
