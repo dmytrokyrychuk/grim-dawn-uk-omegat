@@ -40,3 +40,6 @@ Hargate	Гаргейт
 rifthound	розривний пес
 Reanimator	Реаніматор
 Burrwitch Estates	Маєток Бурвіч
+Farros	Фаррос
+Jillius	Джиліус
+Neegan	Ніган
