@@ -36,3 +36,4 @@ Captain Somer	Капітан Сомер
 Burial Hill	Могильна гора
 Grim Dawn	Похмурий світанок
 Mud Row	Болотяний Квартал
+Hargate	Гаргейт
