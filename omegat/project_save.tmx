@@ -4286,10 +4286,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagMenu01=Play Game</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T120801Z" creationid="Dmytro Kyrychuk" creationdate="20230305T120801Z">
+        <seg>tagMenu01=Грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenu02=Custom Game</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T120808Z" creationid="Dmytro Kyrychuk" creationdate="20230305T120808Z">
+        <seg>tagMenu02=Власна гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenu03=Information</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T120814Z" creationid="Dmytro Kyrychuk" creationdate="20230305T120814Z">
+        <seg>tagMenu03=Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagMenu04=Options</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205020Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205020Z">
         <seg>tagMenu04=Опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMenu05=Credits</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T120747Z" creationid="Dmytro Kyrychuk" creationdate="20230305T120747Z">
+        <seg>tagMenu05=Титри</seg>
       </tuv>
     </tu>
     <tu>
@@ -4344,8 +4376,8 @@
       <tuv lang="en">
         <seg>tagMenuButton05=Start</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205041Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205041Z">
-        <seg>tagMenuButton05=Грати</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T120733Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205041Z">
+        <seg>tagMenuButton05=Старт</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +4466,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193530Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193530Z">
         <seg>tagQuests=Активні квести</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121003Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121003Z">
+        <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Будь ласка, відвідайте наш сайт www.grimdawn.com, щоб взяти участь{^n}у поточній розробці Grim Dawn!</seg>
       </tuv>
     </tu>
     <tu>
