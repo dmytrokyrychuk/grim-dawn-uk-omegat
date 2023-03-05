@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll return.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131313Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131313Z">
+        <seg>Я повернусь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll try my best to answer them.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121257Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121257Z">
@@ -1914,6 +1922,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200125Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200125Z">
         <seg>Я просто радий, що ми всі виживемо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm off to Burial Hill.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131130Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131130Z">
+        <seg>Я йду до Могильної гори.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,6 +2514,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114843Z" creationid="Dmytro" creationdate="20220106T114843Z">
         <seg>Ніхто не заслуговує бути розірваним на шматки такими монстрами, і тепер їх трохи менше на світі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nobody knows for sure.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131208Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131208Z">
+        <seg>Ніхто не знає напевно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That's a tough question.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131204Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131204Z">
+        <seg>Це складне питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's not right, not at all.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123931Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123931Z">
@@ -3910,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What are these Aetherials?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131202Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131202Z">
+        <seg>Що це за Етеріали?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What brings you to my humble shop?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122319Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122319Z">
@@ -3970,6 +4010,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122258Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122258Z">
         <seg>Де мої манери?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where can I find Barnabas and Kasparov?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131326Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131326Z">
+        <seg>Де я можу знайти Барнабаса і Каспарова?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4346,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T130127Z" creationid="Dmytro Kyrychuk" creationdate="20230305T130127Z">
         <seg>Ви не переконаєте мене, що ви вбили мутантів без певного особистого досвіду, який би це підтвердив!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're not looking too bad for someone just come back from the brink of death!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131149Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131149Z">
+        <seg>Ви виглядаєте не так вже й погано для того, хто щойно був на межі смерті!</seg>
       </tuv>
     </tu>
     <tu>
