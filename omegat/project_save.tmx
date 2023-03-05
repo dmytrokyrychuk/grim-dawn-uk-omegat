@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go about your way, 'Taken'.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145116Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145116Z">
+        <seg>Ідіть своєю дорогою, «одержимий».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go right in, friend.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131948Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131948Z">
@@ -1478,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He could use some good news.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144954Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144954Z">
+        <seg>Йому хороша новина не завадить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He damaged the well pump!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T121542Z" creationid="Dmytro Kyrychuk" creationdate="20230219T121542Z">
@@ -1562,6 +1578,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141739Z" creationid="Дмитро Киричук" creationdate="20200712T134905Z">
         <seg>Здоров'я є мірою болю і шкоди, що ти можеш витримати перед знесиленням чи смертю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heh.{^n}{^n}Best let the Captain know.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144933Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144933Z">
+        <seg>Ха.{^n}{^n}Краще повідомте капітану.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've got my eye on you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145057Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145057Z">
+        <seg>Я за вами слідкую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've heard about what you're doing for us, risking your life out there.{^n}{^n}You've more than earned your keep.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132251Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132251Z">
@@ -2466,6 +2498,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163124Z" creationid="Дмитро Киричук" creationdate="20200709T163058Z">
         <seg>Створити спільну гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just keeping my good eye on the time bomb in our midst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145220Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145220Z">
+        <seg>Просто пильно стежу за бомбою уповільненої дії серед нас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4042,6 +4082,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122330Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122330Z">
         <seg>Капітан сказав, що ви хочете зі мною поговорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Captain says you're alright, but I've seen what the 'Taken' are capable of.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145051Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145041Z">
+        <seg>Капітан каже, що з вами все гаразд, але я бачив, на що здатні «одержимі».</seg>
       </tuv>
     </tu>
     <tu>
