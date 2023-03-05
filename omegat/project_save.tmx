@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At least we can get a decent drink... even if that drink ain't a finger of whiskey.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164842Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164842Z">
+        <seg>Принаймні ми можемо випити щось прийтойне... хай навіть не келих віскі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At least you're good for gathering food, like a proper caveman that cannot appreciate the wonders of science.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151530Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151530Z">
@@ -2734,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've already found Homestead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164722Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164722Z">
+        <seg>Я вже знайшов Садибу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've been working on just the device to do it, but it needs power.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123134Z">
@@ -3406,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My pleasure.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164849Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164849Z">
+        <seg>З задоволенням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180519Z" creationid="Дмитро Киричук" creationdate="20200721T180519Z">
@@ -3630,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oh?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164728Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164728Z">
+        <seg>Ой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153525Z" creationid="Дмитро Киричук" creationdate="20200709T153525Z">
@@ -3746,6 +3778,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163213Z" creationid="Дмитро Киричук" creationdate="20200709T163213Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>People are starting to beg me for water.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164904Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164904Z">
+        <seg>Люди починають просити у мене води.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since when?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164701Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164701Z">
+        <seg>Відколи?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Single Player</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T163048Z" creationid="Дмитро Киричук" creationdate="20200709T163048Z">
@@ -4726,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thanks for all your help!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164756Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164756Z">
+        <seg>Дякуємо за вашу допомогу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks for playing!{^n}{^n}Grim Dawn is currently available on Steam, or via our website at www.grimdawn.com</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153104Z" creationid="Дмитро Киричук" creationdate="20200709T153104Z">
@@ -4970,6 +5026,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212300Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212300Z">
         <seg>Винахідник Каспаров розробив прототип пристрою, який, на його думку, здатний дозволити його власнику відкривати портали до налаштованих розривів, але для його живлення йому потрібні кристали ефіру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The journey will take you far to the northwest, and we haven' a clue what's out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162230Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162214Z">
+        <seg>Подорож приведе вас далеко на північний захід, і ми не маємо гадки, що там.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5534,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What did you see out there?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164753Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164753Z">
+        <seg>Що ви там побачили?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What do you want?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151704Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151704Z">
@@ -5778,6 +5850,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200430Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200430Z">
         <seg>Ваші друзі чудом вберегли наші відносини зі Садибою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yer quite the ambicious feller.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T164745Z" creationid="Dmytro Kyrychuk" creationdate="20230305T164745Z">
+        <seg>Ви досить амбітна особа.</seg>
       </tuv>
     </tu>
     <tu>
