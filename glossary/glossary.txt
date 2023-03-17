@@ -46,3 +46,5 @@ Neegan	Ніган
 Slith	Сліт
 Sybil Hart	Сибілла Гарт
 Angrim	Ангрім
+Foggy Bank	Туманний берег
+Burrwitch Road	Бурвіцька дорога
