@@ -790,6 +790,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check on Luther Graves in DC</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181039Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181039Z">
+        <seg>Завітайте до Лютера Грейвса в ЧП</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the Slith camps around the Foggy Bank for the unfortunate traveler.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T175033Z" creationid="Dmytro Kyrychuk" creationdate="20230317T175033Z">
+        <seg>Перевірте табори слітів навколо Туманного берега на предмет нещасного мандрівника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check to automatically collect Components, Consumables and Crafting Materials when you step near them.</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T165440Z" creationid="Дмитро Киричук" creationdate="20200721T164808Z">
@@ -1634,6 +1650,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142601Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142601Z">
         <seg>Забудьте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Found Caravan</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T174834Z" creationid="Dmytro Kyrychuk" creationdate="20230317T174834Z">
+        <seg>Знайдений караван</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Judging from the human corpses around him, he was the lucky one.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180915Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180909Z">
+        <seg>Судячи з людських трупів навколо нього, йому ще пощастило.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just keeping my good eye on the time bomb in our midst.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145220Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145220Z">
@@ -3674,6 +3706,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121926Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121926Z">
         <seg>Пиломатеріали для Легіону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180859Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180859Z">
+        <seg>Лютер Грейвс тяжко поранений, замкнений у клітці слітів на Туманному березі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Luther Graves should be safe back in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181054Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181054Z">
+        <seg>Лютер Грейвс повинен бути в безпеці на Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps the driver yet lives.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T175017Z" creationid="Dmytro Kyrychuk" creationdate="20230317T175017Z">
+        <seg>Можливо, водій ще живий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125945Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125945Z">
@@ -4330,6 +4386,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T181122Z" creationid="Dmytro Kyrychuk" creationdate="20230305T181122Z">
         <seg>Телепортуйте ученицю Каспарова до безпечного місця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portal Luther Graves to Safety (Backup for old characters, should no longer be applicable)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181020Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181020Z">
+        <seg>Телепортуйте Лютера Грейвса в безпечне місце (для старих персонажів, більше не має бути застосованим)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4682,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204247Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204247Z">
         <seg>Брухт можна знайти практично скрізь на руїнах людської цивілізації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for the Caravan Driver at the Slith Camps along Burrwitch Road</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180709Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180709Z">
+        <seg>Шукайте водія каравану в таборах Слітів уздовж Бурвіцької дороги</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,6 +5062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak to Caravan Driver</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180736Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180736Z">
+        <seg>Поговоріть з водієм каравану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak to Children</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205409Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205409Z">
@@ -5026,6 +5106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134132Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134132Z">
         <seg>Поговоріть із Фалдісом у в’язниці.{^n}{^n}(Можливо, спочатку потрібно заслужити довіру Бурбона.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to Luther Graves at Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181128Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181128Z">
+        <seg>Поговоріть з Лютером Грейвсом на Чортовому Перехресті</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5170,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150117Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212058Z">
         <seg>Поговоріть з ним біля воріт Чортового Перехрестя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak to the captured Caravan Driver</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180930Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180930Z">
+        <seg>Поговоріть із замкненим водієм каравану</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Lost Caravan</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T174830Z" creationid="Dmytro Kyrychuk" creationdate="20230317T174830Z">
+        <seg>Загублений караван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Reanimator is slain and the Dead should be slowed, for now.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
@@ -5858,6 +5962,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123246Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123246Z">
         <seg>Ці кристали трохи нестабільні навколо живих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though there are signs of a fight, no driver can be seen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T174921Z" creationid="Dmytro Kyrychuk" creationdate="20230317T174921Z">
+        <seg>Хоча є сліди бійки, водія не видно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6726,6 +6838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You happened upon a wrecked caravan along the road near the Foggy Bank.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T174902Z" creationid="Dmytro Kyrychuk" creationdate="20230317T174902Z">
+        <seg>Ви натрапили на розбитий караван на дорозі біля Туманного берега.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have assaulted the Gruesome Harvest and destroyed the Aetherial abomination they were creating.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220107T133915Z" creationid="Dmytro" creationdate="20220107T133915Z">
@@ -7280,8 +7400,8 @@
       <tuv lang="en">
         <seg>tagMenuButton08=Default</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121036Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121036Z">
-        <seg>tagMenuButton08=За замовчуванням</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173652Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121036Z">
+        <seg>tagMenuButton08=Стандартно</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,10 +8350,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{^n}{^n}Slith tracks and blood can be seen leading deeper into the swamp.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T175013Z" creationid="Dmytro Kyrychuk" creationdate="20230317T175013Z">
+        <seg>{^n}{^n}Видно сліди слітів та кров, що ведуть глибше в болото.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{^n}{^n}Speak to her to see how she is recovering from her ordeal.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T180903Z" creationid="Dmytro Kyrychuk" creationdate="20230305T180903Z">
         <seg>{^n}{^n}Поговоріть з нею, щоб дізнатися, як вона оговтується після тяжкого випробування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Speak to him and find out what happened.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180920Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180920Z">
+        <seg>{^n}{^n}Поговоріть з ним і дізнайтеся, що сталося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Speak to him to see how he is faring.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181103Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181103Z">
+        <seg>{^n}{^n}Поговоріть з ним, щоб дізнатися, як у нього справи.</seg>
       </tuv>
     </tu>
     <tu>
