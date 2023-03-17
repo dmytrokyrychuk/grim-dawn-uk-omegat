@@ -520,8 +520,8 @@
       <tuv lang="en">
         <seg>Barnabas in Devil's Crossing wishes to repair the prison's water pump, but he needs Scrap.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203751Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203751Z">
-        <seg>Барнабас в Дідьковому перехресті хоче відремонтувати водяний насос у в'язниці, але йому потрібен брухт.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173325Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203751Z">
+        <seg>Барнабас в Чортовому Перехресті хоче відремонтувати водяний насос у в'язниці, але йому потрібен брухт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,16 +608,16 @@
       <tuv lang="en">
         <seg>Bring the Aether Crystals to Kasparov in Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212354Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212354Z">
-        <seg>Принесіть кристали ефіру Каспарову в Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173240Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212354Z">
+        <seg>Принесіть кристали ефіру Каспарову в Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bring the Scrap to Barnabas in Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T205749Z" creationid="Dmytro Kyrychuk" creationdate="20230217T205749Z">
-        <seg>Принесіть брухт Барнабасу в Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173222Z" creationid="Dmytro Kyrychuk" creationdate="20230217T205749Z">
+        <seg>Принесіть брухт Барнабасу в Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="en">
         <seg>Burrwitch is located to the north of Devil's Crossing, past Wightmire.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T162053Z" creationid="Dmytro" creationdate="20220106T160934Z">
-        <seg>Бурвіч знаходиться на північ від Дідькогово Перехрестя, за Wightmire.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173511Z" creationid="Dmytro" creationdate="20220106T160934Z">
+        <seg>Бурвіч знаходиться на північ від Чортового Перехрестя, за Wightmire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="en">
         <seg>Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
-        <seg>Капітан бурбон пояснив, що вцілілі у Дідьковому Перехресті ледь стримують безжальні напади Мертвих.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Капітан бурбон пояснив, що вцілілі у Чортовому Перехресті ледь стримують безжальні напади Мертвих.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="en">
         <seg>Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200708T192353Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
-        <seg>Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173152Z" creationid="Дмитро Киричук" creationdate="20200708T192353Z">
+        <seg>Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,8 +2048,8 @@
       <tuv lang="en">
         <seg>Help us in our hour of need, and I will open Devil's Crossing to you.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143918Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143918Z">
-        <seg>Допоможіть нам у скрутну годину, і я відкрию Дідькове Перехрестя для вас.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173216Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143918Z">
+        <seg>Допоможіть нам у скрутну годину, і я відкрию Чортове Перехрестя для вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2536,8 +2536,8 @@
       <tuv lang="en">
         <seg>I was staying with a group of survivors down in Devil's Crossing, you know...the old prison, but supplies started running low.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141558Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141558Z">
-        <seg>Я зупинявся з групою вцілілих у Дідьковому Перехресті, знаєте... у старій в’язниці, але запаси почали закінчуватися.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173302Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141558Z">
+        <seg>Я зупинявся з групою вцілілих у Чортовому Перехресті, знаєте... у старій в’язниці, але запаси почали закінчуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3368,8 +3368,8 @@
       <tuv lang="en">
         <seg>John Bourbon believes that the Aetherial responsible for the atrocities at Burrwitch has possessed the body of the former warden of Devil's Crossing, Warden Krieg.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T212640Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212640Z">
-        <seg>Джон Бурбон вважає, що Етеріал, відповідальний за звірства в Бурвічі, заволодів тілом колишнього наглядача Дідькового Перехресня, Кріга.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173437Z" creationid="Dmytro Kyrychuk" creationdate="20230217T212640Z">
+        <seg>Джон Бурбон вважає, що Етеріал, відповідальний за звірства в Бурвічі, заволодів тілом колишнього наглядача Чортового Перехресня, Кріга.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,8 +3424,8 @@
       <tuv lang="en">
         <seg>Kasparov does his research near the Riftgate in Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201140Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201140Z">
-        <seg>Каспаров проводить свої дослідження біля розриву у Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201140Z">
+        <seg>Каспаров проводить свої дослідження біля розриву у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3936,8 +3936,8 @@
       <tuv lang="en">
         <seg>Now that you have helped Kasparov and Barnabas, you should report back to Bourbon in Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201626Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201626Z">
-        <seg>Тепер, коли ви допомогли Каспарову та Барнабасу, вам слід доповісти Бурбону в Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201626Z">
+        <seg>Тепер, коли ви допомогли Каспарову та Барнабасу, вам слід доповісти Бурбону в Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4656,8 +4656,8 @@
       <tuv lang="en">
         <seg>See you back at Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142637Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142637Z">
-        <seg>Побачимося у Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142637Z">
+        <seg>Побачимося у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,8 +4984,8 @@
       <tuv lang="en">
         <seg>Speak to Captain John Bourbon at Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20210522T140831Z" creationid="Dmytro" creationdate="20210522T140831Z">
-        <seg>Поговори з капітаном Джоном Бурбоном у Дідьковому Перехресті</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro" creationdate="20210522T140831Z">
+        <seg>Поговори з капітаном Джоном Бурбоном у Чортовому Перехресті</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5016,8 @@
       <tuv lang="en">
         <seg>Speak to Faldis inside Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134145Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134145Z">
-        <seg>Поговоріть з Фалдісом всередині Дідькового Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173256Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134145Z">
+        <seg>Поговоріть з Фалдісом всередині Чортового Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -6216,8 +6216,8 @@
       <tuv lang="en">
         <seg>Well I'll be damned, you really came through for me.{^n}{^n}The rift took me back to Devil's Crossing, just as you promised.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141039Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141039Z">
-        <seg>Будь я проклятий, ви справді зробили це для мене.{^n}{^n}Розрив повернув мене на Дідькове Перехрестя, як ви й обіцяли.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173213Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141039Z">
+        <seg>Будь я проклятий, ви справді зробили це для мене.{^n}{^n}Розрив повернув мене на Чортове Перехрестя, як ви й обіцяли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,8 +6368,8 @@
       <tuv lang="en">
         <seg>When you have enough Scrap, return it to Barnabas in Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204314Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204314Z">
-        <seg>Коли знайдете достатньо брухту, принесіть його Барнабасу в Дідькове Перехрестя.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173219Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204314Z">
+        <seg>Коли знайдете достатньо брухту, принесіть його Барнабасу в Чортове Перехрестя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6520,8 +6520,8 @@
       <tuv lang="en">
         <seg>With the Burrwitch riftgate secure, return to Captain John Bourbon in Devil's Crossing for further instructions.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T202900Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202826Z">
-        <seg>Захистивши розрив Бурвіча, поверніться до капітана Джона Бурбона у Дідьковому Перехресті, щоб отримати подальші інструкції.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230217T202826Z">
+        <seg>Захистивши розрив Бурвіча, поверніться до капітана Джона Бурбона у Чортовому Перехресті, щоб отримати подальші інструкції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6688,8 +6688,8 @@
       <tuv lang="en">
         <seg>You convinced him to take your riftgate back to Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134119Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134119Z">
-        <seg>Ви переконали його повернутися у Дідькове Перехрестя через ваш розрив.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173202Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134119Z">
+        <seg>Ви переконали його повернутися у Чортове Перехрестя через ваш розрив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,16 +7040,16 @@
       <tuv lang="en">
         <seg>and Judith from Cronley's Hideout and safely transported them to Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205438Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205438Z">
-        <seg>і Джудіт зі схованки Кронлі та безпечно перевезли їх до Дідькового Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173251Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205438Z">
+        <seg>і Джудіт зі схованки Кронлі та безпечно перевезли їх до Чортового Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>and Judith in Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230221T205513Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205513Z">
-        <seg>і Джудіт у Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230221T205513Z">
+        <seg>і Джудіт у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7104,8 +7104,8 @@
       <tuv lang="en">
         <seg>tagFactionSurvivors=Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131733Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131733Z">
-        <seg>tagFactionSurvivors=Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173140Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131733Z">
+        <seg>tagFactionSurvivors=Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -7160,8 +7160,8 @@
       <tuv lang="en">
         <seg>tagMapDevilsCrossing01=Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131745Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131745Z">
-        <seg>tagMapDevilsCrossing01=Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173144Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131745Z">
+        <seg>tagMapDevilsCrossing01=Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -7608,8 +7608,8 @@
       <tuv lang="en">
         <seg>tagSign_DevilsCrossing=Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T131757Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131757Z">
-        <seg>tagSign_DevilsCrossing=Дідькове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173148Z" creationid="Dmytro Kyrychuk" creationdate="20230305T131757Z">
+        <seg>tagSign_DevilsCrossing=Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,8 +7968,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Head north across the bridge and through the ruins of Lower Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150528Z" creationid="Dmytro" creationdate="20210522T145856Z">
-        <seg>Капітан доручив тобі дослідити це в обмін на прихисток у Дідьковому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro" creationdate="20210522T145856Z">
+        <seg>Капітан доручив тобі дослідити це в обмін на прихисток у Чортовому Перехресті {^n}{^n}Рушай на північ, через міст, крізь руїни Нижнього Перехрестя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8144,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Kill it and Devil's Crossing will get a needed respite from attacks.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20210522T150749Z" creationid="Dmytro" creationdate="20210522T150749Z">
-        <seg>{^n}{^n}Вбий її, щоб дати Дідьковому Перехрестю необхідний перепочинок від нападів.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro" creationdate="20210522T150749Z">
+        <seg>{^n}{^n}Вбий її, щоб дати Чортовому Перехрестю необхідний перепочинок від нападів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8200,8 +8200,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Report back to Devil's Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T213150Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213150Z">
-        <seg>{^n}{^n}Відзвітуйте у Дідьковому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173404Z" creationid="Dmytro Kyrychuk" creationdate="20230217T213150Z">
+        <seg>{^n}{^n}Відзвітуйте у Чортовому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,8 +8352,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Welcome to Devil's Crossing!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145457Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145457Z">
-        <seg>{^n}{^n}Ласкаво просимо до Дідькового Перехрестя!</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173306Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145457Z">
+        <seg>{^n}{^n}Ласкаво просимо до Чортового Перехрестя!</seg>
       </tuv>
     </tu>
     <tu>
