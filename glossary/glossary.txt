@@ -48,3 +48,5 @@ Sybil Hart	Сибілла Гарт
 Angrim	Ангрім
 Foggy Bank	Туманний берег
 Burrwitch Road	Бурвіцька дорога
+Moldering Fields	Плісняві поля
+Aether corruption	ефірне гниття
