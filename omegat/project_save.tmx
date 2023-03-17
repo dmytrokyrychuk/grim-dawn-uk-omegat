@@ -8928,8 +8928,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}Speakin' of which, here's yer share.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro" changedate="20220106T114454Z" creationid="Dmytro" creationdate="20220106T114454Z">
-        <seg>{^n}{^n}До речі, ось твоя частка.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T185617Z" creationid="Dmytro" creationdate="20220106T114454Z">
+        <seg>{^n}{^n}До речі, ось ваша частка.</seg>
       </tuv>
     </tu>
     <tu>
