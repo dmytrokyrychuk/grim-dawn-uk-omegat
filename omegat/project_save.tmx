@@ -2352,8 +2352,8 @@
       <tuv lang="en">
         <seg>I cannot even imagine it.{^n}{^n}Word is, they chased the survivors as far as the Moldering Fields, to the south of Burrwitch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T185434Z" creationid="Dmytro Kyrychuk" creationdate="20230317T185434Z">
-        <seg>Я навіть не можу цього уявити.{^n}{^n}Кажуть, що вони переслідували вцілілих, аж до Пліснявих полів, на південь від Беррвіча.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T190441Z" creationid="Dmytro Kyrychuk" creationdate="20230317T185434Z">
+        <seg>Я навіть не можу цього уявити.{^n}{^n}Кажуть, що вони переслідували вцілілих, аж до Пліснявих полів, на південь від Бурвіча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,8 +2632,8 @@
       <tuv lang="en">
         <seg>I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122200Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122200Z">
-        <seg>Я бачив, як ви билися з Мертв'яками в Нижньому Перехресті, і це було просто близкуче!</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192552Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122200Z">
+        <seg>Я бачив, як ви билися з Мертвяками в Нижньому Перехресті, і це було просто близкуче!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2920,8 +2920,8 @@
       <tuv lang="en">
         <seg>I'll bring some back.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123252Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123252Z">
-        <seg>Я принесу трохи назад.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T193130Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123252Z">
+        <seg>Я принесу кілька назад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,16 +5976,16 @@
       <tuv lang="en">
         <seg>The Dead attacks have slowed and their numbers are thinning.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T145329Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145329Z">
-        <seg>Атаки мертв'яків сповільнилися, і їхня кількість зменшується.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192555Z" creationid="Dmytro Kyrychuk" creationdate="20230305T145329Z">
+        <seg>Атаки мертвяків сповільнилися, і їхня кількість зменшується.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Inventor's Apprentice</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T174640Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174640Z">
-        <seg>Учень винахідника</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T191054Z" creationid="Dmytro Kyrychuk" creationdate="20230305T174640Z">
+        <seg>Учениця винахідника</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,8 +6040,8 @@
       <tuv lang="en">
         <seg>The area is overrun with the dead.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142725Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142725Z">
-        <seg>Територія переповнена мертв'яками.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192548Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142725Z">
+        <seg>Територія переповнена мертвяками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,8 +6088,8 @@
       <tuv lang="en">
         <seg>The longer you linger, the more Dead gather at Lower Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144032Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144032Z">
-        <seg>Чим довше ви затримуєтеся, тим більше мертв'яків збирається на Нижньому Перехресті.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192559Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144032Z">
+        <seg>Чим довше ви затримуєтеся, тим більше мертвяків збирається на Нижньому Перехресті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6600,8 +6600,8 @@
       <tuv lang="en">
         <seg>We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T194417Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194417Z">
-        <seg>Нам не пощастило знайти припаси через те, що на Нижньому Перехресті кишать мертв'яки.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192604Z" creationid="Dmytro Kyrychuk" creationdate="20230219T194417Z">
+        <seg>Нам не пощастило знайти припаси через те, що на Нижньому Перехресті кишать мертвяки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6616,8 +6616,8 @@
       <tuv lang="en">
         <seg>We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143623Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143623Z">
-        <seg>Ми спостерігали за мертв'яками протягом пемного часу, і, схоже, що вони набігають на Нижнє Перехрестя з Могильної гори, відразу за містом.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192614Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143623Z">
+        <seg>Ми спостерігали за мертвяками протягом пемного часу, і, схоже, що вони набігають на Нижнє Перехрестя з Могильної гори, відразу за містом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7662,6 +7662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagBurrwitchCellar02=Dank Cellar</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T190452Z" creationid="Dmytro Kyrychuk" creationdate="20230317T190452Z">
+        <seg>tagBurrwitchCellar02=Вологий підвал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagCharDetailsActiveQuests=Active Quests:</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193537Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193537Z">
@@ -8128,8 +8136,8 @@
       <tuv lang="en">
         <seg>tagNotification_WightmireBurialCaveFound=The source of the Dead is near...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T144402Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144402Z">
-        <seg>tagNotification_WightmireBurialCaveFound=Джерело мертв'яків десь поблизу...</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192540Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144402Z">
+        <seg>tagNotification_WightmireBurialCaveFound=Джерело мертвяків десь поблизу...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8152,8 @@
       <tuv lang="en">
         <seg>tagNotification_WightmireCaravanFound=This carnage looks recent...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T182235Z" creationid="Dmytro Kyrychuk" creationdate="20230305T182235Z">
-        <seg>tagNotification_WightmireCaravanFound=Ця бійня виглядає нещодавною...</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T195621Z" creationid="Dmytro Kyrychuk" creationdate="20230305T182235Z">
+        <seg>tagNotification_WightmireCaravanFound=Ця бійня виглядає свіжою...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,8 +8624,8 @@
       <tuv lang="en">
         <seg>{^n}{^n}He could melt down the few weapons the survivors have, but dying unarmed to the Dead is not any better than dying of thirst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T204027Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204027Z">
-        <seg>{^n}{^n}Він міг би розплавити ту невелику кількість зброї, що є у вцілілих, але померти без зброї перед Мертв'яками не краще, ніж померти від спраги.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192610Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204027Z">
+        <seg>{^n}{^n}Він міг би розплавити ту невелику кількість зброї, що є у вцілілих, але померти без зброї перед Мертвяками не краще, ніж померти від спраги.</seg>
       </tuv>
     </tu>
     <tu>
