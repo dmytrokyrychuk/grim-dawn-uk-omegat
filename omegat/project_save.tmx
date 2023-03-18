@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At least I can live knowing my brother is free of all this misery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100953Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100946Z">
+        <seg>Принаймні я можу жити знаючи, що мій брат вільний від страждань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At least they keep the area safe from beasts.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193116Z">
@@ -528,8 +536,8 @@
       <tuv lang="en">
         <seg>Balros and Hagra chased the survivors from Burrwitch as far as the Moldering Fields, just beyond the Burrwitch Outskirts.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T185043Z" creationid="Dmytro Kyrychuk" creationdate="20230317T185043Z">
-        <seg>Балрос і Хагра переслідували вцілілих, від Бурвіча аж до Пліснявих полів, відразу за околицями Беррвіча.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100314Z" creationid="Dmytro Kyrychuk" creationdate="20230317T185043Z">
+        <seg>Балрос і Хагра переслідували вцілілих, від Бурвіча аж до Пліснявих полів, відразу за околицями Бурвіча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T203716Z" creationid="Dmytro Kyrychuk" creationdate="20230217T203716Z">
         <seg>Принесіть брухт Барнабасу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bring back the amulet he wears as proof.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101453Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101453Z">
+        <seg>Поверніть амулет, який він носить, як доказ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2022,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He always had a penchant for heroics.{^n}{^n}But it has been weeks and we have not heard from him.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120420Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120420Z">
+        <seg>Він завжди мав схильність до героїзму.{^n}{^n}Але вже минули тижні, а ми нічого не чули про нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He always wore an amulet I gave him years ago to keep him safe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120437Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120437Z">
+        <seg>Він завжди носив амулет, який я дала йому багато років тому, щоб захистити його.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T150512Z" creationid="Dmytro Kyrychuk" creationdate="20230305T150512Z">
@@ -2038,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He is at peace now.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100857Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100857Z">
+        <seg>Зараз він у спокої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He seems to have a plan for you now that we've spared your life.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T122956Z" creationid="Dmytro" creationdate="20220106T122706Z">
@@ -2058,6 +2098,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201637Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201637Z">
         <seg>Він повинен чекати вашого повернення у в'язниці, у своєму кабінеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He was a soldier in the imperial army.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120353Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120353Z">
+        <seg>Був солдатом імператорської армії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hello there stranger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100741Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100741Z">
+        <seg>Привіт, [[ms]незнайомцю[fs]незнайомко].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hello there.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230216T141230Z" creationid="Dmytro Kyrychuk" creationdate="20230216T141230Z">
@@ -2194,6 +2250,30 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125958Z" creationid="Dmytro Kyrychuk" creationdate="20230305T125958Z">
         <seg>Ось ваше залізо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here, may it bring you luck.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101045Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101045Z">
+        <seg>Тримайте, нехай принесе вам удачу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His name is Milton...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120344Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120344Z">
+        <seg>Його звати Мілтон...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His suffering is at an end.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100634Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100634Z">
+        <seg>Його страждання прийшли до кінця.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I dread to think that he may have become one of the Dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120428Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120428Z">
+        <seg>Мені страшно подумати, що він міг стати одним із мертвяків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I ended it quickly.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T114938Z" creationid="Dmytro" creationdate="20220106T114938Z">
@@ -2462,10 +2550,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I found an amulet bearing your name, but I misplaced it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101123Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101123Z">
+        <seg>Я [[ms]знайшов[fs]знайшла] амулет з вашим іменем, але [[ms]загубив[fs]загубила] його.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I found an amulet bearing your name.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100815Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100815Z">
+        <seg>Я знайшов амулет з вашим ім'ям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I found some people out there.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T201134Z" creationid="Dmytro Kyrychuk" creationdate="20230219T201134Z">
         <seg>Я знайшов там кількох людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I gave that amulet to my brother, Milton.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100823Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100823Z">
+        <seg>Я дала цей амулет своєму братові Мілтону.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I last saw him at the Sodden Hollow, in Wightmire, before the Grim Dawn.{^n}{^n}If he's become one of those things, please... take him out of his misery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120251Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120251Z">
+        <seg>Востаннє я бачила його в Промоклій низині, у Злоболоті, перед Похмурим світанком.{^n}{^n}Якщо він став одним із тих, будь ласка... позбавте його від страждань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I may have... taken some liberties while you were out cold.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T122748Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122748Z">
@@ -2634,6 +2754,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192552Z" creationid="Dmytro Kyrychuk" creationdate="20230219T122200Z">
         <seg>Я бачив, як ви билися з Мертвяками в Нижньому Перехресті, і це було просто близкуче!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I see that you carry my brother's amulet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101154Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101145Z">
+        <seg>Я бачу, що ви маєте амулет мого брата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,6 +2834,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T151256Z" creationid="Dmytro Kyrychuk" creationdate="20230305T151256Z">
         <seg>Я думаю, ми закінчили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I think you could use it more than me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101037Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101037Z">
+        <seg>Я думаю, вам він буде корисніший, ніж мені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I will do what must be done.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120542Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120542Z">
+        <seg>Я зроблю те, що треба зробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I will get the wind pump up and running in no time.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T161618Z" creationid="Dmytro Kyrychuk" creationdate="20230305T161618Z">
@@ -2850,6 +2994,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T193046Z" creationid="Dmytro Kyrychuk" creationdate="20230219T193046Z">
         <seg>Я хотів би зробити більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I wish I could have done more.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100700Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100700Z">
+        <seg>Я [[ms]хотів[fs]хотіла] би зробити більше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3338,30 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181848Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181848Z">
         <seg>Вибачте за те, що сталося раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm sorry for your loss.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101101Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101101Z">
+        <seg>Співчуваю вашій втраті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm sorry to bother you, but if you're headed out towards Wightmire, could you keep an eye out for my brother?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120340Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120340Z">
+        <seg>Вибачте, що поторбувала вас, але якщо ви прямуєте до Злоболота, чи не могли б ви простежити за моїм братом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm sorry, I cannot help you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120545Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120545Z">
+        <seg>Вибачте, я не можу вам допомогти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4198,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Milton Hart.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120348Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120348Z">
+        <seg>Мілтон Гарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Milton, I'm sorry brother.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101218Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101218Z">
+        <seg>Мілтоне, вибач, брате.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Milton, I'm sorry, brother.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100911Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100911Z">
+        <seg>Мілтоне, вибач, брате.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mornay's scouting partner, Elsa, is probably still alive and in the hands of those brutes.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184926Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184926Z">
@@ -4214,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now I fear it may be preserving him in undeath.{^n}{^n}I wish nothing but for my brother to be allowed to rest in peace.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120514Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120514Z">
+        <seg>Тепер я боюся, що це зберігає його в нежитті.{^n}{^n}Я не бажаю нічого, крім того, щоб моєму братові дозволили спочивати з миром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now eat up!</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105535Z" creationid="Dmytro" creationdate="20220106T105535Z">
@@ -4314,6 +4522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T125816Z" creationid="Dmytro" creationdate="20220106T115604Z">
         <seg>Дивіться, це ж [[ms]одержимий[fs]одержима].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oh my.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101128Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101128Z">
+        <seg>О ні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps it will bring me some comfort.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101458Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101458Z">
+        <seg>Можливо, це принесе мені трохи розради.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps now he can move on.{^n}{^n}Return to him in Devil's Crossing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172413Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172413Z">
@@ -4594,6 +4818,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180621Z" creationid="Дмитро Киричук" creationdate="20200721T180621Z">
         <seg>Рівень гравця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please help my brother.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101224Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101224Z">
+        <seg>Будь ласка, допоможіть моєму братові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,8 +5216,8 @@
       <tuv lang="en">
         <seg>Search for the Caravan Driver at the Slith Camps along Burrwitch Road</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T180709Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180709Z">
-        <seg>Шукайте водія каравану в таборах Слітів уздовж Бурвіцької дороги</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T095929Z" creationid="Dmytro Kyrychuk" creationdate="20230317T180709Z">
+        <seg>Знайдіть водія каравану в таборах Слітів уздовж Бурвіцької дороги</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T184509Z" creationid="Dmytro Kyrychuk" creationdate="20230317T184509Z">
         <seg>Отже, якщо ви хочете більше заліза, пропустіть мораль і вбийте ще мертвяків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So it is as I feared?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101203Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101203Z">
+        <seg>Сталося те, чого я боялася?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5606,6 +5846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sybil Hart</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100629Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100629Z">
+        <seg>Сибілла Гарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sybil Hart's brother, Milton Hart, was a military man.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184410Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184217Z">
@@ -5718,6 +5966,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tell your friends that I truly appreciate the return of my brother's amulet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100728Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100728Z">
+        <seg>Скажи друзям, що я щиро ціную повернення амулета мого брата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you for helping my brother.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100631Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100631Z">
+        <seg>Дякую за допомогу моєму братові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank you for supporting us and our work.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T110847Z" creationid="Dmytro" creationdate="20220106T110847Z">
@@ -5746,6 +6010,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T105526Z" creationid="Dmytro" creationdate="20220106T105526Z">
         <seg>Дякую!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you, stranger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100929Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100921Z">
+        <seg>Дякую, [[ms]незнайомцю[fs]незнайомко].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,6 +6310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The amulet was enchanted to keep my brother strong.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101019Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101019Z">
+        <seg>Амулет був зачарований, щоб зберігати моєму братові його силу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The area is overrun with the dead.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192548Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142725Z">
@@ -6090,6 +6370,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192559Z" creationid="Dmytro Kyrychuk" creationdate="20230305T144032Z">
         <seg>Чим довше ви затримуєтеся, тим більше мертвяків збирається на Нижньому Перехресті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name's Sybil Hart.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100806Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100806Z">
+        <seg>Мене кличуть Сибілла Гарт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,6 +6554,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T165533Z" creationid="Dmytro Kyrychuk" creationdate="20230305T165533Z">
         <seg>Це огидні рептилії, які живуть у болотах і сирих печерах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is... a lot to take in.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100907Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100907Z">
+        <seg>Це... важко прийняти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6462,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unfortunately Milton was one of the Dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101212Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101212Z">
+        <seg>На жаль, Мілтон був одним із мертвяків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used to all be good men, defenders of the empire; now nothin' more than shamblin' fiends stalking the swamplands of Wightmire.{^n}{^n}Slaughter them.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T154914Z" creationid="Dmytro Kyrychuk" creationdate="20230305T154914Z">
@@ -6618,6 +6922,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T192614Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143623Z">
         <seg>Ми спостерігали за мертвяками протягом пемного часу, і, схоже, що вони набігають на Нижнє Перехрестя з Могильної гори, відразу за містом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We last saw each other at the Sodden Hollow, in Wightmire, so I'm afraid he's still out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120539Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120539Z">
+        <seg>Востаннє ми бачилися в Промоклій низині, у Злоболоті, тому, боюся, він досі там.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6782,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Well, should you find it again, please return it to me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101133Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101133Z">
+        <seg>Ну, якщо ви знайдете його знову, будь ласка, поверніть його мені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, sort of, but mine will take you home.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142932Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142932Z">
@@ -6918,6 +7238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When we fled Burrwitch, he volunteered to cover our escape.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120401Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120401Z">
+        <seg>Коли ми втекли з Бурвіча, він зголосився прикрити нашу втечу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you have enough Scrap, return it to Barnabas in Devil's Crossing.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T173219Z" creationid="Dmytro Kyrychuk" creationdate="20230217T204314Z">
@@ -7014,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where did you get this?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100834Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100834Z">
+        <seg>Де ви його взяли?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where do you hail from?</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T182450Z" creationid="Dmytro Kyrychuk" creationdate="20230317T182450Z">
@@ -7034,6 +7370,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20220106T123849Z" creationid="Dmytro" creationdate="20220106T123849Z">
         <seg>З ким це я маю поговорити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Who is he?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120341Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120341Z">
+        <seg>Хто він?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,6 +7410,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162033Z" creationid="Dmytro Kyrychuk" creationdate="20230305T162033Z">
         <seg>Цього вистачить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will you do this for me?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120524Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120524Z">
+        <seg>Ви зробите це для мене?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,10 +7950,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You've returned!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T101140Z" creationid="Dmytro Kyrychuk" creationdate="20230318T101140Z">
+        <seg>Ви повернулися!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your allies already made good work of everythin' I needed done.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T200602Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200602Z">
         <seg>Ваші союзники добре справилися з усім, що мені треба було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your brother was one of the Dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100843Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100843Z">
+        <seg>Ваш брат був одним із мертвяків.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7994,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T141041Z" creationid="Дмитро Киричук" creationdate="20200712T141041Z">
         <seg>[Тримай Ctrl, щоб сховати підказку]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ach028Desc=Rescue Ulgrim in the Burrwitch Outskirts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100256Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100256Z">
+        <seg>ach028Desc=Врятуйте Ульґріма на Околицях Бурвіча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +8034,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200721T180740Z" creationid="Дмитро Киричук" creationdate="20200721T180740Z">
         <seg>за секунду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagAerialMapCenteredButton=Center</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100037Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100037Z">
+        <seg>tagAerialMapCenteredButton=Центрувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -7706,6 +8090,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143325Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143325Z">
         <seg>tagDevotionShrineA01=Могильна гора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagDevotionShrineA03=Burrwitch Outskirts</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100232Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100232Z">
+        <seg>tagDevotionShrineA03=Околиці Бурвіча</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,6 +8158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagMapBurrwitchOutskirts01=Burrwitch Outskirts</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100158Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100158Z">
+        <seg>tagMapBurrwitchOutskirts01=Околиці Бурвіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagMapBurrwitchVillage01=Burrwitch Village</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181409Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181409Z">
@@ -7794,6 +8194,30 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181249Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181249Z">
         <seg>tagMapLowerCrossing=Нижнє Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMapSoddenHollow=Sodden Hollow</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120613Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120613Z">
+        <seg>tagMapSoddenHollow=Промокла низина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMapWightmire01=Wightmire</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120606Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120606Z">
+        <seg>tagMapWightmire01=Злоболото</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagMapWindowName=Local Map</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100046Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100046Z">
+        <seg>tagMapWindowName=Місцева мапа</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagRiftBurrwitchOutskirts=Burrwitch Outskirts Rift</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100217Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100217Z">
+        <seg>tagRiftBurrwitchOutskirts=Розрив Околиць Бурвіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagRiftBurrwitchRoad=Foggy Bank Rift</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181318Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181318Z">
@@ -8290,6 +8722,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121003Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121003Z">
         <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Будь ласка, відвідайте наш сайт www.grimdawn.com, щоб взяти участь{^n}у поточній розробці Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagWorldMapWindowName=World Map</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T100056Z" creationid="Dmytro Kyrychuk" creationdate="20230318T100056Z">
+        <seg>tagWorldMapWindowName=Світова мапа</seg>
       </tuv>
     </tu>
     <tu>
