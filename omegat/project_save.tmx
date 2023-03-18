@@ -5144,8 +5144,8 @@
       <tuv lang="en">
         <seg>Return to Harmond in Devil's Crossing</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121805Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121805Z">
-        <seg>Поверніться до Хармонда в Чортове Перехрестя</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121929Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121805Z">
+        <seg>Поверніться до Гармонда в Чортове Перехрестя</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,6 +8762,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T181419Z" creationid="Dmytro Kyrychuk" creationdate="20230317T181419Z">
         <seg>tagRiftBurrwitchVillage=Розрив села Бурвіч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagRiftDevilsCrossing=Devil's Crossing Rift</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T122804Z" creationid="Dmytro Kyrychuk" creationdate="20230318T122804Z">
+        <seg>tagRiftDevilsCrossing=Розрив Чортового перехрестя</seg>
       </tuv>
     </tu>
     <tu>
