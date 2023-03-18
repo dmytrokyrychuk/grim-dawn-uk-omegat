@@ -50,3 +50,6 @@ Foggy Bank	Туманний берег
 Burrwitch Road	Бурвіцька дорога
 Moldering Fields	Плісняві поля
 Aether corruption	ефірне гниття
+Burrwitch Outskirts	Околиці Бурвіча
+Sodden Hollow	Промокла низина
+Wightmire	Злоболото
