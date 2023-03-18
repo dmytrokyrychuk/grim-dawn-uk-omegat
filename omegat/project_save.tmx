@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flesh and Iron</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121557Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121557Z">
+        <seg>Плоть і залізо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Foggy Bank</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150010Z" creationid="Dmytro" creationdate="20210522T150010Z">
@@ -1982,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Harmond's lust for the suffering of the Dead seems insatiable.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121620Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121620Z">
+        <seg>Жага Гармонда до страждань мертвяків здається ненаситною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have a glass of water, it's on me.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T162116Z" creationid="Dmytro Kyrychuk" creationdate="20230219T200118Z">
@@ -2098,6 +2114,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230217T201637Z" creationid="Dmytro Kyrychuk" creationdate="20230217T201637Z">
         <seg>Він повинен чекати вашого повернення у в'язниці, у своєму кабінеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He told you of Balros and Hagra in the Moldering Fields, two horribly mutated souls that pursued the survivors fleeing Burrwitch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121701Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121701Z">
+        <seg>Він розповів вам про Балроса та Хагру в Пліснявих полях, двох жахливо мутованих душ, які переслідували вцілілих втікачів з Бурвіча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kill Mutants</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121604Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121604Z">
+        <seg>Вбийте мутантів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kill Slith in Cave</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171304Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171304Z">
@@ -5110,6 +5142,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to Harmond in Devil's Crossing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121805Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121805Z">
+        <seg>Поверніться до Хармонда в Чортове Перехрестя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to him after they are dead.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121707Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121707Z">
+        <seg>Поверніться до нього після того, як вони помруть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Returning to Bourbon</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150807Z" creationid="Dmytro" creationdate="20210522T150807Z">
@@ -5382,10 +5430,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slay Balros, the Malformed</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121725Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121725Z">
+        <seg>Убийте Балроса Спотвореного</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slay Farros, the Rotted</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171915Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171910Z">
         <seg>Убийте Фарроса Зігнилого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slay Hagra, the Tormented</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121743Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121743Z">
+        <seg>Убийте Хагру Мученицю</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have slain Balros and Hagra.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121748Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121748Z">
+        <seg>Ви вбили Балроса та Хагру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have slain the three rotted soldiers Harmond spoke of.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172356Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172356Z">
@@ -9378,6 +9450,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20210522T150927Z" creationid="Dmytro" creationdate="20210522T150927Z">
         <seg>{^n}{^n}Передай добрі новини капітану Джону Бурбону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{^n}{^n}Return to Harmond in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T121759Z" creationid="Dmytro Kyrychuk" creationdate="20230318T121759Z">
+        <seg>{^n}{^n}Поверніться до Гармонда в Чортове Перехрестя.</seg>
       </tuv>
     </tu>
     <tu>
