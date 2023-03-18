@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Keep the prison to yourself)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193636Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193636Z">
+        <seg>(Тримай в'язницю в таємниці)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Open Riftgate)</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T142555Z" creationid="Dmytro Kyrychuk" creationdate="20230305T142555Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T141517Z" creationid="Dmytro Kyrychuk" creationdate="20230305T141517Z">
         <seg>Заспокойтеся. Звідки ви?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't take the chance.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193934Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193934Z">
+        <seg>Не можу ризикувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frankly, probably won't be doing much more surviving given the way things are looking out there.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193926Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193926Z">
+        <seg>Відверто кажучи, довго я так не протягну, враховуючи обставини.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Game Guide</seg>
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200709T153253Z" creationid="Дмитро Киричук" creationdate="20200709T153253Z">
@@ -1882,6 +1906,14 @@
       </tuv>
       <tuv lang="uk" changeid="Дмитро Киричук" changedate="20200712T144520Z" creationid="Дмитро Киричук" creationdate="20200712T144338Z">
         <seg>Хто зна, що ти задумав, '[[ms]одержимий[fs]одержима]', та я не міг не звернути уваги на те, що ти зробив[[ms]зробив[fs]зробила] у Некрополісі.{^n}{^n}Якби ти [[ms]згорів[fs]згоріла] вкупі з усіма...тоді б...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Good luck, old man.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T194020Z" creationid="Dmytro Kyrychuk" creationdate="20230318T194020Z">
+        <seg>Щасти вам, старче.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here goes nothing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193609Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193609Z">
+        <seg>Сподіваюся, все буде добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here they are.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T152145Z" creationid="Dmytro Kyrychuk" creationdate="20230305T152145Z">
@@ -2414,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I assure you, I'm just an old cook doing his best to survive out here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193703Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193703Z">
+        <seg>Запевняю вас, я просто старий кухар, який робить усе можливе, щоб вижити тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I believe that, with a correctly tuned pulse of Aether energy, we can replicate this phenomenon in a controlled manner, as in without the need for pesky possession.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T123122Z" creationid="Dmytro Kyrychuk" creationdate="20230219T123122Z">
@@ -2442,6 +2490,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230317T182636Z" creationid="Dmytro Kyrychuk" creationdate="20230317T182636Z">
         <seg>Я можу відкрити розрив в безпечне місце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I can respect that, given the times.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193658Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193658Z">
+        <seg>Я це розумію, зважаючи на час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2826,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230219T192843Z" creationid="Dmytro Kyrychuk" creationdate="20230219T192843Z">
         <seg>Я і подумати не могла, що ми позбудемося цих утисків, але, здається, вірність Сіласа можна купити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I really hope you're not trying to pull one on me.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193359Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193359Z">
+        <seg>Я дуже сподіваюся, що ви не намагаєтеся мене обманути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll see you in Devil's Crossing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193617Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193617Z">
+        <seg>Зустрінемося в Чортовому перехресті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'll speak to the Captain then.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132309Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132309Z">
@@ -3498,6 +3570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T172908Z" creationid="Dmytro Kyrychuk" creationdate="20230305T172908Z">
         <seg>Я чув хороші слова і від Каспарова, і від Барнабаса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've only ever seen one of those before, and it wasn't spitting out the good guys.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193430Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193430Z">
+        <seg>Раніше я бачив лише один такий, і тоді з нього виходили не хороші хлопці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T160505Z" creationid="Dmytro Kyrychuk" creationdate="20230305T160505Z">
         <seg>Вибачте, я не маю часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, I have no idea who you are.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T193627Z" creationid="Dmytro Kyrychuk" creationdate="20230318T193627Z">
+        <seg>Вибачте, я не знаю, хто ви.</seg>
       </tuv>
     </tu>
     <tu>
