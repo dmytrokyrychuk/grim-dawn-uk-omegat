@@ -8478,6 +8478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagNPC_BurrwitchBridge=Burrwitch Bridge Repair Site</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120738Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120738Z">
+        <seg>tagNPC_BurrwitchBridge=Місце ремонту моста до Бурвіча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagNPC_Flavor_DevilsCrossing08=Faldis</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134028Z" creationid="Dmytro Kyrychuk" creationdate="20230305T133953Z">
@@ -8554,6 +8562,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T184900Z" creationid="Dmytro Kyrychuk" creationdate="20230305T184900Z">
         <seg>tagNPC_Villager=Селянин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagNPC_WightmireBridge=Wightmire Bridge Repair Site</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120722Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120722Z">
+        <seg>tagNPC_WightmireBridge=Місце ремонту моста до Злоболота</seg>
       </tuv>
     </tu>
     <tu>
@@ -8686,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagRiftWightmire=Wightmire Rift</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120636Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120636Z">
+        <seg>tagRiftWightmire=Розрив Злоболота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagSign_BurialHill=Burial Hill</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T143250Z" creationid="Dmytro Kyrychuk" creationdate="20230305T143250Z">
@@ -8710,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tagSign_Wightmire=Wightmire</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120646Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120646Z">
+        <seg>tagSign_Wightmire=Злоболото</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tagSlithBossB01=Viloth, the Corruptor</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T171618Z" creationid="Dmytro Kyrychuk" creationdate="20230305T171618Z">
@@ -8722,6 +8754,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T121003Z" creationid="Dmytro Kyrychuk" creationdate="20230305T121003Z">
         <seg>tagTitleScreenText=Grim Dawn{^n}©2020 Crate Entertainment, LLC{^n}{^n}Будь ласка, відвідайте наш сайт www.grimdawn.com, щоб взяти участь{^n}у поточній розробці Grim Dawn!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tagWorldMapWightmire=Wightmire</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230318T120641Z" creationid="Dmytro Kyrychuk" creationdate="20230318T120641Z">
+        <seg>tagWorldMapWightmire=Злоболото</seg>
       </tuv>
     </tu>
     <tu>
