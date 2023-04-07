@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm just happy you didn't finish the job at the gallows.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230323T171018Z" creationid="Dmytro Kyrychuk" creationdate="20230323T171018Z">
+        <seg>Я просто [[ms]радий[fs]рада], що ви не довели справу до кінця на шибениці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm never going out there again.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T134158Z" creationid="Dmytro Kyrychuk" creationdate="20230305T134158Z">
@@ -6152,8 +6160,8 @@
       <tuv lang="en">
         <seg>Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T173905Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173905Z">
-        <seg>Дякуємо, що розкрили цю зраду.{^n}{^n}Хто знає, яку ще шкоду він міг завдати, якби залишився без нагляду.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230323T170912Z" creationid="Dmytro Kyrychuk" creationdate="20230305T173905Z">
+        <seg>Дякую, що розкрили цю зраду.{^n}{^n}Хто знає, яку ще шкоду він міг завдати, якби залишився без нагляду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6210,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230305T132041Z" creationid="Dmytro Kyrychuk" creationdate="20230305T132041Z">
         <seg>Завдяки вам, я сьогодні зможу повечеряти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks to you, we may just survive the end of the world.{^n}{^n}I'm sorry we ever doubted you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20230323T170934Z" creationid="Dmytro Kyrychuk" creationdate="20230323T170934Z">
+        <seg>Завдяки вам ми можемо пережити кінець світу.{^n}{^n}Мені шкода, що ми сумнівалися у вас.</seg>
       </tuv>
     </tu>
     <tu>
